@@ -1,5 +1,5 @@
-#Data Generated At: Thu Aug 11 06:09:27 EDT 2011
-#Data Records=6110
+#Data Generated At: Fri Aug 12 06:08:52 EDT 2011
+#Data Records=6105
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -95,12 +95,6 @@
 10YR MINI JGB FUT Sep12|BJU2|cSGX|10037360649311|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BJU2|//blp/mktdata/buid/cSGX/IX12897193-0|//blp/mktdata/bsid/10037360649311
 10YR MINI JGB FUT Sep12|BJU2|eSGX|2108851020895|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJU2|//blp/mktdata/buid/eSGX/IX12897193-0|//blp/mktdata/bsid/2108851020895
 10YR MINI JGB FUT Sep12|BJU2|eSGX|2108851020895|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJU2|//blp/mktdata/buid/eSGX/IX12897193-0|//blp/mktdata/bsid/2108851020895
-10YR OTR TREASURY Aug11|T0Q1|CBT|575547173051|IX12683046-0|Financial commodity future.|Comdty|BBG001P5YG05||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0Q1|//blp/mktdata/buid/CBT/IX12683046-0|//blp/mktdata/bsid/575547173051
-10YR OTR TREASURY Aug11|T0Q1|CBT|575547173051|IX12683046-0|Financial commodity future.|Comdty|BBG001P5YG05||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0Q1|//blp/mktdata/buid/CBT/IX12683046-0|//blp/mktdata/bsid/575547173051
-10YR OTR TREASURY Aug11|T0Q1|cCBT|9977230583995|IX12683046-0|Financial commodity future.|Comdty|BBG001P5YG05||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0Q1|//blp/mktdata/buid/cCBT/IX12683046-0|//blp/mktdata/bsid/9977230583995
-10YR OTR TREASURY Aug11|T0Q1|cCBT|9977230583995|IX12683046-0|Financial commodity future.|Comdty|BBG001P5YG05||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0Q1|//blp/mktdata/buid/cCBT/IX12683046-0|//blp/mktdata/bsid/9977230583995
-10YR OTR TREASURY Aug11|T0Q1|eCBT|2113145465019|IX12683046-0|Financial commodity future.|Comdty|BBG001P5YG05||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/T0Q1|//blp/mktdata/buid/eCBT/IX12683046-0|//blp/mktdata/bsid/2113145465019
-10YR OTR TREASURY Aug11|T0Q1|eCBT|2113145465019|IX12683046-0|Financial commodity future.|Comdty|BBG001P5YG05||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/T0Q1|//blp/mktdata/buid/eCBT/IX12683046-0|//blp/mktdata/bsid/2113145465019
 10YR OTR TREASURY Aug11|T0X1|CBT|575548680517|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0X1|//blp/mktdata/buid/CBT/IX13295424-0|//blp/mktdata/bsid/575548680517
 10YR OTR TREASURY Aug11|T0X1|CBT|575548680517|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0X1|//blp/mktdata/buid/CBT/IX13295424-0|//blp/mktdata/bsid/575548680517
 10YR OTR TREASURY Aug11|T0X1|cCBT|9977232091461|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0X1|//blp/mktdata/buid/cCBT/IX13295424-0|//blp/mktdata/bsid/9977232091461
@@ -3957,6 +3951,7 @@ ICE New Coal Yr F Jan15|YJF5|ICE|1172540398716|IX9980670-0|Financial commodity f
 ICE New Coal Yr F Jan16|YJF6|ICE|1172546147384|IX11969848-0|Financial commodity future.|Comdty|BBG001FDXMN2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/YJF6|//blp/mktdata/buid/ICE/IX11969848-0|//blp/mktdata/bsid/1172546147384
 ICE New Coal Yr FuJan12|YJF2|ICE|1172534609231|IX8022674-0|Financial commodity future.|Comdty|BBG000XC4Z59||30022|30022|0||40087|//blp/mktdata/bsym/ICE/YJF2|//blp/mktdata/buid/ICE/IX8022674-0|//blp/mktdata/bsid/1172534609231
 ICE New Coal Yr FuJan13|YJF3|ICE|1172534609232|IX8022678-0|Financial commodity future.|Comdty|BBG000XC4ZT3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/YJF3|//blp/mktdata/buid/ICE/IX8022678-0|//blp/mktdata/bsid/1172534609232
+ICEX Copper FutureAug11|HEOQ1|||IX13343781-0|Financial commodity future.|Comdty|BBG001Z8DGM7||45703|45703|0||45704|||
 IDEX Monthly Futu Nov11|IDEX1M|IM|60152529980|IX13255899-0|Financial commodity future.|Comdty|BBG001YCX1T3||14043|14122|0||39505|//blp/mktdata/bsym/IM/IDEX1M|//blp/mktdata/buid/IM/IX13255899-0|//blp/mktdata/bsid/60152529980
 IDEX Monthly Futu Oct11|IDEV1M|IM|60151947479|IX13063286-0|Financial commodity future.|Comdty|BBG001VD92T9||14043|14122|0||39505|//blp/mktdata/bsym/IM/IDEV1M|//blp/mktdata/buid/IM/IX13063286-0|//blp/mktdata/bsid/60151947479
 IDEX Monthly Futu Sep11|IDEU1M|IM|60151536087|IX12842446-0|Financial commodity future.|Comdty|BBG001QL5LR1||14043|14122|0||39505|//blp/mktdata/bsym/IM/IDEU1M|//blp/mktdata/buid/IM/IX12842446-0|//blp/mktdata/bsid/60151536087

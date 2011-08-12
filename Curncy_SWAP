@@ -1,5 +1,5 @@
-#Data Generated At: Thu Aug 11 06:26:01 EDT 2011
-#Data Records=10382
+#Data Generated At: Fri Aug 12 06:25:23 EDT 2011
+#Data Records=10397
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -4325,7 +4325,7 @@ EURO INFL SWAP CAP 6 10Y||||IX3017955-0|SWAP|Curncy||||||||||
 EURO INFL SWAP CAP 6 15Y||||IX3018051-0|SWAP|Curncy||||||||||
 EURO INFL SWAP CAP 6 20Y||||IX3018099-0|SWAP|Curncy||||||||||
 EURO INFL SWAP CAP 6 30Y||||IX3018147-0|SWAP|Curncy||||||||||
-EURO INFL SWAP FLR 1  1Y|||||SWAP|Curncy||||||||||
+EURO INFL SWAP FLR 1  1Y||||IX13342486-0|SWAP|Curncy||||||||||
 EURO INFL SWAP FLR 1  2Y||||IX3017815-0|SWAP|Curncy||||||||||
 EURO INFL SWAP FLR 1  5Y||||IX3017863-0|SWAP|Curncy||||||||||
 EURO INFL SWAP FLR 1  7Y||||IX3017911-0|SWAP|Curncy||||||||||
@@ -4828,10 +4828,25 @@ GBP SWAP           50 YR||||IX1192035-0|SWAP|Curncy||||||||||
 GBP SWAP           60 YR||||IX2163918-0|SWAP|Curncy||||||||||
 GBP SWAP          11Y12Y||||IX3728910-0|SWAP|Curncy||||||||||
 GBP SWAP (V 6M LIB) 2M||||IX342441-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 10M||||IX13347645-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 11M||||IX13347649-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 15M||||IX13347657-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 18M||||IX13347661-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 1Y||||IX13347653-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 21M||||IX13347665-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 2MO||||IX13347609-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 3MO||||IX13347505-0|SWAP|Curncy||||||||||
 GBP SWAP (VS 1M LIB) 3YR||||IX7055405-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 3Y||||IX13347669-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 4MO||||IX13347613-0|SWAP|Curncy||||||||||
 GBP SWAP (VS 1M LIB) 4YR||||IX7055409-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 5MO||||IX13347617-0|SWAP|Curncy||||||||||
 GBP SWAP (VS 1M LIB) 5YR||||IX7055413-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 6MO||||IX13347629-0|SWAP|Curncy||||||||||
 GBP SWAP (VS 1M LIB) 6YR||||IX7055417-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 7MO||||IX13347633-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 8MO||||IX13347637-0|SWAP|Curncy||||||||||
+GBP SWAP (VS 1M LIB) 9MO||||IX13347641-0|SWAP|Curncy||||||||||
 GBP SWAP (VS 3M LIB) 1YR||||IX1089207-0|SWAP|Curncy||||||||||
 GBP SWAP (VS 3M LIB) 3YR||||IX1358971-0|SWAP|Curncy||||||||||
 GBP SWAP (VS 3M LIB) 5YR||||IX1358979-0|SWAP|Curncy||||||||||
