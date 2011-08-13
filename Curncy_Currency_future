@@ -1,5 +1,5 @@
-#Data Generated At: Fri Aug 12 06:24:38 EDT 2011
-#Data Records=3897
+#Data Generated At: Sat Aug 13 06:25:17 EDT 2011
+#Data Records=3901
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Aug11|ADCQ1|YLX|8744576404106|IX13256019-0|Currency future.|Curncy|BBG001YCX2S2||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCQ1|//blp/mktdata/buid/YLX/IX13256019-0|//blp/mktdata/bsid/8744576404106
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -1418,6 +1418,7 @@ EUR/RUB X-RATE    Sep11|REBU1|BSE|1103819140650|IX9482189-0|Currency future.|Cur
 EUR/RUB X-RATE    Sep12|REBU2|BSE|1103824885697|IX11100359-0|Currency future.|Curncy|BBG00163Z3G2||14116|14116|0||39547|//blp/mktdata/bsym/BSE/REBU2|//blp/mktdata/buid/BSE/IX11100359-0|//blp/mktdata/bsid/1103824885697
 EUR/RUR X-RATE    Aug11|ERQ1|MCX|1782431677720|IX12077582-0|Currency future.|Curncy|BBG001J2PKS0||45077|45078|0||45499|//blp/mktdata/bsym/MCX/ERQ1|//blp/mktdata/buid/MCX/IX12077582-0|//blp/mktdata/bsid/1782431677720
 EUR/RUR X-RATE    Dec11|ERZ1|MCX|1782433554905|IX12943242-0|Currency future.|Curncy|BBG001R22JS9||45077|45078|0||45499|//blp/mktdata/bsym/MCX/ERZ1|//blp/mktdata/buid/MCX/IX12943242-0|//blp/mktdata/bsid/1782433554905
+EUR/RUR X-RATE    Feb12|ERG2|||IX13356317-0|Currency future.|Curncy|BBG001ZPCJ53||45077|45078|0||45499|||
 EUR/RUR X-RATE    Jan12|ERF2|MCX|1782434075136|IX13154818-0|Currency future.|Curncy|BBG001WSHCP8||45077|45078|0||45499|//blp/mktdata/bsym/MCX/ERF2|//blp/mktdata/buid/MCX/IX13154818-0|//blp/mktdata/bsid/1782434075136
 EUR/RUR X-RATE    Nov11|ERX1|MCX|1782433091510|IX12731231-0|Currency future.|Curncy|BBG001PH4LB9||45077|45078|0||45499|//blp/mktdata/bsym/MCX/ERX1|//blp/mktdata/buid/MCX/IX12731231-0|//blp/mktdata/bsid/1782433091510
 EUR/RUR X-RATE    Oct11|ERV1|MCX|1782432666184|IX12546086-0|Currency future.|Curncy|BBG001MMTDY7||45077|45078|0||45499|//blp/mktdata/bsym/MCX/ERV1|//blp/mktdata/buid/MCX/IX12546086-0|//blp/mktdata/bsid/1782432666184
@@ -2237,6 +2238,7 @@ GBPINR Futures    Nov11|BURX1|USE|17965867413387|IX11536523-0|Currency future.|C
 GBPINR Futures    Oct11|BURV1|USE|17965867018702|IX11356713-0|Currency future.|Curncy|BBG00186T4W0||42235|42237|0||42240|//blp/mktdata/bsym/USE/BURV1|//blp/mktdata/buid/USE/IX11356713-0|//blp/mktdata/bsid/17965867018702
 GBPINR Futures    Sep11|BURU1|USE|17965866676910|IX11192657-0|Currency future.|Curncy|BBG0016WD9N1||42235|42237|0||42240|//blp/mktdata/bsym/USE/BURU1|//blp/mktdata/buid/USE/IX11192657-0|//blp/mktdata/bsid/17965866676910
 GPB/USD 1M RL VOL Aug11|BPOQ1|eCME|2078785838390|IX12732663-0|Currency future.|Curncy|BBG001PH61R4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOQ1|//blp/mktdata/buid/eCME/IX12732663-0|//blp/mktdata/bsid/2078785838390
+GPB/USD 1M RL VOL Nov11|BPOX1|||IX13358041-0|Currency future.|Curncy|BBG001ZTVGK3||14002|14002|0||39490|||
 GPB/USD 1M RL VOL Oct11|BPOV1|eCME|2078786830697|IX13170999-0|Currency future.|Curncy|BBG001WWJK97||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOV1|//blp/mktdata/buid/eCME/IX13170999-0|//blp/mktdata/bsid/2078786830697
 GPB/USD 1M RL VOL Sep11|BPOU1|eCME|2078786273867|IX12916539-0|Currency future.|Curncy|BBG001QZD0K4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOU1|//blp/mktdata/buid/eCME/IX12916539-0|//blp/mktdata/bsid/2078786273867
 HUNGARIAN FORINT  Dec11|HEZ1|CME|614197225104|IX10530671-0|Currency future.|Curncy|BBG0011S0762||14002|14002|0||39490|//blp/mktdata/bsym/CME/HEZ1|//blp/mktdata/buid/CME/IX10530671-0|//blp/mktdata/bsid/614197225104
@@ -3464,13 +3466,13 @@ Sterling/Rand Fut Sep11|PRAU1|YLX|8744571690843|IX11075873-0|Currency future.|Cu
 TRM Curncy Future Dec11|TRSZ1|CDE|7679420840229|IX11636636-0|Currency future.|Curncy|BBG001B24JX8||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSZ1|//blp/mktdata/buid/CDE/IX11636636-0|//blp/mktdata/bsid/7679420840229
 TRM Curncy Future Jun12|TRSM2|CDE|7679423597885|IX12899409-0|Currency future.|Curncy|BBG001QWW5L8||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSM2|//blp/mktdata/buid/CDE/IX12899409-0|//blp/mktdata/bsid/7679423597885
 TRM Curncy Future Mar12|TRSH2|CDE|7679422195542|IX12262851-0|Currency future.|Curncy|BBG001KM1BR1||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSH2|//blp/mktdata/buid/CDE/IX12262851-0|//blp/mktdata/bsid/7679422195542
-TRM Curncy Future Nov11|TRSX1|||IX13342058-0|Currency future.|Curncy|BBG001Z6HWJ6||34657|39759|39760||39689|||
+TRM Curncy Future Nov11|TRSX1|CDE|7679424754774|IX13342058-0|Currency future.|Curncy|BBG001Z6HWJ6||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSX1|//blp/mktdata/buid/CDE/IX13342058-0|//blp/mktdata/bsid/7679424754774
 TRM Curncy Future Oct11|TRSV1|CDE|7679424152649|IX13148577-0|Currency future.|Curncy|BBG001WQTNB0||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSV1|//blp/mktdata/buid/CDE/IX13148577-0|//blp/mktdata/bsid/7679424152649
 TRM Curncy Future Sep11|TRSU1|CDE|7679419761199|IX11047705-0|Currency future.|Curncy|BBG0015WXTK9||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSU1|//blp/mktdata/buid/CDE/IX11047705-0|//blp/mktdata/bsid/7679419761199
 TRM Curncy Small  Dec11|TRWZ1|CDE|7679424706831|IX13331196-0|Currency future.|Curncy|BBG001Z10DT6||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWZ1|//blp/mktdata/buid/CDE/IX13331196-0|//blp/mktdata/bsid/7679424706831
 TRM Curncy Small  Jun12|TRWM2|CDE|7679424706833|IX13331212-0|Currency future.|Curncy|BBG001Z0DT46||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWM2|//blp/mktdata/buid/CDE/IX13331212-0|//blp/mktdata/bsid/7679424706833
 TRM Curncy Small  Mar12|TRWH2|CDE|7679424706832|IX13331208-0|Currency future.|Curncy|BBG001Z0DRP7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWH2|//blp/mktdata/buid/CDE/IX13331208-0|//blp/mktdata/bsid/7679424706832
-TRM Curncy Small  Nov11|TRWX1|||IX13342090-0|Currency future.|Curncy|BBG001Z6HWN1||34657|39759|39760||39689|||
+TRM Curncy Small  Nov11|TRWX1|CDE|7679424754781|IX13342090-0|Currency future.|Curncy|BBG001Z6HWN1||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWX1|//blp/mktdata/buid/CDE/IX13342090-0|//blp/mktdata/bsid/7679424754781
 TRM Curncy Small  Oct11|TRWV1|CDE|7679424706830|IX13331192-0|Currency future.|Curncy|BBG001Z10DS7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWV1|//blp/mktdata/buid/CDE/IX13331192-0|//blp/mktdata/bsid/7679424706830
 TRM Curncy Small  Sep11|TRWU1|CDE|7679424706829|IX13331188-0|Currency future.|Curncy|BBG001Z10DQ9||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWU1|//blp/mktdata/buid/CDE/IX13331188-0|//blp/mktdata/bsid/7679424706829
 TRY DOLLAR FUTURE Aug11|A1Q1|TKD|115984653769|IX12173835-0|Currency future.|Curncy|BBG001K7LVJ7||27809|27809|0||39613|//blp/mktdata/bsym/TKD/A1Q1|//blp/mktdata/buid/TKD/IX12173835-0|//blp/mktdata/bsid/115984653769
@@ -3638,6 +3640,7 @@ USD Future EMTA W Oct11|DESV1|RFX|7743844893997|IX11374407-0|Currency future.|Cu
 USD Future EMTA W Sep11|DESU1|RFX|7743844534632|IX11216851-0|Currency future.|Curncy|BBG0016YZ622||34878|34878|0||0|//blp/mktdata/bsym/RFX/DESU1|//blp/mktdata/buid/RFX/IX11216851-0|//blp/mktdata/bsid/7743844534632
 USD Future Retail Apr12|DRRJ2|RFX|7743847133586|IX12473002-0|Currency future.|Curncy|BBG001M272T5||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRJ2|//blp/mktdata/buid/RFX/IX12473002-0|//blp/mktdata/bsid/7743847133586
 USD Future Retail Aug11|DRRQ1|RFX|7743842054076|IX10237568-0|Currency future.|Curncy|BBG000ZFDHH7||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRQ1|//blp/mktdata/buid/RFX/IX10237568-0|//blp/mktdata/bsid/7743842054076
+USD Future Retail Aug12|DRRQ2|||IX13351001-0|Currency future.|Curncy|BBG001ZCXH53||34878|34878|0||0|||
 USD Future Retail Dec11|DRRZ1|RFX|7743843001883|IX10483327-0|Currency future.|Curncy|BBG0011G9TY0||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRZ1|//blp/mktdata/buid/RFX/IX10483327-0|//blp/mktdata/bsid/7743843001883
 USD Future Retail Feb12|DRRG2|RFX|7743846577935|IX12178099-0|Currency future.|Curncy|BBG001K7NS20||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRG2|//blp/mktdata/buid/RFX/IX12178099-0|//blp/mktdata/bsid/7743846577935
 USD Future Retail Jan12|DRRF2|RFX|7743844933757|IX11403816-0|Currency future.|Curncy|BBG0018L0V03||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRF2|//blp/mktdata/buid/RFX/IX11403816-0|//blp/mktdata/bsid/7743844933757
@@ -3817,6 +3820,7 @@ USD/RUR X-RATE    Dec12|UDZ2|MCX|1782433419371|IX12840010-0|Currency future.|Cur
 USD/RUR X-RATE    Dec13|UDZ3|MCX|1782420573965|IX12840334-0|Currency future.|Curncy|BBG001QL32F8||45077|45078|0||45499|//blp/mktdata/bsym/MCX/UDZ3|//blp/mktdata/buid/MCX/IX12840334-0|//blp/mktdata/bsid/1782420573965
 USD/RUR X-RATE    Dec14|UDZ4|MCX|1782419429031|IX12840350-0|Currency future.|Curncy|BBG001QL32K2||45077|45078|0||45499|//blp/mktdata/bsym/MCX/UDZ4|//blp/mktdata/buid/MCX/IX12840350-0|//blp/mktdata/bsid/1782419429031
 USD/RUR X-RATE    Dec15|UDZ5|MCX|1782433430551|IX12840366-0|Currency future.|Curncy|BBG001QL32P7||45077|45078|0||45499|//blp/mktdata/bsym/MCX/UDZ5|//blp/mktdata/buid/MCX/IX12840366-0|//blp/mktdata/bsid/1782433430551
+USD/RUR X-RATE    Feb12|UDG2|||IX13356321-0|Currency future.|Curncy|BBG001ZPCJ80||45077|45078|0||45499|||
 USD/RUR X-RATE    Jan12|UDF2|MCX|1782430815228|IX11684291-0|Currency future.|Curncy|BBG001BJVHY4||45077|45078|0||45499|//blp/mktdata/bsym/MCX/UDF2|//blp/mktdata/buid/MCX/IX11684291-0|//blp/mktdata/bsid/1782430815228
 USD/RUR X-RATE    Jun12|UDM2|MCX|1782432151700|IX12292055-0|Currency future.|Curncy|BBG001KQZXM2||45077|45078|0||45499|//blp/mktdata/bsym/MCX/UDM2|//blp/mktdata/buid/MCX/IX12292055-0|//blp/mktdata/bsid/1782432151700
 USD/RUR X-RATE    Jun13|UDM3|MCX|1782420573946|IX12840326-0|Currency future.|Curncy|BBG001QL32C1||45077|45078|0||45499|//blp/mktdata/bsym/MCX/UDM3|//blp/mktdata/buid/MCX/IX12840326-0|//blp/mktdata/bsid/1782420573946
