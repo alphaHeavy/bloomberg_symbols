@@ -1,5 +1,5 @@
-#Data Generated At: Sat Aug 13 06:37:36 EDT 2011
-#Data Records=6227
+#Data Generated At: Sun Aug 14 15:35:24 EDT 2011
+#Data Records=6225
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -926,7 +926,6 @@ COMPA Sibiu       Jun12|CMPM2|||IX13063710-0|Physical index future.|Index|BBG001
 COMPA Sibiu       Mar12|CMPH2|||IX12452307-0|Physical index future.|Index|BBG001LZ2BY2||33996|33996|0||40099|||
 COMPA Sibiu       Sep11|CMPU1|||IX11212815-0|Physical index future.|Index|BBG0016YX1X1||33996|33996|0||40099|||
 CONT COMDTY IX FT Apr12|CIJ2|eNYB|2100262301468|IX13358033-0|Physical index future.|Index|BBG001ZTVGH7||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CIJ2|//blp/mktdata/buid/eNYB/IX13358033-0|//blp/mktdata/bsid/2100262301468
-CONT COMDTY IX FT Aug11|CIQ1|eNYB|2100258818486|IX11880284-0|Physical index future.|Index|BBG001DFR0D5||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CIQ1|//blp/mktdata/buid/eNYB/IX11880284-0|//blp/mktdata/bsid/2100258818486
 CONT COMDTY IX FT Feb12|CIG2|eNYB|2100261105815|IX12916431-0|Physical index future.|Index|BBG001QZCZF4||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CIG2|//blp/mktdata/buid/eNYB/IX12916431-0|//blp/mktdata/bsid/2100261105815
 CONT COMDTY IX FT Jan12|CIF2|eNYB|2100260181411|IX12510518-0|Physical index future.|Index|BBG001MB8232||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CIF2|//blp/mktdata/buid/eNYB/IX12510518-0|//blp/mktdata/bsid/2100260181411
 CONT COMDTY IX FT Nov11|CIX1|eNYB|2100259238647|IX12059292-0|Physical index future.|Index|BBG001J1D7N9||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CIX1|//blp/mktdata/buid/eNYB/IX12059292-0|//blp/mktdata/bsid/2100259238647
@@ -5499,7 +5498,6 @@ SPI 200 FUTURES   Sep12|XPU2|eSFE|2104554757956|IX12329345-0|Physical index futu
 SPI 200 FUTURES   Sep12|XPU2|eSFE|2104554757956|IX12329345-0|Physical index future.|Index|BBG001KW6P02||14016|14016|0||40067|//blp/mktdata/bsym/eSFE/XPU2|//blp/mktdata/buid/eSFE/IX12329345-0|//blp/mktdata/bsid/2104554757956
 SPRING WHEAT IDX  Apr12|SBJ2|eMGE|2095959727403|IX10162643-0|Physical index future.|Index|BBG000Z9V7T0||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBJ2|//blp/mktdata/buid/eMGE/IX10162643-0|//blp/mktdata/bsid/2095959727403
 SPRING WHEAT IDX  Apr13|SBJ3|eMGE|2095964757802|IX12295280-0|Physical index future.|Index|BBG001KR2BX2||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBJ3|//blp/mktdata/buid/eMGE/IX12295280-0|//blp/mktdata/bsid/2095964757802
-SPRING WHEAT IDX  Aug11|SBQ1|eMGE|2095955903500|IX9234690-0|Physical index future.|Index|BBG000W060F0||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBQ1|//blp/mktdata/buid/eMGE/IX9234690-0|//blp/mktdata/bsid/2095955903500
 SPRING WHEAT IDX  Aug12|SBQ2|eMGE|2095961610674|IX10646475-0|Physical index future.|Index|BBG0012LK9R7||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBQ2|//blp/mktdata/buid/eMGE/IX10646475-0|//blp/mktdata/bsid/2095961610674
 SPRING WHEAT IDX  Aug13|SBQ3|eMGE|2095966681407|IX13156018-0|Physical index future.|Index|BBG001WT9QV7||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBQ3|//blp/mktdata/buid/eMGE/IX13156018-0|//blp/mktdata/bsid/2095966681407
 SPRING WHEAT IDX  Dec11|SBZ1|eMGE|2095957915085|IX9764701-0|Physical index future.|Index|BBG000YHRW22||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBZ1|//blp/mktdata/buid/eMGE/IX9764701-0|//blp/mktdata/bsid/2095957915085
