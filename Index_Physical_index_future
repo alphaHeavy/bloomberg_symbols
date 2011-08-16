@@ -1,5 +1,5 @@
-#Data Generated At: Mon Aug 15 06:38:59 EDT 2011
-#Data Records=6225
+#Data Generated At: Tue Aug 16 06:37:00 EDT 2011
+#Data Records=6231
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -1927,6 +1927,10 @@ GOLDMAN SACHS IDX Aug11|GIQ1|cCME|9981525719015|IX12744633-0|Physical index futu
 GOLDMAN SACHS IDX Aug11|GIQ1|cCME|9981525719015|IX12744633-0|Physical index future.|Index|BBG001PJF804||14002|14002|0||39490|//blp/mktdata/bsym/cCME/GIQ1|//blp/mktdata/buid/cCME/IX12744633-0|//blp/mktdata/bsid/9981525719015
 GOLDMAN SACHS IDX Aug11|GIQ1|eCME|2078785894375|IX12744633-0|Physical index future.|Index|BBG001PJF804||14002|14002|0||39490|//blp/mktdata/bsym/eCME/GIQ1|//blp/mktdata/buid/eCME/IX12744633-0|//blp/mktdata/bsid/2078785894375
 GOLDMAN SACHS IDX Aug11|GIQ1|eCME|2078785894375|IX12744633-0|Physical index future.|Index|BBG001PJF804||14002|14002|0||39490|//blp/mktdata/bsym/eCME/GIQ1|//blp/mktdata/buid/eCME/IX12744633-0|//blp/mktdata/bsid/2078785894375
+GOLDMAN SACHS IDX Nov11|GIX1|CME|614203698188|IX13372335-0|Physical index future.|Index|BBG00200CXW3||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIX1|//blp/mktdata/buid/CME/IX13372335-0|//blp/mktdata/bsid/614203698188
+GOLDMAN SACHS IDX Nov11|GIX1|CME|614203698188|IX13372335-0|Physical index future.|Index|BBG00200CXW3||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIX1|//blp/mktdata/buid/CME/IX13372335-0|//blp/mktdata/bsid/614203698188
+GOLDMAN SACHS IDX Nov11|GIX1|eCME|2078787177808|IX13372335-0|Physical index future.|Index|BBG00200CXW3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/GIX1|//blp/mktdata/buid/eCME/IX13372335-0|//blp/mktdata/bsid/2078787177808
+GOLDMAN SACHS IDX Nov11|GIX1|eCME|2078787177808|IX13372335-0|Physical index future.|Index|BBG00200CXW3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/GIX1|//blp/mktdata/buid/eCME/IX13372335-0|//blp/mktdata/bsid/2078787177808
 GOLDMAN SACHS IDX Oct11|GIV1|CME|614203120977|IX13183117-0|Physical index future.|Index|BBG001XL9B37||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIV1|//blp/mktdata/buid/CME/IX13183117-0|//blp/mktdata/bsid/614203120977
 GOLDMAN SACHS IDX Oct11|GIV1|CME|614203120977|IX13183117-0|Physical index future.|Index|BBG001XL9B37||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIV1|//blp/mktdata/buid/CME/IX13183117-0|//blp/mktdata/bsid/614203120977
 GOLDMAN SACHS IDX Oct11|GIV1|cCME|9981526793553|IX13183117-0|Physical index future.|Index|BBG001XL9B37||14002|14002|0||39490|//blp/mktdata/bsym/cCME/GIV1|//blp/mktdata/buid/cCME/IX13183117-0|//blp/mktdata/bsid/9981526793553
@@ -2634,6 +2638,7 @@ IDxIPCA FUTURE    Feb12|WLG2|eBMF|2074471398010|IX4765492-0|Physical index futur
 IDxIPCA FUTURE    Feb13|WLG3|eBMF|2074476367722|IX7371374-0|Physical index future.|Index|BBG000X1XH06||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLG3|//blp/mktdata/buid/eBMF/IX7371374-0|//blp/mktdata/bsid/2074476367722
 IDxIPCA FUTURE    Feb14|WLG4|eBMF|2074481315342|IX9304453-0|Physical index future.|Index|BBG000W4C0V7||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLG4|//blp/mktdata/buid/eBMF/IX9304453-0|//blp/mktdata/bsid/2074481315342
 IDxIPCA FUTURE    Feb15|WLG5|eBMF|2074487119523|IX10854436-0|Physical index future.|Index|BBG0014RW1S5||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLG5|//blp/mktdata/buid/eBMF/IX10854436-0|//blp/mktdata/bsid/2074487119523
+IDxIPCA FUTURE    Feb16|WLG6|eBMF|2074492578829|IX13372299-0|Physical index future.|Index|BBG00200CXK6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLG6|//blp/mktdata/buid/eBMF/IX13372299-0|//blp/mktdata/bsid/2074492578829
 IDxIPCA FUTURE    May12|WLK2|eBMF|2074473079890|IX5575416-0|Physical index future.|Index|BBG000WR0J93||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK2|//blp/mktdata/buid/eBMF/IX5575416-0|//blp/mktdata/bsid/2074473079890
 IDxIPCA FUTURE    May13|WLK3|eBMF|2074477498106|IX7933713-0|Physical index future.|Index|BBG000X8TML2||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK3|//blp/mktdata/buid/eBMF/IX7933713-0|//blp/mktdata/bsid/2074477498106
 IDxIPCA FUTURE    May14|WLK4|eBMF|2074482830811|IX9694271-0|Physical index future.|Index|BBG000YB5760||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK4|//blp/mktdata/buid/eBMF/IX9694271-0|//blp/mktdata/bsid/2074482830811
@@ -2683,6 +2688,7 @@ IPCA FUTURE       Aug14|WXQ4|eBMF|2074484513454|IX10058288-0|Physical index futu
 IPCA FUTURE       Aug15|WXQ5|eBMF|2074489473202|IX12085815-0|Physical index future.|Index|BBG001J4CJC0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXQ5|//blp/mktdata/buid/eBMF/IX12085815-0|//blp/mktdata/bsid/2074489473202
 IPCA FUTURE       Feb12|WXG2|eBMF|2074471398014|IX4765496-0|Physical index future.|Index|BBG000WGXWQ3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXG2|//blp/mktdata/buid/eBMF/IX4765496-0|//blp/mktdata/bsid/2074471398014
 IPCA FUTURE       Feb15|WXG5|eBMF|2074487117394|IX10854416-0|Physical index future.|Index|BBG0014RW1P8||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXG5|//blp/mktdata/buid/eBMF/IX10854416-0|//blp/mktdata/bsid/2074487117394
+IPCA FUTURE       Feb16|WXG6|eBMF|2074492578830|IX13372315-0|Physical index future.|Index|BBG00200CXQ0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXG6|//blp/mktdata/buid/eBMF/IX13372315-0|//blp/mktdata/bsid/2074492578830
 IPCA FUTURE       Jan12|WXF2|eBMF|2074476314841|IX7288088-0|Physical index future.|Index|BBG000X10KM1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXF2|//blp/mktdata/buid/eBMF/IX7288088-0|//blp/mktdata/bsid/2074476314841
 IPCA FUTURE       Jan13|WXF3|eBMF|2074476314898|IX7288104-0|Physical index future.|Index|BBG000X10LJ3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXF3|//blp/mktdata/buid/eBMF/IX7288104-0|//blp/mktdata/bsid/2074476314898
 IPCA FUTURE       Jan14|WXF4|eBMF|2074476315011|IX7288120-0|Physical index future.|Index|BBG000X10MP4||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXF4|//blp/mktdata/buid/eBMF/IX7288120-0|//blp/mktdata/bsid/2074476315011
