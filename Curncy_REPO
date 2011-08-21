@@ -1,10 +1,10 @@
-#Data Generated At: Sat Aug 20 15:24:10 EDT 2011
+#Data Generated At: Sun Aug 21 06:08:27 EDT 2011
 #Data Records=1187
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=REPO
-ARS REPO RATE 1 DY||||IX1767848-0|REPO|Curncy||||||||||
-ARS REPO RATE 1 MO||||IX1767856-0|REPO|Curncy||||||||||
-ARS REPO RATE 1 WK||||IX1767852-0|REPO|Curncy||||||||||
-ARS REPO RATE 2 WK||||IX4224767-0|REPO|Curncy||||||||||
+ARS REPO RATE       1 DY||||IX1767848-0|REPO|Curncy||||||||||
+ARS REPO RATE       1 MO||||IX1767856-0|REPO|Curncy||||||||||
+ARS REPO RATE       1 WK||||IX1767852-0|REPO|Curncy||||||||||
+ARS REPO RATE       2 WK||||IX4224767-0|REPO|Curncy||||||||||
 ATS Repo Govt GC 10M||||IX12544234-0|REPO|Curncy||||||||||
 ATS Repo Govt GC 11M||||IX12544238-0|REPO|Curncy||||||||||
 ATS Repo Govt GC 12M||||IX12544242-0|REPO|Curncy||||||||||
@@ -61,6 +61,9 @@ BEF REPO Govt GC ON||||IX4501722-0|REPO|Curncy||||||||||
 BEF REPO Govt GC SN||||IX4501730-0|REPO|Curncy||||||||||
 BEF REPO Govt GC TN||||IX4501726-0|REPO|Curncy||||||||||
 BEF Repo Govt GC 18M||||IX4733466-0|REPO|Curncy||||||||||
+CAD REPO RATE TBILL  O/N||||IX367143-0|REPO|Curncy||||||||||
+CAD REPO RATE TBILL  S/N||||IX280499-0|REPO|Curncy||||||||||
+CAD REPO RATE TBILL  T/N||||IX367145-0|REPO|Curncy||||||||||
 CAD REPO RATE TBILL 1 MO||||IX367153-0|REPO|Curncy||||||||||
 CAD REPO RATE TBILL 1 WK||||IX367147-0|REPO|Curncy||||||||||
 CAD REPO RATE TBILL 1 YR||||IX367161-0|REPO|Curncy||||||||||
@@ -70,9 +73,6 @@ CAD REPO RATE TBILL 3 MO||||IX367157-0|REPO|Curncy||||||||||
 CAD REPO RATE TBILL 3 WK||||IX367151-0|REPO|Curncy||||||||||
 CAD REPO RATE TBILL 6 MO||||IX367159-0|REPO|Curncy||||||||||
 CAD REPO RATE TBILL 9 MO||||IX423075-0|REPO|Curncy||||||||||
-CAD REPO RATE TBILL O/N||||IX367143-0|REPO|Curncy||||||||||
-CAD REPO RATE TBILL S/N||||IX280499-0|REPO|Curncy||||||||||
-CAD REPO RATE TBILL T/N||||IX367145-0|REPO|Curncy||||||||||
 CAD Repo Govt GC 10M||||IX4611216-0|REPO|Curncy||||||||||
 CAD Repo Govt GC 11M||||IX4611220-0|REPO|Curncy||||||||||
 CAD Repo Govt GC 18M||||IX4611224-0|REPO|Curncy||||||||||
@@ -111,9 +111,9 @@ CHF Repo Govt GC 9M||||IX4731748-0|REPO|Curncy||||||||||
 CHF Repo Govt GC ON||||IX4731692-0|REPO|Curncy||||||||||
 CHF Repo Govt GC SN||||IX4731700-0|REPO|Curncy||||||||||
 CHF Repo Govt GC TN||||IX4731696-0|REPO|Curncy||||||||||
-CLP REPO RATE 1 MO||||IX1236559-0|REPO|Curncy||||||||||
-CLP REPO RATE 1 WK||||IX1236551-0|REPO|Curncy||||||||||
-CLP REPO RATE 2 WK||||IX1236555-0|REPO|Curncy||||||||||
+CLP REPO RATE       1 MO||||IX1236559-0|REPO|Curncy||||||||||
+CLP REPO RATE       1 WK||||IX1236551-0|REPO|Curncy||||||||||
+CLP REPO RATE       2 WK||||IX1236555-0|REPO|Curncy||||||||||
 CNH Repo 12M|CGR1|||IX12572849-0|REPO|Curncy|||27748|0|0||0|||
 CNH Repo 1M|CGRA|||IX12572833-0|REPO|Curncy|||27748|0|0||0|||
 CNH Repo 1W||||IX12572825-0|REPO|Curncy||||||||||
@@ -121,32 +121,32 @@ CNH Repo 2M|CGRB|||IX12572837-0|REPO|Curncy|||27748|0|0||0|||
 CNH Repo 2W||||IX12572829-0|REPO|Curncy||||||||||
 CNH Repo 3M|CGRC|||IX12572841-0|REPO|Curncy|||27748|0|0||0|||
 CNH Repo 6M|CGRF|||IX12572845-0|REPO|Curncy|||27748|0|0||0|||
-CNY REPO 14D||||IX4103360-0|REPO|Curncy||||||||||
-CNY REPO 1M|CCRA|||IX4103368-0|REPO|Curncy|||27748|0|0||0|||
-CNY REPO 21D||||IX4103364-0|REPO|Curncy||||||||||
-CNY REPO 2M|CCRB|||IX4103372-0|REPO|Curncy|||27748|0|0||0|||
-CNY REPO 3M|CCRC|||IX4103376-0|REPO|Curncy|||27748|0|0||0|||
-CNY REPO 7D||||IX4103356-0|REPO|Curncy||||||||||
-CNY REPO ON||||IX4103352-0|REPO|Curncy||||||||||
-CNY REPO Pledged 1M||||IX384353-0|REPO|Curncy||||||||||
-CNY REPO Pledged 1W||||IX200081-0|REPO|Curncy||||||||||
-CNY REPO Pledged 1Y||||IX384365-0|REPO|Curncy||||||||||
-CNY REPO Pledged 2M||||IX384357-0|REPO|Curncy||||||||||
-CNY REPO Pledged 2W||||IX384351-0|REPO|Curncy||||||||||
-CNY REPO Pledged 3M||||IX384359-0|REPO|Curncy||||||||||
-CNY REPO Pledged 3W||||IX384355-0|REPO|Curncy||||||||||
-CNY REPO Pledged 4M||||IX384363-0|REPO|Curncy||||||||||
-CNY REPO Pledged 6M||||IX384367-0|REPO|Curncy||||||||||
-CNY REPO Pledged 9M||||IX1185823-0|REPO|Curncy||||||||||
-CNY REPO Pledged ON||||IX800280-0|REPO|Curncy||||||||||
-CNY REPO RATE 20 DY||||IX461575-0|REPO|Curncy||||||||||
-CNY REPO RATE 5 MO||||IX384361-0|REPO|Curncy||||||||||
-CNY REPO RATE S/N||||IX800284-0|REPO|Curncy||||||||||
-CNY REPO RATE T/N||||IX800282-0|REPO|Curncy||||||||||
-COP REPO RATE 1 MO||||IX781268-0|REPO|Curncy||||||||||
-COP REPO RATE 15 DAY||||IX781266-0|REPO|Curncy||||||||||
-COP REPO RATE 3 DAY||||IX781264-0|REPO|Curncy||||||||||
-COP REPO RATE 3 MO||||IX781270-0|REPO|Curncy||||||||||
+CNY REPO              1M|CCRA|||IX4103368-0|REPO|Curncy|||27748|0|0||0|||
+CNY REPO              2M|CCRB|||IX4103372-0|REPO|Curncy|||27748|0|0||0|||
+CNY REPO              3M|CCRC|||IX4103376-0|REPO|Curncy|||27748|0|0||0|||
+CNY REPO              7D||||IX4103356-0|REPO|Curncy||||||||||
+CNY REPO              ON||||IX4103352-0|REPO|Curncy||||||||||
+CNY REPO             14D||||IX4103360-0|REPO|Curncy||||||||||
+CNY REPO             21D||||IX4103364-0|REPO|Curncy||||||||||
+CNY REPO Pledged      1M||||IX384353-0|REPO|Curncy||||||||||
+CNY REPO Pledged      1W||||IX200081-0|REPO|Curncy||||||||||
+CNY REPO Pledged      1Y||||IX384365-0|REPO|Curncy||||||||||
+CNY REPO Pledged      2M||||IX384357-0|REPO|Curncy||||||||||
+CNY REPO Pledged      2W||||IX384351-0|REPO|Curncy||||||||||
+CNY REPO Pledged      3M||||IX384359-0|REPO|Curncy||||||||||
+CNY REPO Pledged      3W||||IX384355-0|REPO|Curncy||||||||||
+CNY REPO Pledged      4M||||IX384363-0|REPO|Curncy||||||||||
+CNY REPO Pledged      6M||||IX384367-0|REPO|Curncy||||||||||
+CNY REPO Pledged      9M||||IX1185823-0|REPO|Curncy||||||||||
+CNY REPO Pledged      ON||||IX800280-0|REPO|Curncy||||||||||
+CNY REPO RATE        S/N||||IX800284-0|REPO|Curncy||||||||||
+CNY REPO RATE        T/N||||IX800282-0|REPO|Curncy||||||||||
+CNY REPO RATE       5 MO||||IX384361-0|REPO|Curncy||||||||||
+CNY REPO RATE      20 DY||||IX461575-0|REPO|Curncy||||||||||
+COP REPO RATE       1 MO||||IX781268-0|REPO|Curncy||||||||||
+COP REPO RATE       3 MO||||IX781270-0|REPO|Curncy||||||||||
+COP REPO RATE      3 DAY||||IX781264-0|REPO|Curncy||||||||||
+COP REPO RATE     15 DAY||||IX781266-0|REPO|Curncy||||||||||
 DEM REPO Govt GC 10M||||IX4498360-0|REPO|Curncy||||||||||
 DEM REPO Govt GC 11M||||IX4498364-0|REPO|Curncy||||||||||
 DEM REPO Govt GC 1M||||IX4498320-0|REPO|Curncy||||||||||
@@ -204,12 +204,12 @@ ESP REPO Govt GC ON||||IX4501626-0|REPO|Curncy||||||||||
 ESP REPO Govt GC SN||||IX4501634-0|REPO|Curncy||||||||||
 ESP REPO Govt GC TN||||IX4501630-0|REPO|Curncy||||||||||
 ESP Repo Govt GC 18M||||IX4733486-0|REPO|Curncy||||||||||
-EUR REPO, TRI-PARTY 1MO||||IX948739-0|REPO|Curncy||||||||||
-EUR REPO, TRI-PARTY 1YR||||IX948759-0|REPO|Curncy||||||||||
-EUR REPO, TRI-PARTY 2MO||||IX948743-0|REPO|Curncy||||||||||
-EUR REPO, TRI-PARTY 3MO||||IX948747-0|REPO|Curncy||||||||||
-EUR REPO, TRI-PARTY 6MO||||IX948751-0|REPO|Curncy||||||||||
-EUR REPO, TRI-PARTY 9MO||||IX948755-0|REPO|Curncy||||||||||
+EUR REPO, TRI-PARTY  1MO||||IX948739-0|REPO|Curncy||||||||||
+EUR REPO, TRI-PARTY  1YR||||IX948759-0|REPO|Curncy||||||||||
+EUR REPO, TRI-PARTY  2MO||||IX948743-0|REPO|Curncy||||||||||
+EUR REPO, TRI-PARTY  3MO||||IX948747-0|REPO|Curncy||||||||||
+EUR REPO, TRI-PARTY  6MO||||IX948751-0|REPO|Curncy||||||||||
+EUR REPO, TRI-PARTY  9MO||||IX948755-0|REPO|Curncy||||||||||
 EUR Repo AGC 12M||||IX13231871-0|REPO|Curncy||||||||||
 EUR Repo AGC 1M||||IX13231767-0|REPO|Curncy||||||||||
 EUR Repo AGC 1W||||IX13231783-0|REPO|Curncy||||||||||
@@ -312,20 +312,20 @@ FRF Repo Govt GC 8M||||IX12031401-0|REPO|Curncy||||||||||
 FRF Repo Govt GC 9M||||IX12031405-0|REPO|Curncy||||||||||
 FRF Repo Govt GC SN||||IX12032649-0|REPO|Curncy||||||||||
 FRF Repo Govt GC TN||||IX12032645-0|REPO|Curncy||||||||||
-GBP REPO EUROSTERL 1 MO||||IX658158-0|REPO|Curncy||||||||||
+GBP REPO EUROSTERL  1 MO||||IX658158-0|REPO|Curncy||||||||||
+GBP REPO EUROSTERL  2 MO||||IX658160-0|REPO|Curncy||||||||||
+GBP REPO EUROSTERL  3 MO||||IX658162-0|REPO|Curncy||||||||||
+GBP REPO EUROSTERL  4 MO||||IX658164-0|REPO|Curncy||||||||||
+GBP REPO EUROSTERL  5 MO||||IX658166-0|REPO|Curncy||||||||||
+GBP REPO EUROSTERL  6 MO||||IX658168-0|REPO|Curncy||||||||||
+GBP REPO EUROSTERL  9 MO||||IX658170-0|REPO|Curncy||||||||||
 GBP REPO EUROSTERL 12 MO||||IX658172-0|REPO|Curncy||||||||||
-GBP REPO EUROSTERL 2 MO||||IX658160-0|REPO|Curncy||||||||||
-GBP REPO EUROSTERL 3 MO||||IX658162-0|REPO|Curncy||||||||||
-GBP REPO EUROSTERL 4 MO||||IX658164-0|REPO|Curncy||||||||||
-GBP REPO EUROSTERL 5 MO||||IX658166-0|REPO|Curncy||||||||||
-GBP REPO EUROSTERL 6 MO||||IX658168-0|REPO|Curncy||||||||||
-GBP REPO EUROSTERL 9 MO||||IX658170-0|REPO|Curncy||||||||||
-GBP REPO, TRI-PARTY 1MO||||IX948767-0|REPO|Curncy||||||||||
-GBP REPO, TRI-PARTY 1YR||||IX948763-0|REPO|Curncy||||||||||
-GBP REPO, TRI-PARTY 2MO||||IX948771-0|REPO|Curncy||||||||||
-GBP REPO, TRI-PARTY 3MO||||IX948775-0|REPO|Curncy||||||||||
-GBP REPO, TRI-PARTY 6MO||||IX948779-0|REPO|Curncy||||||||||
-GBP REPO, TRI-PARTY 9MO||||IX948783-0|REPO|Curncy||||||||||
+GBP REPO, TRI-PARTY  1MO||||IX948767-0|REPO|Curncy||||||||||
+GBP REPO, TRI-PARTY  1YR||||IX948763-0|REPO|Curncy||||||||||
+GBP REPO, TRI-PARTY  2MO||||IX948771-0|REPO|Curncy||||||||||
+GBP REPO, TRI-PARTY  3MO||||IX948775-0|REPO|Curncy||||||||||
+GBP REPO, TRI-PARTY  6MO||||IX948779-0|REPO|Curncy||||||||||
+GBP REPO, TRI-PARTY  9MO||||IX948783-0|REPO|Curncy||||||||||
 GBP Repo Govt GC 10M||||IX4503911-0|REPO|Curncy||||||||||
 GBP Repo Govt GC 11M||||IX4503915-0|REPO|Curncy||||||||||
 GBP Repo Govt GC 15M||||IX5044294-0|REPO|Curncy||||||||||
@@ -372,28 +372,28 @@ GRD Repo Govt GC 9M||||IX12032281-0|REPO|Curncy||||||||||
 GRD Repo Govt GC SN||||IX12032541-0|REPO|Curncy||||||||||
 GRD Repo Govt GC TN||||IX12032537-0|REPO|Curncy||||||||||
 GRD Repo Govt ON||||IX6020566-0|REPO|Curncy||||||||||
-GTQ REPO RATE 182 DAYS||||IX1039318-0|REPO|Curncy||||||||||
-GTQ REPO RATE 30 DAYS||||IX1039306-0|REPO|Curncy||||||||||
-GTQ REPO RATE 364 DAYS||||IX1039322-0|REPO|Curncy||||||||||
-GTQ REPO RATE 60 DAYS||||IX1039310-0|REPO|Curncy||||||||||
-GTQ REPO RATE 90 DAYS||||IX1039314-0|REPO|Curncy||||||||||
+GTQ REPO RATE    30 DAYS||||IX1039306-0|REPO|Curncy||||||||||
+GTQ REPO RATE    60 DAYS||||IX1039310-0|REPO|Curncy||||||||||
+GTQ REPO RATE    90 DAYS||||IX1039314-0|REPO|Curncy||||||||||
+GTQ REPO RATE   182 DAYS||||IX1039318-0|REPO|Curncy||||||||||
+GTQ REPO RATE   364 DAYS||||IX1039322-0|REPO|Curncy||||||||||
 GTQ Repo Govt GC 10Y||||IX4778090-0|REPO|Curncy||||||||||
 GTQ Repo Govt GC 12Y||||IX4778094-0|REPO|Curncy||||||||||
 GTQ Repo Govt GC 2Y||||IX4778078-0|REPO|Curncy||||||||||
 GTQ Repo Govt GC 5Y||||IX4778082-0|REPO|Curncy||||||||||
 GTQ Repo Govt GC 7Y||||IX4778086-0|REPO|Curncy||||||||||
-HKD REPO RATE 1 MO||||IX364603-0|REPO|Curncy||||||||||
-HKD REPO RATE 10DY||||IX364601-0|REPO|Curncy||||||||||
-HKD REPO RATE 2 MO||||IX364605-0|REPO|Curncy||||||||||
-HKD REPO RATE 3 MO||||IX364607-0|REPO|Curncy||||||||||
-HKD REVERSE REPO 1 MO||||IX364613-0|REPO|Curncy||||||||||
-HKD REVERSE REPO 10DY||||IX364615-0|REPO|Curncy||||||||||
-HKD REVERSE REPO 2 MO||||IX364611-0|REPO|Curncy||||||||||
-HKD REVERSE REPO 3 MO||||IX364609-0|REPO|Curncy||||||||||
-IDR REPO RATE 1 MO||||IX1871013-0|REPO|Curncy||||||||||
-IDR REPO RATE 1 WK||||IX1871001-0|REPO|Curncy||||||||||
-IDR REPO RATE 2 WK||||IX1871009-0|REPO|Curncy||||||||||
-IDR REPO RATE O/N||||IX1870993-0|REPO|Curncy||||||||||
+HKD REPO RATE       1 MO||||IX364603-0|REPO|Curncy||||||||||
+HKD REPO RATE       10DY||||IX364601-0|REPO|Curncy||||||||||
+HKD REPO RATE       2 MO||||IX364605-0|REPO|Curncy||||||||||
+HKD REPO RATE       3 MO||||IX364607-0|REPO|Curncy||||||||||
+HKD REVERSE REPO    1 MO||||IX364613-0|REPO|Curncy||||||||||
+HKD REVERSE REPO    10DY||||IX364615-0|REPO|Curncy||||||||||
+HKD REVERSE REPO    2 MO||||IX364611-0|REPO|Curncy||||||||||
+HKD REVERSE REPO    3 MO||||IX364609-0|REPO|Curncy||||||||||
+IDR REPO RATE        O/N||||IX1870993-0|REPO|Curncy||||||||||
+IDR REPO RATE       1 MO||||IX1871013-0|REPO|Curncy||||||||||
+IDR REPO RATE       1 WK||||IX1871001-0|REPO|Curncy||||||||||
+IDR REPO RATE       2 WK||||IX1871009-0|REPO|Curncy||||||||||
 IDR Repo 1Y||||IX6215934-0|REPO|Curncy||||||||||
 IDR Repo 2M||||IX6215918-0|REPO|Curncy||||||||||
 IDR Repo 3M||||IX6215922-0|REPO|Curncy||||||||||
@@ -444,13 +444,13 @@ JMD REPO (in USD) 30 DAY||||IX1379839-0|REPO|Curncy||||||||||
 JMD REPO (in USD) 365DAY||||IX1379859-0|REPO|Curncy||||||||||
 JMD REPO (in USD) 60 DAY||||IX1379843-0|REPO|Curncy||||||||||
 JMD REPO (in USD) 90 DAY||||IX1379847-0|REPO|Curncy||||||||||
-JMD REPO RATE 120 DAYS||||IX1237275-0|REPO|Curncy||||||||||
-JMD REPO RATE 180 DAYS||||IX1237279-0|REPO|Curncy||||||||||
-JMD REPO RATE 270 DAYS||||IX1237283-0|REPO|Curncy||||||||||
-JMD REPO RATE 30 DAY||||IX1237263-0|REPO|Curncy||||||||||
-JMD REPO RATE 365 DAYS||||IX1237287-0|REPO|Curncy||||||||||
-JMD REPO RATE 60 DAYS||||IX1237267-0|REPO|Curncy||||||||||
-JMD REPO RATE 90 DAYS||||IX1237271-0|REPO|Curncy||||||||||
+JMD REPO RATE    30  DAY||||IX1237263-0|REPO|Curncy||||||||||
+JMD REPO RATE    60 DAYS||||IX1237267-0|REPO|Curncy||||||||||
+JMD REPO RATE    90 DAYS||||IX1237271-0|REPO|Curncy||||||||||
+JMD REPO RATE   120 DAYS||||IX1237275-0|REPO|Curncy||||||||||
+JMD REPO RATE   180 DAYS||||IX1237279-0|REPO|Curncy||||||||||
+JMD REPO RATE   270 DAYS||||IX1237283-0|REPO|Curncy||||||||||
+JMD REPO RATE   365 DAYS||||IX1237287-0|REPO|Curncy||||||||||
 JMD Repo Govt 1M||||IX6884469-0|REPO|Curncy||||||||||
 JMD Repo Govt 2M||||IX6884477-0|REPO|Curncy||||||||||
 JMD Repo Govt 3M||||IX6884481-0|REPO|Curncy||||||||||
@@ -474,6 +474,9 @@ JMD Repo Govt GC 6M||||IX6888330-0|REPO|Curncy||||||||||
 JMD Repo Govt GC 9M||||IX6888334-0|REPO|Curncy||||||||||
 JMD Repo Govt GC ON||||IX6888310-0|REPO|Curncy||||||||||
 JMD Repo Govt ON||||IX6884465-0|REPO|Curncy||||||||||
+JPY REPO RATE OFFSH  O/N||||IX369997-0|REPO|Curncy||||||||||
+JPY REPO RATE OFFSH  S/N||||IX369999-0|REPO|Curncy||||||||||
+JPY REPO RATE OFFSH  T/N||||IX370011-0|REPO|Curncy||||||||||
 JPY REPO RATE OFFSH 1 MO||||IX370013-0|REPO|Curncy||||||||||
 JPY REPO RATE OFFSH 1 WK||||IX370001-0|REPO|Curncy||||||||||
 JPY REPO RATE OFFSH 1 YR||||IX370015-0|REPO|Curncy||||||||||
@@ -482,15 +485,12 @@ JPY REPO RATE OFFSH 2 WK||||IX370003-0|REPO|Curncy||||||||||
 JPY REPO RATE OFFSH 3 MO||||IX370019-0|REPO|Curncy||||||||||
 JPY REPO RATE OFFSH 6 MO||||IX370021-0|REPO|Curncy||||||||||
 JPY REPO RATE OFFSH 9 MO||||IX370009-0|REPO|Curncy||||||||||
-JPY REPO RATE OFFSH O/N||||IX369997-0|REPO|Curncy||||||||||
-JPY REPO RATE OFFSH S/N||||IX369999-0|REPO|Curncy||||||||||
-JPY REPO RATE OFFSH T/N||||IX370011-0|REPO|Curncy||||||||||
-JPY REPO, TRI-PARTY 1MO||||IX948787-0|REPO|Curncy||||||||||
-JPY REPO, TRI-PARTY 1YR||||IX948807-0|REPO|Curncy||||||||||
-JPY REPO, TRI-PARTY 2MO||||IX948791-0|REPO|Curncy||||||||||
-JPY REPO, TRI-PARTY 3MO||||IX948795-0|REPO|Curncy||||||||||
-JPY REPO, TRI-PARTY 6MO||||IX948799-0|REPO|Curncy||||||||||
-JPY REPO, TRI-PARTY 9MO||||IX948803-0|REPO|Curncy||||||||||
+JPY REPO, TRI-PARTY  1MO||||IX948787-0|REPO|Curncy||||||||||
+JPY REPO, TRI-PARTY  1YR||||IX948807-0|REPO|Curncy||||||||||
+JPY REPO, TRI-PARTY  2MO||||IX948791-0|REPO|Curncy||||||||||
+JPY REPO, TRI-PARTY  3MO||||IX948795-0|REPO|Curncy||||||||||
+JPY REPO, TRI-PARTY  6MO||||IX948799-0|REPO|Curncy||||||||||
+JPY REPO, TRI-PARTY  9MO||||IX948803-0|REPO|Curncy||||||||||
 JPY Repo Govt GC 10M||||IX4503983-0|REPO|Curncy||||||||||
 JPY Repo Govt GC 11M||||IX4503987-0|REPO|Curncy||||||||||
 JPY Repo Govt GC 18M||||IX4734930-0|REPO|Curncy||||||||||
@@ -512,26 +512,26 @@ JPY Repo Govt GC 9M||||IX4503979-0|REPO|Curncy||||||||||
 JPY Repo Govt GC ON||||IX4503923-0|REPO|Curncy||||||||||
 JPY Repo Govt GC SN||||IX4503931-0|REPO|Curncy||||||||||
 JPY Repo Govt GC TN||||IX4503927-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 1 M||||IX1150726-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 1 W||||IX1150714-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 2 M||||IX1150730-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 2 W||||IX1150718-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 3 M||||IX1150734-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 3 W||||IX1150722-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 4 M||||IX1385891-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS 6 M||||IX1385895-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS O/N||||IX1150698-0|REPO|Curncy||||||||||
-KRW REPO CORP BONDS S/N||||IX1150706-0|REPO|Curncy||||||||||
-KRW REPO TREAS BOND 1 M||||IX1150666-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  1 M||||IX1150726-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  1 W||||IX1150714-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  2 M||||IX1150730-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  2 W||||IX1150718-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  3 M||||IX1150734-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  3 W||||IX1150722-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  4 M||||IX1385891-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  6 M||||IX1385895-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  O/N||||IX1150698-0|REPO|Curncy||||||||||
+KRW REPO CORP BONDS  S/N||||IX1150706-0|REPO|Curncy||||||||||
+KRW REPO TREAS BOND  1 M||||IX1150666-0|REPO|Curncy||||||||||
+KRW REPO TREAS BOND  2 M||||IX1150670-0|REPO|Curncy||||||||||
+KRW REPO TREAS BOND  3 M||||IX1150674-0|REPO|Curncy||||||||||
+KRW REPO TREAS BOND  4 M||||IX1385899-0|REPO|Curncy||||||||||
+KRW REPO TREAS BOND  6 M||||IX1385903-0|REPO|Curncy||||||||||
+KRW REPO TREAS BOND  O/N||||IX1150646-0|REPO|Curncy||||||||||
+KRW REPO TREAS BOND  S/N||||IX1150650-0|REPO|Curncy||||||||||
 KRW REPO TREAS BOND 1 WK||||IX1150654-0|REPO|Curncy||||||||||
-KRW REPO TREAS BOND 2 M||||IX1150670-0|REPO|Curncy||||||||||
 KRW REPO TREAS BOND 2 WK||||IX1150658-0|REPO|Curncy||||||||||
-KRW REPO TREAS BOND 3 M||||IX1150674-0|REPO|Curncy||||||||||
 KRW REPO TREAS BOND 3 WK||||IX1150662-0|REPO|Curncy||||||||||
-KRW REPO TREAS BOND 4 M||||IX1385899-0|REPO|Curncy||||||||||
-KRW REPO TREAS BOND 6 M||||IX1385903-0|REPO|Curncy||||||||||
-KRW REPO TREAS BOND O/N||||IX1150646-0|REPO|Curncy||||||||||
-KRW REPO TREAS BOND S/N||||IX1150650-0|REPO|Curncy||||||||||
 KZT Repo 1M|KTRA|||IX4970747-0|REPO|Curncy|||27748|0|0||0|||
 KZT Repo 1W||||IX4970739-0|REPO|Curncy||||||||||
 KZT Repo 2W||||IX4970743-0|REPO|Curncy||||||||||
@@ -544,20 +544,20 @@ KZT Repo Corp Bond SN||||IX8736052-0|REPO|Curncy||||||||||
 KZT Repo Corp Bond Today||||IX8736068-0|REPO|Curncy||||||||||
 KZT Repo ON||||IX4970731-0|REPO|Curncy||||||||||
 KZT Repo SN||||IX4970735-0|REPO|Curncy||||||||||
-LKR REPO RATE 1 MO||||IX1100727-0|REPO|Curncy||||||||||
-LKR REPO RATE 1 WK||||IX1100719-0|REPO|Curncy||||||||||
-LKR REPO RATE 2 MO||||IX1100731-0|REPO|Curncy||||||||||
-LKR REPO RATE 2 WK||||IX1100723-0|REPO|Curncy||||||||||
-LKR REPO RATE 3 MO||||IX1100735-0|REPO|Curncy||||||||||
-LKR REPO RATE 4 MO||||IX1100739-0|REPO|Curncy||||||||||
-LKR REPO RATE 5 MO||||IX1100743-0|REPO|Curncy||||||||||
-LKR REPO RATE 6 MO||||IX1100747-0|REPO|Curncy||||||||||
-LKR REPO RATE O/N||||IX1100715-0|REPO|Curncy||||||||||
-MXN REPO RATE 1MO||||IX525240-0|REPO|Curncy||||||||||
-MXN REPO RATE 1WK||||IX524490-0|REPO|Curncy||||||||||
-MXN REPO RATE 2WK||||IX1107987-0|REPO|Curncy||||||||||
-MXN REPO RATE 3WK||||IX1107991-0|REPO|Curncy||||||||||
-MXN REPO RATE O/N||||IX524488-0|REPO|Curncy||||||||||
+LKR REPO RATE        O/N||||IX1100715-0|REPO|Curncy||||||||||
+LKR REPO RATE       1 MO||||IX1100727-0|REPO|Curncy||||||||||
+LKR REPO RATE       1 WK||||IX1100719-0|REPO|Curncy||||||||||
+LKR REPO RATE       2 MO||||IX1100731-0|REPO|Curncy||||||||||
+LKR REPO RATE       2 WK||||IX1100723-0|REPO|Curncy||||||||||
+LKR REPO RATE       3 MO||||IX1100735-0|REPO|Curncy||||||||||
+LKR REPO RATE       4 MO||||IX1100739-0|REPO|Curncy||||||||||
+LKR REPO RATE       5 MO||||IX1100743-0|REPO|Curncy||||||||||
+LKR REPO RATE       6 MO||||IX1100747-0|REPO|Curncy||||||||||
+MXN REPO RATE        1MO||||IX525240-0|REPO|Curncy||||||||||
+MXN REPO RATE        1WK||||IX524490-0|REPO|Curncy||||||||||
+MXN REPO RATE        2WK||||IX1107987-0|REPO|Curncy||||||||||
+MXN REPO RATE        3WK||||IX1107991-0|REPO|Curncy||||||||||
+MXN REPO RATE        O/N||||IX524488-0|REPO|Curncy||||||||||
 MXN Reporto Bank B1 15D||||IX5474194-0|REPO|Curncy||||||||||
 MXN Reporto Bank B1 1D||||IX5474186-0|REPO|Curncy||||||||||
 MXN Reporto Bank B1 1M||||IX5474202-0|REPO|Curncy||||||||||
@@ -656,14 +656,14 @@ MXN Reporto Govt G3 7D||||IX5473970-0|REPO|Curncy||||||||||
 MXN Reporto Govt G3 7M||||IX5474014-0|REPO|Curncy||||||||||
 MXN Reporto Govt G3 8M||||IX5474018-0|REPO|Curncy||||||||||
 MXN Reporto Govt G3 9M||||IX5474022-0|REPO|Curncy||||||||||
-MYR REPO RATE 1 MO||||IX384715-0|REPO|Curncy||||||||||
-MYR REPO RATE 1 WK||||IX384713-0|REPO|Curncy||||||||||
-MYR REPO RATE 2 MO||||IX399313-0|REPO|Curncy||||||||||
-MYR REPO RATE 2 WK||||IX384711-0|REPO|Curncy||||||||||
-MYR REPO RATE 3 MO||||IX399315-0|REPO|Curncy||||||||||
-MYR REPO RATE 3 WK||||IX384717-0|REPO|Curncy||||||||||
-MYR REPO RATE 6 MO||||IX399317-0|REPO|Curncy||||||||||
-MYR REPO RATE O/N||||IX384707-0|REPO|Curncy||||||||||
+MYR REPO RATE        O/N||||IX384707-0|REPO|Curncy||||||||||
+MYR REPO RATE       1 MO||||IX384715-0|REPO|Curncy||||||||||
+MYR REPO RATE       1 WK||||IX384713-0|REPO|Curncy||||||||||
+MYR REPO RATE       2 MO||||IX399313-0|REPO|Curncy||||||||||
+MYR REPO RATE       2 WK||||IX384711-0|REPO|Curncy||||||||||
+MYR REPO RATE       3 MO||||IX399315-0|REPO|Curncy||||||||||
+MYR REPO RATE       3 WK||||IX384717-0|REPO|Curncy||||||||||
+MYR REPO RATE       6 MO||||IX399317-0|REPO|Curncy||||||||||
 NAME|ID_BB_SEC_NUM_DES|FEED_SOURCE|ID_BB_SEC_NUM_SRC|ID_BB_UNIQUE|SECURITY_TYP|MARKET_SECTOR_DES|ID_BB_GLOBAL|COMPOSITE_ID_BB_GLOBAL|FEED_EID1|FEED_EID2|FEED_EID3|FEED_EID4|FEED_DELAYED_EID1|Subscription String 1|Subscription String 2|Subscription String 3
 NLG REPO Govt GC 10M||||IX4501566-0|REPO|Curncy||||||||||
 NLG REPO Govt GC 11M||||IX4501570-0|REPO|Curncy||||||||||
@@ -720,17 +720,17 @@ PF Repo Govt GC 5M||||IX4759114-0|REPO|Curncy||||||||||
 PF Repo Govt GC 7M||||IX4759118-0|REPO|Curncy||||||||||
 PF Repo Govt GC 8M||||IX4759122-0|REPO|Curncy||||||||||
 PF Repo Govt GC ON||||IX4758998-0|REPO|Curncy||||||||||
-PKR REPO RATE 1 MO||||IX433769-0|REPO|Curncy||||||||||
-PKR REPO RATE 1 WK||||IX433229-0|REPO|Curncy||||||||||
-PKR REPO RATE 1 YR||||IX1768921-0|REPO|Curncy||||||||||
-PKR REPO RATE 2 MO||||IX433771-0|REPO|Curncy||||||||||
-PKR REPO RATE 2 WK||||IX2670756-0|REPO|Curncy||||||||||
-PKR REPO RATE 3 MO||||IX433775-0|REPO|Curncy||||||||||
-PKR REPO RATE 4 MO||||IX433773-0|REPO|Curncy||||||||||
-PKR REPO RATE 5 MO||||IX446149-0|REPO|Curncy||||||||||
-PKR REPO RATE 6 MO||||IX446151-0|REPO|Curncy||||||||||
-PKR REPO RATE 9 MO||||IX446153-0|REPO|Curncy||||||||||
-PKR REPO RATE O/N||||IX433225-0|REPO|Curncy||||||||||
+PKR REPO RATE        O/N||||IX433225-0|REPO|Curncy||||||||||
+PKR REPO RATE       1 MO||||IX433769-0|REPO|Curncy||||||||||
+PKR REPO RATE       1 WK||||IX433229-0|REPO|Curncy||||||||||
+PKR REPO RATE       1 YR||||IX1768921-0|REPO|Curncy||||||||||
+PKR REPO RATE       2 MO||||IX433771-0|REPO|Curncy||||||||||
+PKR REPO RATE       2 WK||||IX2670756-0|REPO|Curncy||||||||||
+PKR REPO RATE       3 MO||||IX433775-0|REPO|Curncy||||||||||
+PKR REPO RATE       4 MO||||IX433773-0|REPO|Curncy||||||||||
+PKR REPO RATE       5 MO||||IX446149-0|REPO|Curncy||||||||||
+PKR REPO RATE       6 MO||||IX446151-0|REPO|Curncy||||||||||
+PKR REPO RATE       9 MO||||IX446153-0|REPO|Curncy||||||||||
 PLN Repo GC 12M||||IX11896459-0|REPO|Curncy||||||||||
 PLN Repo GC 1M||||IX11896439-0|REPO|Curncy||||||||||
 PLN Repo GC 2M||||IX11896447-0|REPO|Curncy||||||||||
@@ -804,30 +804,30 @@ SEK Repo Govt GC 9M||||IX4504980-0|REPO|Curncy||||||||||
 SEK Repo Govt GC ON||||IX4504556-0|REPO|Curncy||||||||||
 SEK Repo Govt GC SN||||IX4504712-0|REPO|Curncy||||||||||
 SEK Repo Govt GC TN||||IX4504636-0|REPO|Curncy||||||||||
-SGD REPO RATE 1 MO||||IX456029-0|REPO|Curncy||||||||||
-SGD REPO RATE 1 WK||||IX456027-0|REPO|Curncy||||||||||
-SGD REPO RATE 12MO||||IX456037-0|REPO|Curncy||||||||||
-SGD REPO RATE 2 MO||||IX456031-0|REPO|Curncy||||||||||
-SGD REPO RATE 3 MO||||IX456033-0|REPO|Curncy||||||||||
-SGD REPO RATE 6 MO||||IX456035-0|REPO|Curncy||||||||||
-SGD REPO RATE O/N||||IX456025-0|REPO|Curncy||||||||||
-SGD REPO RATE S/N||||IX744883-0|REPO|Curncy||||||||||
-SGD REPO RATE T/N||||IX746683-0|REPO|Curncy||||||||||
+SGD REPO RATE        O/N||||IX456025-0|REPO|Curncy||||||||||
+SGD REPO RATE        S/N||||IX744883-0|REPO|Curncy||||||||||
+SGD REPO RATE        T/N||||IX746683-0|REPO|Curncy||||||||||
+SGD REPO RATE       1 MO||||IX456029-0|REPO|Curncy||||||||||
+SGD REPO RATE       1 WK||||IX456027-0|REPO|Curncy||||||||||
+SGD REPO RATE       12MO||||IX456037-0|REPO|Curncy||||||||||
+SGD REPO RATE       2 MO||||IX456031-0|REPO|Curncy||||||||||
+SGD REPO RATE       3 MO||||IX456033-0|REPO|Curncy||||||||||
+SGD REPO RATE       6 MO||||IX456035-0|REPO|Curncy||||||||||
 SKK Repo 7M||||IX4254690-0|REPO|Curncy||||||||||
-THB REPO RATE 1 MO||||IX417023-0|REPO|Curncy||||||||||
-THB REPO RATE 1 WK||||IX417019-0|REPO|Curncy||||||||||
-THB REPO RATE 2 MO||||IX417025-0|REPO|Curncy||||||||||
-THB REPO RATE 2 WK||||IX417021-0|REPO|Curncy||||||||||
-THB REPO RATE 3 MO||||IX417027-0|REPO|Curncy||||||||||
-THB REPO RATE 6 MO||||IX417029-0|REPO|Curncy||||||||||
-THB REPO RATE O/N||||IX417017-0|REPO|Curncy||||||||||
-THB REPO RATE PVT 1 MO||||IX1962669-0|REPO|Curncy||||||||||
-THB REPO RATE PVT 1 WK||||IX1962661-0|REPO|Curncy||||||||||
-THB REPO RATE PVT 2 WK||||IX1962665-0|REPO|Curncy||||||||||
-THB REPO RATE PVT 3 MO||||IX1962673-0|REPO|Curncy||||||||||
-THB REPO RATE PVT 6 MO||||IX1962677-0|REPO|Curncy||||||||||
-THB REPO RATE PVT 9 MO||||IX1962681-0|REPO|Curncy||||||||||
-THB REPO RATE PVT O/N||||IX1962657-0|REPO|Curncy||||||||||
+THB REPO RATE        O/N||||IX417017-0|REPO|Curncy||||||||||
+THB REPO RATE       1 MO||||IX417023-0|REPO|Curncy||||||||||
+THB REPO RATE       1 WK||||IX417019-0|REPO|Curncy||||||||||
+THB REPO RATE       2 MO||||IX417025-0|REPO|Curncy||||||||||
+THB REPO RATE       2 WK||||IX417021-0|REPO|Curncy||||||||||
+THB REPO RATE       3 MO||||IX417027-0|REPO|Curncy||||||||||
+THB REPO RATE       6 MO||||IX417029-0|REPO|Curncy||||||||||
+THB REPO RATE PVT    O/N||||IX1962657-0|REPO|Curncy||||||||||
+THB REPO RATE PVT   1 MO||||IX1962669-0|REPO|Curncy||||||||||
+THB REPO RATE PVT   1 WK||||IX1962661-0|REPO|Curncy||||||||||
+THB REPO RATE PVT   2 WK||||IX1962665-0|REPO|Curncy||||||||||
+THB REPO RATE PVT   3 MO||||IX1962673-0|REPO|Curncy||||||||||
+THB REPO RATE PVT   6 MO||||IX1962677-0|REPO|Curncy||||||||||
+THB REPO RATE PVT   9 MO||||IX1962681-0|REPO|Curncy||||||||||
 THB Repo Bilateral ON||||IX6506004-0|REPO|Curncy||||||||||
 THB Repo Bilateral||||IX6506008-0|REPO|Curncy||||||||||
 THB Repo Bilateral||||IX6506012-0|REPO|Curncy||||||||||
@@ -843,28 +843,28 @@ THB Repo Govt GC 3M||||IX6153312-0|REPO|Curncy||||||||||
 THB Repo Govt GC 6M||||IX6153316-0|REPO|Curncy||||||||||
 THB Repo Govt GC 7D||||IX6153296-0|REPO|Curncy||||||||||
 THB Repo Govt GC ON||||IX6153292-0|REPO|Curncy||||||||||
-TRL REPO RATE 1 MO||||IX398687-0|REPO|Curncy||||||||||
-TRL REPO RATE 1 WK||||IX398681-0|REPO|Curncy||||||||||
-TRL REPO RATE 1 YR||||IX522488-0|REPO|Curncy||||||||||
-TRL REPO RATE 2 MO||||IX398689-0|REPO|Curncy||||||||||
-TRL REPO RATE 2 WK||||IX398683-0|REPO|Curncy||||||||||
-TRL REPO RATE 3 MO||||IX398691-0|REPO|Curncy||||||||||
-TRL REPO RATE 3 WK||||IX398685-0|REPO|Curncy||||||||||
-TRL REPO RATE 6 MO||||IX522486-0|REPO|Curncy||||||||||
-TRL REPO RATE O/N||||IX398679-0|REPO|Curncy||||||||||
-TRL REPO RATE TAX 1MO||||IX407309-0|REPO|Curncy||||||||||
-TRL REPO RATE TAX 2MO||||IX407311-0|REPO|Curncy||||||||||
-TRL REPO RATE TAX O/N||||IX406949-0|REPO|Curncy||||||||||
+TRL REPO RATE        O/N||||IX398679-0|REPO|Curncy||||||||||
+TRL REPO RATE       1 MO||||IX398687-0|REPO|Curncy||||||||||
+TRL REPO RATE       1 WK||||IX398681-0|REPO|Curncy||||||||||
+TRL REPO RATE       1 YR||||IX522488-0|REPO|Curncy||||||||||
+TRL REPO RATE       2 MO||||IX398689-0|REPO|Curncy||||||||||
+TRL REPO RATE       2 WK||||IX398683-0|REPO|Curncy||||||||||
+TRL REPO RATE       3 MO||||IX398691-0|REPO|Curncy||||||||||
+TRL REPO RATE       3 WK||||IX398685-0|REPO|Curncy||||||||||
+TRL REPO RATE       6 MO||||IX522486-0|REPO|Curncy||||||||||
+TRL REPO RATE TAX    1MO||||IX407309-0|REPO|Curncy||||||||||
+TRL REPO RATE TAX    2MO||||IX407311-0|REPO|Curncy||||||||||
+TRL REPO RATE TAX    O/N||||IX406949-0|REPO|Curncy||||||||||
 TRL REPO RATE W/TAX 1 WK||||IX410663-0|REPO|Curncy||||||||||
 TRL REPO RATE W/TAX 2 WK||||IX410665-0|REPO|Curncy||||||||||
 TRL REPO RATE W/TAX 3 MO||||IX410669-0|REPO|Curncy||||||||||
 TRL REPO RATE W/TAX 3 WK||||IX410667-0|REPO|Curncy||||||||||
-TRY REPO RATE 1 YR||||IX1958640-0|REPO|Curncy||||||||||
-TRY REPO RATE 2 MO||||IX1958876-0|REPO|Curncy||||||||||
-TRY REPO RATE 6 MO||||IX1958636-0|REPO|Curncy||||||||||
-TRY REPO RATE TAX 1MO||||IX1959052-0|REPO|Curncy||||||||||
-TRY REPO RATE TAX 2MO||||IX1959056-0|REPO|Curncy||||||||||
-TRY REPO RATE TAX O/N||||IX1959040-0|REPO|Curncy||||||||||
+TRY REPO RATE       1 YR||||IX1958640-0|REPO|Curncy||||||||||
+TRY REPO RATE       2 MO||||IX1958876-0|REPO|Curncy||||||||||
+TRY REPO RATE       6 MO||||IX1958636-0|REPO|Curncy||||||||||
+TRY REPO RATE TAX    1MO||||IX1959052-0|REPO|Curncy||||||||||
+TRY REPO RATE TAX    2MO||||IX1959056-0|REPO|Curncy||||||||||
+TRY REPO RATE TAX    O/N||||IX1959040-0|REPO|Curncy||||||||||
 TRY REPO RATE W/TAX 1 WK||||IX1959464-0|REPO|Curncy||||||||||
 TRY REPO RATE W/TAX 2 WK||||IX1959468-0|REPO|Curncy||||||||||
 TRY REPO RATE W/TAX 3 MO||||IX1959476-0|REPO|Curncy||||||||||
@@ -920,40 +920,40 @@ TRY Repo 92D||||IX10172274-0|REPO|Curncy||||||||||
 TRY Repo 9D||||IX10172118-0|REPO|Curncy||||||||||
 TRY Repo ON||||IX10253093-0|REPO|Curncy||||||||||
 TRY Repo SN||||IX10172098-0|REPO|Curncy||||||||||
-TWD REPO RATE 1 MO||||IX328465-0|REPO|Curncy||||||||||
-TWD REPO RATE 1 YR||||IX421387-0|REPO|Curncy||||||||||
-TWD REPO RATE 10 DAY||||IX430483-0|REPO|Curncy||||||||||
-TWD REPO RATE 120 DAY||||IX444165-0|REPO|Curncy||||||||||
-TWD REPO RATE 150 DAY||||IX444167-0|REPO|Curncy||||||||||
-TWD REPO RATE 180 DAY||||IX430485-0|REPO|Curncy||||||||||
-TWD REPO RATE 2 MO||||IX328467-0|REPO|Curncy||||||||||
-TWD REPO RATE 20 DAY||||IX435665-0|REPO|Curncy||||||||||
-TWD REPO RATE 270 DAY||||IX1305182-0|REPO|Curncy||||||||||
-TWD REPO RATE 3 MO||||IX328469-0|REPO|Curncy||||||||||
-TWD REPO RATE 3 WK||||IX429731-0|REPO|Curncy||||||||||
-TWD REPO RATE 30 DAY||||IX430479-0|REPO|Curncy||||||||||
-TWD REPO RATE 360 DAY||||IX1105350-0|REPO|Curncy||||||||||
-TWD REPO RATE 4 MO||||IX328471-0|REPO|Curncy||||||||||
-TWD REPO RATE 5 MO||||IX328473-0|REPO|Curncy||||||||||
-TWD REPO RATE 6 MO||||IX421385-0|REPO|Curncy||||||||||
-TWD REPO RATE 60 DAY||||IX430481-0|REPO|Curncy||||||||||
-TWD REPO RATE 90 DAY||||IX444163-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 1 MO||||IX370171-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 10DY||||IX370177-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 120DY||||IX1678591-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 150DY||||IX1678595-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 180DY||||IX1678599-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 2 MO||||IX370173-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 20 DY||||IX435667-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 270DY||||IX1678603-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 3 MO||||IX370175-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 30DY||||IX1678579-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 360 DY||||IX1105354-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 4 MO||||IX448681-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 5 MO||||IX448683-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 6 MO||||IX448685-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 60DY||||IX1678583-0|REPO|Curncy||||||||||
-TWD REVERSE REPO 90DY||||IX1678587-0|REPO|Curncy||||||||||
+TWD REPO RATE       1 MO||||IX328465-0|REPO|Curncy||||||||||
+TWD REPO RATE       1 YR||||IX421387-0|REPO|Curncy||||||||||
+TWD REPO RATE       2 MO||||IX328467-0|REPO|Curncy||||||||||
+TWD REPO RATE       3 MO||||IX328469-0|REPO|Curncy||||||||||
+TWD REPO RATE       3 WK||||IX429731-0|REPO|Curncy||||||||||
+TWD REPO RATE       4 MO||||IX328471-0|REPO|Curncy||||||||||
+TWD REPO RATE       5 MO||||IX328473-0|REPO|Curncy||||||||||
+TWD REPO RATE       6 MO||||IX421385-0|REPO|Curncy||||||||||
+TWD REPO RATE     10 DAY||||IX430483-0|REPO|Curncy||||||||||
+TWD REPO RATE     20 DAY||||IX435665-0|REPO|Curncy||||||||||
+TWD REPO RATE     30 DAY||||IX430479-0|REPO|Curncy||||||||||
+TWD REPO RATE     60 DAY||||IX430481-0|REPO|Curncy||||||||||
+TWD REPO RATE     90 DAY||||IX444163-0|REPO|Curncy||||||||||
+TWD REPO RATE    120 DAY||||IX444165-0|REPO|Curncy||||||||||
+TWD REPO RATE    150 DAY||||IX444167-0|REPO|Curncy||||||||||
+TWD REPO RATE    180 DAY||||IX430485-0|REPO|Curncy||||||||||
+TWD REPO RATE    270 DAY||||IX1305182-0|REPO|Curncy||||||||||
+TWD REPO RATE    360 DAY||||IX1105350-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    1 MO||||IX370171-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    10DY||||IX370177-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    2 MO||||IX370173-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    3 MO||||IX370175-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    30DY||||IX1678579-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    4 MO||||IX448681-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    5 MO||||IX448683-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    6 MO||||IX448685-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    60DY||||IX1678583-0|REPO|Curncy||||||||||
+TWD REVERSE REPO    90DY||||IX1678587-0|REPO|Curncy||||||||||
+TWD REVERSE REPO   120DY||||IX1678591-0|REPO|Curncy||||||||||
+TWD REVERSE REPO   150DY||||IX1678595-0|REPO|Curncy||||||||||
+TWD REVERSE REPO   180DY||||IX1678599-0|REPO|Curncy||||||||||
+TWD REVERSE REPO   20 DY||||IX435667-0|REPO|Curncy||||||||||
+TWD REVERSE REPO   270DY||||IX1678603-0|REPO|Curncy||||||||||
+TWD REVERSE REPO  360 DY||||IX1105354-0|REPO|Curncy||||||||||
 TWD Repo Corp Bond 10D||||IX9836878-0|REPO|Curncy||||||||||
 TWD Repo Corp Bond 1M||||IX9836882-0|REPO|Curncy||||||||||
 TWD Repo Corp Bond 2M||||IX9836886-0|REPO|Curncy||||||||||
@@ -965,15 +965,16 @@ UAH REPO Govt GC 2M||||IX5602157-0|REPO|Curncy||||||||||
 UAH REPO Govt GC 2W||||IX5602145-0|REPO|Curncy||||||||||
 UAH REPO Govt GC 3M||||IX5602161-0|REPO|Curncy||||||||||
 UAH REPO Govt GC 3W||||IX5602149-0|REPO|Curncy||||||||||
-USD REPO ARMS 1 MO||||IX568470-0|REPO|Curncy||||||||||
-USD REPO ARMS 1 WK||||IX568464-0|REPO|Curncy||||||||||
-USD REPO ARMS 1 YR||||IX568478-0|REPO|Curncy||||||||||
-USD REPO ARMS 2 MO||||IX568472-0|REPO|Curncy||||||||||
-USD REPO ARMS 2 WK||||IX568466-0|REPO|Curncy||||||||||
-USD REPO ARMS 3 MO||||IX568474-0|REPO|Curncy||||||||||
-USD REPO ARMS 3 WK||||IX568468-0|REPO|Curncy||||||||||
-USD REPO ARMS 6 MO||||IX568476-0|REPO|Curncy||||||||||
-USD REPO ARMS O/N||||IX568462-0|REPO|Curncy||||||||||
+USD REPO ARMS        O/N||||IX568462-0|REPO|Curncy||||||||||
+USD REPO ARMS       1 MO||||IX568470-0|REPO|Curncy||||||||||
+USD REPO ARMS       1 WK||||IX568464-0|REPO|Curncy||||||||||
+USD REPO ARMS       1 YR||||IX568478-0|REPO|Curncy||||||||||
+USD REPO ARMS       2 MO||||IX568472-0|REPO|Curncy||||||||||
+USD REPO ARMS       2 WK||||IX568466-0|REPO|Curncy||||||||||
+USD REPO ARMS       3 MO||||IX568474-0|REPO|Curncy||||||||||
+USD REPO ARMS       3 WK||||IX568468-0|REPO|Curncy||||||||||
+USD REPO ARMS       6 MO||||IX568476-0|REPO|Curncy||||||||||
+USD REPO FNMA/FHLMC  O/N||||IX568444-0|REPO|Curncy||||||||||
 USD REPO FNMA/FHLMC 1 MO||||IX568452-0|REPO|Curncy||||||||||
 USD REPO FNMA/FHLMC 1 WK||||IX568446-0|REPO|Curncy||||||||||
 USD REPO FNMA/FHLMC 1 YR||||IX568460-0|REPO|Curncy||||||||||
@@ -982,25 +983,26 @@ USD REPO FNMA/FHLMC 2 WK||||IX568448-0|REPO|Curncy||||||||||
 USD REPO FNMA/FHLMC 3 MO||||IX568456-0|REPO|Curncy||||||||||
 USD REPO FNMA/FHLMC 3 WK||||IX568450-0|REPO|Curncy||||||||||
 USD REPO FNMA/FHLMC 6 MO||||IX568458-0|REPO|Curncy||||||||||
-USD REPO FNMA/FHLMC O/N||||IX568444-0|REPO|Curncy||||||||||
-USD REPO GNMA 1 MO||||IX568434-0|REPO|Curncy||||||||||
-USD REPO GNMA 1 WK||||IX568428-0|REPO|Curncy||||||||||
-USD REPO GNMA 1 YR||||IX568442-0|REPO|Curncy||||||||||
-USD REPO GNMA 2 MO||||IX568436-0|REPO|Curncy||||||||||
-USD REPO GNMA 2 WK||||IX568430-0|REPO|Curncy||||||||||
-USD REPO GNMA 3 MO||||IX568438-0|REPO|Curncy||||||||||
-USD REPO GNMA 3 WK||||IX568432-0|REPO|Curncy||||||||||
-USD REPO GNMA 6 MO||||IX568440-0|REPO|Curncy||||||||||
-USD REPO GNMA O/N||||IX568426-0|REPO|Curncy||||||||||
-USD REPO US AG CMO 1 MO||||IX351237-0|REPO|Curncy||||||||||
-USD REPO US AG CMO 1 WK||||IX351231-0|REPO|Curncy||||||||||
-USD REPO US AG CMO 2 MO||||IX351239-0|REPO|Curncy||||||||||
-USD REPO US AG CMO 2 WK||||IX351233-0|REPO|Curncy||||||||||
-USD REPO US AG CMO 3 MO||||IX351241-0|REPO|Curncy||||||||||
-USD REPO US AG CMO 3 WK||||IX351235-0|REPO|Curncy||||||||||
-USD REPO US AG CMO 6 MO||||IX351243-0|REPO|Curncy||||||||||
-USD REPO US AG CMO O/N||||IX351229-0|REPO|Curncy||||||||||
-USD REPO US AG CMO S/N||||IX280507-0|REPO|Curncy||||||||||
+USD REPO GNMA        O/N||||IX568426-0|REPO|Curncy||||||||||
+USD REPO GNMA       1 MO||||IX568434-0|REPO|Curncy||||||||||
+USD REPO GNMA       1 WK||||IX568428-0|REPO|Curncy||||||||||
+USD REPO GNMA       1 YR||||IX568442-0|REPO|Curncy||||||||||
+USD REPO GNMA       2 MO||||IX568436-0|REPO|Curncy||||||||||
+USD REPO GNMA       2 WK||||IX568430-0|REPO|Curncy||||||||||
+USD REPO GNMA       3 MO||||IX568438-0|REPO|Curncy||||||||||
+USD REPO GNMA       3 WK||||IX568432-0|REPO|Curncy||||||||||
+USD REPO GNMA       6 MO||||IX568440-0|REPO|Curncy||||||||||
+USD REPO US AG CMO   O/N||||IX351229-0|REPO|Curncy||||||||||
+USD REPO US AG CMO   S/N||||IX280507-0|REPO|Curncy||||||||||
+USD REPO US AG CMO  1 MO||||IX351237-0|REPO|Curncy||||||||||
+USD REPO US AG CMO  1 WK||||IX351231-0|REPO|Curncy||||||||||
+USD REPO US AG CMO  2 MO||||IX351239-0|REPO|Curncy||||||||||
+USD REPO US AG CMO  2 WK||||IX351233-0|REPO|Curncy||||||||||
+USD REPO US AG CMO  3 MO||||IX351241-0|REPO|Curncy||||||||||
+USD REPO US AG CMO  3 WK||||IX351235-0|REPO|Curncy||||||||||
+USD REPO US AG CMO  6 MO||||IX351243-0|REPO|Curncy||||||||||
+USD REPO US AG PASS  O/N||||IX351201-0|REPO|Curncy||||||||||
+USD REPO US AG PASS  S/N||||IX280515-0|REPO|Curncy||||||||||
 USD REPO US AG PASS 1 MO||||IX351221-0|REPO|Curncy||||||||||
 USD REPO US AG PASS 1 WK||||IX351215-0|REPO|Curncy||||||||||
 USD REPO US AG PASS 2 MO||||IX351223-0|REPO|Curncy||||||||||
@@ -1008,8 +1010,8 @@ USD REPO US AG PASS 2 WK||||IX351217-0|REPO|Curncy||||||||||
 USD REPO US AG PASS 3 MO||||IX351225-0|REPO|Curncy||||||||||
 USD REPO US AG PASS 3 WK||||IX351219-0|REPO|Curncy||||||||||
 USD REPO US AG PASS 6 MO||||IX351227-0|REPO|Curncy||||||||||
-USD REPO US AG PASS O/N||||IX351201-0|REPO|Curncy||||||||||
-USD REPO US AG PASS S/N||||IX280515-0|REPO|Curncy||||||||||
+USD REPO US AG TR P  O/N||||IX351291-0|REPO|Curncy||||||||||
+USD REPO US AG TR P  S/N||||IX280511-0|REPO|Curncy||||||||||
 USD REPO US AG TR P 1 MO||||IX351283-0|REPO|Curncy||||||||||
 USD REPO US AG TR P 1 WK||||IX351289-0|REPO|Curncy||||||||||
 USD REPO US AG TR P 2 MO||||IX351281-0|REPO|Curncy||||||||||
@@ -1017,32 +1019,30 @@ USD REPO US AG TR P 2 WK||||IX351287-0|REPO|Curncy||||||||||
 USD REPO US AG TR P 3 MO||||IX351279-0|REPO|Curncy||||||||||
 USD REPO US AG TR P 3 WK||||IX351285-0|REPO|Curncy||||||||||
 USD REPO US AG TR P 6 MO||||IX351277-0|REPO|Curncy||||||||||
-USD REPO US AG TR P O/N||||IX351291-0|REPO|Curncy||||||||||
-USD REPO US AG TR P S/N||||IX280511-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 1 MO||||IX504287-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 1 WK||||IX504281-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 1 YR||||IX504297-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 2 MO||||IX504289-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 2 WK||||IX504283-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 3 MO||||IX504291-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 3 WK||||IX504285-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 4 MO||||IX504293-0|REPO|Curncy||||||||||
-USD REPO US AGENCY 6 MO||||IX504295-0|REPO|Curncy||||||||||
-USD REPO US AGENCY O/N||||IX504279-0|REPO|Curncy||||||||||
-USD REPO US AGENCY U.D.||||IX504299-0|REPO|Curncy||||||||||
-USD REPO US AGENCY U.D.||||IX504301-0|REPO|Curncy||||||||||
-USD REPO US AGENCY U.D.||||IX504305-0|REPO|Curncy||||||||||
-USD REPO US GOVT 2 WK||||IX351199-0|REPO|Curncy||||||||||
-USD REPO US GOVT 3 MO||||IX351207-0|REPO|Curncy||||||||||
-USD REPO US GOVT 3 WK||||IX409417-0|REPO|Curncy||||||||||
-USD REPO US GOVT 4 MO||||IX409419-0|REPO|Curncy||||||||||
-USD REPO US GOVT U.D.||||IX504311-0|REPO|Curncy||||||||||
-USD REPO, TRI-PARTY 1M0||||IX948715-0|REPO|Curncy||||||||||
-USD REPO, TRI-PARTY 1YR||||IX948735-0|REPO|Curncy||||||||||
-USD REPO, TRI-PARTY 2M0||||IX948719-0|REPO|Curncy||||||||||
-USD REPO, TRI-PARTY 3M0||||IX948723-0|REPO|Curncy||||||||||
-USD REPO, TRI-PARTY 6M0||||IX948727-0|REPO|Curncy||||||||||
-USD REPO, TRI-PARTY 9M0||||IX948731-0|REPO|Curncy||||||||||
+USD REPO US AGENCY   O/N||||IX504279-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  1 MO||||IX504287-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  1 WK||||IX504281-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  1 YR||||IX504297-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  2 MO||||IX504289-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  2 WK||||IX504283-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  3 MO||||IX504291-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  3 WK||||IX504285-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  4 MO||||IX504293-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  6 MO||||IX504295-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  U.D.||||IX504299-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  U.D.||||IX504301-0|REPO|Curncy||||||||||
+USD REPO US AGENCY  U.D.||||IX504305-0|REPO|Curncy||||||||||
+USD REPO US GOVT    2 WK||||IX351199-0|REPO|Curncy||||||||||
+USD REPO US GOVT    3 MO||||IX351207-0|REPO|Curncy||||||||||
+USD REPO US GOVT    3 WK||||IX409417-0|REPO|Curncy||||||||||
+USD REPO US GOVT    4 MO||||IX409419-0|REPO|Curncy||||||||||
+USD REPO US GOVT    U.D.||||IX504311-0|REPO|Curncy||||||||||
+USD REPO, TRI-PARTY  1M0||||IX948715-0|REPO|Curncy||||||||||
+USD REPO, TRI-PARTY  1YR||||IX948735-0|REPO|Curncy||||||||||
+USD REPO, TRI-PARTY  2M0||||IX948719-0|REPO|Curncy||||||||||
+USD REPO, TRI-PARTY  3M0||||IX948723-0|REPO|Curncy||||||||||
+USD REPO, TRI-PARTY  6M0||||IX948727-0|REPO|Curncy||||||||||
+USD REPO, TRI-PARTY  9M0||||IX948731-0|REPO|Curncy||||||||||
 USD RV REPO US AGENCY 1M||||IX3441794-0|REPO|Curncy||||||||||
 USD RV REPO US AGENCY 1W||||IX3441802-0|REPO|Curncy||||||||||
 USD RV REPO US AGENCY 2M||||IX3441814-0|REPO|Curncy||||||||||
@@ -1054,9 +1054,9 @@ USD RV REPO US GOVT 1M||||IX3441822-0|REPO|Curncy||||||||||
 USD RV REPO US GOVT 2M||||IX3441842-0|REPO|Curncy||||||||||
 USD RV REPO US GOVT 3M||||IX3441846-0|REPO|Curncy||||||||||
 USD RV REPO US GOVT O/N||||IX3441826-0|REPO|Curncy||||||||||
-USD RV REPO US MTG 1W||||IX3441858-0|REPO|Curncy||||||||||
-USD RV REPO US MTG 2W||||IX3441862-0|REPO|Curncy||||||||||
-USD RV REPO US MTG O/N||||IX3441854-0|REPO|Curncy||||||||||
+USD RV REPO US MTG   1W||||IX3441858-0|REPO|Curncy||||||||||
+USD RV REPO US MTG   2W||||IX3441862-0|REPO|Curncy||||||||||
+USD RV REPO US MTG   O/N||||IX3441854-0|REPO|Curncy||||||||||
 USD Repo (JMD) ON||||IX6882973-0|REPO|Curncy||||||||||
 USD Repo AGC 12M||||IX13231895-0|REPO|Curncy||||||||||
 USD Repo AGC 1M||||IX13231803-0|REPO|Curncy||||||||||
@@ -1158,34 +1158,34 @@ VND Repo Govt GC 3M||||IX6281317-0|REPO|Curncy||||||||||
 VND Repo Govt GC 6M||||IX6281321-0|REPO|Curncy||||||||||
 VND Repo Govt GC 9M||||IX6281325-0|REPO|Curncy||||||||||
 VND Repo ON||||IX8963608-0|REPO|Curncy||||||||||
-XEU REPO RATE 1 MO||||IX346723-0|REPO|Curncy||||||||||
-XEU REPO RATE 1 WK||||IX346719-0|REPO|Curncy||||||||||
-XEU REPO RATE 1 YR||||IX346731-0|REPO|Curncy||||||||||
-XEU REPO RATE 2 MO||||IX346725-0|REPO|Curncy||||||||||
-XEU REPO RATE 2 WK||||IX346721-0|REPO|Curncy||||||||||
-XEU REPO RATE 3 MO||||IX346727-0|REPO|Curncy||||||||||
-XEU REPO RATE 3 WK||||IX420973-0|REPO|Curncy||||||||||
-XEU REPO RATE 6 MO||||IX346729-0|REPO|Curncy||||||||||
-XEU REPO RATE 9 MO||||IX420975-0|REPO|Curncy||||||||||
-XEU REPO RATE O/N||||IX346715-0|REPO|Curncy||||||||||
-XEU REPO RATE S/N||||IX280503-0|REPO|Curncy||||||||||
-XEU REPO RATE T/N||||IX346717-0|REPO|Curncy||||||||||
-ZAR REPO RATE 1 MO||||IX425219-0|REPO|Curncy||||||||||
-ZAR REPO RATE 1 WK||||IX425213-0|REPO|Curncy||||||||||
-ZAR REPO RATE 1 YR||||IX425229-0|REPO|Curncy||||||||||
-ZAR REPO RATE 2 MO||||IX425221-0|REPO|Curncy||||||||||
-ZAR REPO RATE 2 WK||||IX425215-0|REPO|Curncy||||||||||
-ZAR REPO RATE 2 YR||||IX439965-0|REPO|Curncy||||||||||
-ZAR REPO RATE 3 MO||||IX425223-0|REPO|Curncy||||||||||
-ZAR REPO RATE 3 WK||||IX425217-0|REPO|Curncy||||||||||
-ZAR REPO RATE 4 MO||||IX439957-0|REPO|Curncy||||||||||
-ZAR REPO RATE 5 MO||||IX439959-0|REPO|Curncy||||||||||
-ZAR REPO RATE 6 MO||||IX425225-0|REPO|Curncy||||||||||
-ZAR REPO RATE 7 MO||||IX439961-0|REPO|Curncy||||||||||
-ZAR REPO RATE 8 MO||||IX439963-0|REPO|Curncy||||||||||
-ZAR REPO RATE 9 MO||||IX425227-0|REPO|Curncy||||||||||
-ZAR REPO RATE O/N||||IX425207-0|REPO|Curncy||||||||||
-ZAR REPO RATE S/N||||IX425211-0|REPO|Curncy||||||||||
-ZAR REPO RATE T/N||||IX425209-0|REPO|Curncy||||||||||
+XEU REPO RATE        O/N||||IX346715-0|REPO|Curncy||||||||||
+XEU REPO RATE        S/N||||IX280503-0|REPO|Curncy||||||||||
+XEU REPO RATE        T/N||||IX346717-0|REPO|Curncy||||||||||
+XEU REPO RATE       1 MO||||IX346723-0|REPO|Curncy||||||||||
+XEU REPO RATE       1 WK||||IX346719-0|REPO|Curncy||||||||||
+XEU REPO RATE       1 YR||||IX346731-0|REPO|Curncy||||||||||
+XEU REPO RATE       2 MO||||IX346725-0|REPO|Curncy||||||||||
+XEU REPO RATE       2 WK||||IX346721-0|REPO|Curncy||||||||||
+XEU REPO RATE       3 MO||||IX346727-0|REPO|Curncy||||||||||
+XEU REPO RATE       3 WK||||IX420973-0|REPO|Curncy||||||||||
+XEU REPO RATE       6 MO||||IX346729-0|REPO|Curncy||||||||||
+XEU REPO RATE       9 MO||||IX420975-0|REPO|Curncy||||||||||
+ZAR REPO RATE        O/N||||IX425207-0|REPO|Curncy||||||||||
+ZAR REPO RATE        S/N||||IX425211-0|REPO|Curncy||||||||||
+ZAR REPO RATE        T/N||||IX425209-0|REPO|Curncy||||||||||
+ZAR REPO RATE       1 MO||||IX425219-0|REPO|Curncy||||||||||
+ZAR REPO RATE       1 WK||||IX425213-0|REPO|Curncy||||||||||
+ZAR REPO RATE       1 YR||||IX425229-0|REPO|Curncy||||||||||
+ZAR REPO RATE       2 MO||||IX425221-0|REPO|Curncy||||||||||
+ZAR REPO RATE       2 WK||||IX425215-0|REPO|Curncy||||||||||
+ZAR REPO RATE       2 YR||||IX439965-0|REPO|Curncy||||||||||
+ZAR REPO RATE       3 MO||||IX425223-0|REPO|Curncy||||||||||
+ZAR REPO RATE       3 WK||||IX425217-0|REPO|Curncy||||||||||
+ZAR REPO RATE       4 MO||||IX439957-0|REPO|Curncy||||||||||
+ZAR REPO RATE       5 MO||||IX439959-0|REPO|Curncy||||||||||
+ZAR REPO RATE       6 MO||||IX425225-0|REPO|Curncy||||||||||
+ZAR REPO RATE       7 MO||||IX439961-0|REPO|Curncy||||||||||
+ZAR REPO RATE       8 MO||||IX439963-0|REPO|Curncy||||||||||
+ZAR REPO RATE       9 MO||||IX425227-0|REPO|Curncy||||||||||
 ZAR Repo 10M||||IX5297095-0|REPO|Curncy||||||||||
 ZAR Repo 11M||||IX5299199-0|REPO|Curncy||||||||||
