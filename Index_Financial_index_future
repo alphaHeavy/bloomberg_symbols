@@ -1,10 +1,10 @@
-#Data Generated At: Sun Aug 21 06:20:00 EDT 2011
+#Data Generated At: Mon Aug 22 06:38:27 EDT 2011
 #Data Records=465
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 ADVANCED MCRO CEBOSep11|AMDU1|US|399452593039|IX12215825-0|Financial index future.|Index|BBG001KJN3T0||14009|0|0||39495|//blp/mktdata/bsym/US/AMDU1|//blp/mktdata/buid/US/IX12215825-0|//blp/mktdata/bsid/399452593039
-AEX 1MO VAR       Sep11|AEAU1|||IX13406155-0|Financial index future.|Index|BBG0020BB2W8||27267|27268|0||40559|||
-AEX 2MO VAR       Oct11|AEBV1|||IX13406107-0|Financial index future.|Index|BBG0020BB2G6||27267|27268|0||40559|||
+AEX 1MO VAR       Sep11|AEAU1|LIF|609908818391|IX13406155-0|Financial index future.|Index|BBG0020BB2W8||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAU1|//blp/mktdata/buid/LIF/IX13406155-0|//blp/mktdata/bsid/609908818391
+AEX 2MO VAR       Oct11|AEBV1|LIF|609908818388|IX13406107-0|Financial index future.|Index|BBG0020BB2G6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEBV1|//blp/mktdata/buid/LIF/IX13406107-0|//blp/mktdata/bsid/609908818388
 AEX 3MO VAR       Sep11|AECU1|LIF|609907537892|IX12978143-0|Financial index future.|Index|BBG001R723S3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AECU1|//blp/mktdata/buid/LIF/IX12978143-0|//blp/mktdata/bsid/609907537892
 AEX Dividend Inde Dec15|AXDZ5|NA|468170863292|IX11705229-0|Financial index future.|Index|BBG001BS6FN8||27269|27270|0||39605|//blp/mktdata/bsym/NA/AXDZ5|//blp/mktdata/buid/NA/IX11705229-0|//blp/mktdata/bsid/468170863292
 AEX Dividend IndexDec11|AXDZ1|NA|468167773295|IX10319402-0|Financial index future.|Index|BBG000ZP49Z3||27269|27270|0||39605|//blp/mktdata/bsym/NA/AXDZ1|//blp/mktdata/buid/NA/IX10319402-0|//blp/mktdata/bsid/468167773295
@@ -46,7 +46,7 @@ Brent Future BWAV Mar13|BCWH3|ICE|1172546302801|IX12058308-0|Financial index fut
 Brent Future BWAV Nov11|BCWX1|ICE|1172526551054|IX11705005-0|Financial index future.|Index|BBG001BS6CY3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWX1|//blp/mktdata/buid/ICE/IX11705005-0|//blp/mktdata/bsid/1172526551054
 Brent Future BWAV Sep12|BCWU2|ICE|1172526551064|IX10865914-0|Financial index future.|Index|BBG0014SQVK2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWU2|//blp/mktdata/buid/ICE/IX10865914-0|//blp/mktdata/bsid/1172526551064
 Brent Future BWAV Sep13|BCWU3|ICE|1172549468450|IX13379304-0|Financial index future.|Index|BBG00203F0L8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWU3|//blp/mktdata/buid/ICE/IX13379304-0|//blp/mktdata/bsid/1172549468450
-CAC 1MO VAR       Sep11|CAAU1|||IX13406159-0|Financial index future.|Index|BBG0020BB2X7||27267|27268|0||40559|||
+CAC 1MO VAR       Sep11|CAAU1|LIF|609908818392|IX13406159-0|Financial index future.|Index|BBG0020BB2X7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAAU1|//blp/mktdata/buid/LIF/IX13406159-0|//blp/mktdata/bsid/609908818392
 CAC 3MO VAR       Sep11|CAYU1|LIF|609907537891|IX12978135-0|Financial index future.|Index|BBG001R723Q5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAYU1|//blp/mktdata/buid/LIF/IX12978135-0|//blp/mktdata/bsid/609907537891
 CBOE MINI VIX FUT Nov11|MVIX1|CBF|773117510803|IX13379940-0|Financial index future.|Index|BBG00203JKV9||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIX1|//blp/mktdata/buid/CBF/IX13379940-0|//blp/mktdata/bsid/773117510803
 CBOE MINI VIX FUT Oct11|MVIV1|CBF|773116955733|IX13191266-0|Financial index future.|Index|BBG001XT6VM8||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIV1|//blp/mktdata/buid/CBF/IX13191266-0|//blp/mktdata/bsid/773116955733
@@ -60,7 +60,7 @@ CREDIT IN EVT S4  Jun13|CCEM3|eCME|2078766093473|IX4421345-0|Financial index fut
 CREDIT IN EVT S5  Dec13|CCIZ3|eCME|2078778287926|IX9858894-0|Financial index future.|Index|BBG000WHF090||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCIZ3|//blp/mktdata/buid/eCME/IX9858894-0|//blp/mktdata/bsid/2078778287926
 CSI 300 IDX FUTUR Dec11|IFBZ1|CFF|7460379452098|IX12556799-0|Financial index future.|Index|BBG001MNRV77||33518|33518|0||40796|//blp/mktdata/bsym/CFF/IFBZ1|//blp/mktdata/buid/CFF/IX12556799-0|//blp/mktdata/bsid/7460379452098
 CSI 300 IDX FUTUR Mar12|IFBH2|CFF|7460380852605|IX13166951-0|Financial index future.|Index|BBG001WVLFN1||33518|33518|0||40796|//blp/mktdata/bsym/CFF/IFBH2|//blp/mktdata/buid/CFF/IX13166951-0|//blp/mktdata/bsid/7460380852605
-CSI 300 IDX FUTUR Oct11|IFBV1|||IX13402399-0|Financial index future.|Index|BBG0020B48G1||33518|33518|0||40796|||
+CSI 300 IDX FUTUR Oct11|IFBV1|CFF|7460381641429|IX13402399-0|Financial index future.|Index|BBG0020B48G1||33518|33518|0||40796|//blp/mktdata/bsym/CFF/IFBV1|//blp/mktdata/buid/CFF/IX13402399-0|//blp/mktdata/bsid/7460381641429
 CSI 300 IDX FUTUR Sep11|IFBU1|CFF|7460378102546|IX11924066-0|Financial index future.|Index|BBG001DQ8J41||33518|33518|0||40796|//blp/mktdata/bsym/CFF/IFBU1|//blp/mktdata/buid/CFF/IX11924066-0|//blp/mktdata/bsid/7460378102546
 Citigroup Cebo    Dec11|CIDZ1|US|399453382564|IX12612509-0|Financial index future.|Index|BBG001NMC8W7||14009|0|0||39495|//blp/mktdata/bsym/US/CIDZ1|//blp/mktdata/buid/US/IX12612509-0|//blp/mktdata/bsid/399453382564
 Citigroup Cebo    Dec12|CIDZ2|US|399453382565|IX12612633-0|Financial index future.|Index|BBG001NMCYH7||14009|0|0||39495|//blp/mktdata/bsym/US/CIDZ2|//blp/mktdata/buid/US/IX12612633-0|//blp/mktdata/bsid/399453382565
@@ -88,7 +88,7 @@ ESTX SelDiv30 F   Dec11|SDIZ1|EUX|279193681252|IX12343384-0|Financial index futu
 ESTX SelDiv30 F   Mar12|SDIH2|EUX|279195052647|IX12977575-0|Financial index future.|Index|BBG001R720C6||14066|14111|0||39521|//blp/mktdata/bsym/EUX/SDIH2|//blp/mktdata/buid/EUX/IX12977575-0|//blp/mktdata/bsid/279195052647
 ESTX SelDiv30 F   Sep11|SDIU1|EUX|279192313213|IX11716950-0|Financial index future.|Index|BBG001BW9709||14066|14111|0||39521|//blp/mktdata/bsym/EUX/SDIU1|//blp/mktdata/buid/EUX/IX11716950-0|//blp/mktdata/bsid/279192313213
 Euro Inflation    Apr12|HICJ2|EUX|279190843076|IX10896470-0|Financial index future.|Index|BBG0014YRNS8||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICJ2|//blp/mktdata/buid/EUX/IX10896470-0|//blp/mktdata/bsid/279190843076
-Euro Inflation    Apr13|HICJ3|||IX13406211-0|Financial index future.|Index|BBG0020BB3C8||14066|14111|0||39521|||
+Euro Inflation    Apr13|HICJ3|EUX|279196328830|IX13406211-0|Financial index future.|Index|BBG0020BB3C8||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICJ3|//blp/mktdata/buid/EUX/IX13406211-0|//blp/mktdata/bsid/279196328830
 Euro Inflation    Aug12|HICQ2|EUX|279192297716|IX11705097-0|Financial index future.|Index|BBG001BS6DP1||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICQ2|//blp/mktdata/buid/EUX/IX11705097-0|//blp/mktdata/bsid/279192297716
 Euro Inflation    Dec11|HICZ1|EUX|279189035431|IX10270025-0|Financial index future.|Index|BBG000ZGBSV7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICZ1|//blp/mktdata/buid/EUX/IX10270025-0|//blp/mktdata/bsid/279189035431
 Euro Inflation    Dec12|HICZ2|EUX|279194127742|IX12561399-0|Financial index future.|Index|BBG001MP7633||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICZ2|//blp/mktdata/buid/EUX/IX12561399-0|//blp/mktdata/bsid/279194127742
@@ -112,11 +112,11 @@ FGC UES Futs      Mar12|FEEH2|||IX12943138-0|Financial index future.|Index|BBG00
 FGC UES Futs      Sep11|FEEU1|||IX12928005-0|Financial index future.|Index|BBG001R03NN8||14134|14134|0||39558|||
 FRA on IGPM FutureJan12|FISF2|eBMF|2074476320321|IX7289012-0|Financial index future.|Index|BBG000X114V6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/FISF2|//blp/mktdata/buid/eBMF/IX7289012-0|//blp/mktdata/bsid/2074476320321
 FRA on IPCA FutureJan12|FCSF2|eBMF|2074476320318|IX7288904-0|Financial index future.|Index|BBG000X112M0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/FCSF2|//blp/mktdata/buid/eBMF/IX7288904-0|//blp/mktdata/bsid/2074476320318
-FTSE 100 1MO VAR  Sep11|FAAU1|||IX13406151-0|Financial index future.|Index|BBG0020BB2T2||27267|27268|0||40559|||
-FTSE 100 2MO VAR  Oct11|FABV1|||IX13406111-0|Financial index future.|Index|BBG0020BB2H5||27267|27268|0||40559|||
+FTSE 100 1MO VAR  Sep11|FAAU1|LIF|609908818390|IX13406151-0|Financial index future.|Index|BBG0020BB2T2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FAAU1|//blp/mktdata/buid/LIF/IX13406151-0|//blp/mktdata/bsid/609908818390
+FTSE 100 2MO VAR  Oct11|FABV1|LIF|609908818389|IX13406111-0|Financial index future.|Index|BBG0020BB2H5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FABV1|//blp/mktdata/buid/LIF/IX13406111-0|//blp/mktdata/bsid/609908818389
 FTSE 100 3MO VAR  Sep11|FACU1|LIF|609907537890|IX12978131-0|Financial index future.|Index|BBG001R723P6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FACU1|//blp/mktdata/buid/LIF/IX12978131-0|//blp/mktdata/bsid/609907537890
 FTSE Finland 25   Dec11|DFIZ1|LDX|14727463667041|IX12343724-0|Financial index future.|Index|BBG001KY1S43||39240|39240|0||40114|//blp/mktdata/bsym/LDX/DFIZ1|//blp/mktdata/buid/LDX/IX12343724-0|//blp/mktdata/bsid/14727463667041
-FTSE Finland 25   Nov11|DFIX1|||IX13406079-0|Financial index future.|Index|BBG0020BB249||39240|39240|0||40114|||
+FTSE Finland 25   Nov11|DFIX1|LDX|14727466314571|IX13406079-0|Financial index future.|Index|BBG0020BB249||39240|39240|0||40114|//blp/mktdata/bsym/LDX/DFIX1|//blp/mktdata/buid/LDX/IX13406079-0|//blp/mktdata/bsid/14727466314571
 FTSE Finland 25   Oct11|DFIV1|LDX|14727465515388|IX13169143-0|Financial index future.|Index|BBG001WWF549||39240|39240|0||40114|//blp/mktdata/bsym/LDX/DFIV1|//blp/mktdata/buid/LDX/IX13169143-0|//blp/mktdata/bsid/14727465515388
 FTSE Finland 25   Sep11|DFIU1|LDX|14727462297211|IX11717014-0|Financial index future.|Index|BBG001BW97N4||39240|39240|0||40114|//blp/mktdata/bsym/LDX/DFIU1|//blp/mktdata/buid/LDX/IX11717014-0|//blp/mktdata/bsid/14727462297211
 FTSE Nasd Dub Fut Dec11|DUAZ1|DFX|8538414408225|IX11705109-0|Financial index future.|Index|BBG001BS6DS8||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAZ1|//blp/mktdata/buid/DFX/IX11705109-0|//blp/mktdata/bsid/8538414408225
@@ -135,7 +135,7 @@ FTSE S30 Idx Futs Jan12|XQCF2|LDX|14727456695010|IX9778031-0|Financial index fut
 FTSE S30 Idx Futs Jan13|XQCF3|LDX|14727457329240|IX9954438-0|Financial index future.|Index|BBG000Z33JY2||39240|39240|0||40114|//blp/mktdata/bsym/LDX/XQCF3|//blp/mktdata/buid/LDX/IX9954438-0|//blp/mktdata/bsid/14727457329240
 FTSE S30 Idx Futs Jan14|XQCF4|LDX|14727462820592|IX11929290-0|Financial index future.|Index|BBG001DQJGM5||39240|39240|0||40114|//blp/mktdata/bsym/LDX/XQCF4|//blp/mktdata/buid/LDX/IX11929290-0|//blp/mktdata/bsid/14727462820592
 FTSE S30 Idx Futs Jul12|XQCN2|LDX|14727465517436|IX13169839-0|Financial index future.|Index|BBG001WWF772||39240|39240|0||40114|//blp/mktdata/bsym/LDX/XQCN2|//blp/mktdata/buid/LDX/IX13169839-0|//blp/mktdata/bsid/14727465517436
-FTSE S30 Idx Futs Nov11|XQCX1|||IX13406087-0|Financial index future.|Index|BBG0020BB258||39240|39240|0||40114|||
+FTSE S30 Idx Futs Nov11|XQCX1|LDX|14727466314572|IX13406087-0|Financial index future.|Index|BBG0020BB258||39240|39240|0||40114|//blp/mktdata/bsym/LDX/XQCX1|//blp/mktdata/buid/LDX/IX13406087-0|//blp/mktdata/bsid/14727466314572
 FTSE S30 Idx Futs Oct11|XQCV1|LDX|14727461504435|IX11300729-0|Financial index future.|Index|BBG0017FY1G9||39240|39240|0||40114|//blp/mktdata/bsym/LDX/XQCV1|//blp/mktdata/buid/LDX/IX11300729-0|//blp/mktdata/bsid/14727461504435
 FTSE/EPRA Eur Zon Dec11|REIZ1|EOP1|7718077045660|IX12343616-0|Financial index future.|Index|BBG001KY1R81||27269|27270|0||39605|//blp/mktdata/bsym/EOP1/REIZ1|//blp/mktdata/buid/EOP1/IX12343616-0|//blp/mktdata/bsid/7718077045660
 FTSE/EPRA Eur Zon Mar12|REIH2|EOP1|7718078409324|IX12977623-0|Financial index future.|Index|BBG001R720R0||27269|27270|0||39605|//blp/mktdata/bsym/EOP1/REIH2|//blp/mktdata/buid/EOP1/IX12977623-0|//blp/mktdata/bsid/7718078409324
