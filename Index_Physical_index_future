@@ -1,5 +1,5 @@
-#Data Generated At: Mon Aug 22 06:38:37 EDT 2011
-#Data Records=6177
+#Data Generated At: Tue Aug 23 06:27:45 EDT 2011
+#Data Records=6179
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -631,6 +631,8 @@ CAN HVY CRUD INDX Sep13|WCCU3|cNYM|10028766596942|IX10889269-0|Physical index fu
 CAN HVY CRUD INDX Sep13|WCCU3|cNYM|10028766596942|IX10889269-0|Physical index future.|Index|BBG0014XS4B9||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCU3|//blp/mktdata/buid/cNYM/IX10889269-0|//blp/mktdata/bsid/10028766596942
 CAN HVY CRUD INDX Sep13|WCCU3|eNYM|2117436837710|IX10889269-0|Physical index future.|Index|BBG0014XS4B9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCU3|//blp/mktdata/buid/eNYM/IX10889269-0|//blp/mktdata/bsid/2117436837710
 CAN HVY CRUD INDX Sep13|WCCU3|eNYM|2117436837710|IX10889269-0|Physical index future.|Index|BBG0014XS4B9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCU3|//blp/mktdata/buid/eNYM/IX10889269-0|//blp/mktdata/bsid/2117436837710
+CAN HVY CRUD INDX Sep14|WCCU4|||IX13418861-0|Physical index future.|Index|BBG00210M339||14088|14088|0||39532|||
+CAN HVY CRUD INDX Sep14|WCCU4|||IX13418861-0|Physical index future.|Index|BBG00210M339||14088|14088|0||39532|||
 CARPATICA Bank    Dec11|BBCZ1|||IX11789223-0|Physical index future.|Index|BBG001CTR9T0||33996|33996|0||40099|||
 CARPATICA Bank    Jun12|BBCM2|||IX13063714-0|Physical index future.|Index|BBG001VD98W2||33996|33996|0||40099|||
 CARPATICA Bank    Mar12|BBCH2|||IX12452315-0|Physical index future.|Index|BBG001LZ2C16||33996|33996|0||40099|||
