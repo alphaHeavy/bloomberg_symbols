@@ -1,5 +1,5 @@
-#Data Generated At: Tue Aug 23 06:15:46 EDT 2011
-#Data Records=10418
+#Data Generated At: Wed Aug 24 06:28:54 EDT 2011
+#Data Records=10455
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS 10YR||||IX9296024-0|SWAP|Curncy||||||||||
 AED CCS 1YR||||IX9295984-0|SWAP|Curncy||||||||||
@@ -136,7 +136,9 @@ AUD SWAP (QTRLY) 1 WK||||IX914037-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 1 YR||||IX263019-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 1 YR||||IX485055-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 10 YR||||IX485081-0|SWAP|Curncy||||||||||
+AUD SWAP (QTRLY) 10M||||IX13427286-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 10YR||||IX316842-0|SWAP|Curncy||||||||||
+AUD SWAP (QTRLY) 11M||||IX13427294-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 12 YR||||IX10380708-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 12YR||||IX354537-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 15 MO||||IX1386810-0|SWAP|Curncy||||||||||
@@ -161,14 +163,18 @@ AUD SWAP (QTRLY) 30Y||||IX7035202-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 3M||||IX12882367-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 4 YR||||IX271431-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 4 YR||||IX485075-0|SWAP|Curncy||||||||||
+AUD SWAP (QTRLY) 4M||||IX13427278-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 5 YR||||IX271433-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 5 YR||||IX485077-0|SWAP|Curncy||||||||||
+AUD SWAP (QTRLY) 5M||||IX13427274-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 6 MO||||IX914053-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 6 YR||||IX316838-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 6M||||IX12954809-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 7 YR||||IX316840-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 7 YR||||IX485079-0|SWAP|Curncy||||||||||
+AUD SWAP (QTRLY) 7M||||IX13427282-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 8 YR||||IX10380700-0|SWAP|Curncy||||||||||
+AUD SWAP (QTRLY) 8M||||IX13427290-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 9 MO||||IX914057-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 9 YR||||IX10380704-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY) 9M||||IX12882371-0|SWAP|Curncy||||||||||
@@ -189,6 +195,27 @@ AUD SWAP (SEMI-AN) 6Y||||IX12683506-0|SWAP|Curncy||||||||||
 AUD SWAP (SEMI-AN) 7Y||||IX12683510-0|SWAP|Curncy||||||||||
 AUD SWAP (SEMI-AN) 8Y||||IX12683514-0|SWAP|Curncy||||||||||
 AUD SWAP (SEMI-AN) 9Y||||IX12683518-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 10Y||||IX343903-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 11Y||||IX6737009-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 12Y||||IX314060-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 15Y||||IX343905-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 1M||||IX3821841-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 1W|||||SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 1Y||||IX343901-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 20Y||||IX343909-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 25Y||||IX511796-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 2Y||||IX343907-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 30Y||||IX511798-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 3M||||IX3822025-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 3Y||||IX343911-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 40Y||||IX3809515-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 4Y||||IX343913-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 5Y||||IX343915-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 6M||||IX3822037-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 6Y||||IX343917-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 7Y||||IX343919-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 8Y||||IX343923-0|SWAP|Curncy||||||||||
+AUD SWAP (VS 6M LIB) 9Y||||IX343921-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 1M LIB) 1MO||||IX1364755-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 1M LIB) 1YR||||IX800377-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 1M LIB) 2MO||||IX800365-0|SWAP|Curncy||||||||||
@@ -209,64 +236,44 @@ AUD SWAP (vs 3M LIB) 1YR||||IX800363-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 3M LIB) 6MO||||IX800359-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 3M LIB) 9MO||||IX800361-0|SWAP|Curncy||||||||||
 AUD SWAP 1 YR||||IX224357-0|SWAP|Curncy||||||||||
-AUD SWAP 1 YR||||IX343901-0|SWAP|Curncy||||||||||
 AUD SWAP 10M||||IX3822053-0|SWAP|Curncy||||||||||
 AUD SWAP 10YR||||IX224369-0|SWAP|Curncy||||||||||
-AUD SWAP 10YR||||IX343903-0|SWAP|Curncy||||||||||
 AUD SWAP 11M||||IX3822057-0|SWAP|Curncy||||||||||
 AUD SWAP 11YR||||IX1191598-0|SWAP|Curncy||||||||||
-AUD SWAP 11YR||||IX6737009-0|SWAP|Curncy||||||||||
 AUD SWAP 12 YR||||IX350375-0|SWAP|Curncy||||||||||
-AUD SWAP 12YR||||IX314060-0|SWAP|Curncy||||||||||
 AUD SWAP 13YR||||IX1191606-0|SWAP|Curncy||||||||||
 AUD SWAP 14YR||||IX1191610-0|SWAP|Curncy||||||||||
 AUD SWAP 15M||||IX6667009-0|SWAP|Curncy||||||||||
 AUD SWAP 15YR||||IX295162-0|SWAP|Curncy||||||||||
-AUD SWAP 15YR||||IX343905-0|SWAP|Curncy||||||||||
 AUD SWAP 16YR||||IX1191658-0|SWAP|Curncy||||||||||
 AUD SWAP 17YR||||IX1191662-0|SWAP|Curncy||||||||||
 AUD SWAP 18M||||IX6667013-0|SWAP|Curncy||||||||||
 AUD SWAP 18YR||||IX1191666-0|SWAP|Curncy||||||||||
 AUD SWAP 19YR||||IX1191670-0|SWAP|Curncy||||||||||
-AUD SWAP 1M||||IX3821841-0|SWAP|Curncy||||||||||
 AUD SWAP 2 YR||||IX224359-0|SWAP|Curncy||||||||||
-AUD SWAP 2 YR||||IX343907-0|SWAP|Curncy||||||||||
 AUD SWAP 20YR||||IX296042-0|SWAP|Curncy||||||||||
-AUD SWAP 20YR||||IX343909-0|SWAP|Curncy||||||||||
 AUD SWAP 21M||||IX6667017-0|SWAP|Curncy||||||||||
 AUD SWAP 21YR||||IX1191674-0|SWAP|Curncy||||||||||
 AUD SWAP 22YR||||IX1191678-0|SWAP|Curncy||||||||||
 AUD SWAP 23YR||||IX1191682-0|SWAP|Curncy||||||||||
 AUD SWAP 24YR||||IX1191686-0|SWAP|Curncy||||||||||
-AUD SWAP 25YR||||IX511796-0|SWAP|Curncy||||||||||
 AUD SWAP 25YR||||IX583588-0|SWAP|Curncy||||||||||
 AUD SWAP 26YR||||IX1191690-0|SWAP|Curncy||||||||||
 AUD SWAP 27YR||||IX1191694-0|SWAP|Curncy||||||||||
 AUD SWAP 28YR||||IX1191698-0|SWAP|Curncy||||||||||
 AUD SWAP 29YR||||IX1191702-0|SWAP|Curncy||||||||||
 AUD SWAP 2M||||IX3822021-0|SWAP|Curncy||||||||||
-AUD SWAP 3 YR||||IX343911-0|SWAP|Curncy||||||||||
 AUD SWAP 30YR||||IX1191706-0|SWAP|Curncy||||||||||
-AUD SWAP 30YR||||IX511798-0|SWAP|Curncy||||||||||
-AUD SWAP 3M||||IX3822025-0|SWAP|Curncy||||||||||
 AUD SWAP 4 YR||||IX224363-0|SWAP|Curncy||||||||||
-AUD SWAP 4 YR||||IX343913-0|SWAP|Curncy||||||||||
-AUD SWAP 40YR||||IX3809515-0|SWAP|Curncy||||||||||
 AUD SWAP 4M||||IX3822029-0|SWAP|Curncy||||||||||
 AUD SWAP 5 YR||||IX224365-0|SWAP|Curncy||||||||||
-AUD SWAP 5 YR||||IX343915-0|SWAP|Curncy||||||||||
 AUD SWAP 5M||||IX3822033-0|SWAP|Curncy||||||||||
 AUD SWAP 6 YR||||IX296040-0|SWAP|Curncy||||||||||
-AUD SWAP 6 YR||||IX343917-0|SWAP|Curncy||||||||||
-AUD SWAP 6M||||IX3822037-0|SWAP|Curncy||||||||||
 AUD SWAP 7 YR||||IX224367-0|SWAP|Curncy||||||||||
-AUD SWAP 7 YR||||IX343919-0|SWAP|Curncy||||||||||
 AUD SWAP 7M||||IX3822041-0|SWAP|Curncy||||||||||
 AUD SWAP 8 YR||||IX339253-0|SWAP|Curncy||||||||||
-AUD SWAP 8 YR||||IX343923-0|SWAP|Curncy||||||||||
 AUD SWAP 8M||||IX3822045-0|SWAP|Curncy||||||||||
 AUD SWAP 9 YR||||IX339255-0|SWAP|Curncy||||||||||
-AUD SWAP 9 YR||||IX343921-0|SWAP|Curncy||||||||||
 AUD SWAP 9M||||IX3822049-0|SWAP|Curncy||||||||||
 AUD SWAP IBOR 1 WK||||IX3012533-0|SWAP|Curncy||||||||||
 AUD SWAP IBOR 10 MO||||IX3012561-0|SWAP|Curncy||||||||||
@@ -1473,6 +1480,7 @@ CAD SWAP 2M||||IX558198-0|SWAP|Curncy||||||||||
 CAD SWAP 3 YR||||IX368073-0|SWAP|Curncy||||||||||
 CAD SWAP 30YR||||IX511872-0|SWAP|Curncy||||||||||
 CAD SWAP 3M||||IX466295-0|SWAP|Curncy||||||||||
+CAD SWAP 3M|||||SWAP|Curncy||||||||||
 CAD SWAP 4 YR||||IX368075-0|SWAP|Curncy||||||||||
 CAD SWAP 40YR||||IX3781023-0|SWAP|Curncy||||||||||
 CAD SWAP 4M||||IX558200-0|SWAP|Curncy||||||||||
@@ -1489,24 +1497,33 @@ CAD SWAP 9 YR||||IX368371-0|SWAP|Curncy||||||||||
 CAD SWAP 9M||||IX466299-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL 8 YR||||IX521607-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL 9 YR||||IX521613-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 10M|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 10Y||||IX521577-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 11M|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 12Y||||IX12869909-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 15M||||IX521579-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 15Y||||IX521581-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 18M||||IX521583-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 1M|||||SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 1W|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 1Y||||IX521575-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 20Y||||IX521587-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 25Y||||IX521589-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 2M|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 2Y||||IX521585-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 30Y||||IX521595-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 3M||||IX521591-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 3Y||||IX521593-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 4M|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 4Y||||IX521597-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 5M|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 5Y||||IX521599-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 6M||||IX521601-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 6Y||||IX521603-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 7M|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 7Y||||IX521605-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V3M) 8M|||||SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M)9 MO||||IX521611-0|SWAP|Curncy||||||||||
-CAD SWAP ANNUAL(v3M)3 MO||||IX521591-0|SWAP|Curncy||||||||||
 CAD SWAP IBOR (FIX) 9 MO||||IX3223738-0|SWAP|Curncy||||||||||
 CAD SWAP IBOR 1 MO||||IX3011248-0|SWAP|Curncy||||||||||
 CAD SWAP IBOR 1 WK||||IX3011184-0|SWAP|Curncy||||||||||
@@ -1590,12 +1607,62 @@ CER SWAP 9 YR||||IX2923880-0|SWAP|Curncy||||||||||
 CH IPD ALL PROP DEC07||||IX4443458-0|SWAP|Curncy||||||||||
 CH IPD ALL PROP FR DEC07||||IX5982021-0|SWAP|Curncy||||||||||
 CH IPD ALL PROP FR DEC08||||IX5982025-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 10M||||IX13427262-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 10M||||IX13427266-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 11M||||IX13427270-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 1M||||IX13427246-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 1W||||IX13427238-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 25Y||||IX6049074-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 2M||||IX13427242-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 30Y||||IX6049078-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 3M||||IX6153268-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 4M||||IX13427250-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 5M||||IX13427258-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 7M||||IX13427254-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 10M||||IX3825105-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 10Y||||IX269901-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 11M||||IX3825109-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 11Y||||IX447389-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 12Y||||IX341437-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 13Y||||IX1191858-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 14Y||||IX1191862-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 15Y||||IX341439-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 16Y||||IX1191866-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 17Y||||IX1191870-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 18Y||||IX1191874-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 19Y||||IX1191878-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 1M||||IX444209-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 1W||||IX2048014-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 20Y||||IX341441-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 21Y||||IX1191886-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 22Y||||IX1191890-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 23Y||||IX1191894-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 24Y||||IX1191898-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 25Y||||IX444185-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 26Y||||IX1191902-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 27Y||||IX1191906-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 28Y||||IX1191910-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 29Y||||IX1191914-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 2M||||IX2048026-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 2Y||||IX269891-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 6M LIB) 3M||||IX12861932-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 3M||||IX395745-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 3Y||||IX269893-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 40Y||||IX444189-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 4M||||IX3825089-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 4Y||||IX269895-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 50Y||||IX2437610-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 5M||||IX3825093-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 5Y||||IX269897-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 6M LIB) 6M||||IX12861928-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 6M||||IX395743-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 6Y||||IX320147-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 7M||||IX3825097-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 7Y||||IX269899-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 8M||||IX3825101-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 6M LIB) 9M||||IX12861924-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB) 9Y||||IX320151-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 6M LIB)1Y||||IX269887-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 1M LIB) 10M||||IX2437598-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 1M LIB) 11M||||IX2437602-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 1M LIB) 1MO||||IX9383116-0|SWAP|Curncy||||||||||
@@ -1699,51 +1766,10 @@ CHF SWAP (vs12M LIB)20YR||||IX7676815-0|SWAP|Curncy||||||||||
 CHF SWAP (vs12M LIB)25YR||||IX7676819-0|SWAP|Curncy||||||||||
 CHF SWAP (vs12M LIB)30YR||||IX7676823-0|SWAP|Curncy||||||||||
 CHF SWAP (vs12M LIB)40YR||||IX7676827-0|SWAP|Curncy||||||||||
-CHF SWAP 1 WK||||IX2048014-0|SWAP|Curncy||||||||||
-CHF SWAP 10M||||IX3825105-0|SWAP|Curncy||||||||||
-CHF SWAP 10YR||||IX269901-0|SWAP|Curncy||||||||||
-CHF SWAP 11 YR||||IX447389-0|SWAP|Curncy||||||||||
-CHF SWAP 11M||||IX3825109-0|SWAP|Curncy||||||||||
-CHF SWAP 12YR||||IX341437-0|SWAP|Curncy||||||||||
-CHF SWAP 13YR||||IX1191858-0|SWAP|Curncy||||||||||
-CHF SWAP 14YR||||IX1191862-0|SWAP|Curncy||||||||||
 CHF SWAP 15M||||IX12861920-0|SWAP|Curncy||||||||||
-CHF SWAP 15YR||||IX341439-0|SWAP|Curncy||||||||||
-CHF SWAP 16YR||||IX1191866-0|SWAP|Curncy||||||||||
-CHF SWAP 17YR||||IX1191870-0|SWAP|Curncy||||||||||
 CHF SWAP 18MO||||IX269889-0|SWAP|Curncy||||||||||
-CHF SWAP 18YR||||IX1191874-0|SWAP|Curncy||||||||||
-CHF SWAP 19YR||||IX1191878-0|SWAP|Curncy||||||||||
-CHF SWAP 1M||||IX444209-0|SWAP|Curncy||||||||||
-CHF SWAP 1Y||||IX269887-0|SWAP|Curncy||||||||||
-CHF SWAP 2 YR||||IX269891-0|SWAP|Curncy||||||||||
-CHF SWAP 20YR||||IX341441-0|SWAP|Curncy||||||||||
-CHF SWAP 21YR||||IX1191886-0|SWAP|Curncy||||||||||
-CHF SWAP 22YR||||IX1191890-0|SWAP|Curncy||||||||||
-CHF SWAP 23YR||||IX1191894-0|SWAP|Curncy||||||||||
-CHF SWAP 24YR||||IX1191898-0|SWAP|Curncy||||||||||
-CHF SWAP 25YR||||IX444185-0|SWAP|Curncy||||||||||
-CHF SWAP 26YR||||IX1191902-0|SWAP|Curncy||||||||||
-CHF SWAP 27YR||||IX1191906-0|SWAP|Curncy||||||||||
-CHF SWAP 28YR||||IX1191910-0|SWAP|Curncy||||||||||
-CHF SWAP 29YR||||IX1191914-0|SWAP|Curncy||||||||||
-CHF SWAP 2M||||IX2048026-0|SWAP|Curncy||||||||||
-CHF SWAP 3 YR||||IX269893-0|SWAP|Curncy||||||||||
 CHF SWAP 30YR||||IX444187-0|SWAP|Curncy||||||||||
-CHF SWAP 3M||||IX395745-0|SWAP|Curncy||||||||||
-CHF SWAP 4 YR||||IX269895-0|SWAP|Curncy||||||||||
-CHF SWAP 40YR||||IX444189-0|SWAP|Curncy||||||||||
-CHF SWAP 4M||||IX3825089-0|SWAP|Curncy||||||||||
-CHF SWAP 5 YR||||IX269897-0|SWAP|Curncy||||||||||
-CHF SWAP 50YR||||IX2437610-0|SWAP|Curncy||||||||||
-CHF SWAP 5M||||IX3825093-0|SWAP|Curncy||||||||||
-CHF SWAP 6 YR||||IX320147-0|SWAP|Curncy||||||||||
-CHF SWAP 6M||||IX395743-0|SWAP|Curncy||||||||||
-CHF SWAP 7 YR||||IX269899-0|SWAP|Curncy||||||||||
-CHF SWAP 7M||||IX3825097-0|SWAP|Curncy||||||||||
 CHF SWAP 8 YR||||IX320149-0|SWAP|Curncy||||||||||
-CHF SWAP 8M||||IX3825101-0|SWAP|Curncy||||||||||
-CHF SWAP 9 YR||||IX320151-0|SWAP|Curncy||||||||||
 CHF SWAP 9M||||IX395741-0|SWAP|Curncy||||||||||
 CHF SWAP IBOR 1 MO||||IX1365947-0|SWAP|Curncy||||||||||
 CHF SWAP IBOR 1 WK||||IX3012481-0|SWAP|Curncy||||||||||
@@ -4871,6 +4897,8 @@ GBP SWAP (vs 1M LIB)15MO||||IX4476281-0|SWAP|Curncy||||||||||
 GBP SWAP (vs 1M LIB)21MO||||IX4476285-0|SWAP|Curncy||||||||||
 GBP SWAP (vs 3M LIB) 15M||||IX1089211-0|SWAP|Curncy||||||||||
 GBP SWAP (vs 3M LIB) 18M||||IX1089215-0|SWAP|Curncy||||||||||
+GBP SWAP (vs 3M LIB) 1MO||||IX13424662-0|SWAP|Curncy||||||||||
+GBP SWAP (vs 3M LIB) 1W||||IX13424798-0|SWAP|Curncy||||||||||
 GBP SWAP (vs 3M LIB) 21M||||IX2436981-0|SWAP|Curncy||||||||||
 GBP SWAP (vs 3M LIB) 2MO||||IX9423656-0|SWAP|Curncy||||||||||
 GBP SWAP (vs 3M LIB) 2YR||||IX675164-0|SWAP|Curncy||||||||||
@@ -6026,28 +6054,39 @@ JPY SWAP (VS 1M LIB) 3MO||||IX719689-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 1M LIB) 6MO||||IX719691-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 1M LIB) 9MO||||IX579998-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 1M LIB) 9MO||||IX719693-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 10M||||IX13426810-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 10Y||||IX10580125-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 11M||||IX13426814-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 12Y||||IX10580129-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 15M||||IX2437574-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 15Y||||IX10580133-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 18M||||IX1726136-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 1MO||||IX13426786-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 1W||||IX13426782-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 1YR||||IX856769-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 20Y||||IX10580137-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 21M||||IX2437578-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 25Y||||IX10580141-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 2MO||||IX13426790-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 2YR||||IX719699-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 30Y||||IX10580145-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 3MO||||IX12801070-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 3YR||||IX10580097-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 40Y||||IX10580149-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 4MO||||IX13426798-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 4YR||||IX10580101-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 5MO||||IX13426794-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 5YR||||IX10580105-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 6MO||||IX719697-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 6YR||||IX10580109-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 7MO||||IX13426802-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 7YR||||IX10580113-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 3M LIB) 8MO||||IX13426806-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 8YR||||IX10580117-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 9MO||||IX2437570-0|SWAP|Curncy||||||||||
 JPY SWAP (VS 3M LIB) 9YR||||IX10580121-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 6M LIB) 1WK||||IX1444383-0|SWAP|Curncy||||||||||
+JPY SWAP (VS 6M LIB) 3M||||IX1444395-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 1M LIB) 10M||||IX2437562-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 1M LIB) 11M||||IX2437566-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 1M LIB) 18M||||IX7909914-0|SWAP|Curncy||||||||||
@@ -6069,7 +6108,6 @@ JPY SWAP (vs 1M LIB)12YR||||IX580006-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 3M TIB) 1YR||||IX6032298-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 3M TIB) 2YR||||IX6032302-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 3M TIB) 3YR||||IX6032306-0|SWAP|Curncy||||||||||
-JPY SWAP (vs 6M LIB) 1WK||||IX1444383-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 6M LIB) O/N||||IX1444371-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 6M LIB) S/N||||IX1444375-0|SWAP|Curncy||||||||||
 JPY SWAP (vs 6M LIB) T/N||||IX1444379-0|SWAP|Curncy||||||||||
@@ -6134,7 +6172,6 @@ JPY SWAP 30MO||||IX343111-0|SWAP|Curncy||||||||||
 JPY SWAP 30YR||||IX1192259-0|SWAP|Curncy||||||||||
 JPY SWAP 30YR||||IX483760-0|SWAP|Curncy||||||||||
 JPY SWAP 35YR||||IX1443712-0|SWAP|Curncy||||||||||
-JPY SWAP 3M||||IX1444395-0|SWAP|Curncy||||||||||
 JPY SWAP 4 YR||||IX259285-0|SWAP|Curncy||||||||||
 JPY SWAP 4 YR||||IX329459-0|SWAP|Curncy||||||||||
 JPY SWAP 4.5YR||||IX353585-0|SWAP|Curncy||||||||||

@@ -1,5 +1,5 @@
-#Data Generated At: Tue Aug 23 06:27:33 EDT 2011
-#Data Records=16222
+#Data Generated At: Wed Aug 24 06:41:32 EDT 2011
+#Data Records=16227
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1260,6 +1260,10 @@ BI AS Cnst & Mine Comp|BIASCMAC Index|||EI09BIASCMAC|Equity Index|Index|BBG00179
 BI Air& Def P&I Mfg PB|BIAIRPGP Index|||EI09BIAIRPGP|Equity Index|Index|BBG001QL7LP1|||||||||
 BI Air&Def P&I Mfg Cmp|BIAIRPGC Index|||EI09BIAIRPGC|Equity Index|Index|BBG001QL7LN3|||||||||
 BI All Cable/Satellite|BICATVGC Index|||EI09BICATVGC|Equity Index|Index|BBG001CBDCZ0|||||||||
+BI All Competitive Index|BIALLCMP Index|||EI09BIALLCMP|Equity Index|Index||||||||||
+BI All Prin Bus  Index|BIALLPBI Index|||EI09BIALLPBI|Equity Index|Index||||||||||
+BI All Shares Index|BIALLSHR Index|||EI09BIALLSHR|Equity Index|Index||||||||||
+BI All Top Index   Index|BIALLTOP Index|||EI09BIALLTOP|Equity Index|Index||||||||||
 BI Cardiology Comp Peers|BICDIOC Index|||EI09BICDIOC|Equity Index|Index|BBG001DCLQ96|||||||||
 BI Cardiology Valuation|BICDIOV Index|||EI09BICDIOV|Equity Index|Index|BBG001DCLQ87|||||||||
 BI Chinese Airlines|BIAIRCHV Index|||EI09BIAIRCHV|Equity Index|Index|BBG001LM4P96|||||||||
@@ -2466,6 +2470,7 @@ CSRBBNKS|CSRBBNKS Index|CSUK|5987207392987|EI09CSRBBNKS|Equity Index|Index|BBG00
 CSRBDIVS|CSRBDIVS Index|CSUK|5987202672269|EI09CSRBDIVS|Equity Index|Index|BBG00161NHS5|||||30908||//blp/mktdata/bsym/CSUK/CSRBDIVS Index|//blp/mktdata/buid/CSUK/EI09CSRBDIVS|//blp/mktdata/bsid/5987202672269
 CSRBEXPL|CSRBEXPL Index|CSUK|5987202672263|EI09CSRBEXPL|Equity Index|Index|BBG00161NHT4|||||30908||//blp/mktdata/bsym/CSUK/CSRBEXPL Index|//blp/mktdata/buid/CSUK/EI09CSRBEXPL|//blp/mktdata/bsid/5987202672263
 CSRBEXPS|CSRBEXPS Index|CSUK|5987202672270|EI09CSRBEXPS|Equity Index|Index|BBG00161NHV1|||||30908||//blp/mktdata/bsym/CSUK/CSRBEXPS Index|//blp/mktdata/buid/CSUK/EI09CSRBEXPS|//blp/mktdata/bsid/5987202672270
+CSRBFRAN|CSRBFRAN Index|CSUK|5987208007195|EI09CSRBFRAN|Equity Index|Index|BBG002131880|||||30908||//blp/mktdata/bsym/CSUK/CSRBFRAN Index|//blp/mktdata/buid/CSUK/EI09CSRBFRAN|//blp/mktdata/bsid/5987208007195
 CSRUSBUL|CSRUSBUL Index|CSUK|5987203314813|EI09CSRUSBUL|Equity Index|Index|BBG0018LFSL1|||||30908||//blp/mktdata/bsym/CSUK/CSRUSBUL Index|//blp/mktdata/buid/CSUK/EI09CSRUSBUL|//blp/mktdata/bsid/5987203314813
 CSSACIEX|CSSACIEX Index|CSUK|5987203369858|EI09CSSACIEX|Equity Index|Index|BBG0018T3NK9|||||30908||//blp/mktdata/bsym/CSUK/CSSACIEX Index|//blp/mktdata/buid/CSUK/EI09CSSACIEX|//blp/mktdata/bsid/5987203369858
 CSSADIV1|CSSADIV1 Index|CSUK|5987206773523|EI09CSSADIV1|Equity Index|Index|BBG001V46FQ6|||||30908||//blp/mktdata/bsym/CSUK/CSSADIV1 Index|//blp/mktdata/buid/CSUK/EI09CSSADIV1|//blp/mktdata/bsid/5987206773523
@@ -3022,6 +3027,7 @@ DB SX7P EX GREECE TACTIC|DBCT7PXG Index|DBAB|4681537514307|EI09DBCT7PXG|Equity I
 DB SXIP ex Borrow Ban Ta|DBCTSXIX Index|DBAB|4681537800391|EI09DBCTSXIX|Equity Index|Index|BBG0020B7Z23|||||14835||//blp/mktdata/bsym/DBAB/DBCTSXIX Index|//blp/mktdata/buid/DBAB/EI09DBCTSXIX|//blp/mktdata/bsid/4681537800391
 DB SXPP + Glencore Tact|DBCTSXPG Index|DBAB|4681536275090|EI09DBCTSXPG|Equity Index|Index|BBG001QCZWM9|||||14835||//blp/mktdata/bsym/DBAB/DBCTSXPG Index|//blp/mktdata/buid/DBAB/EI09DBCTSXPG|//blp/mktdata/bsid/4681536275090
 DB SXXP EX BORROW BAN TA|DBCTSXPX Index|DBAB|4681537782300|EI09DBCTSXPX|Equity Index|Index|BBG0020835C9|||||14835||//blp/mktdata/bsym/DBAB/DBCTSXPX Index|//blp/mktdata/buid/DBAB/EI09DBCTSXPX|//blp/mktdata/bsid/4681537782300
+DB SXXP ex-7P IP GR Cust|DBCTSXXX Index|DBAB|4681537949818|EI09DBCTSXXX|Equity Index|Index|BBG002132WT3|||||14835||//blp/mktdata/bsym/DBAB/DBCTSXXX Index|//blp/mktdata/buid/DBAB/EI09DBCTSXXX|//blp/mktdata/bsid/4681537949818
 DB Scaps Hi DE Lo DY|DBCGSCDY Index|DBAB|4681532215054|EI09DBCGSCDY|Equity Index|Index|BBG0014KQXX1|||||14835||//blp/mktdata/bsym/DBAB/DBCGSCDY Index|//blp/mktdata/buid/DBAB/EI09DBCGSCDY|//blp/mktdata/bsid/4681532215054
 DB Short Low Risk|DBQCSRKM Index|DBAB|4681536434229|EI09DBQCSRKM|Equity Index|Index|BBG001QXW572|||||14835||//blp/mktdata/bsym/DBAB/DBQCSRKM Index|//blp/mktdata/buid/DBAB/EI09DBQCSRKM|//blp/mktdata/bsid/4681536434229
 DB Short Mom May11|DBQTSMMK Index|DBAB|4681535892181|EI09DBQTSMMK|Equity Index|Index|BBG001P3Z3Z0|||||14835||//blp/mktdata/bsym/DBAB/DBQTSMMK Index|//blp/mktdata/buid/DBAB/EI09DBQTSMMK|//blp/mktdata/bsid/4681535892181
@@ -4815,6 +4821,7 @@ GS Bespoke Basket|GSBAEMEA Index|GOLD||EI09GSBAEMEA|Equity Index|Index|BBG001YTN
 GS Bespoke Basket|GSBBMB7P Index|GOLD|3384452450937|EI09GSBBMB7P|Equity Index|Index|BBG0015VTK43|||||32744||//blp/mktdata/bsym/GOLD/GSBBMB7P Index|//blp/mktdata/buid/GOLD/EI09GSBBMB7P|//blp/mktdata/bsid/3384452450937
 GS Bespoke Basket|GSBK1207 Index|GOLD|3384441345942|EI09GSBK1207|Equity Index|Index|BBG000X11BK2|||||||//blp/mktdata/bsym/GOLD/GSBK1207 Index|//blp/mktdata/buid/GOLD/EI09GSBK1207|//blp/mktdata/bsid/3384441345942
 GS Bespoke Basket|GSECGLS Index|GOLD||EI09GSECGLS|Equity Index|Index|BBG00204H3D7|||||||//blp/mktdata/bsym/GOLD/GSECGLS Index|//blp/mktdata/buid/GOLD/EI09GSECGLS|
+GS Bespoke Basket|GSECMDEX Index|GOLD||EI09GSECMDEX|Equity Index|Index|BBG00212D479|||||33368||//blp/mktdata/bsym/GOLD/GSECMDEX Index|//blp/mktdata/buid/GOLD/EI09GSECMDEX|
 GS Bespoke Basket|GSEUSMB Index|GOLD||EI09GSEUSMB|Equity Index|Index|BBG001ZZ0LF8|||||||//blp/mktdata/bsym/GOLD/GSEUSMB Index|//blp/mktdata/buid/GOLD/EI09GSEUSMB|
 GS Bespoke Basket|GSEUSSB Index|GOLD|3384457183886|EI09GSEUSSB|Equity Index|Index|BBG001Y9J2S5|||||33368||//blp/mktdata/bsym/GOLD/GSEUSSB Index|//blp/mktdata/buid/GOLD/EI09GSEUSSB|//blp/mktdata/bsid/3384457183886
 GS Bespoke Basket|GSFFP002 Index|GOLD||EI09GSFFP002|Equity Index|Index|BBG001R6KZH6|||||33368||//blp/mktdata/bsym/GOLD/GSFFP002 Index|//blp/mktdata/buid/GOLD/EI09GSFFP002|
@@ -4831,11 +4838,9 @@ GS CAT IN MidCap 2|GSSZINM2 Index|EPCS|3143926962382|EI09GSSZINM2|Equity Index|I
 GS CAT IN MidCaps Hedge|GSSZINMC Index|EPCS|3143918015707|EI09GSSZINMC|Equity Index|Index|BBG000YTLWV0|||||26227||//blp/mktdata/bsym/EPCS/GSSZINMC Index|//blp/mktdata/buid/EPCS/EI09GSSZINMC|//blp/mktdata/bsid/3143918015707
 GS CAT JP EM exposed|GSSZJPEM Index|EPCS|3143918872016|EI09GSSZJPEM|Equity Index|Index|BBG000YTM058|||||26227||//blp/mktdata/bsym/EPCS/GSSZJPEM Index|//blp/mktdata/buid/EPCS/EI09GSSZJPEM|//blp/mktdata/bsid/3143918872016
 GS CAT JP MidCaps Hedge|GSSZJPM2 Index|EPCS|3143919943723|EI09GSSZJPM2|Equity Index|Index|BBG000YTM0F7|||||26227||//blp/mktdata/bsym/EPCS/GSSZJPM2 Index|//blp/mktdata/buid/EPCS/EI09GSSZJPM2|//blp/mktdata/bsid/3143919943723
-GS CAT KR Brokers|GSSZKRBR Index|EPCS|3143918015992|EI09GSSZKRBR|Equity Index|Index|BBG000YTLZB5|||||26227||//blp/mktdata/bsym/EPCS/GSSZKRBR Index|//blp/mktdata/buid/EPCS/EI09GSSZKRBR|//blp/mktdata/bsid/3143918015992
 GS CAT KR Consumers|GSSZKRCS Index|EPCS|3143918015819|EI09GSSZKRCS|Equity Index|Index|BBG000YTLXW7|||||26227||//blp/mktdata/bsym/EPCS/GSSZKRCS Index|//blp/mktdata/buid/EPCS/EI09GSSZKRCS|//blp/mktdata/bsid/3143918015819
 GS CAT KR Defensives|GSSZKRDF Index|EPCS|3143918015821|EI09GSSZKRDF|Equity Index|Index|BBG000YTLY00|||||26227||//blp/mktdata/bsym/EPCS/GSSZKRDF Index|//blp/mktdata/buid/EPCS/EI09GSSZKRDF|//blp/mktdata/bsid/3143918015821
 GS CAT KR Finance Hedge|GSSZKRFN Index|EPCS|3143918015697|EI09GSSZKRFN|Equity Index|Index|BBG000YTLWG7|||||26227||//blp/mktdata/bsym/EPCS/GSSZKRFN Index|//blp/mktdata/buid/EPCS/EI09GSSZKRFN|//blp/mktdata/bsid/3143918015697
-GS CAT KR Foreign favs|GSSZKRFL Index|EPCS|3143928760776|EI09GSSZKRFL|Equity Index|Index|BBG000YZPWM2|||||26227||//blp/mktdata/bsym/EPCS/GSSZKRFL Index|//blp/mktdata/buid/EPCS/EI09GSSZKRFL|//blp/mktdata/bsid/3143928760776
 GS CAT TW Financials|GSSZTWFN Index|EPCS|3143921944122|EI09GSSZTWFN|Equity Index|Index|BBG000YZP0Q8|||||26227||//blp/mktdata/bsym/EPCS/GSSZTWFN Index|//blp/mktdata/buid/EPCS/EI09GSSZTWFN|//blp/mktdata/bsid/3143921944122
 GS CAT TW Liq Domestics|GSSZTWLD Index|EPCS|3143920791805|EI09GSSZTWLD|Equity Index|Index|BBG000YTM156|||||26227||//blp/mktdata/bsym/EPCS/GSSZTWLD Index|//blp/mktdata/buid/EPCS/EI09GSSZTWLD|//blp/mktdata/bsid/3143920791805
 GS CEE Consumer Basket|GSCEECON Index|GOLD|3384452971263|EI09GSCEECON|Equity Index|Index|BBG0017V06X1|||||||//blp/mktdata/bsym/GOLD/GSCEECON Index|//blp/mktdata/buid/GOLD/EI09GSCEECON|//blp/mktdata/bsid/3384452971263
@@ -10060,6 +10065,7 @@ NMRA M&A Basket|NMRAMERG Index|NMDP|1447422274968|EI09NMRAMERG|Equity Index|Inde
 NMRA0001|NMRA0001 Index|NMDP|1447418135178|EI09NMRA0001|Equity Index|Index|BBG000YZT440|||||37029||//blp/mktdata/bsym/NMDP/NMRA0001 Index|//blp/mktdata/buid/NMDP/EI09NMRA0001|//blp/mktdata/bsid/1447418135178
 NMRA0002|NMRA0002 Index|NMDP|1447418135177|EI09NMRA0002|Equity Index|Index|BBG000YZT4D0|||||37029||//blp/mktdata/bsym/NMDP/NMRA0002 Index|//blp/mktdata/buid/NMDP/EI09NMRA0002|//blp/mktdata/bsid/1447418135177
 NMRA0003|NMRA0003 Index|NMDP|1447418688653|EI09NMRA0003|Equity Index|Index|BBG000Z391P5|||||37029||//blp/mktdata/bsym/NMDP/NMRA0003 Index|//blp/mktdata/buid/NMDP/EI09NMRA0003|//blp/mktdata/bsid/1447418688653
+NMRA0171|NMRA0171 Index|NMDP|1447427574793|EI09NMRA0171|Equity Index|Index|BBG00212ZHV9|||||37029||//blp/mktdata/bsym/NMDP/NMRA0171 Index|//blp/mktdata/buid/NMDP/EI09NMRA0171|//blp/mktdata/bsid/1447427574793
 NMRA14JP|NMRA14JP Index|NMDP|1447424917468|EI09NMRA14JP|Equity Index|Index|BBG001LJHL98|||||37029||//blp/mktdata/bsym/NMDP/NMRA14JP Index|//blp/mktdata/buid/NMDP/EI09NMRA14JP|//blp/mktdata/bsid/1447424917468
 NMRA3YGL|NMRA3YGL Index|NMDP|1447414406737|EI09NMRA3YGL|Equity Index|Index|BBG000GZQFD8|||||37029||//blp/mktdata/bsym/NMDP/NMRA3YGL Index|//blp/mktdata/buid/NMDP/EI09NMRA3YGL|//blp/mktdata/bsid/1447414406737
 NMRA3YGS|NMRA3YGS Index|NMDP|1447414406738|EI09NMRA3YGS|Equity Index|Index|BBG000GZRKR1|||||37029||//blp/mktdata/bsym/NMDP/NMRA3YGS Index|//blp/mktdata/buid/NMDP/EI09NMRA3YGS|//blp/mktdata/bsid/1447414406738
@@ -15732,7 +15738,6 @@ Test Ticker 7|CGDOXXX7 Index|CGDO||EI09CGDOXXX7|Equity Index|Index|BBG00191TVV1|
 Test Ticker 8|CGDOXXX8 Index|CGDO||EI09CGDOXXX8|Equity Index|Index|BBG00191TVW0|||||31088||//blp/mktdata/bsym/CGDO/CGDOXXX8 Index|//blp/mktdata/buid/CGDO/EI09CGDOXXX8|
 Test Ticker 9|CGDOXXX9 Index|CGDO||EI09CGDOXXX9|Equity Index|Index|BBG00191TVX9|||||31088||//blp/mktdata/bsym/CGDO/CGDOXXX9 Index|//blp/mktdata/buid/CGDO/EI09CGDOXXX9|
 Test release|NMRAANDY Index|NMDP|1447424328889|EI09NMRAANDY|Equity Index|Index|BBG001JWY614|||||37029||//blp/mktdata/bsym/NMDP/NMRAANDY Index|//blp/mktdata/buid/NMDP/EI09NMRAANDY|//blp/mktdata/bsid/1447424328889
-Thailand Property Dev|JPHTBPPY Index|JPUS|7116771532140|EI09JPHTBPPY|Equity Index|Index|BBG000VDXWQ1|||||33088||//blp/mktdata/bsym/JPUS/JPHTBPPY Index|//blp/mktdata/buid/JPUS/EI09JPHTBPPY|//blp/mktdata/bsid/7116771532140
 ThomReuters/JefferiesCRB|CRY Index|NYB|695784996020|EI09CRY|Equity Index|Index|BBG000H59NC6||14008|14008|||40065|//blp/mktdata/bsym/NYB/CRY Index|//blp/mktdata/buid/NYB/EI09CRY|//blp/mktdata/bsid/695784996020
 Tobacco GBP|MSBPTOGB Index|MSBP||EI09MSBPTOGB|Equity Index|Index|BBG001MHBJ38|||||||//blp/mktdata/bsym/MSBP/MSBPTOGB Index|//blp/mktdata/buid/MSBP/EI09MSBPTOGB|
 Top French Stocks|CGDOFRNC Index|CGDO||EI09CGDOFRNC|Equity Index|Index|BBG0015KJ5W0|||||31088||//blp/mktdata/bsym/CGDO/CGDOFRNC Index|//blp/mktdata/buid/CGDO/EI09CGDOFRNC|
