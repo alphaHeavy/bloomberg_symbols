@@ -1,4 +1,4 @@
-#Data Generated At: Wed Aug 24 06:28:07 EDT 2011
+#Data Generated At: Thu Aug 25 06:27:27 EDT 2011
 #Data Records=3935
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Aug11|ADCQ1|YLX|8744576404106|IX13256019-0|Currency future.|Curncy|BBG001YCX2S2||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCQ1|//blp/mktdata/buid/YLX/IX13256019-0|//blp/mktdata/bsid/8744576404106
@@ -782,12 +782,12 @@ BRL/NZD Future    Jan12|ZNDF2|eBMF|2074492611966|IX13385089-0|Currency future.|C
 BRL/NZD Future    Nov11|ZNDX1|eBMF|2074492611964|IX13385081-0|Currency future.|Curncy|BBG00204W368||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZNDX1|//blp/mktdata/buid/eBMF/IX13385081-0|//blp/mktdata/bsid/2074492611964
 BRL/NZD Future    Oct11|ZNDV1|eBMF|2074492611963|IX13385077-0|Currency future.|Curncy|BBG00204W359||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZNDV1|//blp/mktdata/buid/eBMF/IX13385077-0|//blp/mktdata/bsid/2074492611963
 BRL/NZD Future    Sep11|ZNDU1|eBMF|2074492611962|IX13385069-0|Currency future.|Curncy|BBG00204W206||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZNDU1|//blp/mktdata/buid/eBMF/IX13385069-0|//blp/mktdata/bsid/2074492611962
-BRL/TRY Future    Dec11|ZTRZ1|||IX13388241-0|Currency future.|Curncy|BBG00205CY05||14098|14098|0||39537|||
-BRL/TRY Future    Feb12|ZTRG2|||IX13388249-0|Currency future.|Curncy|BBG00205CY23||14098|14098|0||39537|||
-BRL/TRY Future    Jan12|ZTRF2|||IX13388245-0|Currency future.|Curncy|BBG00205CY14||14098|14098|0||39537|||
-BRL/TRY Future    Nov11|ZTRX1|||IX13388237-0|Currency future.|Curncy|BBG00205CXZ9||14098|14098|0||39537|||
-BRL/TRY Future    Oct11|ZTRV1|||IX13388233-0|Currency future.|Curncy|BBG00205CXY0||14098|14098|0||39537|||
-BRL/TRY Future    Sep11|ZTRU1|||IX13388225-0|Currency future.|Curncy|BBG00205CXR8||14098|14098|0||39537|||
+BRL/TRY Future    Dec11|ZTRZ1|eBMF|2074492789575|IX13388241-0|Currency future.|Curncy|BBG00205CY05||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZTRZ1|//blp/mktdata/buid/eBMF/IX13388241-0|//blp/mktdata/bsid/2074492789575
+BRL/TRY Future    Feb12|ZTRG2|eBMF|2074492789577|IX13388249-0|Currency future.|Curncy|BBG00205CY23||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZTRG2|//blp/mktdata/buid/eBMF/IX13388249-0|//blp/mktdata/bsid/2074492789577
+BRL/TRY Future    Jan12|ZTRF2|eBMF|2074492789576|IX13388245-0|Currency future.|Curncy|BBG00205CY14||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZTRF2|//blp/mktdata/buid/eBMF/IX13388245-0|//blp/mktdata/bsid/2074492789576
+BRL/TRY Future    Nov11|ZTRX1|eBMF|2074492789574|IX13388237-0|Currency future.|Curncy|BBG00205CXZ9||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZTRX1|//blp/mktdata/buid/eBMF/IX13388237-0|//blp/mktdata/bsid/2074492789574
+BRL/TRY Future    Oct11|ZTRV1|eBMF|2074492789573|IX13388233-0|Currency future.|Curncy|BBG00205CXY0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZTRV1|//blp/mktdata/buid/eBMF/IX13388233-0|//blp/mktdata/bsid/2074492789573
+BRL/TRY Future    Sep11|ZTRU1|eBMF|2074492789572|IX13388225-0|Currency future.|Curncy|BBG00205CXR8||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZTRU1|//blp/mktdata/buid/eBMF/IX13388225-0|//blp/mktdata/bsid/2074492789572
 BRL/ZAR Future    Dec11|ZZAZ1|eBMF|2074492617316|IX13388269-0|Currency future.|Curncy|BBG00205FC37||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZZAZ1|//blp/mktdata/buid/eBMF/IX13388269-0|//blp/mktdata/bsid/2074492617316
 BRL/ZAR Future    Feb12|ZZAG2|eBMF|2074492617318|IX13388277-0|Currency future.|Curncy|BBG00205FDJ8||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZZAG2|//blp/mktdata/buid/eBMF/IX13388277-0|//blp/mktdata/bsid/2074492617318
 BRL/ZAR Future    Jan12|ZZAF2|eBMF|2074492617317|IX13388273-0|Currency future.|Curncy|BBG00205FDH0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZZAF2|//blp/mktdata/buid/eBMF/IX13388273-0|//blp/mktdata/bsid/2074492617317

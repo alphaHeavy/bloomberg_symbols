@@ -1,5 +1,5 @@
-#Data Generated At: Wed Aug 24 06:41:32 EDT 2011
-#Data Records=16227
+#Data Generated At: Thu Aug 25 06:40:10 EDT 2011
+#Data Records=16231
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -2633,6 +2633,7 @@ Citi Euro Corporate Bond|CGEIEAC Index|CGDO||EI09CGEIEAC|Equity Index|Index|BBG0
 Citi Euro Corporate Bond|CGEIEUN5 Index|CGDO||EI09CGEIEUN5|Equity Index|Index|BBG001Z696S2|||||||//blp/mktdata/bsym/CGDO/CGEIEUN5 Index|//blp/mktdata/buid/CGDO/EI09CGEIEUN5|
 Citi Euro Treasury Bond|CGEEUN6 Index|CGDO||EI09CGEEUN6|Equity Index|Index|BBG001Z696P5|||||||//blp/mktdata/bsym/CGDO/CGEEUN6 Index|//blp/mktdata/buid/CGDO/EI09CGEEUN6|
 Citi Euro Treasury Bond|CGEIEGE Index|CGDO||EI09CGEIEGE|Equity Index|Index|BBG001Z696N7|||||||//blp/mktdata/bsym/CGDO/CGEIEGE Index|//blp/mktdata/buid/CGDO/EI09CGEIEGE|
+Citi Europe Real Estate|CGDOREAL Index|CGDO||EI09CGDOREAL|Equity Index|Index|BBG002158V14|||||31088||//blp/mktdata/bsym/CGDO/CGDOREAL Index|//blp/mktdata/buid/CGDO/EI09CGDOREAL|
 Citi European Banks|CGDOEUBK Index|CGDO|3405926108875|EI09CGDOEUBK|Equity Index|Index|BBG000LGCMG1|||||31088||//blp/mktdata/bsym/CGDO/CGDOEUBK Index|//blp/mktdata/buid/CGDO/EI09CGDOEUBK|//blp/mktdata/bsid/3405926108875
 Citi FTSE BRIC 50|CGEIQQ9 Index|CGDO||EI09CGEIQQ9|Equity Index|Index|BBG001Z68M17|||||||//blp/mktdata/bsym/CGDO/CGEIQQ9 Index|//blp/mktdata/buid/CGDO/EI09CGEIQQ9|
 Citi FTSE/Xinhua China 2|CGEIQQC Index|CGDO||EI09CGEIQQC|Equity Index|Index|BBG001Z51JZ6|||||||//blp/mktdata/bsym/CGDO/CGEIQQC Index|//blp/mktdata/buid/CGDO/EI09CGEIQQC|
@@ -2677,6 +2678,7 @@ Citi MSCI World|CGEIQQW Index|CGDO||EI09CGEIQQW|Equity Index|Index|BBG001Z51K56|
 Citi Margin Compression|CGDOCOMP Index|CGDO||EI09CGDOCOMP|Equity Index|Index|BBG001D8ZB11|||||31088||//blp/mktdata/bsym/CGDO/CGDOCOMP Index|//blp/mktdata/buid/CGDO/EI09CGDOCOMP|
 Citi NASDAQ-100|CGEINDX Index|CGDO||EI09CGEINDX|Equity Index|Index|BBG001Z51J68|||||||//blp/mktdata/bsym/CGDO/CGEINDX Index|//blp/mktdata/buid/CGDO/EI09CGEINDX|
 Citi Nikkei 225|CGEINKY Index|CGDO||EI09CGEINKY|Equity Index|Index|BBG001Z51J95|||||||//blp/mktdata/bsym/CGDO/CGEINKY Index|//blp/mktdata/buid/CGDO/EI09CGEINKY|
+Citi OBX Swap|CGXXOBX Index|CGDO||EI09CGXXOBX|Equity Index|Index|BBG002150DR4|||||||//blp/mktdata/bsym/CGDO/CGXXOBX Index|//blp/mktdata/buid/CGDO/EI09CGXXOBX|
 Citi S&P 500 (Acc)|CGEIEUNP Index|CGDO||EI09CGEIEUNP|Equity Index|Index|BBG001Z697N5|||||||//blp/mktdata/bsym/CGDO/CGEIEUNP Index|//blp/mktdata/buid/CGDO/EI09CGEIEUNP|
 Citi S&P Global Timber|CGEIUSB Index|CGDO||EI09CGEIUSB|Equity Index|Index|BBG001Z68MB6|||||||//blp/mktdata/bsym/CGDO/CGEIUSB Index|//blp/mktdata/buid/CGDO/EI09CGEIUSB|
 Citi S&P Global Water|CGEIQQQ Index|CGDO||EI09CGEIQQQ|Equity Index|Index|BBG001Z68LT9|||||||//blp/mktdata/bsym/CGDO/CGEIQQQ Index|//blp/mktdata/buid/CGDO/EI09CGEIQQQ|
@@ -2777,6 +2779,7 @@ Citi SXXE Sustainability|CGEISUB Index|CGDO||EI09CGEISUB|Equity Index|Index|BBG0
 Citi Short Pin Basket|CGDOPINS Index|CGDO||EI09CGDOPINS|Equity Index|Index|BBG001B2Q047|||||31088||//blp/mktdata/bsym/CGDO/CGDOPINS Index|//blp/mktdata/buid/CGDO/EI09CGDOPINS|
 Citi TecDAX|CGEITDX Index|CGDO||EI09CGEITDX|Equity Index|Index|BBG001Z51HT7|||||||//blp/mktdata/bsym/CGDO/CGEITDX Index|//blp/mktdata/buid/CGDO/EI09CGEITDX|
 Citi Top Large Caps|CGDOLGCP Index|CGDO||EI09CGDOLGCP|Equity Index|Index|BBG0014V6Q82|||||31088||//blp/mktdata/bsym/CGDO/CGDOLGCP Index|//blp/mktdata/buid/CGDO/EI09CGDOLGCP|
+Citi Tradable Africa Bas|CGDOAFRI Index|CGDO||EI09CGDOAFRI|Equity Index|Index|BBG002150VJ3|||||31088||//blp/mktdata/bsym/CGDO/CGDOAFRI Index|//blp/mktdata/buid/CGDO/EI09CGDOAFRI|
 Citi Water - EUR|CGDOWATR Index|CGDO|3405919507372|EI09CGDOWATR|Equity Index|Index|BBG001641MN7|||||31088||//blp/mktdata/bsym/CGDO/CGDOWATR Index|//blp/mktdata/buid/CGDO/EI09CGDOWATR|//blp/mktdata/bsid/3405919507372
 Citi Wig20 Swap|CGWIG20 Index|CGDO||EI09CGWIG20|Equity Index|Index|BBG001R20QD1|||||||//blp/mktdata/bsym/CGDO/CGWIG20 Index|//blp/mktdata/buid/CGDO/EI09CGWIG20|
 Citi XU030 Swap|CGXU030 Index|CGDO||EI09CGXU030|Equity Index|Index|BBG001R20QG8|||||||//blp/mktdata/bsym/CGDO/CGXU030 Index|//blp/mktdata/buid/CGDO/EI09CGXU030|
@@ -2965,6 +2968,7 @@ DB Custom Real Estate|DBCTEURE Index|DBAB|4681537406850|EI09DBCTEURE|Equity Inde
 DB Custom Rebal Long2|DBCGMRL2 Index|DBAB|4681536355295|EI09DBCGMRL2|Equity Index|Index|BBG001QMC6N8|||||14835||//blp/mktdata/bsym/DBAB/DBCGMRL2 Index|//blp/mktdata/buid/DBAB/EI09DBCGMRL2|//blp/mktdata/bsid/4681536355295
 DB Custom Rebal Short1|DBCGMRS1 Index|DBAB|4681536341674|EI09DBCGMRS1|Equity Index|Index|BBG001QKLXD4|||||14835||//blp/mktdata/bsym/DBAB/DBCGMRS1 Index|//blp/mktdata/buid/DBAB/EI09DBCGMRS1|//blp/mktdata/bsid/4681536341674
 DB Custom Rebal Short2|DBCGMRS2 Index|DBAB|4681536355294|EI09DBCGMRS2|Equity Index|Index|BBG001QMC6P6|||||14835||//blp/mktdata/bsym/DBAB/DBCGMRS2 Index|//blp/mktdata/buid/DBAB/EI09DBCGMRS2|//blp/mktdata/bsid/4681536355294
+DB Dependable Dividends|DBCGDDVN Index|DBAB|4681537973641|EI09DBCGDDVN|Equity Index|Index|BBG00215F764|||||14835||//blp/mktdata/bsym/DBAB/DBCGDDVN Index|//blp/mktdata/buid/DBAB/EI09DBCGDDVN|//blp/mktdata/bsid/4681537973641
 DB Develop Mrkts Consump|DBCTCODM Index|DBAB|4681531475624|EI09DBCTCODM|Equity Index|Index|BBG0011T9P98|||||14835||//blp/mktdata/bsym/DBAB/DBCTCODM Index|//blp/mktdata/buid/DBAB/EI09DBCTCODM|//blp/mktdata/bsid/4681531475624
 DB EUR M&A 2011 Them Idx|DBCGMA1P Index|DBAB|4681533317605|EI09DBCGMA1P|Equity Index|Index|BBG0018VBW89|||||14835||//blp/mktdata/bsym/DBAB/DBCGMA1P Index|//blp/mktdata/buid/DBAB/EI09DBCGMA1P|//blp/mktdata/bsid/4681533317605
 DB EUR Periph Rec Tact|DBCTEPRP Index|DBAB|4681536364869|EI09DBCTEPRP|Equity Index|Index|BBG001QQ19Q2|||||14835||//blp/mktdata/bsym/DBAB/DBCTEPRP Index|//blp/mktdata/buid/DBAB/EI09DBCTEPRP|//blp/mktdata/bsid/4681536364869

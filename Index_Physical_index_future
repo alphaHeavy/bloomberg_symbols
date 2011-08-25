@@ -1,5 +1,5 @@
-#Data Generated At: Wed Aug 24 06:41:43 EDT 2011
-#Data Records=6177
+#Data Generated At: Thu Aug 25 06:40:22 EDT 2011
+#Data Records=6180
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -706,6 +706,7 @@ CBOE VIX FUTURE   Dec11|UXZ1|CBF|773115489790|IX12584918-0|Physical index future
 CBOE VIX FUTURE   Feb12|UXG2|CBF|773116241606|IX12944026-0|Physical index future.|Index|BBG001R249L6||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXG2|//blp/mktdata/buid/CBF/IX12944026-0|//blp/mktdata/bsid/773116241606
 CBOE VIX FUTURE   Jan12|UXF2|CBF|773115856754|IX12752136-0|Physical index future.|Index|BBG001PKX5C4||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXF2|//blp/mktdata/buid/CBF/IX12752136-0|//blp/mktdata/bsid/773115856754
 CBOE VIX FUTURE   Mar12|UXH2|CBF|773116953917|IX13191298-0|Physical index future.|Index|BBG001XT6VT1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXH2|//blp/mktdata/buid/CBF/IX13191298-0|//blp/mktdata/bsid/773116953917
+CBOE VIX FUTURE   May12|UXK2|CBF|773117732326|IX13432793-0|Physical index future.|Index|BBG0021581S1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXK2|//blp/mktdata/buid/CBF/IX13432793-0|//blp/mktdata/bsid/773117732326
 CBOE VIX FUTURE   Nov11|UXX1|CBF|773114848424|IX12312935-0|Physical index future.|Index|BBG001KSCFC3||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXX1|//blp/mktdata/buid/CBF/IX12312935-0|//blp/mktdata/bsid/773114848424
 CBOE VIX FUTURE   Oct11|UXV1|CBF|773114382512|IX12085875-0|Physical index future.|Index|BBG001J4CJM9||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXV1|//blp/mktdata/buid/CBF/IX12085875-0|//blp/mktdata/bsid/773114382512
 CBOE VIX FUTURE   Sep11|UXU1|CBF|773113968041|IX11897703-0|Physical index future.|Index|BBG001DKGJJ9||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXU1|//blp/mktdata/buid/CBF/IX11897703-0|//blp/mktdata/bsid/773113968041
@@ -5642,6 +5643,7 @@ Snowfall Chicago  Oct11|SNCV1|CME|614200906499|IX12197999-0|Physical index futur
 Snowfall Chicago  Sep11|SNCU1|CME|614200453387|IX12001060-0|Physical index future.|Index|BBG001HPDRD5||14002|14002|0||39490|//blp/mktdata/bsym/CME/SNCU1|//blp/mktdata/buid/CME/IX12001060-0|//blp/mktdata/bsid/614200453387
 Stand Pacific CEBOSep12|JSWU2|US|399433928153|IX4490421-0|Physical index future.|Index|BBG000WFPZ87||14009|0|0||39495|//blp/mktdata/bsym/US/JSWU2|//blp/mktdata/buid/US/IX4490421-0|//blp/mktdata/bsid/399433928153
 TA BANK INDEX FUT Aug11|THQ1|IT|1086648649200|IX12808005-0|Physical index future.|Index|BBG001QD1VP3||14131|14131|0||39556|//blp/mktdata/bsym/IT/THQ1|//blp/mktdata/buid/IT/IX12808005-0|//blp/mktdata/bsid/1086648649200
+TA BANK INDEX FUT Nov11|THX1|IT|1086650346982|IX13434325-0|Physical index future.|Index|BBG00215FBW6||14131|14131|0||39556|//blp/mktdata/bsym/IT/THX1|//blp/mktdata/buid/IT/IX13434325-0|//blp/mktdata/bsid/1086650346982
 TA BANK INDEX FUT Oct11|THV1|IT|1086649669166|IX13240137-0|Physical index future.|Index|BBG001Y7FRN3||14131|14131|0||39556|//blp/mktdata/bsym/IT/THV1|//blp/mktdata/buid/IT/IX13240137-0|//blp/mktdata/bsid/1086649669166
 TA BANK INDEX FUT Sep11|THU1|IT|1086649044924|IX13008749-0|Physical index future.|Index|BBG001S0TTW6||14131|14131|0||39556|//blp/mktdata/bsym/IT/THU1|//blp/mktdata/buid/IT/IX13008749-0|//blp/mktdata/bsid/1086649044924
 TAIEX FUTURES     Dec11|FTZ1|FTX|1739481621251|IX11902420-0|Physical index future.|Index|BBG001DLDWS1||14149|14149|0||39565|//blp/mktdata/bsym/FTX/FTZ1|//blp/mktdata/buid/FTX/IX11902420-0|//blp/mktdata/bsid/1739481621251
@@ -5650,6 +5652,7 @@ TAIEX FUTURES     Mar12|FTH2|FTX|1739483142790|IX12589557-0|Physical index futur
 TAIEX FUTURES     Oct11|FTV1|FTX|1739485161111|IX13384965-0|Physical index future.|Index|BBG00204RXK2||14149|14149|0||39565|//blp/mktdata/bsym/FTX/FTV1|//blp/mktdata/buid/FTX/IX13384965-0|//blp/mktdata/bsid/1739485161111
 TAIEX FUTURES     Sep11|FTU1|FTX|1739480498839|IX11323050-0|Physical index future.|Index|BBG0017X18G1||14149|14149|0||39565|//blp/mktdata/bsym/FTX/FTU1|//blp/mktdata/buid/FTX/IX11323050-0|//blp/mktdata/bsid/1739480498839
 TEL AVIV 25 IX FT Aug11|TAQ1|IT|1086648635090|IX12800398-0|Physical index future.|Index|BBG001QB6D36||14131|14131|0||39556|//blp/mktdata/bsym/IT/TAQ1|//blp/mktdata/buid/IT/IX12800398-0|//blp/mktdata/bsid/1086648635090
+TEL AVIV 25 IX FT Nov11|TAX1|IT|1086650346984|IX13434321-0|Physical index future.|Index|BBG00215FBV7||14131|14131|0||39556|//blp/mktdata/bsym/IT/TAX1|//blp/mktdata/buid/IT/IX13434321-0|//blp/mktdata/bsid/1086650346984
 TEL AVIV 25 IX FT Oct11|TAV1|IT|1086649669150|IX13240133-0|Physical index future.|Index|BBG001Y7FRM4||14131|14131|0||39556|//blp/mktdata/bsym/IT/TAV1|//blp/mktdata/buid/IT/IX13240133-0|//blp/mktdata/bsid/1086649669150
 TEL AVIV 25 IX FT Sep11|TAU1|IT|1086649044923|IX13008741-0|Physical index future.|Index|BBG001S0TTT0||14131|14131|0||39556|//blp/mktdata/bsym/IT/TAU1|//blp/mktdata/buid/IT/IX13008741-0|//blp/mktdata/bsid/1086649044923
 TOKYO MO AVG TEMP Apr12|M3J2|eCME|2078785686344|IX12663491-0|Physical index future.|Index|BBG001P11LJ9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M3J2|//blp/mktdata/buid/eCME/IX12663491-0|//blp/mktdata/bsid/2078785686344
