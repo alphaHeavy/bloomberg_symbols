@@ -1,4 +1,4 @@
-#Data Generated At: Thu Aug 25 06:40:10 EDT 2011
+#Data Generated At: Fri Aug 26 06:40:20 EDT 2011
 #Data Records=16231
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
@@ -1342,6 +1342,7 @@ BI GL Coffee&Tea Mfg PrB|BRGNSDCV Index|||EI09BRGNSDCV|Equity Index|Index|BBG000
 BI GL Coking Coal - PB|BRMETCVP Index|||EI09BRMETCVP|Equity Index|Index|BBG0012PVH25|||||||||
 BI GL Comm ICs - Comp|BIGCOMIC Index|||EI09BIGCOMIC|Equity Index|Index|BBG001QZ96T7|||||||||
 BI GL Comp Hardware PB|BRENTPCV Index|||EI09BRENTPCV|Equity Index|Index|BBG0012CWVH6|||||||||
+BI GL Comp Stor-Prin|BISTORGP Index|||EI09BISTORGP|Equity Index|Index|BBG002180T84|||||||||
 BI GL Cond&PetFd&Ot Pr B|BICOFPET Index|||EI09BICOFPET|Equity Index|Index|BBG0017FY7W8|||||||||
 BI GL Construct Mfg PB|BICNSTM Index|||EI09BICNSTM|Equity Index|Index|BBG0018BWLF6|||||||||
 BI GL Construction Cmptv|BICNSTC Index|||EI09BICNSTC|Equity Index|Index|BBG00179TKL1|||||||||
@@ -1437,6 +1438,8 @@ BI GL ODM Comp Idx|BIGODMCP Index|||EI09BIGODMCP|Equity Index|Index|BBG001S3F4C2
 BI GL Onshr IT Serv PB|BIITSVON Index|||EI09BIITSVON|Equity Index|Index|BBG0016SXPJ7|||||||||
 BI GL Orthopedic Cmptv|BRORTPC Index|||EI09BRORTPC|Equity Index|Index|BBG0016N9CB2|||||||||
 BI GL Orthopedic P Bus|BIORTPLY Index|||EI09BIORTPLY|Equity Index|Index|BBG0018X7874|||||||||
+BI GL PC Stor Cmp Peers|BRGPCSTV Index|||EI09BRGPCSTV|Equity Index|Index|BBG0012CXWW6|||||||||
+BI GL PC Stor Cmp Peers|BRGPCSTV Index|||EI09BRGPCSTV|Equity Index|Index|BBG0012CXWW6|||||||||
 BI GL PGM Prin Bus|BRPLAVAL Index|||EI09BRPLAVAL|Equity Index|Index|BBG000Z61HJ8|||||||||
 BI GL Pblshng Media Cmpt|BIPUBLNC Index|||EI09BIPUBLNC|Equity Index|Index|BBG001CBF1J0|||||||||
 BI GL Pc Hdware Comp|BRGPCOMC Index|||EI09BRGPCOMC|Equity Index|Index|BBG0012CXXH1|||||||||
@@ -1701,6 +1704,7 @@ BIGG Citi Big Guns  1/64|CGXXBIGG Index|CGDO||EI09CGXXBIGG|Equity Index|Index|BB
 BIGG Citi Big Guns EUR|CGDOBIGG Index|CGDO|3405922484263|EI09CGDOBIGG|Equity Index|Index|BBG000Y5X6L7|||||31088||//blp/mktdata/bsym/CGDO/CGDOBIGG Index|//blp/mktdata/buid/CGDO/EI09CGDOBIGG|//blp/mktdata/bsid/3405922484263
 BIOTECH BOXES IVALINDEX|BTD Index|NGIB|20310900704814|EI09BTD|Equity Index|Index|BBG000SP6ZV5||45404||||45412|//blp/mktdata/bsym/NGIB/BTD Index|//blp/mktdata/buid/NGIB/EI09BTD|//blp/mktdata/bsid/20310900704814
 BISNIS-27 Index|BISNIS27 Index||1644981508425|EI09BISNIS27|Equity Index|Index|BBG000XH5562|||||||||//blp/mktdata/bsid/1644981508425
+BL GL Cmp Stor Val Peers|BRGPCSTV Index|||EI09BRGPCSTV|Equity Index|Index|BBG0012CXWW6|||||||||
 BL GL Cmp Stor Val Peers|BRGPCSTV Index|||EI09BRGPCSTV|Equity Index|Index|BBG0012CXWW6|||||||||
 BL GL Wind EN PB|BRWINDV Index|||EI09BRWINDV|Equity Index|Index|BBG000ZDGF29|||||||||
 BLOM Emerging Shariah|BESI Index|CME|614189099319|EI09BESI|Equity Index|Index|BBG000X3WZR4||37059|||||//blp/mktdata/bsym/CME/BESI Index|//blp/mktdata/buid/CME/EI09BESI|//blp/mktdata/bsid/614189099319
@@ -5227,7 +5231,6 @@ ISE EWF Index|EWF Index|OPRA|489643859892|EI09EWF|Equity Index|Index|BBG0012QBC4
 ISE FOOD & BEVERAGE|XGIDA Index|TI|837518972664|EI09XGIDA|Equity Index|Index|BBG000RSG8T2||26854|||26854||//blp/mktdata/bsym/TI/XGIDA Index|//blp/mktdata/buid/TI/EI09XGIDA|//blp/mktdata/bsid/837518972664
 ISE Future Energy Index|NEW Index|OPRA|489642049160|EI09NEW|Equity Index|Index|BBG000ZC8TM8||14009||||39495|//blp/mktdata/bsym/OPRA/NEW Index|//blp/mktdata/buid/OPRA/EI09NEW|//blp/mktdata/bsid/489642049160
 ISE GLBL ENGI & CONSTR|CVL Index|OPRA|489634026048|EI09CVL|Equity Index|Index|BBG000X67877||14009||||39495|//blp/mktdata/bsym/OPRA/CVL Index|//blp/mktdata/buid/OPRA/EI09CVL|//blp/mktdata/bsid/489634026048
-ISE GOLD INDEX|HVY Index|OPRA|489626644504|EI09HVY|Equity Index|Index|BBG000T7MRP1||14009||||39495|//blp/mktdata/bsym/OPRA/HVY Index|//blp/mktdata/buid/OPRA/EI09HVY|//blp/mktdata/bsid/489626644504
 ISE Global Copper Index|ISC Index|OPRA|489641957766|EI09ISC|Equity Index|Index|BBG000Z9SC86||14009||||39495|//blp/mktdata/bsym/OPRA/ISC Index|//blp/mktdata/buid/OPRA/EI09ISC|//blp/mktdata/bsid/489641957766
 ISE Global Platinum Indx|ORE Index|OPRA|489641957767|EI09ORE|Equity Index|Index|BBG000Z9SCG7||14009||||39495|//blp/mktdata/bsym/OPRA/ORE Index|//blp/mktdata/buid/OPRA/EI09ORE|//blp/mktdata/bsid/489641957767
 ISE Global Wind Energy|GWE Index|OPRA|489632917319|EI09GWE|Equity Index|Index|BBG000WYSPB1||14009||||39495|//blp/mktdata/bsym/OPRA/GWE Index|//blp/mktdata/buid/OPRA/EI09GWE|//blp/mktdata/bsid/489632917319
@@ -5236,7 +5239,6 @@ ISE HOMEBUILDERS|RUF Index|OPRA|489626645801|EI09RUF|Equity Index|Index|BBG000TB
 ISE INDUSTRIALS|XUSIN Index|TI|837518972663|EI09XUSIN|Equity Index|Index|BBG000RSG867||26854|||26854||//blp/mktdata/bsym/TI/XUSIN Index|//blp/mktdata/buid/TI/EI09XUSIN|//blp/mktdata/bsid/837518972663
 ISE INFO TECHNOLOGY IDX|XBLSM Index|TI|837518972674|EI09XBLSM|Equity Index|Index|BBG000RSGJC6||26854|||26854||//blp/mktdata/bsym/TI/XBLSM Index|//blp/mktdata/buid/TI/EI09XBLSM|//blp/mktdata/bsid/837518972674
 ISE INSURANCE|XSGRT Index|TI|837518972683|EI09XSGRT|Equity Index|Index|BBG000RSGNX4||26854|||26854||//blp/mktdata/bsym/TI/XSGRT Index|//blp/mktdata/buid/TI/EI09XSGRT|//blp/mktdata/bsid/837518972683
-ISE INTEGRATED OIL & GAS|PMP Index|OPRA|489631144524|EI09PMP|Equity Index|Index|BBG000T7NFN8||14009||||39495|//blp/mktdata/bsym/OPRA/PMP Index|//blp/mktdata/buid/OPRA/EI09PMP|//blp/mktdata/bsid/489631144524
 ISE INVESTMENT TRUSTS IX|XYORT Index|TI|837518972682|EI09XYORT|Equity Index|Index|BBG000RSGNR1||26854|||26854||//blp/mktdata/bsym/TI/XYORT Index|//blp/mktdata/buid/TI/EI09XYORT|//blp/mktdata/bsid/837518972682
 ISE METAL PROD MACHINERY|XMESY Index|TI|837518972670|EI09XMESY|Equity Index|Index|BBG000RSGGX9||26854|||26854||//blp/mktdata/bsym/TI/XMESY Index|//blp/mktdata/buid/TI/EI09XMESY|//blp/mktdata/bsid/837518972670
 ISE NATIONAL 100 INDEX|XU100 Index|TI|837518977785|EI09XU100|Equity Index|Index|BBG000SB0M87||26854|||26854||//blp/mktdata/bsym/TI/XU100 Index|//blp/mktdata/buid/TI/EI09XU100|//blp/mktdata/bsid/837518977785
@@ -15715,9 +15717,6 @@ TSE2 WHOLE SALE INDEX|T2WSAL Index|||EI09T2WSAL|Equity Index|Index|BBG000K6R913|
 TSEC TECHNOLOGY INDEX|TWIT Index|TT|751619660586|EI09TWIT|Equity Index|Index|BBG000TZXW21||14052|14052|||39511|//blp/mktdata/bsym/TT/TWIT Index|//blp/mktdata/buid/TT/EI09TWIT|//blp/mktdata/bsid/751619660586
 TWSE NON-FINAN NON-ELECT|TWSENFNE Index|TT|751619664636|EI09TWSENFNE|Equity Index|Index|BBG000V576W7||14052|14052|||39511|//blp/mktdata/bsym/TT/TWSENFNE Index|//blp/mktdata/buid/TT/EI09TWSENFNE|//blp/mktdata/bsid/751619664636
 Tactical R German Export|GSTRGEXP Index|GOLD|3384452187178|EI09GSTRGEXP|Equity Index|Index|BBG0014XPB35|||||33723||//blp/mktdata/bsym/GOLD/GSTRGEXP Index|//blp/mktdata/buid/GOLD/EI09GSTRGEXP|//blp/mktdata/bsid/3384452187178
-Taiwan Asset Play|JPHTTAST Index|JPUS|7116775338545|EI09JPHTTAST|Equity Index|Index|BBG000Z2HW25|||||33088||//blp/mktdata/bsym/JPUS/JPHTTAST Index|//blp/mktdata/buid/JPUS/EI09JPHTTAST|//blp/mktdata/bsid/7116775338545
-Taiwan Broker|JPHTTBKR Index|JPUS|7116775338570|EI09JPHTTBKR|Equity Index|Index|BBG000YD7Q26|||||33088||//blp/mktdata/bsym/JPUS/JPHTTBKR Index|//blp/mktdata/buid/JPUS/EI09JPHTTBKR|//blp/mktdata/bsid/7116775338570
-Taiwan Property|JPHTTPPY Index|JPUS|7116775338601|EI09JPHTTPPY|Equity Index|Index|BBG000Z2HWL4|||||33088||//blp/mktdata/bsym/JPUS/JPHTTPPY Index|//blp/mktdata/buid/JPUS/EI09JPHTTPPY|//blp/mktdata/bsid/7116775338601
 Takeover Targets|CSERTARG Index|CSUK|5987197251636|EI09CSERTARG|Equity Index|Index|BBG000Y2G6V2|||||31523||//blp/mktdata/bsym/CSUK/CSERTARG Index|//blp/mktdata/buid/CSUK/EI09CSERTARG|//blp/mktdata/bsid/5987197251636
 Technology Select Sector|IXT Index|CME|614180662045|EI09IXT|Equity Index|Index|BBG000PQ2VL0||43397|||43966||//blp/mktdata/bsym/CME/IXT Index|//blp/mktdata/buid/CME/EI09IXT|//blp/mktdata/bsid/614180662045
 Telecoms Alternative|GSCGTELA Index|GOLD|3384448217276|EI09GSCGTELA|Equity Index|Index|BBG000YS38H1|||||||//blp/mktdata/bsym/GOLD/GSCGTELA Index|//blp/mktdata/buid/GOLD/EI09GSCGTELA|//blp/mktdata/bsid/3384448217276
@@ -16086,6 +16085,7 @@ XEPS GY|CGEXEPS Index|CGDO||EI09CGEXEPS|Equity Index|Index|BBG0015J0928|||||3108
 XIPS GY|CGEXIPS Index|CGDO||EI09CGEXIPS|Equity Index|Index|BBG0015J0937|||||31088||//blp/mktdata/bsym/CGDO/CGEXIPS Index|//blp/mktdata/buid/CGDO/EI09CGEXIPS|
 XKPS GY|CGEXKPS Index|CGDO||EI09CGEXKPS|Equity Index|Index|BBG0015J0946|||||31088||//blp/mktdata/bsym/CGDO/CGEXKPS Index|//blp/mktdata/buid/CGDO/EI09CGEXKPS|
 XNPS GY|CGEXNPS Index|CGDO||EI09CGEXNPS|Equity Index|Index|BBG0015J0955|||||31088||//blp/mktdata/bsym/CGDO/CGEXNPS Index|//blp/mktdata/buid/CGDO/EI09CGEXNPS|
+XOVER 15|GSECXO15 Index|GOLD||EI09GSECXO15|Equity Index|Index|BBG00217MG99|||||||//blp/mktdata/bsym/GOLD/GSECXO15 Index|//blp/mktdata/buid/GOLD/EI09GSECXO15|
 XPPS GY|CGEXPPS Index|CGDO||EI09CGEXPPS|Equity Index|Index|BBG0015J0964|||||31088||//blp/mktdata/bsym/CGDO/CGEXPPS Index|//blp/mktdata/buid/CGDO/EI09CGEXPPS|
 Yield - European|CGDOEUDY Index|CGDO||EI09CGDOEUDY|Equity Index|Index|BBG001931N18|||||31088||//blp/mktdata/bsym/CGDO/CGDOEUDY Index|//blp/mktdata/buid/CGDO/EI09CGDOEUDY|
 Yield - European|CGDOEUYD Index|CGDO||EI09CGDOEUYD|Equity Index|Index|BBG001931TR7|||||31088||//blp/mktdata/bsym/CGDO/CGDOEUYD Index|//blp/mktdata/buid/CGDO/EI09CGDOEUYD|
