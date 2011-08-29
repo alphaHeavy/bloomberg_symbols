@@ -1,5 +1,5 @@
-#Data Generated At: Sat Aug 27 14:38:26 EDT 2011
-#Data Records=6371
+#Data Generated At: Sun Aug 28 15:06:30 EDT 2011
+#Data Records=6367
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -1900,9 +1900,8 @@ BANK ACCEPT FUTR  Oct11|BAV1|MSE|485354103575|IX13183129-0|Financial commodity f
 BANK ACCEPT FUTR  Sep11|BAU1|MSE|485338755541|IX7621841-0|Financial commodity future.|Comdty|BBG000X3LJX5||14055|14142|0||39513|//blp/mktdata/bsym/MSE/BAU1|//blp/mktdata/buid/MSE/IX7621841-0|//blp/mktdata/bsid/485338755541
 BANK ACCEPT FUTR  Sep12|BAU2|MSE|485343840825|IX9466319-0|Financial commodity future.|Comdty|BBG000XWP8F1||14055|14142|0||39513|//blp/mktdata/bsym/MSE/BAU2|//blp/mktdata/buid/MSE/IX9466319-0|//blp/mktdata/bsid/485343840825
 BANK ACCEPT FUTR  Sep13|BAU3|MSE|485339953092|IX11078665-0|Financial commodity future.|Comdty|BBG00161MGJ8||14055|14142|0||39513|//blp/mktdata/bsym/MSE/BAU3|//blp/mktdata/buid/MSE/IX11078665-0|//blp/mktdata/bsid/485339953092
-BFX Gold Futures  Aug11|BGOQ1|BFX|15711010986142|IX12200248-0|Financial commodity future.|Comdty|BBG001KHK558||40532|40532|0||40585|//blp/mktdata/bsym/BFX/BGOQ1|//blp/mktdata/buid/BFX/IX12200248-0|//blp/mktdata/bsid/15711010986142
 BFX Gold Futures  Dec11|BGOZ1|BFX|15711012735536|IX13036021-0|Financial commodity future.|Comdty|BBG001V522N9||40532|40532|0||40585|//blp/mktdata/bsym/BFX/BGOZ1|//blp/mktdata/buid/BFX/IX13036021-0|//blp/mktdata/bsid/15711012735536
-BFX Gold Futures  Feb12|BGOG2|||IX13450451-0|Financial commodity future.|Comdty|BBG0021C4M04||40532|40532|0||40585|||
+BFX Gold Futures  Feb12|BGOG2|BFX|15711014045394|IX13450451-0|Financial commodity future.|Comdty|BBG0021C4M04||40532|40532|0||40585|//blp/mktdata/bsym/BFX/BGOG2|//blp/mktdata/buid/BFX/IX13450451-0|//blp/mktdata/bsid/15711014045394
 BFX Gold Futures  Oct11|BGOV1|BFX|15711011805082|IX12620494-0|Financial commodity future.|Comdty|BBG001NNJRG4||40532|40532|0||40585|//blp/mktdata/bsym/BFX/BGOV1|//blp/mktdata/buid/BFX/IX12620494-0|//blp/mktdata/bsid/15711011805082
 BRAZIL A BOND     Apr12|ZCJ2|eBMF|2074490280638|IX12456707-0|Financial commodity future.|Comdty|BBG001LZ6K69||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZCJ2|//blp/mktdata/buid/eBMF/IX12456707-0|//blp/mktdata/bsid/2074490280638
 BRAZIL A BOND     Jan12|ZCF2|eBMF|2074488848809|IX11806287-0|Financial commodity future.|Comdty|BBG001CTTPB1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZCF2|//blp/mktdata/buid/eBMF/IX11806287-0|//blp/mktdata/bsid/2074488848809
@@ -3947,7 +3946,6 @@ IDEX Quarterly Fu Mar12|IDEH2Q|IM|60149134960|IX11760311-0|Financial commodity f
 IDEX Quarterly Fu Sep12|IDEU2Q|IM|60151906070|IX13036017-0|Financial commodity future.|Comdty|BBG001V522L1||14043|14122|0||39505|//blp/mktdata/bsym/IM/IDEU2Q|//blp/mktdata/buid/IM/IX13036017-0|//blp/mktdata/bsid/60151906070
 IDEX Yearly Fut   Dec12|IDEZ2Y|IM|60149133474|IX11760315-0|Financial commodity future.|Comdty|BBG001CMDZ21||14043|14122|0||39505|//blp/mktdata/bsym/IM/IDEZ2Y|//blp/mktdata/buid/IM/IX11760315-0|//blp/mktdata/bsid/60149133474
 Indonesia Coal SwpApr12|MCWJ2|eNYM|2117440385769|IX12655831-0|Financial commodity future.|Comdty|BBG001P09JY1||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWJ2|//blp/mktdata/buid/eNYM/IX12655831-0|//blp/mktdata/bsid/2117440385769
-Indonesia Coal SwpAug11|MCWQ1|eNYM|2117440385761|IX12655799-0|Financial commodity future.|Comdty|BBG001P09JP1||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWQ1|//blp/mktdata/buid/eNYM/IX12655799-0|//blp/mktdata/bsid/2117440385761
 Indonesia Coal SwpAug12|MCWQ2|eNYM|2117440385773|IX12655847-0|Financial commodity future.|Comdty|BBG001P09K23||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWQ2|//blp/mktdata/buid/eNYM/IX12655847-0|//blp/mktdata/bsid/2117440385773
 Indonesia Coal SwpDec11|MCWZ1|eNYM|2117440385765|IX12655815-0|Financial commodity future.|Comdty|BBG001P09JT7||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWZ1|//blp/mktdata/buid/eNYM/IX12655815-0|//blp/mktdata/bsid/2117440385765
 Indonesia Coal SwpDec12|MCWZ2|eNYM|2117440385777|IX12655863-0|Financial commodity future.|Comdty|BBG001P09K69||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWZ2|//blp/mktdata/buid/eNYM/IX12655863-0|//blp/mktdata/bsid/2117440385777
@@ -4469,7 +4467,7 @@ LT INTERBANK DEP  Apr12|DPJ2|eBMF|2074490280667|IX12456719-0|Financial commodity
 LT INTERBANK DEP  Jan12|DPF2|eBMF|2074488826574|IX11783126-0|Financial commodity future.|Comdty|BBG001CSL7T2||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/DPF2|//blp/mktdata/buid/eBMF/IX11783126-0|//blp/mktdata/bsid/2074488826574
 LT INTERBANK DEP  Jul12|DPN2|eBMF|2074491612631|IX13068806-0|Financial commodity future.|Comdty|BBG001VDDZB0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/DPN2|//blp/mktdata/buid/eBMF/IX13068806-0|//blp/mktdata/bsid/2074491612631
 LT INTERBANK DEP  Oct11|DPV1|eBMF|2074487699793|IX11216827-0|Financial commodity future.|Comdty|BBG0016YZ5W1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/DPV1|//blp/mktdata/buid/eBMF/IX11216827-0|//blp/mktdata/bsid/2074487699793
-MCX ATF Future    Oct11|ATBV1|||IX13448711-0|Financial commodity future.|Comdty|BBG0021BH4H4||27910|36595|0||39619|||
+MCX ATF Future    Oct11|ATBV1|MCI|1864039478871|IX13448711-0|Financial commodity future.|Comdty|BBG0021BH4H4||27910|36595|0||39619|//blp/mktdata/bsym/MCI/ATBV1|//blp/mktdata/buid/MCI/IX13448711-0|//blp/mktdata/bsid/1864039478871
 MCX ATF Future    Sep11|ATBU1|MCI|1864038729715|IX13228487-0|Financial commodity future.|Comdty|BBG001Y4G441||27910|36595|0||39619|//blp/mktdata/bsym/MCI/ATBU1|//blp/mktdata/buid/MCI/IX13228487-0|//blp/mktdata/bsid/1864038729715
 MCX Carbon Credit Dec14|CCCZ4|MCI|1864035213809|IX11691464-0|Financial commodity future.|Comdty|BBG001BN1RV9||27910|36595|0||39619|//blp/mktdata/bsym/MCI/CCCZ4|//blp/mktdata/buid/MCI/IX11691464-0|//blp/mktdata/bsid/1864035213809
 MCX Carbon CreditsDec11|CCCZ1|MCI|1864020406232|IX5887034-0|Financial commodity future.|Comdty|BBG000T8TD91||27910|36595|0||39619|//blp/mktdata/bsym/MCI/CCCZ1|//blp/mktdata/buid/MCI/IX5887034-0|//blp/mktdata/bsid/1864020406232
@@ -5069,11 +5067,10 @@ NZ 30-DAY CASH RT Sep11|KXU1|cSFE|10033062097665|IX11208099-0|Financial commodit
 NZ 30-DAY CASH RT Sep11|KXU1|eSFE|2104552469249|IX11208099-0|Financial commodity future.|Comdty|BBG0016YQXX9||14016|14016|0||40067|//blp/mktdata/bsym/eSFE/KXU1|//blp/mktdata/buid/eSFE/IX11208099-0|//blp/mktdata/bsid/2104552469249
 NZ 30-DAY CASH RT Sep11|KXU1|eSFE|2104552469249|IX11208099-0|Financial commodity future.|Comdty|BBG0016YQXX9||14016|14016|0||40067|//blp/mktdata/bsym/eSFE/KXU1|//blp/mktdata/buid/eSFE/IX11208099-0|//blp/mktdata/bsid/2104552469249
 Nitrogen Fin. BNK Sep11|FNBU1|||IX6223528-0|Financial commodity future.|Comdty|BBG000TBV4L7||30499|30499|0||40090|||
-Nitrogen Fin. Fut Aug11|FNIQ1|CCX|2559822437354|IX12808773-0|Financial commodity future.|Comdty|BBG001QD3T85||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIQ1|//blp/mktdata/buid/CCX/IX12808773-0|//blp/mktdata/bsid/2559822437354
 Nitrogen Fin. Fut Dec11|FNIZ1|CCX|2559817822373|IX10576938-0|Financial commodity future.|Comdty|BBG0012B5GL6||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIZ1|//blp/mktdata/buid/CCX/IX10576938-0|//blp/mktdata/bsid/2559817822373
 Nitrogen Fin. Fut Dec12|FNIZ2|CCX|2559822875170|IX13037545-0|Financial commodity future.|Comdty|BBG001V53SG9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIZ2|//blp/mktdata/buid/CCX/IX13037545-0|//blp/mktdata/bsid/2559822875170
 Nitrogen Fin. Fut Jun12|FNIM2|CCX|2559820109812|IX11769248-0|Financial commodity future.|Comdty|BBG001CN6PN6||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIM2|//blp/mktdata/buid/CCX/IX11769248-0|//blp/mktdata/bsid/2559820109812
-Nitrogen Fin. Fut Nov11|FNIX1|||IX13451879-0|Financial commodity future.|Comdty|BBG0021CCSJ2||30499|30499|0||40090|||
+Nitrogen Fin. Fut Nov11|FNIX1|CCX|2559824184664|IX13451879-0|Financial commodity future.|Comdty|BBG0021CCSJ2||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIX1|//blp/mktdata/buid/CCX/IX13451879-0|//blp/mktdata/bsid/2559824184664
 Nitrogen Fin. Fut Oct11|FNIV1|CCX|2559823456496|IX13241185-0|Financial commodity future.|Comdty|BBG001Y7RB64||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIV1|//blp/mktdata/buid/CCX/IX13241185-0|//blp/mktdata/bsid/2559823456496
 Nitrogen Fin. Fut Sep11|FNIU1|CCX|2559811296574|IX6223524-0|Financial commodity future.|Comdty|BBG000TBV4T9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU1|//blp/mktdata/buid/CCX/IX6223524-0|//blp/mktdata/bsid/2559811296574
 Nitrogen Fin. Fut Sep12|FNIU2|CCX|2559811296498|IX8557842-0|Financial commodity future.|Comdty|BBG000T98QZ4||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU2|//blp/mktdata/buid/CCX/IX8557842-0|//blp/mktdata/bsid/2559811296498
@@ -5687,9 +5684,8 @@ Sg Unl Dub Crk Sp Sep11|DCTU1|eNYM|2117440916800|IX12875647-0|Financial commodit
 Short Euro-BTP Fu Dec11|BTSZ1|EUX|279193522494|IX12238865-0|Financial commodity future.|Comdty|BBG001KKMLG2||14066|14111|0||39521|//blp/mktdata/bsym/EUX/BTSZ1|//blp/mktdata/buid/EUX/IX12238865-0|//blp/mktdata/bsid/279193522494
 Short Euro-BTP Fu Mar12|BTSH2|EUX|279194951747|IX12898681-0|Financial commodity future.|Comdty|BBG001QWSMM5||14066|14111|0||39521|//blp/mktdata/bsym/EUX/BTSH2|//blp/mktdata/buid/EUX/IX12898681-0|//blp/mktdata/bsid/279194951747
 Short Euro-BTP Fu Sep11|BTSU1|EUX|279192203388|IX11642093-0|Financial commodity future.|Comdty|BBG001B576N7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/BTSU1|//blp/mktdata/buid/EUX/IX11642093-0|//blp/mktdata/bsid/279192203388
-Silver 500 Ounces Nov11|PKOX1|||IX13448731-0|Financial commodity future.|Comdty|BBG0021BH4S2||36149|36149|0||0|||
+Silver 500 Ounces Nov11|PKOX1|NCE|10355189827974|IX13448731-0|Financial commodity future.|Comdty|BBG0021BH4S2||36149|36149|0||0|//blp/mktdata/bsym/NCE/PKOX1|//blp/mktdata/buid/NCE/IX13448731-0|//blp/mktdata/bsid/10355189827974
 Silver 500 Ounces Oct11|PKOV1|NCE|10355189076382|IX13228631-0|Financial commodity future.|Comdty|BBG001Y4LKZ5||36149|36149|0||0|//blp/mktdata/bsym/NCE/PKOV1|//blp/mktdata/buid/NCE/IX13228631-0|//blp/mktdata/bsid/10355189076382
-Silver 500 Ounces Sep11|PKOU1|NCE|10355188246106|IX13034721-0|Financial commodity future.|Comdty|BBG001QYX5L3||36149|36149|0||0|//blp/mktdata/bsym/NCE/PKOU1|//blp/mktdata/buid/NCE/IX13034721-0|//blp/mktdata/bsid/10355188246106
 Silver Cash       Dec11|VILZ1|SME|18223567480160|IX12517928-0|Financial commodity future.|Comdty|BBG001MN4PJ2||38924|38924|0||40935|//blp/mktdata/bsym/SME/VILZ1|//blp/mktdata/buid/SME/IX12517928-0|//blp/mktdata/bsid/18223567480160
 Silver Cash       Jul12|VILN2|SME|18223568632435|IX13051845-0|Financial commodity future.|Comdty|BBG001V8VVF6||38924|38924|0||40935|//blp/mktdata/bsym/SME/VILN2|//blp/mktdata/buid/SME/IX13051845-0|//blp/mktdata/bsid/18223568632435
 Silver Cash       Mar12|VILH2|SME|18223567480164|IX12517932-0|Financial commodity future.|Comdty|BBG001MN4PD8||38924|38924|0||40935|//blp/mktdata/bsym/SME/VILH2|//blp/mktdata/buid/SME/IX12517932-0|//blp/mktdata/bsid/18223567480164
