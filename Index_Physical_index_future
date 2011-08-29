@@ -1,5 +1,5 @@
-#Data Generated At: Sun Aug 28 15:35:28 EDT 2011
-#Data Records=6234
+#Data Generated At: Mon Aug 29 15:07:34 EDT 2011
+#Data Records=6246
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -1253,6 +1253,12 @@ DJIA INDEX FUTURE Sep11|DJU1|eCBT|2113142219934|IX11119125-0|Physical index futu
 DJIA INDX FUT     Dec11|QVZ1|IDX|11609317384003|IX12329409-0|Physical index future.|Index|BBG001KW6P93||14225|14225|0||39591|//blp/mktdata/bsym/IDX/QVZ1|//blp/mktdata/buid/IDX/IX12329409-0|//blp/mktdata/bsid/11609317384003
 DJIA INDX FUT     Mar12|QVH2|IDX|11609318753809|IX12961246-0|Physical index future.|Index|BBG001R5BXT0||14225|14225|0||39591|//blp/mktdata/bsym/IDX/QVH2|//blp/mktdata/buid/IDX/IX12961246-0|//blp/mktdata/bsid/11609318753809
 DJIA INDX FUT     Sep11|QVU1|IDX|11609316021924|IX11702045-0|Physical index future.|Index|BBG001BRYFV0||14225|14225|0||39591|//blp/mktdata/bsym/IDX/QVU1|//blp/mktdata/buid/IDX/IX11702045-0|//blp/mktdata/bsid/11609316021924
+DJIA Index Future Dec11|DDDZ1|||IX13447055-0|Physical index future.|Index|||29654|29655|0||39638|||
+DJIA Index Future Jun12|DDDM2|||IX13447059-0|Physical index future.|Index|||29654|29655|0||39638|||
+DJIA Index Future Mar12|DDDH2|||IX13447075-0|Physical index future.|Index|||29654|29655|0||39638|||
+DJIA Index Future Nov11|DDDX1|||IX13447035-0|Physical index future.|Index|||29654|29655|0||39638|||
+DJIA Index Future Oct11|DDDV1|||IX13447031-0|Physical index future.|Index|||29654|29655|0||39638|||
+DJIA Index Future Sep11|DDDU1|||IX13446979-0|Physical index future.|Index|||29654|29655|0||39638|||
 DJIA MINI e-CBOT  Dec11|DMZ1|eCBT|2113143358058|IX11718322-0|Physical index future.|Index|BBG001BWLZX7||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DMZ1|//blp/mktdata/buid/eCBT/IX11718322-0|//blp/mktdata/bsid/2113143358058
 DJIA MINI e-CBOT  Jun12|DMM2|eCBT|2113146083567|IX12979751-0|Physical index future.|Index|BBG001R78FX4||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DMM2|//blp/mktdata/buid/eCBT/IX12979751-0|//blp/mktdata/bsid/2113146083567
 DJIA MINI e-CBOT  Mar12|DMH2|eCBT|2113144717208|IX12346016-0|Physical index future.|Index|BBG001KY4R24||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DMH2|//blp/mktdata/buid/eCBT/IX12346016-0|//blp/mktdata/bsid/2113144717208
@@ -5006,6 +5012,12 @@ S&P 500 FUTURE    Sep12|SPU2|cCME|9981522294857|IX11109808-0|Physical index futu
 S&P 500 FUTURE    Sep12|SPU2|cCME|9981522294857|IX11109808-0|Physical index future.|Index|BBG00164ZTX4||14002|14002|0||39490|//blp/mktdata/bsym/cCME/SPU2|//blp/mktdata/buid/cCME/IX11109808-0|//blp/mktdata/bsid/9981522294857
 S&P 500 FUTURE    Sep12|SPU2|eCME|2078782470217|IX11109808-0|Physical index future.|Index|BBG00164ZTX4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SPU2|//blp/mktdata/buid/eCME/IX11109808-0|//blp/mktdata/bsid/2078782470217
 S&P 500 FUTURE    Sep12|SPU2|eCME|2078782470217|IX11109808-0|Physical index future.|Index|BBG00164ZTX4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SPU2|//blp/mktdata/buid/eCME/IX11109808-0|//blp/mktdata/bsid/2078782470217
+S&P 500 Index Fut Dec11|SSAZ1|||IX13446863-0|Physical index future.|Index|||29654|29655|0||39638|||
+S&P 500 Index Fut Jun12|SSAM2|||IX13446887-0|Physical index future.|Index|||29654|29655|0||39638|||
+S&P 500 Index Fut Mar12|SSAH2|||IX13446867-0|Physical index future.|Index|||29654|29655|0||39638|||
+S&P 500 Index Fut Nov11|SSAX1|||IX13446859-0|Physical index future.|Index|||29654|29655|0||39638|||
+S&P 500 Index Fut Oct11|SSAV1|||IX13445215-0|Physical index future.|Index|||29654|29655|0||39638|||
+S&P 500 Index Fut Sep11|SSAU1|||IX13445211-0|Physical index future.|Index|||29654|29655|0||39638|||
 S&P CNX MINI NIFT Nov11|JBEX1|NSE|1760960237227|IX13440314-0|Physical index future.|Index|BBG00217R794||29654|29655|0||39638|//blp/mktdata/bsym/NSE/JBEX1|//blp/mktdata/buid/NSE/IX13440314-0|//blp/mktdata/bsid/1760960237227
 S&P CNX MINI NIFT Oct11|JBEV1|NSE|1760959555923|IX13246442-0|Physical index future.|Index|BBG001Y9SVH3||29654|29655|0||39638|//blp/mktdata/bsym/NSE/JBEV1|//blp/mktdata/buid/NSE/IX13246442-0|//blp/mktdata/bsid/1760959555923
 S&P CNX MINI NIFT Sep11|JBEU1|NSE|1760959002232|IX13061322-0|Physical index future.|Index|BBG001VCH1J5||29654|29655|0||39638|//blp/mktdata/bsym/NSE/JBEU1|//blp/mktdata/buid/NSE/IX13061322-0|//blp/mktdata/bsid/1760959002232
