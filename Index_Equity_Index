@@ -1,5 +1,5 @@
-#Data Generated At: Mon Aug 29 15:07:23 EDT 2011
-#Data Records=16235
+#Data Generated At: Tue Aug 30 06:27:43 EDT 2011
+#Data Records=16259
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -2548,6 +2548,30 @@ Central Europe Bank Bskt|GSECCEBK Index|GOLD|3384444770382|EI09GSECCEBK|Equity I
 Cheap Global Listed EU|UBSRCGLE Index|WDRL|2495398929778|EI09UBSRCGLE|Equity Index|Index|BBG001Y3Y7M6|||||||//blp/mktdata/bsym/WDRL/UBSRCGLE Index|//blp/mktdata/buid/WDRL/EI09UBSRCGLE|//blp/mktdata/bsid/2495398929778
 ChiNext Price Index|SZ399006 Index|CS|966384564694|EI09SZ399006|Equity Index|Index|BBG000TGX513||14129|14129|||39555|//blp/mktdata/bsym/CS/SZ399006 Index|//blp/mktdata/buid/CS/EI09SZ399006|//blp/mktdata/bsid/966384564694
 ChiNext TRN Index|SZ399606 Index|CS|966384564693|EI09SZ399606|Equity Index|Index|BBG000TGX5L1||14129|14129|||39555|//blp/mktdata/bsym/CS/SZ399606 Index|//blp/mktdata/buid/CS/EI09SZ399606|//blp/mktdata/bsid/966384564693
+ChiX Russell EZ GBP N|RUEURZPN Index|RGI||EI09RUEURZPN|Equity Index|Index|BBG0021F64P8||34986|||38698||//blp/mktdata/bsym/RGI/RUEURZPN Index|//blp/mktdata/buid/RGI/EI09RUEURZPN|
+ChiX Russell EZ GBP T|RUEURZPT Index|RGI||EI09RUEURZPT|Equity Index|Index|BBG0021F64N0||34986|||38698||//blp/mktdata/bsym/RGI/RUEURZPT Index|//blp/mktdata/buid/RGI/EI09RUEURZPT|
+ChiX Russell EZ Nt|RUEURZN Index|RGI||EI09RUEURZN|Equity Index|Index|BBG0021F64K3||34986|||38698||//blp/mktdata/bsym/RGI/RUEURZN Index|//blp/mktdata/buid/RGI/EI09RUEURZN|
+ChiX Russell EZ TR|RUEURZT Index|RGI||EI09RUEURZT|Equity Index|Index|BBG0021F64J5||34986|||38698||//blp/mktdata/bsym/RGI/RUEURZT Index|//blp/mktdata/buid/RGI/EI09RUEURZT|
+ChiX Russell EZ USD N|RUEURZUN Index|RGI||EI09RUEURZUN|Equity Index|Index|BBG0021F64M1||34986|||38698||//blp/mktdata/bsym/RGI/RUEURZUN Index|//blp/mktdata/buid/RGI/EI09RUEURZUN|
+ChiX Russell EZ USD T|RUEURZUT Index|RGI||EI09RUEURZUT|Equity Index|Index|BBG0021F64L2||34986|||38698||//blp/mktdata/bsym/RGI/RUEURZUT Index|//blp/mktdata/buid/RGI/EI09RUEURZUT|
+ChiX Russell EZ40 GBP Nt|RUEZ40PN Index|RGI||EI09RUEZ40PN|Equity Index|Index|BBG0021F6496||34986|||38698||//blp/mktdata/bsym/RGI/RUEZ40PN Index|//blp/mktdata/buid/RGI/EI09RUEZ40PN|
+ChiX Russell EZ40 GBP TR|RUEZ40PT Index|RGI||EI09RUEZ40PT|Equity Index|Index|BBG0021F6487||34986|||38698||//blp/mktdata/bsym/RGI/RUEZ40PT Index|//blp/mktdata/buid/RGI/EI09RUEZ40PT|
+ChiX Russell EZ40 Net|RUEZ40N Index|RGI||EI09RUEZ40N|Equity Index|Index|BBG0021F6450||34986|||38698||//blp/mktdata/bsym/RGI/RUEZ40N Index|//blp/mktdata/buid/RGI/EI09RUEZ40N|
+ChiX Russell EZ40 TR|RUEZ40T Index|RGI||EI09RUEZ40T|Equity Index|Index|BBG0021F6441||34986|||38698||//blp/mktdata/bsym/RGI/RUEZ40T Index|//blp/mktdata/buid/RGI/EI09RUEZ40T|
+ChiX Russell EZ40 USD Nt|RUEZ40UN Index|RGI||EI09RUEZ40UN|Equity Index|Index|BBG0021F6478||34986|||38698||//blp/mktdata/bsym/RGI/RUEZ40UN Index|//blp/mktdata/buid/RGI/EI09RUEZ40UN|
+ChiX Russell EZ40 USD TR|RUEZ40UT Index|RGI||EI09RUEZ40UT|Equity Index|Index|BBG0021F6469||34986|||38698||//blp/mktdata/bsym/RGI/RUEZ40UT Index|//blp/mktdata/buid/RGI/EI09RUEZ40UT|
+ChiX Russell PE GBP Net|RUPEURPN Index|RGI||EI09RUPEURPN|Equity Index|Index|BBG0021F6432||34986|||38698||//blp/mktdata/bsym/RGI/RUPEURPN Index|//blp/mktdata/buid/RGI/EI09RUPEURPN|
+ChiX Russell PE GBP TR|RUPEURPT Index|RGI||EI09RUPEURPT|Equity Index|Index|BBG0021F6423||34986|||38698||//blp/mktdata/bsym/RGI/RUPEURPT Index|//blp/mktdata/buid/RGI/EI09RUPEURPT|
+ChiX Russell PE Net|RUPEURN Index|RGI||EI09RUPEURN|Equity Index|Index|BBG0021F63Z9||34986|||38698||//blp/mktdata/bsym/RGI/RUPEURN Index|//blp/mktdata/buid/RGI/EI09RUPEURN|
+ChiX Russell PE TR|RUPEURT Index|RGI||EI09RUPEURT|Equity Index|Index|BBG0021F63Y0||34986|||38698||//blp/mktdata/bsym/RGI/RUPEURT Index|//blp/mktdata/buid/RGI/EI09RUPEURT|
+ChiX Russell PE USD Net|RUPEURUN Index|RGI||EI09RUPEURUN|Equity Index|Index|BBG0021F6414||34986|||38698||//blp/mktdata/bsym/RGI/RUPEURUN Index|//blp/mktdata/buid/RGI/EI09RUPEURUN|
+ChiX Russell PE USD TR|RUPEURUT Index|RGI||EI09RUPEURUT|Equity Index|Index|BBG0021F6405||34986|||38698||//blp/mktdata/bsym/RGI/RUPEURUT Index|//blp/mktdata/buid/RGI/EI09RUPEURUT|
+ChiX Russell PE60 GBP Nt|RUPE60PN Index|RGI||EI09RUPE60PN|Equity Index|Index|BBG0021F64H7||34986|||38698||//blp/mktdata/bsym/RGI/RUPE60PN Index|//blp/mktdata/buid/RGI/EI09RUPE60PN|
+ChiX Russell PE60 GBP TR|RUPE60PT Index|RGI||EI09RUPE60PT|Equity Index|Index|BBG0021F64G8||34986|||38698||//blp/mktdata/bsym/RGI/RUPE60PT Index|//blp/mktdata/buid/RGI/EI09RUPE60PT|
+ChiX Russell PE60 Net|RUPE60N Index|RGI||EI09RUPE60N|Equity Index|Index|BBG0021F64C2||34986|||38698||//blp/mktdata/bsym/RGI/RUPE60N Index|//blp/mktdata/buid/RGI/EI09RUPE60N|
+ChiX Russell PE60 TR|RUPE60T Index|RGI||EI09RUPE60T|Equity Index|Index|BBG0021F64B3||34986|||38698||//blp/mktdata/bsym/RGI/RUPE60T Index|//blp/mktdata/buid/RGI/EI09RUPE60T|
+ChiX Russell PE60 USD Nt|RUPE60UN Index|RGI||EI09RUPE60UN|Equity Index|Index|BBG0021F64F9||34986|||38698||//blp/mktdata/bsym/RGI/RUPE60UN Index|//blp/mktdata/buid/RGI/EI09RUPE60UN|
+ChiX Russell PE60 USD TR|RUPE60UT Index|RGI||EI09RUPE60UT|Equity Index|Index|BBG0021F64D1||34986|||38698||//blp/mktdata/bsym/RGI/RUPE60UT Index|//blp/mktdata/buid/RGI/EI09RUPE60UT|
 China 2011 Top Picks|NMCX0111 Index|NMDP|1447423038697|EI09NMCX0111|Equity Index|Index|BBG00194T5Y9|||||37029||//blp/mktdata/bsym/NMDP/NMCX0111 Index|//blp/mktdata/buid/NMDP/EI09NMCX0111|//blp/mktdata/bsid/1447423038697
 China Defensive|CGCHDFNS Index|PCER||EI09CGCHDFNS|Equity Index|Index|BBG001YSZ5Z0|||||||//blp/mktdata/bsym/PCER/CGCHDFNS Index|//blp/mktdata/buid/PCER/EI09CGCHDFNS|
 China as a Threat|CSGLCHTR Index|CSUK|5987198073426|EI09CSGLCHTR|Equity Index|Index|BBG000YB8FW0|||||31352||//blp/mktdata/bsym/CSUK/CSGLCHTR Index|//blp/mktdata/buid/CSUK/EI09CSGLCHTR|//blp/mktdata/bsid/5987198073426
@@ -5408,6 +5432,7 @@ JLBCPCA1|JLBCPCA1 Index|JPUS|7116770216031|EI09JLBCPCA1|Equity Index|Index|BBG00
 JLBCPCA2|JLBCPCA2 Index|JPUS|7116770216032|EI09JLBCPCA2|Equity Index|Index|BBG000XL3GX1|||||33088||//blp/mktdata/bsym/JPUS/JLBCPCA2 Index|//blp/mktdata/buid/JPUS/EI09JLBCPCA2|//blp/mktdata/bsid/7116770216032
 JLBCPEBA|JLBCPEBA Index|JPUS|7116774431376|EI09JLBCPEBA|Equity Index|Index|BBG000YB2QL4|||||33088||//blp/mktdata/bsym/JPUS/JLBCPEBA Index|//blp/mktdata/buid/JPUS/EI09JLBCPEBA|//blp/mktdata/bsid/7116774431376
 JLBCPECA|JLBCPECA Index|JPUS|7116770040577|EI09JLBCPECA|Equity Index|Index|BBG000T6PKW7|||||33088||//blp/mktdata/bsym/JPUS/JLBCPECA Index|//blp/mktdata/buid/JPUS/EI09JLBCPECA|//blp/mktdata/bsid/7116770040577
+JLBCPENA|JLBCPENA Index|JPUS|7116769988249|EI09JLBCPENA|Equity Index|Index|BBG000STTY90|||||33088||//blp/mktdata/bsym/JPUS/JLBCPENA Index|//blp/mktdata/buid/JPUS/EI09JLBCPENA|//blp/mktdata/bsid/7116769988249
 JLBCPENC|JLBCPENC Index|JPUS|7116776014963|EI09JLBCPENC|Equity Index|Index|BBG000Z4R191|||||33088||//blp/mktdata/bsym/JPUS/JLBCPENC Index|//blp/mktdata/buid/JPUS/EI09JLBCPENC|//blp/mktdata/bsid/7116776014963
 JLBCPENE|JLBCPENE Index|JPUS|7116777740823|EI09JLBCPENE|Equity Index|Index|BBG001193JG4|||||33088||//blp/mktdata/bsym/JPUS/JLBCPENE Index|//blp/mktdata/buid/JPUS/EI09JLBCPENE|//blp/mktdata/bsid/7116777740823
 JLBCPENG|JLBCPENG Index|JPUS|7116778934658|EI09JLBCPENG|Equity Index|Index|BBG0015KKHW2|||||33088||//blp/mktdata/bsym/JPUS/JLBCPENG Index|//blp/mktdata/buid/JPUS/EI09JLBCPENG|//blp/mktdata/bsid/7116778934658
@@ -5550,7 +5575,6 @@ JPM-JLBCMWLB|JLBCMWLB Index|JPUS|7116769124160|EI09JLBCMWLB|Equity Index|Index|B
 JPM-JLBCMWSB|JLBCMWSB Index|JPUS|7116769124164|EI09JLBCMWSB|Equity Index|Index|BBG000X96LX4|||||33088||//blp/mktdata/bsym/JPUS/JLBCMWSB Index|//blp/mktdata/buid/JPUS/EI09JLBCMWSB|//blp/mktdata/bsid/7116769124164
 JPM-JLBCOPIC|JLBCOPIC Index|JPUS|7116768168118|EI09JLBCOPIC|Equity Index|Index|BBG000X18SG3|||||33088||//blp/mktdata/bsym/JPUS/JLBCOPIC Index|//blp/mktdata/buid/JPUS/EI09JLBCOPIC|//blp/mktdata/bsid/7116768168118
 JPM-JLBCOPIU|JLBCOPIU Index|JPUS|7116768170856|EI09JLBCOPIU|Equity Index|Index|BBG000X1GSH3|||||33088||//blp/mktdata/bsym/JPUS/JLBCOPIU Index|//blp/mktdata/buid/JPUS/EI09JLBCOPIU|//blp/mktdata/bsid/7116768170856
-JPM-JLBCPENA|JLBCPENA Index|JPUS|7116769988249|EI09JLBCPENA|Equity Index|Index|BBG000STTY90|||||33088||//blp/mktdata/bsym/JPUS/JLBCPENA Index|//blp/mktdata/buid/JPUS/EI09JLBCPENA|//blp/mktdata/bsid/7116769988249
 JPM-JLBCPENB|JLBCPENB Index|JPUS|7116769996375|EI09JLBCPENB|Equity Index|Index|BBG000XJX825|||||33088||//blp/mktdata/bsym/JPUS/JLBCPENB Index|//blp/mktdata/buid/JPUS/EI09JLBCPENB|//blp/mktdata/bsid/7116769996375
 JPM-JLBCSALA|JLBCSALA Index|JPUS|7116768168120|EI09JLBCSALA|Equity Index|Index|BBG000X1Q6P1|||||33088||//blp/mktdata/bsym/JPUS/JLBCSALA Index|//blp/mktdata/buid/JPUS/EI09JLBCSALA|//blp/mktdata/bsid/7116768168120
 JPM-JLBCSALC|JLBCSALC Index|JPUS|7116768168119|EI09JLBCSALC|Equity Index|Index|BBG000X1Q6F2|||||33088||//blp/mktdata/bsym/JPUS/JLBCSALC Index|//blp/mktdata/buid/JPUS/EI09JLBCSALC|//blp/mktdata/bsid/7116768168119
@@ -15170,7 +15194,7 @@ S-Net Global Auto Index|AUTOS Index|NGIB|20310924019524|EI09AUTOS|Equity Index|I
 S-Net ITG Agri|AGRI Index|CME|614187750912|EI09AGRI|Equity Index|Index|BBG000WY5XK9||37059|||||//blp/mktdata/bsym/CME/AGRI Index|//blp/mktdata/buid/CME/EI09AGRI|//blp/mktdata/bsid/614187750912
 S-Network Comp CEF Index|CEFX Index|NGIB|20310922627634|EI09CEFX|Equity Index|Index|BBG000Z5GTV4||45404||||45412|//blp/mktdata/bsym/NGIB/CEFX Index|//blp/mktdata/buid/NGIB/EI09CEFX|//blp/mktdata/bsid/20310922627634
 S-Network Glbl Water|JGI Index|CME|614187750894|EI09JGI|Equity Index|Index|BBG000W9WR45||37059|||||//blp/mktdata/bsym/CME/JGI Index|//blp/mktdata/buid/CME/EI09JGI|//blp/mktdata/bsid/614187750894
-S-Network Muni Bd Clsd E|CEFMX Index|NGIB||EI09CEFMX|Equity Index|Index|BBG001QVXGF2||45404||||45412|//blp/mktdata/bsym/NGIB/CEFMX Index|//blp/mktdata/buid/NGIB/EI09CEFMX|
+S-Network Muni Bd Clsd E|CEFMX Index|NGIB|20310924034862|EI09CEFMX|Equity Index|Index|BBG001QVXGF2||45404||||45412|//blp/mktdata/bsym/NGIB/CEFMX Index|//blp/mktdata/buid/NGIB/EI09CEFMX|//blp/mktdata/bsid/20310924034862
 S-Network Water Tech|JWT Index|CME|614187750896|EI09JWT|Equity Index|Index|BBG000W9WSD3||37059|||||//blp/mktdata/bsym/CME/JWT Index|//blp/mktdata/buid/CME/EI09JWT|//blp/mktdata/bsid/614187750896
 S-Network Water Works|JWW Index|CME|614187750895|EI09JWW|Equity Index|Index|BBG000W9WRP2||37059|||||//blp/mktdata/bsym/CME/JWW Index|//blp/mktdata/buid/CME/EI09JWW|//blp/mktdata/bsid/614187750895
 SA Quality Stocks - ZAR|JPCESAQ1 Index|JPUS||EI09JPCESAQ1|Equity Index|Index|BBG002079385|||||33088||//blp/mktdata/bsym/JPUS/JPCESAQ1 Index|//blp/mktdata/buid/JPUS/EI09JPCESAQ1|

@@ -1,5 +1,5 @@
-#Data Generated At: Mon Aug 29 14:39:19 EDT 2011
-#Data Records=6367
+#Data Generated At: Tue Aug 30 05:59:10 EDT 2011
+#Data Records=6369
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -4691,6 +4691,7 @@ NCG Base Month Fu Aug11|XMEQ1|EEE|1765251627491|IX11960863-0|Financial commodity
 NCG Base Month Fu Dec11|XMEZ1|EEE|1765253529089|IX12822839-0|Financial commodity future.|Comdty|BBG001QJ06K1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEZ1|//blp/mktdata/buid/EEE/IX12822839-0|//blp/mktdata/bsid/1765253529089
 NCG Base Month Fu Feb12|XMEG2|EEE|1765254514195|IX13240125-0|Financial commodity future.|Comdty|BBG001Y7FRK6||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEG2|//blp/mktdata/buid/EEE/IX13240125-0|//blp/mktdata/bsid/1765254514195
 NCG Base Month Fu Jan12|XMEF2|EEE|1765253937704|IX13045538-0|Financial commodity future.|Comdty|BBG001V718Q0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEF2|//blp/mktdata/buid/EEE/IX13045538-0|//blp/mktdata/bsid/1765253937704
+NCG Base Month Fu Mar12|XMEH2|||IX13463429-0|Financial commodity future.|Comdty|BBG0021F5K19||26852|26852|0||39597|||
 NCG Base Month Fu Nov11|XMEX1|EEE|1765253018347|IX12628311-0|Financial commodity future.|Comdty|BBG001NQ0QN1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEX1|//blp/mktdata/buid/EEE/IX12628311-0|//blp/mktdata/bsid/1765253018347
 NCG Base Month Fu Oct11|XMEV1|EEE|1765252591298|IX12433610-0|Financial commodity future.|Comdty|BBG001LV7BY6||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEV1|//blp/mktdata/buid/EEE/IX12433610-0|//blp/mktdata/bsid/1765252591298
 NCG Base Month Fu Sep11|XMEU1|EEE|1765252065856|IX12152916-0|Financial commodity future.|Comdty|BBG001K3VPQ0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEU1|//blp/mktdata/buid/EEE/IX12152916-0|//blp/mktdata/bsid/1765252065856
@@ -5639,6 +5640,7 @@ SWED 5YR KSS FUTR Sep11|CIU1|PMI|545481536846|IX12269520-0|Financial commodity f
 SWEDISH 10YR FUTR Dec11|STZ1|PMI|545482932591|IX12906914-0|Financial commodity future.|Comdty|BBG001QYGS96||39827|39827|0||40171|//blp/mktdata/bsym/PMI/STZ1|//blp/mktdata/buid/PMI/IX12906914-0|//blp/mktdata/bsid/545482932591
 SWEDISH 10YR FUTR Sep11|STU1|PMI|545481535593|IX12269504-0|Financial commodity future.|Comdty|BBG001KNQ3P2||39827|39827|0||40171|//blp/mktdata/bsym/PMI/STU1|//blp/mktdata/buid/PMI/IX12269504-0|//blp/mktdata/bsid/545481535593
 SWEDISH 2YR FUTR  Dec11|SLZ1|PMI|545482428742|IX12699913-0|Financial commodity future.|Comdty|BBG001P7N534||39827|39827|0||40171|//blp/mktdata/bsym/PMI/SLZ1|//blp/mktdata/buid/PMI/IX12699913-0|//blp/mktdata/bsid/545482428742
+SWEDISH 2YR FUTR  Mar12|SLH2|||IX13461541-0|Financial commodity future.|Comdty|BBG0021F2M54||39827|39827|0||40171|||
 SWEDISH 2YR FUTR  Sep11|SLU1|PMI|545481535594|IX12269500-0|Financial commodity future.|Comdty|BBG001KNQ3N4||39827|39827|0||40171|//blp/mktdata/bsym/PMI/SLU1|//blp/mktdata/buid/PMI/IX12269500-0|//blp/mktdata/bsid/545481535594
 SWEDISH 5YR FUTR  Dec11|SKZ1|PMI|545482932590|IX12906910-0|Financial commodity future.|Comdty|BBG001QYGS78||39827|39827|0||40171|//blp/mktdata/bsym/PMI/SKZ1|//blp/mktdata/buid/PMI/IX12906910-0|//blp/mktdata/bsid/545482932590
 SWEDISH 5YR FUTR  Sep11|SKU1|PMI|545481535590|IX12269508-0|Financial commodity future.|Comdty|BBG001KNQ3Q1||39827|39827|0||40171|//blp/mktdata/bsym/PMI/SKU1|//blp/mktdata/buid/PMI/IX12269508-0|//blp/mktdata/bsid/545481535590
