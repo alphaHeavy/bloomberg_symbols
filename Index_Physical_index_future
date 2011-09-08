@@ -1,5 +1,5 @@
-#Data Generated At: Wed Aug 31 06:39:20 EDT 2011
-#Data Records=6266
+#Data Generated At: Thu Sep 1 15:09:50 EDT 2011
+#Data Records=6298
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -747,6 +747,7 @@ CECExt INDEX FUT  Oct11|1BV1|AV|133166640923|IX13169035-0|Physical index future.
 CECExt INDEX FUT  Sep11|1BU1|AV|133164790230|IX12342324-0|Physical index future.|Index|BBG001KY1JL4||14114|14114|0||39545|//blp/mktdata/bsym/AV/1BU1|//blp/mktdata/buid/AV/IX12342324-0|//blp/mktdata/bsid/133164790230
 CER Index Futures Apr12|CERJ2|MAE|1026518684840|IX12649925-0|Physical index future.|Index|BBG001NY4315||14121|0|0||39550|//blp/mktdata/bsym/MAE/CERJ2|//blp/mktdata/buid/MAE/IX12649925-0|//blp/mktdata/bsid/1026518684840
 CER Index Futures Aug11|CERQ1|MAE|1026515348335|IX10970205-0|Physical index future.|Index|BBG0015MG9V2||14121|0|0||39550|//blp/mktdata/bsym/MAE/CERQ1|//blp/mktdata/buid/MAE/IX10970205-0|//blp/mktdata/bsid/1026515348335
+CER Index Futures Aug12|CERQ2|||IX13482240-0|Physical index future.|Index|BBG0021LCHJ6||14121|0|0||39550|||
 CER Index Futures Dec11|CERZ1|MAE|1026516830120|IX11806375-0|Physical index future.|Index|BBG001CTTPQ5||14121|0|0||39550|//blp/mktdata/bsym/MAE/CERZ1|//blp/mktdata/buid/MAE/IX11806375-0|//blp/mktdata/bsid/1026516830120
 CER Index Futures Feb12|CERG2|MAE|1026517727262|IX12178263-0|Physical index future.|Index|BBG001K7NT82||14121|0|0||39550|//blp/mktdata/bsym/MAE/CERG2|//blp/mktdata/buid/MAE/IX12178263-0|//blp/mktdata/bsid/1026517727262
 CER Index Futures Jan12|CERF2|MAE|1026517277798|IX11984726-0|Physical index future.|Index|BBG001HK9415||14121|0|0||39550|//blp/mktdata/bsym/MAE/CERF2|//blp/mktdata/buid/MAE/IX11984726-0|//blp/mktdata/bsid/1026517277798
@@ -758,6 +759,7 @@ CER Index Futures Nov11|CERX1|MAE|1026516427617|IX11576638-0|Physical index futu
 CER Index Futures Oct11|CERV1|MAE|1026516043149|IX11374739-0|Physical index future.|Index|BBG0018BXQP3||14121|0|0||39550|//blp/mktdata/bsym/MAE/CERV1|//blp/mktdata/buid/MAE/IX11374739-0|//blp/mktdata/bsid/1026516043149
 CER Index Futures Sep11|CERU1|MAE|1026515683805|IX11216943-0|Physical index future.|Index|BBG0016YZ6S4||14121|0|0||39550|//blp/mktdata/bsym/MAE/CERU1|//blp/mktdata/buid/MAE/IX11216943-0|//blp/mktdata/bsid/1026515683805
 CHI 2nd Seas Max  Dec13|CLLZ3|CME|614200003196|IX11825202-0|Physical index future.|Index|BBG001CXB543||14002|14002|0||39490|//blp/mktdata/bsym/CME/CLLZ3|//blp/mktdata/buid/CME/IX11825202-0|//blp/mktdata/bsid/614200003196
+CHI Cat Seasonal  Dec11|HPAZ1|eCME|2078787894669|IX13479624-0|Physical index future.|Index|BBG0021L5MP6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HPAZ1|//blp/mktdata/buid/eCME/IX13479624-0|//blp/mktdata/bsid/2078787894669
 CHI Eastern US    Dec11|HXAZ1|eCME|2078784375941|IX12043482-0|Physical index future.|Index|BBG001HYTL88||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HXAZ1|//blp/mktdata/buid/eCME/IX12043482-0|//blp/mktdata/bsid/2078784375941
 CHICAGO CDD IX FT Apr12|CKJ2|eCME|2078774730667|IX8916168-0|Physical index future.|Index|BBG000QR8HN0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKJ2|//blp/mktdata/buid/eCME/IX8916168-0|//blp/mktdata/bsid/2078774730667
 CHICAGO CDD IX FT Apr13|CKJ3|eCME|2078780607208|IX10329281-0|Physical index future.|Index|BBG000SRKQT8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKJ3|//blp/mktdata/buid/eCME/IX10329281-0|//blp/mktdata/bsid/2078780607208
@@ -1165,6 +1167,7 @@ DJ UBS CMDTY SWAP Aug11|DGSQ1|eCBT|2113145906542|IX12846726-0|Physical index fut
 DJ UBS CMDTY SWAP Dec11|DGSZ1|eCBT|2113142409706|IX11218171-0|Physical index future.|Index|BBG0016YZJ51||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DGSZ1|//blp/mktdata/buid/eCBT/IX11218171-0|//blp/mktdata/bsid/2113142409706
 DJ UBS CMDTY SWAP Jun12|DGSM2|eCBT|2113144986609|IX12456611-0|Physical index future.|Index|BBG001LZ6JH0||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DGSM2|//blp/mktdata/buid/eCBT/IX12456611-0|//blp/mktdata/bsid/2113144986609
 DJ UBS CMDTY SWAP Mar12|DGSH2|eCBT|2113143556016|IX11806155-0|Physical index future.|Index|BBG001CTTNG1||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DGSH2|//blp/mktdata/buid/eCBT/IX11806155-0|//blp/mktdata/bsid/2113143556016
+DJ UBS CMDTY SWAP Nov11|DGSX1|||IX13482796-0|Physical index future.|Index|BBG0021LCMV1||14001|14001|0||39489|||
 DJ UBS CMDTY SWAP Oct11|DGSV1|eCBT|2113146898693|IX13259955-0|Physical index future.|Index|BBG001YCZ8K5||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DGSV1|//blp/mktdata/buid/eCBT/IX13259955-0|//blp/mktdata/bsid/2113146898693
 DJ UBS CMDTY SWAP Sep11|DGSU1|eCBT|2113141296256|IX10597645-0|Physical index future.|Index|BBG0012G2WT5||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DGSU1|//blp/mktdata/buid/eCBT/IX10597645-0|//blp/mktdata/bsid/2113141296256
 DJ UBS CMDTY SWAP Sep12|DGSU2|eCBT|2113146320724|IX13068670-0|Physical index future.|Index|BBG001VDDY41||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/DGSU2|//blp/mktdata/buid/eCBT/IX13068670-0|//blp/mktdata/bsid/2113146320724
@@ -1271,12 +1274,14 @@ DJUBSCIER 2Mo Swa Aug11|DGBQ1|eNYM|2117440873855|IX12846734-0|Physical index fut
 DJUBSCIER 2Mo Swa Dec11|DGBZ1|eNYM|2117437377021|IX11218271-0|Physical index future.|Index|BBG0016YZJT5||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGBZ1|//blp/mktdata/buid/eNYM/IX11218271-0|//blp/mktdata/bsid/2117437377021
 DJUBSCIER 2Mo Swa Jun12|DGBM2|eNYM|2117439953925|IX12456823-0|Physical index future.|Index|BBG001LZ6L58||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGBM2|//blp/mktdata/buid/eNYM/IX12456823-0|//blp/mktdata/bsid/2117439953925
 DJUBSCIER 2Mo Swa Mar12|DGBH2|eNYM|2117438523539|IX11807003-0|Physical index future.|Index|BBG001CTTVQ2||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGBH2|//blp/mktdata/buid/eNYM/IX11807003-0|//blp/mktdata/bsid/2117438523539
+DJUBSCIER 2Mo Swa Nov11|DGBX1|||IX13482804-0|Physical index future.|Index|BBG0021LCMX9||14088|14088|0||39532|||
 DJUBSCIER 2Mo Swa Oct11|DGBV1|eNYM|2117441866012|IX13259931-0|Physical index future.|Index|BBG001YCZ8C4||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGBV1|//blp/mktdata/buid/eNYM/IX13259931-0|//blp/mktdata/bsid/2117441866012
 DJUBSCIER 2Mo Swa Sep11|DGBU1|eNYM|2117436263565|IX10597757-0|Physical index future.|Index|BBG0012GNWJ3||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGBU1|//blp/mktdata/buid/eNYM/IX10597757-0|//blp/mktdata/bsid/2117436263565
 DJUBSCIER 3Mo Swa Aug11|DGCQ1|eNYM|2117440873856|IX12846742-0|Physical index future.|Index|BBG001QL82W4||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGCQ1|//blp/mktdata/buid/eNYM/IX12846742-0|//blp/mktdata/bsid/2117440873856
 DJUBSCIER 3Mo Swa Dec11|DGCZ1|eNYM|2117437389823|IX11218275-0|Physical index future.|Index|BBG0016YZJY9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGCZ1|//blp/mktdata/buid/eNYM/IX11218275-0|//blp/mktdata/bsid/2117437389823
 DJUBSCIER 3Mo Swa Jun12|DGCM2|eNYM|2117439953926|IX12456827-0|Physical index future.|Index|BBG001LZ6L67||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGCM2|//blp/mktdata/buid/eNYM/IX12456827-0|//blp/mktdata/bsid/2117439953926
 DJUBSCIER 3Mo Swa Mar12|DGCH2|eNYM|2117438523984|IX11807007-0|Physical index future.|Index|BBG001CTTVR1||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGCH2|//blp/mktdata/buid/eNYM/IX11807007-0|//blp/mktdata/bsid/2117438523984
+DJUBSCIER 3Mo Swa Nov11|DGCX1|||IX13482812-0|Physical index future.|Index|BBG0021LCMZ7||14088|14088|0||39532|||
 DJUBSCIER 3Mo Swa Oct11|DGCV1|eNYM|2117441866014|IX13259935-0|Physical index future.|Index|BBG001YCZ8D3||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGCV1|//blp/mktdata/buid/eNYM/IX13259935-0|//blp/mktdata/bsid/2117441866014
 DJUBSCIER 3Mo Swa Sep11|DGCU1|eNYM|2117436266504|IX10597761-0|Physical index future.|Index|BBG0012GNWM9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGCU1|//blp/mktdata/buid/eNYM/IX10597761-0|//blp/mktdata/bsid/2117436266504
 DJUBSCIER 3Mo Swa Sep12|DGCU2|eNYM|2117441301327|IX13068706-0|Physical index future.|Index|BBG001VDDYJ5||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DGCU2|//blp/mktdata/buid/eNYM/IX13068706-0|//blp/mktdata/bsid/2117441301327
@@ -1759,12 +1764,6 @@ FTSE 100 TR Indx  Mar12|ZTRH2|LIF|609906165085|IX12342692-0|Physical index futur
 FTSE 100 TR Indx FSep11|ZTRU1|LIF|609904267222|IX11404488-0|Physical index future.|Index|BBG0018LDWM3||27269|27270|0||39605|//blp/mktdata/bsym/LIF/ZTRU1|//blp/mktdata/buid/LIF/IX11404488-0|//blp/mktdata/bsid/609904267222
 FTSE 250 MID LIF  Dec11|Y Z1|LIF|609907527944|IX12976887-0|Physical index future.|Index|BBG001R71XY1||27269|27270|0||39605|//blp/mktdata/bsym/LIF/Y Z1|//blp/mktdata/buid/LIF/IX12976887-0|//blp/mktdata/bsid/609907527944
 FTSE 250 MID LIF  Sep11|Y U1|LIF|609906160089|IX12342188-0|Physical index future.|Index|BBG001KY1HH3||27269|27270|0||39605|//blp/mktdata/bsym/LIF/Y U1|//blp/mktdata/buid/LIF/IX12342188-0|//blp/mktdata/bsid/609906160089
-FTSE CHINA A50    Aug11|XUQ1|SGX|889080208538|IX12832597-0|Physical index future.|Index|BBG001QJNRY5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUQ1|//blp/mktdata/buid/SGX/IX12832597-0|//blp/mktdata/bsid/889080208538
-FTSE CHINA A50    Aug11|XUQ1|SGX|889080208538|IX12832597-0|Physical index future.|Index|BBG001QJNRY5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUQ1|//blp/mktdata/buid/SGX/IX12832597-0|//blp/mktdata/bsid/889080208538
-FTSE CHINA A50    Aug11|XUQ1|cSGX|10037360549018|IX12832597-0|Physical index future.|Index|BBG001QJNRY5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/XUQ1|//blp/mktdata/buid/cSGX/IX12832597-0|//blp/mktdata/bsid/10037360549018
-FTSE CHINA A50    Aug11|XUQ1|cSGX|10037360549018|IX12832597-0|Physical index future.|Index|BBG001QJNRY5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/XUQ1|//blp/mktdata/buid/cSGX/IX12832597-0|//blp/mktdata/bsid/10037360549018
-FTSE CHINA A50    Aug11|XUQ1|eSGX|2108850920602|IX12832597-0|Physical index future.|Index|BBG001QJNRY5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/XUQ1|//blp/mktdata/buid/eSGX/IX12832597-0|//blp/mktdata/bsid/2108850920602
-FTSE CHINA A50    Aug11|XUQ1|eSGX|2108850920602|IX12832597-0|Physical index future.|Index|BBG001QJNRY5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/XUQ1|//blp/mktdata/buid/eSGX/IX12832597-0|//blp/mktdata/bsid/2108850920602
 FTSE CHINA A50    Dec11|XUZ1|SGX|889077848362|IX11778374-0|Physical index future.|Index|BBG001CSDLR2||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUZ1|//blp/mktdata/buid/SGX/IX11778374-0|//blp/mktdata/bsid/889077848362
 FTSE CHINA A50    Dec11|XUZ1|SGX|889077848362|IX11778374-0|Physical index future.|Index|BBG001CSDLR2||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUZ1|//blp/mktdata/buid/SGX/IX11778374-0|//blp/mktdata/bsid/889077848362
 FTSE CHINA A50    Dec11|XUZ1|cSGX|10037358188842|IX11778374-0|Physical index future.|Index|BBG001CSDLR2||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/XUZ1|//blp/mktdata/buid/cSGX/IX11778374-0|//blp/mktdata/bsid/10037358188842
@@ -1783,6 +1782,12 @@ FTSE CHINA A50    Mar12|XUH2|cSGX|10037359603292|IX12442529-0|Physical index fut
 FTSE CHINA A50    Mar12|XUH2|cSGX|10037359603292|IX12442529-0|Physical index future.|Index|BBG001LWC1Q9||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/XUH2|//blp/mktdata/buid/cSGX/IX12442529-0|//blp/mktdata/bsid/10037359603292
 FTSE CHINA A50    Mar12|XUH2|eSGX|2108849974876|IX12442529-0|Physical index future.|Index|BBG001LWC1Q9||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/XUH2|//blp/mktdata/buid/eSGX/IX12442529-0|//blp/mktdata/bsid/2108849974876
 FTSE CHINA A50    Mar12|XUH2|eSGX|2108849974876|IX12442529-0|Physical index future.|Index|BBG001LWC1Q9||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/XUH2|//blp/mktdata/buid/eSGX/IX12442529-0|//blp/mktdata/bsid/2108849974876
+FTSE CHINA A50    Nov11|XUX1|SGX|889081935584|IX13469965-0|Physical index future.|Index|BBG0021HCJK9||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUX1|//blp/mktdata/buid/SGX/IX13469965-0|//blp/mktdata/bsid/889081935584
+FTSE CHINA A50    Nov11|XUX1|SGX|889081935584|IX13469965-0|Physical index future.|Index|BBG0021HCJK9||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUX1|//blp/mktdata/buid/SGX/IX13469965-0|//blp/mktdata/bsid/889081935584
+FTSE CHINA A50    Nov11|XUX1|cSGX|10037362276064|IX13469965-0|Physical index future.|Index|BBG0021HCJK9||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/XUX1|//blp/mktdata/buid/cSGX/IX13469965-0|//blp/mktdata/bsid/10037362276064
+FTSE CHINA A50    Nov11|XUX1|cSGX|10037362276064|IX13469965-0|Physical index future.|Index|BBG0021HCJK9||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/XUX1|//blp/mktdata/buid/cSGX/IX13469965-0|//blp/mktdata/bsid/10037362276064
+FTSE CHINA A50    Nov11|XUX1|eSGX|2108852647648|IX13469965-0|Physical index future.|Index|BBG0021HCJK9||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/XUX1|//blp/mktdata/buid/eSGX/IX13469965-0|//blp/mktdata/bsid/2108852647648
+FTSE CHINA A50    Nov11|XUX1|eSGX|2108852647648|IX13469965-0|Physical index future.|Index|BBG0021HCJK9||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/XUX1|//blp/mktdata/buid/eSGX/IX13469965-0|//blp/mktdata/bsid/2108852647648
 FTSE CHINA A50    Oct11|XUV1|SGX|889081185997|IX13246482-0|Physical index future.|Index|BBG001Y9SVQ3||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUV1|//blp/mktdata/buid/SGX/IX13246482-0|//blp/mktdata/bsid/889081185997
 FTSE CHINA A50    Oct11|XUV1|SGX|889081185997|IX13246482-0|Physical index future.|Index|BBG001Y9SVQ3||14017|14006|0||39499|//blp/mktdata/bsym/SGX/XUV1|//blp/mktdata/buid/SGX/IX13246482-0|//blp/mktdata/bsid/889081185997
 FTSE CHINA A50    Oct11|XUV1|cSGX|10037361526477|IX13246482-0|Physical index future.|Index|BBG001Y9SVQ3||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/XUV1|//blp/mktdata/buid/cSGX/IX13246482-0|//blp/mktdata/bsid/10037361526477
@@ -2019,13 +2024,13 @@ GulfCoast Wind75B Dec10|WGYZ0|CCX|2559812571055|IX9292284-0|Physical index futur
 GulfCoast Wind75B Dec11|WGYZ1|CCX|2559815895805|IX10082910-0|Physical index future.|Index|BBG000Z617B8||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WGYZ1|//blp/mktdata/buid/CCX/IX10082910-0|//blp/mktdata/bsid/2559815895805
 GulfCoastWind100B Dec10|WYYZ0|CCX|2559812571059|IX9292292-0|Physical index future.|Index|BBG000W2C7Z2||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WYYZ0|//blp/mktdata/buid/CCX/IX9292292-0|//blp/mktdata/bsid/2559812571059
 GulfCoastWind100B Dec11|WYYZ1|CCX|2559815895796|IX10082874-0|Physical index future.|Index|BBG000Z614Q9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WYYZ1|//blp/mktdata/buid/CCX/IX10082874-0|//blp/mktdata/bsid/2559815895796
-H-SHARES IDX FUT  Aug11|HCQ1|HKG|1722304271974|IX13051865-0|Physical index future.|Index|BBG001V8VX53||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HCQ1|//blp/mktdata/buid/HKG/IX13051865-0|//blp/mktdata/bsid/1722304271974
 H-SHARES IDX FUT  Dec11|HCZ1|HKG|1722303345374|IX12634148-0|Physical index future.|Index|BBG001NVBG05||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HCZ1|//blp/mktdata/buid/HKG/IX12634148-0|//blp/mktdata/bsid/1722303345374
 H-SHARES IDX FUT  Mar12|HCH2|HKG|1722304841392|IX13246518-0|Physical index future.|Index|BBG001Y9SW18||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HCH2|//blp/mktdata/buid/HKG/IX13246518-0|//blp/mktdata/bsid/1722304841392
+H-SHARES IDX FUT  Oct11|HCV1|HKG|1722305591015|IX13469997-0|Physical index future.|Index|BBG0021HCJS1||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HCV1|//blp/mktdata/buid/HKG/IX13469997-0|//blp/mktdata/bsid/1722305591015
 H-SHARES IDX FUT  Sep11|HCU1|HKG|1722301954850|IX11968084-0|Physical index future.|Index|BBG001FDNVT7||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HCU1|//blp/mktdata/buid/HKG/IX11968084-0|//blp/mktdata/bsid/1722301954850
-HANG SENG IDX FUT Aug11|HIQ1|HKG|1722304271958|IX13051869-0|Physical index future.|Index|BBG001V8VX62||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HIQ1|//blp/mktdata/buid/HKG/IX13051869-0|//blp/mktdata/bsid/1722304271958
 HANG SENG IDX FUT Dec11|HIZ1|HKG|1722303345370|IX12634144-0|Physical index future.|Index|BBG001NVBFZ9||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HIZ1|//blp/mktdata/buid/HKG/IX12634144-0|//blp/mktdata/bsid/1722303345370
 HANG SENG IDX FUT Mar12|HIH2|HKG|1722304841073|IX13246514-0|Physical index future.|Index|BBG001Y9SVZ3||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HIH2|//blp/mktdata/buid/HKG/IX13246514-0|//blp/mktdata/bsid/1722304841073
+HANG SENG IDX FUT Oct11|HIV1|HKG|1722305591018|IX13469993-0|Physical index future.|Index|BBG0021HCJR2||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HIV1|//blp/mktdata/buid/HKG/IX13469993-0|//blp/mktdata/bsid/1722305591018
 HANG SENG IDX FUT Sep11|HIU1|HKG|1722301954465|IX11968080-0|Physical index future.|Index|BBG001FDNVS8||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HIU1|//blp/mktdata/buid/HKG/IX11968080-0|//blp/mktdata/bsid/1722301954465
 HARD WINTER WHEAT Apr12|HXJ2|eMGE|2095960025417|IX10225195-0|Physical index future.|Index|BBG000ZF0C19||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/HXJ2|//blp/mktdata/buid/eMGE/IX10225195-0|//blp/mktdata/bsid/2095960025417
 HARD WINTER WHEAT Apr13|HXJ3|eMGE|2095965095419|IX12456219-0|Physical index future.|Index|BBG001LZ6FD2||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/HXJ3|//blp/mktdata/buid/eMGE/IX12456219-0|//blp/mktdata/bsid/2095965095419
@@ -2052,6 +2057,7 @@ HARD WINTER WHEAT Oct11|HXV1|eMGE|2095956980938|IX9546735-0|Physical index futur
 HARD WINTER WHEAT Oct12|HXV2|eMGE|2095962536317|IX11217587-0|Physical index future.|Index|BBG0016YZCQ3||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/HXV2|//blp/mktdata/buid/eMGE/IX11217587-0|//blp/mktdata/bsid/2095962536317
 HARD WINTER WHEAT Sep11|HXU1|eMGE|2095956443968|IX9400739-0|Physical index future.|Index|BBG000W87712||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/HXU1|//blp/mktdata/buid/eMGE/IX9400739-0|//blp/mktdata/bsid/2095956443968
 HARD WINTER WHEAT Sep12|HXU2|eMGE|2095962189908|IX10969045-0|Physical index future.|Index|BBG0015MG0Y8||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/HXU2|//blp/mktdata/buid/eMGE/IX10969045-0|//blp/mktdata/bsid/2095962189908
+HARD WINTER WHEAT Sep13|HXU3|||IX13482680-0|Physical index future.|Index|BBG0021LCM05||14010|14010|0||39496|||
 HOUSING BOSTON    Aug12|COQ2|eCME|2078784495883|IX12116634-0|Physical index future.|Index|BBG001J945W6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/COQ2|//blp/mktdata/buid/eCME/IX12116634-0|//blp/mktdata/bsid/2078784495883
 HOUSING BOSTON    Feb12|COG2|eCME|2078782308394|IX10959336-0|Physical index future.|Index|BBG0015LD2Z8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/COG2|//blp/mktdata/buid/eCME/IX10959336-0|//blp/mktdata/bsid/2078782308394
 HOUSING BOSTON    Feb13|COG3|eCME|2078787865900|IX13464652-0|Physical index future.|Index|BBG0021FGHP8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/COG3|//blp/mktdata/buid/eCME/IX13464652-0|//blp/mktdata/bsid/2078787865900
@@ -3110,18 +3116,21 @@ MERVAL IX FUT FBA Aug11|MCQ1|BCBA|1146778261724|IX12846754-0|Physical index futu
 MERVAL IX FUT FBA Dec11|MCZ1|BCBA|1146775921051|IX11806319-0|Physical index future.|Index|BBG001CTTPD9||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCZ1|//blp/mktdata/buid/BCBA/IX11806319-0|//blp/mktdata/bsid/1146775921051
 MERVAL IX FUT FBA Jun12|MCM2|BCBA|1146778676649|IX13068826-0|Physical index future.|Index|BBG001VDDZH4||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCM2|//blp/mktdata/buid/BCBA/IX13068826-0|//blp/mktdata/bsid/1146778676649
 MERVAL IX FUT FBA Mar12|MCH2|BCBA|1146777323011|IX12456691-0|Physical index future.|Index|BBG001LZ6K23||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCH2|//blp/mktdata/buid/BCBA/IX12456691-0|//blp/mktdata/bsid/1146777323011
+MERVAL IX FUT FBA Nov11|MCX1|||IX13482828-0|Physical index future.|Index|BBG0021LCN30||14121|0|0||39550|||
 MERVAL IX FUT FBA Oct11|MCV1|BCBA|1146779255520|IX13259959-0|Physical index future.|Index|BBG001YCZ8L4||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCV1|//blp/mktdata/buid/BCBA/IX13259959-0|//blp/mktdata/bsid/1146779255520
 MERVAL IX FUT FBA Sep11|MCU1|BCBA|1146774763817|IX11216839-0|Physical index future.|Index|BBG0016YZ5Z8||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCU1|//blp/mktdata/buid/BCBA/IX11216839-0|//blp/mktdata/bsid/1146774763817
 MERVAL IX FUT PES Aug11|MMQ1|BCBA|1146778261723|IX12846750-0|Physical index future.|Index|BBG001QL82Y2||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MMQ1|//blp/mktdata/buid/BCBA/IX12846750-0|//blp/mktdata/bsid/1146778261723
 MERVAL IX FUT PES Dec11|MMZ1|BCBA|1146775921052|IX11806323-0|Physical index future.|Index|BBG001CTTPF7||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MMZ1|//blp/mktdata/buid/BCBA/IX11806323-0|//blp/mktdata/bsid/1146775921052
 MERVAL IX FUT PES Jun12|MMM2|BCBA|1146778676647|IX13068814-0|Physical index future.|Index|BBG001VDDZD8||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MMM2|//blp/mktdata/buid/BCBA/IX13068814-0|//blp/mktdata/bsid/1146778676647
 MERVAL IX FUT PES Mar12|MMH2|BCBA|1146777323013|IX12456687-0|Physical index future.|Index|BBG001LZ6K14||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MMH2|//blp/mktdata/buid/BCBA/IX12456687-0|//blp/mktdata/bsid/1146777323013
+MERVAL IX FUT PES Nov11|MMX1|BCBA|1146779994651|IX13482820-0|Physical index future.|Index|BBG0021LCN12||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MMX1|//blp/mktdata/buid/BCBA/IX13482820-0|//blp/mktdata/bsid/1146779994651
 MERVAL IX FUT PES Oct11|MMV1|BCBA|1146779255517|IX13259951-0|Physical index future.|Index|BBG001YCZ8J7||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MMV1|//blp/mktdata/buid/BCBA/IX13259951-0|//blp/mktdata/bsid/1146779255517
 MERVAL IX FUT PES Sep11|MMU1|BCBA|1146774786614|IX11216831-0|Physical index future.|Index|BBG0016YZ5X0||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MMU1|//blp/mktdata/buid/BCBA/IX11216831-0|//blp/mktdata/bsid/1146774786614
 MERVAL IX FUT USD Aug11|MHQ1|BCBA|1146778261722|IX12846746-0|Physical index future.|Index|BBG001QL82X3||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MHQ1|//blp/mktdata/buid/BCBA/IX12846746-0|//blp/mktdata/bsid/1146778261722
 MERVAL IX FUT USD Dec11|MHZ1|BCBA|1146775921050|IX11806315-0|Physical index future.|Index|BBG001CTTPC0||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MHZ1|//blp/mktdata/buid/BCBA/IX11806315-0|//blp/mktdata/bsid/1146775921050
 MERVAL IX FUT USD Jun12|MHM2|BCBA|1146778676648|IX13068818-0|Physical index future.|Index|BBG001VDDZF6||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MHM2|//blp/mktdata/buid/BCBA/IX13068818-0|//blp/mktdata/bsid/1146778676648
 MERVAL IX FUT USD Mar12|MHH2|BCBA|1146777323006|IX12456695-0|Physical index future.|Index|BBG001LZ6K32||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MHH2|//blp/mktdata/buid/BCBA/IX12456695-0|//blp/mktdata/bsid/1146777323006
+MERVAL IX FUT USD Nov11|MHX1|||IX13482824-0|Physical index future.|Index|BBG0021LCN21||14121|0|0||39550|||
 MERVAL IX FUT USD Oct11|MHV1|BCBA|1146779255518|IX13259947-0|Physical index future.|Index|BBG001YCZ8H9||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MHV1|//blp/mktdata/buid/BCBA/IX13259947-0|//blp/mktdata/bsid/1146779255518
 MERVAL IX FUT USD Sep11|MHU1|BCBA|1146774763818|IX11216835-0|Physical index future.|Index|BBG0016YZ5Y9||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MHU1|//blp/mktdata/buid/BCBA/IX11216835-0|//blp/mktdata/bsid/1146774763818
 MEX BOLSA IDX FUT Dec11|ISZ1|MDX|1743776170589|IX11718342-0|Physical index future.|Index|BBG001BWM027||14153|0|0||39567|//blp/mktdata/bsym/MDX/ISZ1|//blp/mktdata/buid/MDX/IX11718342-0|//blp/mktdata/bsid/1743776170589
@@ -3176,13 +3185,13 @@ MINI BOVESPA FUT  Oct11|XBV1|eBMF|2074487285852|IX10914461-0|Physical index futu
 MINI BOVESPA FUT  Oct12|XBV2|eBMF|2074488939682|IX11854016-0|Physical index future.|Index|BBG001D5DRF1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/XBV2|//blp/mktdata/buid/eBMF/IX11854016-0|//blp/mktdata/bsid/2074488939682
 MINI FTSE/MIB FUT Dec11|SWZ1|IM|60151919009|IX13046538-0|Physical index future.|Index|BBG001V77VZ3||14043|14122|0||39505|//blp/mktdata/bsym/IM/SWZ1|//blp/mktdata/buid/IM/IX13046538-0|//blp/mktdata/bsid/60151919009
 MINI FTSE/MIB FUT Sep11|SWU1|IM|60151316002|IX12768214-0|Physical index future.|Index|BBG001PPKDL0||14043|14122|0||39505|//blp/mktdata/bsym/IM/SWU1|//blp/mktdata/buid/IM/IX12768214-0|//blp/mktdata/bsid/60151316002
-MINI H-SHR IDX FU Aug11|MHCQ1|HKG|1722304274434|IX13051885-0|Physical index future.|Index|BBG001V8VXW3||14113|14082|0||40072|//blp/mktdata/bsym/HKG/MHCQ1|//blp/mktdata/buid/HKG/IX13051885-0|//blp/mktdata/bsid/1722304274434
 MINI H-SHR IDX FU Dec11|MHCZ1|HKG|1722303346760|IX12634156-0|Physical index future.|Index|BBG001NVBG23||14113|14082|0||40072|//blp/mktdata/bsym/HKG/MHCZ1|//blp/mktdata/buid/HKG/IX12634156-0|//blp/mktdata/bsid/1722303346760
 MINI H-SHR IDX FU Mar12|MHCH2|HKG|1722304869465|IX13253611-0|Physical index future.|Index|BBG001YCL9S0||14113|14082|0||40072|//blp/mktdata/bsym/HKG/MHCH2|//blp/mktdata/buid/HKG/IX13253611-0|//blp/mktdata/bsid/1722304869465
+MINI H-SHR IDX FU Oct11|MHCV1|HKG|1722305593409|IX13470009-0|Physical index future.|Index|BBG0021HCJV7||14113|14082|0||40072|//blp/mktdata/bsym/HKG/MHCV1|//blp/mktdata/buid/HKG/IX13470009-0|//blp/mktdata/bsid/1722305593409
 MINI H-SHR IDX FU Sep11|MHCU1|HKG|1722301954852|IX11968092-0|Physical index future.|Index|BBG001FDNVW3||14113|14082|0||40072|//blp/mktdata/bsym/HKG/MHCU1|//blp/mktdata/buid/HKG/IX11968092-0|//blp/mktdata/bsid/1722301954852
-MINI HSI IDX FUT  Aug11|HUQ1|HKG|1722304271959|IX13051873-0|Physical index future.|Index|BBG001V8VXN3||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HUQ1|//blp/mktdata/buid/HKG/IX13051873-0|//blp/mktdata/bsid/1722304271959
 MINI HSI IDX FUT  Dec11|HUZ1|HKG|1722303345375|IX12634152-0|Physical index future.|Index|BBG001NVBG14||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HUZ1|//blp/mktdata/buid/HKG/IX12634152-0|//blp/mktdata/bsid/1722303345375
 MINI HSI IDX FUT  Mar12|HUH2|HKG|1722304841070|IX13246510-0|Physical index future.|Index|BBG001Y9SVW6||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HUH2|//blp/mktdata/buid/HKG/IX13246510-0|//blp/mktdata/bsid/1722304841070
+MINI HSI IDX FUT  Oct11|HUV1|HKG|1722305591125|IX13470005-0|Physical index future.|Index|BBG0021HCJT0||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HUV1|//blp/mktdata/buid/HKG/IX13470005-0|//blp/mktdata/bsid/1722305591125
 MINI HSI IDX FUT  Sep11|HUU1|HKG|1722301954467|IX11968088-0|Physical index future.|Index|BBG001FDNVV4||14113|14082|0||40072|//blp/mktdata/bsym/HKG/HUU1|//blp/mktdata/buid/HKG/IX11968088-0|//blp/mktdata/bsid/1722301954467
 MINI S&P/TSX 60   Dec11|MPTZ1|MSE|485352804992|IX12432430-0|Physical index future.|Index|BBG001NY6117||14055|14142|0||39513|//blp/mktdata/bsym/MSE/MPTZ1|//blp/mktdata/buid/MSE/IX12432430-0|//blp/mktdata/bsid/485352804992
 MINI S&P/TSX 60   Jun12|MPTM2|MSE|485353461090|IX12964458-0|Physical index future.|Index|BBG001R5LR58||14055|14142|0||39513|//blp/mktdata/bsym/MSE/MPTM2|//blp/mktdata/buid/MSE/IX12964458-0|//blp/mktdata/bsid/485353461090
@@ -3529,6 +3538,16 @@ MSCI Europe Ix FutDec14|MERZ4|LIF|609894784433|IX8434301-0|Physical index future
 MSCI Europe Ix FutJun12|MERM2|LIF|609894683428|IX8398941-0|Physical index future.|Index|BBG000XKF699||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MERM2|//blp/mktdata/buid/LIF/IX8398941-0|//blp/mktdata/bsid/609894683428
 MSCI Europe Ix FutJun13|MERM3|LIF|609894683432|IX8398949-0|Physical index future.|Index|BBG000XKF6X2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MERM3|//blp/mktdata/buid/LIF/IX8398949-0|//blp/mktdata/bsid/609894683432
 MSCI Europe Ix FutJun14|MERM4|LIF|609894683436|IX8398957-0|Physical index future.|Index|BBG000XKF751||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MERM4|//blp/mktdata/buid/LIF/IX8398957-0|//blp/mktdata/bsid/609894683436
+MSCI Europe NTR   Dec11|MPIZ1|LIF|609909079443|IX13479124-0|Physical index future.|Index|BBG0021L2XF6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIZ1|//blp/mktdata/buid/LIF/IX13479124-0|//blp/mktdata/bsid/609909079443
+MSCI Europe NTR   Dec12|MPIZ2|LIF|609909079447|IX13479140-0|Physical index future.|Index|BBG0021L2YW5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIZ2|//blp/mktdata/buid/LIF/IX13479140-0|//blp/mktdata/bsid/609909079447
+MSCI Europe NTR   Dec13|MPIZ3|LIF|609909079449|IX13479148-0|Physical index future.|Index|BBG0021L34G8||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIZ3|//blp/mktdata/buid/LIF/IX13479148-0|//blp/mktdata/bsid/609909079449
+MSCI Europe NTR   Jun12|MPIM2|LIF|609909079445|IX13479132-0|Physical index future.|Index|BBG0021L2YT9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIM2|//blp/mktdata/buid/LIF/IX13479132-0|//blp/mktdata/bsid/609909079445
+MSCI Europe NTR   Jun13|MPIM3|LIF|609909079448|IX13479144-0|Physical index future.|Index|BBG0021L34F9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIM3|//blp/mktdata/buid/LIF/IX13479144-0|//blp/mktdata/bsid/609909079448
+MSCI Europe NTR   Mar12|MPIH2|LIF|609909079444|IX13479128-0|Physical index future.|Index|BBG0021L2XP5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIH2|//blp/mktdata/buid/LIF/IX13479128-0|//blp/mktdata/bsid/609909079444
+MSCI Europe NTR   Nov11|MPIX1|LIF|609909079442|IX13479120-0|Physical index future.|Index|BBG0021L2XD8||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIX1|//blp/mktdata/buid/LIF/IX13479120-0|//blp/mktdata/bsid/609909079442
+MSCI Europe NTR   Oct11|MPIV1|LIF|609909079441|IX13479116-0|Physical index future.|Index|BBG0021L2XC9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIV1|//blp/mktdata/buid/LIF/IX13479116-0|//blp/mktdata/bsid/609909079441
+MSCI Europe NTR   Sep11|MPIU1|LIF|609909079440|IX13478968-0|Physical index future.|Index|BBG0021KZKD2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIU1|//blp/mktdata/buid/LIF/IX13478968-0|//blp/mktdata/bsid/609909079440
+MSCI Europe NTR   Sep12|MPIU2|LIF|609909079446|IX13479136-0|Physical index future.|Index|BBG0021L2YV6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MPIU2|//blp/mktdata/buid/LIF/IX13479136-0|//blp/mktdata/bsid/609909079446
 MSCI F East Ix Fu Dec15|MFEZ5|LIF|609903572151|IX11033803-0|Physical index future.|Index|BBG0015TCC53||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MFEZ5|//blp/mktdata/buid/LIF/IX11033803-0|//blp/mktdata/bsid/609903572151
 MSCI F East Ix Fu Jun15|MFEM5|LIF|609903567177|IX11033799-0|Physical index future.|Index|BBG0015TCC44||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MFEM5|//blp/mktdata/buid/LIF/IX11033799-0|//blp/mktdata/bsid/609903567177
 MSCI F East Ix Fu Mar12|MFEH2|LIF|609899493763|IX10545810-0|Physical index future.|Index|BBG0011WCZG7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MFEH2|//blp/mktdata/buid/LIF/IX10545810-0|//blp/mktdata/bsid/609899493763
@@ -3544,10 +3563,10 @@ MSCI F East Ix FutDec14|MFEZ4|LIF|609894784424|IX8434269-0|Physical index future
 MSCI F East Ix FutJun12|MFEM2|LIF|609894627141|IX8370235-0|Physical index future.|Index|BBG000SBPRM3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MFEM2|//blp/mktdata/buid/LIF/IX8370235-0|//blp/mktdata/bsid/609894627141
 MSCI F East Ix FutJun13|MFEM3|LIF|609894627142|IX8370243-0|Physical index future.|Index|BBG000SBPS23||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MFEM3|//blp/mktdata/buid/LIF/IX8370243-0|//blp/mktdata/bsid/609894627142
 MSCI F East Ix FutJun14|MFEM4|LIF|609894627146|IX8370251-0|Physical index future.|Index|BBG000SBPTK1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MFEM4|//blp/mktdata/buid/LIF/IX8370251-0|//blp/mktdata/bsid/609894627146
-MSCI HK IDX ETS   Aug11|VSQ1|SGX|889080208523|IX12832609-0|Physical index future.|Index|BBG001QJNRZ4||14017|14006|0||39499|//blp/mktdata/bsym/SGX/VSQ1|//blp/mktdata/buid/SGX/IX12832609-0|//blp/mktdata/bsid/889080208523
 MSCI HK IDX ETS   Dec11|VSZ1|SGX|889077848354|IX11778366-0|Physical index future.|Index|BBG001CSDLP4||14017|14006|0||39499|//blp/mktdata/bsym/SGX/VSZ1|//blp/mktdata/buid/SGX/IX11778366-0|//blp/mktdata/bsid/889077848354
 MSCI HK IDX ETS   Jun12|VSM2|SGX|889080616553|IX13051909-0|Physical index future.|Index|BBG001V8W0H1||14017|14006|0||39499|//blp/mktdata/bsym/SGX/VSM2|//blp/mktdata/buid/SGX/IX13051909-0|//blp/mktdata/bsid/889080616553
 MSCI HK IDX ETS   Mar12|VSH2|SGX|889079262809|IX12442517-0|Physical index future.|Index|BBG001LWC1M3||14017|14006|0||39499|//blp/mktdata/bsym/SGX/VSH2|//blp/mktdata/buid/SGX/IX12442517-0|//blp/mktdata/bsid/889079262809
+MSCI HK IDX ETS   Nov11|VSX1|SGX|889081935593|IX13469973-0|Physical index future.|Index|BBG0021HCJM7||14017|14006|0||39499|//blp/mktdata/bsym/SGX/VSX1|//blp/mktdata/buid/SGX/IX13469973-0|//blp/mktdata/bsid/889081935593
 MSCI HK IDX ETS   Oct11|VSV1|SGX|889081185662|IX13246470-0|Physical index future.|Index|BBG001Y9SVL8||14017|14006|0||39499|//blp/mktdata/bsym/SGX/VSV1|//blp/mktdata/buid/SGX/IX13246470-0|//blp/mktdata/bsid/889081185662
 MSCI HK IDX ETS   Sep11|VSU1|SGX|889076712263|IX11199502-0|Physical index future.|Index|BBG0016XBQ44||14017|14006|0||39499|//blp/mktdata/bsym/SGX/VSU1|//blp/mktdata/buid/SGX/IX11199502-0|//blp/mktdata/bsid/889076712263
 MSCI Health Care  Dec11|MWRZ1|LIF|609909000779|IX13442618-0|Physical index future.|Index|BBG002180MF1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MWRZ1|//blp/mktdata/buid/LIF/IX13442618-0|//blp/mktdata/bsid/609909000779
@@ -3658,9 +3677,9 @@ MSCI PACIFIC EX JPDec12|PMCZ2|LIF|609904598502|IX11556162-0|Physical index futur
 MSCI PACIFIC EX JPJun12|PMCM2|LIF|609904519876|IX11517524-0|Physical index future.|Index|BBG0019JYJ52||27269|27270|0||39605|//blp/mktdata/bsym/LIF/PMCM2|//blp/mktdata/buid/LIF/IX11517524-0|//blp/mktdata/bsid/609904519876
 MSCI PACIFIC EX JPMar12|PMCH2|LIF|609904519875|IX11517520-0|Physical index future.|Index|BBG0019JYJ16||27269|27270|0||39605|//blp/mktdata/bsym/LIF/PMCH2|//blp/mktdata/buid/LIF/IX11517520-0|//blp/mktdata/bsid/609904519875
 MSCI PACIFIC EX JPSep11|PMCU1|LIF|609904519873|IX11517512-0|Physical index future.|Index|BBG0019JYHS1||27269|27270|0||39605|//blp/mktdata/bsym/LIF/PMCU1|//blp/mktdata/buid/LIF/IX11517512-0|//blp/mktdata/bsid/609904519873
-MSCI Russia 10 IdxDec11|FXPZ1|||IX13468421-0|Physical index future.|Index|BBG0021H5HR4||14066|14111|0||39521|||
-MSCI Russia 10 IdxMar12|FXPH2|||IX13468425-0|Physical index future.|Index|BBG0021H5HS3||14066|14111|0||39521|||
-MSCI Russia 10 IdxSep11|FXPU1|||IX13468417-0|Physical index future.|Index|BBG0021H5FR8||14066|14111|0||39521|||
+MSCI Russia 10 IdxDec11|FXPZ1|EUX|279196586324|IX13468421-0|Physical index future.|Index|BBG0021H5HR4||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FXPZ1|//blp/mktdata/buid/EUX/IX13468421-0|//blp/mktdata/bsid/279196586324
+MSCI Russia 10 IdxMar12|FXPH2|EUX|279196586325|IX13468425-0|Physical index future.|Index|BBG0021H5HS3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FXPH2|//blp/mktdata/buid/EUX/IX13468425-0|//blp/mktdata/bsid/279196586325
+MSCI Russia 10 IdxSep11|FXPU1|EUX|279196586323|IX13468417-0|Physical index future.|Index|BBG0021H5FR8||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FXPU1|//blp/mktdata/buid/EUX/IX13468417-0|//blp/mktdata/bsid/279196586323
 MSCI Russia Index Dec11|FXIZ1|EUX|279193681256|IX12343596-0|Physical index future.|Index|BBG001KY1R36||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FXIZ1|//blp/mktdata/buid/EUX/IX12343596-0|//blp/mktdata/bsid/279193681256
 MSCI Russia Index Mar12|FXIH2|EUX|279195052659|IX12977379-0|Physical index future.|Index|BBG001R71YP9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FXIH2|//blp/mktdata/buid/EUX/IX12977379-0|//blp/mktdata/bsid/279195052659
 MSCI Russia Index Sep11|FXIU1|EUX|279192313222|IX11716994-0|Physical index future.|Index|BBG001BW97H1||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FXIU1|//blp/mktdata/buid/EUX/IX11716994-0|//blp/mktdata/bsid/279192313222
@@ -3700,12 +3719,6 @@ MSCI SING IX ETS  Sep11|QZU1|cSGX|10037357058419|IX11199494-0|Physical index fut
 MSCI SING IX ETS  Sep11|QZU1|cSGX|10037357058419|IX11199494-0|Physical index future.|Index|BBG0016XBQ26||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/QZU1|//blp/mktdata/buid/cSGX/IX11199494-0|//blp/mktdata/bsid/10037357058419
 MSCI SING IX ETS  Sep11|QZU1|eSGX|2108847430003|IX11199494-0|Physical index future.|Index|BBG0016XBQ26||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/QZU1|//blp/mktdata/buid/eSGX/IX11199494-0|//blp/mktdata/bsid/2108847430003
 MSCI SING IX ETS  Sep11|QZU1|eSGX|2108847430003|IX11199494-0|Physical index future.|Index|BBG0016XBQ26||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/QZU1|//blp/mktdata/buid/eSGX/IX11199494-0|//blp/mktdata/bsid/2108847430003
-MSCI TAIWAN INDEX Aug11|TWQ1|SGX|889080208522|IX12832581-0|Physical index future.|Index|BBG001QJNRT1||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWQ1|//blp/mktdata/buid/SGX/IX12832581-0|//blp/mktdata/bsid/889080208522
-MSCI TAIWAN INDEX Aug11|TWQ1|SGX|889080208522|IX12832581-0|Physical index future.|Index|BBG001QJNRT1||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWQ1|//blp/mktdata/buid/SGX/IX12832581-0|//blp/mktdata/bsid/889080208522
-MSCI TAIWAN INDEX Aug11|TWQ1|cSGX|10037360549002|IX12832581-0|Physical index future.|Index|BBG001QJNRT1||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/TWQ1|//blp/mktdata/buid/cSGX/IX12832581-0|//blp/mktdata/bsid/10037360549002
-MSCI TAIWAN INDEX Aug11|TWQ1|cSGX|10037360549002|IX12832581-0|Physical index future.|Index|BBG001QJNRT1||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/TWQ1|//blp/mktdata/buid/cSGX/IX12832581-0|//blp/mktdata/bsid/10037360549002
-MSCI TAIWAN INDEX Aug11|TWQ1|eSGX|2108850920586|IX12832581-0|Physical index future.|Index|BBG001QJNRT1||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/TWQ1|//blp/mktdata/buid/eSGX/IX12832581-0|//blp/mktdata/bsid/2108850920586
-MSCI TAIWAN INDEX Aug11|TWQ1|eSGX|2108850920586|IX12832581-0|Physical index future.|Index|BBG001QJNRT1||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/TWQ1|//blp/mktdata/buid/eSGX/IX12832581-0|//blp/mktdata/bsid/2108850920586
 MSCI TAIWAN INDEX Dec11|TSZ1|FTX|1739481621255|IX11902448-0|Physical index future.|Index|BBG001DLDX09||14149|14149|0||39565|//blp/mktdata/bsym/FTX/TSZ1|//blp/mktdata/buid/FTX/IX11902448-0|//blp/mktdata/bsid/1739481621255
 MSCI TAIWAN INDEX Dec11|TWZ1|SGX|889068022840|IX8576882-0|Physical index future.|Index|BBG000XPCDR6||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWZ1|//blp/mktdata/buid/SGX/IX8576882-0|//blp/mktdata/bsid/889068022840
 MSCI TAIWAN INDEX Dec11|TWZ1|SGX|889068022840|IX8576882-0|Physical index future.|Index|BBG000XPCDR6||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWZ1|//blp/mktdata/buid/SGX/IX8576882-0|//blp/mktdata/bsid/889068022840
@@ -3838,6 +3851,16 @@ MSCI World Ix FutsDec14|MWOZ4|LIF|609894784434|IX8434305-0|Physical index future
 MSCI World Ix FutsJun12|MWOM2|LIF|609894698442|IX8404319-0|Physical index future.|Index|BBG000XKJ4Z1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MWOM2|//blp/mktdata/buid/LIF/IX8404319-0|//blp/mktdata/bsid/609894698442
 MSCI World Ix FutsJun13|MWOM3|LIF|609894698444|IX8404327-0|Physical index future.|Index|BBG000XKJ5J6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MWOM3|//blp/mktdata/buid/LIF/IX8404327-0|//blp/mktdata/bsid/609894698444
 MSCI World Ix FutsJun14|MWOM4|LIF|609894698446|IX8404335-0|Physical index future.|Index|BBG000XKJ6M0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MWOM4|//blp/mktdata/buid/LIF/IX8404335-0|//blp/mktdata/bsid/609894698446
+MSCI World NTR    Dec11|MLWZ1|LIF|609909079453|IX13479244-0|Physical index future.|Index|BBG0021L4DH6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWZ1|//blp/mktdata/buid/LIF/IX13479244-0|//blp/mktdata/bsid/609909079453
+MSCI World NTR    Dec12|MLWZ2|LIF|609909079457|IX13479260-0|Physical index future.|Index|BBG0021L4F54||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWZ2|//blp/mktdata/buid/LIF/IX13479260-0|//blp/mktdata/bsid/609909079457
+MSCI World NTR    Dec13|MLWZ3|LIF|609909079459|IX13479268-0|Physical index future.|Index|BBG0021L4FS9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWZ3|//blp/mktdata/buid/LIF/IX13479268-0|//blp/mktdata/bsid/609909079459
+MSCI World NTR    Jun12|MLWM2|LIF|609909079455|IX13479252-0|Physical index future.|Index|BBG0021L4F36||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWM2|//blp/mktdata/buid/LIF/IX13479252-0|//blp/mktdata/bsid/609909079455
+MSCI World NTR    Jun13|MLWM3|LIF|609909079458|IX13479264-0|Physical index future.|Index|BBG0021L4FR0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWM3|//blp/mktdata/buid/LIF/IX13479264-0|//blp/mktdata/bsid/609909079458
+MSCI World NTR    Mar12|MLWH2|LIF|609909079454|IX13479248-0|Physical index future.|Index|BBG0021L4F27||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWH2|//blp/mktdata/buid/LIF/IX13479248-0|//blp/mktdata/bsid/609909079454
+MSCI World NTR    Nov11|MLWX1|LIF|609909079452|IX13479240-0|Physical index future.|Index|BBG0021L4DG7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWX1|//blp/mktdata/buid/LIF/IX13479240-0|//blp/mktdata/bsid/609909079452
+MSCI World NTR    Oct11|MLWV1|LIF|609909079451|IX13479236-0|Physical index future.|Index|BBG0021L4DF8||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWV1|//blp/mktdata/buid/LIF/IX13479236-0|//blp/mktdata/bsid/609909079451
+MSCI World NTR    Sep11|MLWU1|LIF|609909079450|IX13479232-0|Physical index future.|Index|BBG0021L44C1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWU1|//blp/mktdata/buid/LIF/IX13479232-0|//blp/mktdata/bsid/609909079450
+MSCI World NTR    Sep12|MLWU2|LIF|609909079456|IX13479256-0|Physical index future.|Index|BBG0021L4F45||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MLWU2|//blp/mktdata/buid/LIF/IX13479256-0|//blp/mktdata/bsid/609909079456
 MSCI World TelecomDec11|MWTZ1|LIF|609909000767|IX13442434-0|Physical index future.|Index|BBG00217YNY3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MWTZ1|//blp/mktdata/buid/LIF/IX13442434-0|//blp/mktdata/bsid/609909000767
 MSCI World TelecomJun12|MWTM2|LIF|609909000765|IX13442426-0|Physical index future.|Index|BBG00217YNW5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MWTM2|//blp/mktdata/buid/LIF/IX13442426-0|//blp/mktdata/bsid/609909000765
 MSCI World TelecomMar12|MWTH2|LIF|609909000764|IX13442422-0|Physical index future.|Index|BBG00217YNV6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MWTH2|//blp/mktdata/buid/LIF/IX13442422-0|//blp/mktdata/bsid/609909000764
@@ -3853,12 +3876,13 @@ MSCIWorld MaterialJun12|MMWM2|LIF|609909000772|IX13442498-0|Physical index futur
 MSCIWorld MaterialMar12|MMWH2|LIF|609909000771|IX13442494-0|Physical index future.|Index|BBG00217YQG6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MMWH2|//blp/mktdata/buid/LIF/IX13442494-0|//blp/mktdata/bsid/609909000771
 MSCIWorld MaterialSep11|MMWU1|LIF|609909000770|IX13442474-0|Physical index future.|Index|BBG00217YPT4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MMWU1|//blp/mktdata/buid/LIF/IX13442474-0|//blp/mktdata/bsid/609909000770
 MSCIWorld MaterialSep12|MMWU2|LIF|609909000773|IX13442502-0|Physical index future.|Index|BBG00217YQJ3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MMWU2|//blp/mktdata/buid/LIF/IX13442502-0|//blp/mktdata/bsid/609909000773
-Metal Bulletin OreAug11|MBOQ1|SME|18223569492647|IX13301725-0|Physical index future.|Index|BBG001ZCG8W2||38924|38924|0||40935|//blp/mktdata/bsym/SME/MBOQ1|//blp/mktdata/buid/SME/IX13301725-0|//blp/mktdata/bsid/18223569492647
+Metal Bulletin Or Feb12|MBOG2|||IX13479068-0|Physical index future.|Index|BBG0021L0MV4||38924|38924|0||40935|||
 Metal Bulletin OreDec11|MBOZ1|SME|18223569492651|IX13335555-0|Physical index future.|Index|BBG001ZCG914||38924|38924|0||40935|//blp/mktdata/bsym/SME/MBOZ1|//blp/mktdata/buid/SME/IX13335555-0|//blp/mktdata/bsid/18223569492651
 Metal Bulletin OreJan12|MBOF2|SME|18223569492652|IX13335559-0|Physical index future.|Index|BBG001ZCG8T6||38924|38924|0||40935|//blp/mktdata/bsym/SME/MBOF2|//blp/mktdata/buid/SME/IX13335559-0|//blp/mktdata/bsid/18223569492652
 Metal Bulletin OreNov11|MBOX1|SME|18223569492650|IX13335551-0|Physical index future.|Index|BBG001ZCG905||38924|38924|0||40935|//blp/mktdata/bsym/SME/MBOX1|//blp/mktdata/buid/SME/IX13335551-0|//blp/mktdata/bsid/18223569492650
 Metal Bulletin OreOct11|MBOV1|SME|18223569492649|IX13335547-0|Physical index future.|Index|BBG001ZCG8Y0||38924|38924|0||40935|//blp/mktdata/bsym/SME/MBOV1|//blp/mktdata/buid/SME/IX13335547-0|//blp/mktdata/bsid/18223569492649
 Metal Bulletin OreSep11|MBOU1|SME|18223569492648|IX13335543-0|Physical index future.|Index|BBG001ZCG8X1||38924|38924|0||40935|//blp/mktdata/bsym/SME/MBOU1|//blp/mktdata/buid/SME/IX13335543-0|//blp/mktdata/bsid/18223569492648
+Mid Est Sr Crd MM Dec11|MMSZ1|||IX13481544-0|Physical index future.|Index|BBG0021L8T05||30022|30022|0||40087|||
 Mid Est Sr Crd MM Nov11|MMSX1|ICE|1172549060785|IX13255955-0|Physical index future.|Index|BBG001YCX2B0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MMSX1|//blp/mktdata/buid/ICE/IX13255955-0|//blp/mktdata/bsid/1172549060785
 Mid Est Sr Crd MM Oct11|MMSV1|ICE|1172548482182|IX13063450-0|Physical index future.|Index|BBG001VD9576||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MMSV1|//blp/mktdata/buid/ICE/IX13063450-0|//blp/mktdata/bsid/1172548482182
 Mini SGX NK Futur Dec11|MNIZ1|SGX|889077573276|IX11648782-0|Physical index future.|Index|BBG001B6P156||14017|14006|0||39499|//blp/mktdata/bsym/SGX/MNIZ1|//blp/mktdata/buid/SGX/IX11648782-0|//blp/mktdata/bsid/889077573276
@@ -3890,6 +3914,7 @@ Moldova Financial Aug11|SFBQ1|||IX12842442-0|Physical index future.|Index|BBG001
 Moldova Financial Dec11|SFBZ1|||IX11789207-0|Physical index future.|Index|BBG001CTR9P4||33996|33996|0||40099|||
 Moldova Financial Jun12|SFBM2|||IX13063678-0|Physical index future.|Index|BBG001VD98F1||33996|33996|0||40099|||
 Moldova Financial Mar12|SFBH2|||IX12452295-0|Physical index future.|Index|BBG001LZ2BT8||33996|33996|0||40099|||
+Moldova Financial Nov11|SFBX1|||IX13481480-0|Physical index future.|Index|BBG0021L8SJ7||33996|33996|0||40099|||
 Moldova Financial Oct11|SFBV1|||IX13255879-0|Physical index future.|Index|BBG001YCX1M0||33996|33996|0||40099|||
 Moldova Financial Sep11|SFBU1|||IX11212803-0|Physical index future.|Index|BBG0016YX1T6||33996|33996|0||40099|||
 Montreal Month CA Aug11|CAOQ1|CME|614198525836|IX11002568-0|Physical index future.|Index|BBG0015QYH27||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAOQ1|//blp/mktdata/buid/CME/IX11002568-0|//blp/mktdata/bsid/614198525836
@@ -4003,6 +4028,7 @@ NAT'L CORN INDEX  Apr12|PBJ2|eMGE|2095960190487|IX10322334-0|Physical index futu
 NAT'L CORN INDEX  Apr13|PBJ3|eMGE|2095965535962|IX12649597-0|Physical index future.|Index|BBG001NY40S2||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PBJ3|//blp/mktdata/buid/eMGE/IX12649597-0|//blp/mktdata/bsid/2095965535962
 NAT'L CORN INDEX  Aug11|PBQ1|eMGE|2095956443969|IX9400743-0|Physical index future.|Index|BBG000W876V1||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PBQ1|//blp/mktdata/buid/eMGE/IX9400743-0|//blp/mktdata/bsid/2095956443969
 NAT'L CORN INDEX  Aug12|PBQ2|eMGE|2095962189870|IX10969037-0|Physical index future.|Index|BBG0015MG0W0||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PBQ2|//blp/mktdata/buid/eMGE/IX10969037-0|//blp/mktdata/bsid/2095962189870
+NAT'L CORN INDEX  Aug13|PBQ3|eMGE|2095967767063|IX13482732-0|Physical index future.|Index|BBG0021LCM87||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PBQ3|//blp/mktdata/buid/eMGE/IX13482732-0|//blp/mktdata/bsid/2095967767063
 NAT'L CORN INDEX  Dec11|PBZ1|eMGE|2095958145759|IX9905383-0|Physical index future.|Index|BBG000Z1WDV0||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PBZ1|//blp/mktdata/buid/eMGE/IX9905383-0|//blp/mktdata/bsid/2095958145759
 NAT'L CORN INDEX  Dec12|PBZ2|eMGE|2095963685645|IX11804771-0|Physical index future.|Index|BBG001CTT9F3||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PBZ2|//blp/mktdata/buid/eMGE/IX11804771-0|//blp/mktdata/bsid/2095963685645
 NAT'L CORN INDEX  Feb12|PBG2|eMGE|2095959343822|IX10110405-0|Physical index future.|Index|BBG000Z7SY55||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PBG2|//blp/mktdata/buid/eMGE/IX10110405-0|//blp/mktdata/bsid/2095959343822
@@ -4048,9 +4074,9 @@ NAT'L SOYBEAN IDX Oct11|PLV1|eMGE|2095956982834|IX9546731-0|Physical index futur
 NAT'L SOYBEAN IDX Oct12|PLV2|eMGE|2095962536292|IX11217591-0|Physical index future.|Index|BBG0016YZCR2||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PLV2|//blp/mktdata/buid/eMGE/IX11217591-0|//blp/mktdata/bsid/2095962536292
 NAT'L SOYBEAN IDX Sep11|PLU1|eMGE|2095956447470|IX9400747-0|Physical index future.|Index|BBG000W877J3||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PLU1|//blp/mktdata/buid/eMGE/IX9400747-0|//blp/mktdata/bsid/2095956447470
 NAT'L SOYBEAN IDX Sep12|PLU2|eMGE|2095962189927|IX10969033-0|Physical index future.|Index|BBG0015MG0V1||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PLU2|//blp/mktdata/buid/eMGE/IX10969033-0|//blp/mktdata/bsid/2095962189927
-NATGASINDEX       Nov11|ATSX1|||IX13472049-0|Physical index future.|Index|BBG0021HVLZ7||30022|30022|0||40087|||
+NAT'L SOYBEAN IDX Sep13|PLU3|eMGE|2095967767061|IX13482672-0|Physical index future.|Index|BBG0021LCLZ9||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PLU3|//blp/mktdata/buid/eMGE/IX13482672-0|//blp/mktdata/bsid/2095967767061
+NATGASINDEX       Nov11|ATSX1|ICE|1172549787919|IX13472049-0|Physical index future.|Index|BBG0021HVLZ7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/ATSX1|//blp/mktdata/buid/ICE/IX13472049-0|//blp/mktdata/bsid/1172549787919
 NATGASINDEX       Oct11|ATSV1|ICE|1172549052906|IX13247866-0|Physical index future.|Index|BBG001YB3WS1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/ATSV1|//blp/mktdata/buid/ICE/IX13247866-0|//blp/mktdata/bsid/1172549052906
-NATGASINDEX       Sep11|ATSU1|ICE|1172548470668|IX13054257-0|Physical index future.|Index|BBG001V9LM74||30022|30022|0||40087|//blp/mktdata/bsym/ICE/ATSU1|//blp/mktdata/buid/ICE/IX13054257-0|//blp/mktdata/bsid/1172548470668
 NEW YORK CDD FUT  Apr12|NAJ2|eCME|2078774730727|IX8916488-0|Physical index future.|Index|BBG000QSF495||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAJ2|//blp/mktdata/buid/eCME/IX8916488-0|//blp/mktdata/bsid/2078774730727
 NEW YORK CDD FUT  Apr13|NAJ3|eCME|2078780607223|IX10329229-0|Physical index future.|Index|BBG000ZQWC83||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAJ3|//blp/mktdata/buid/eCME/IX10329229-0|//blp/mktdata/bsid/2078780607223
 NEW YORK CDD FUT  Apr14|NAJ4|eCME|2078785686381|IX12663055-0|Physical index future.|Index|BBG001P11JZ6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAJ4|//blp/mktdata/buid/eCME/IX12663055-0|//blp/mktdata/bsid/2078785686381
@@ -4413,13 +4439,12 @@ Nat Gas NGWAVE    Apr12|WAAJ2|ICE|1172548041394|IX12822903-0|Physical index futu
 Nat Gas NGWAVE    Dec11|WAAZ1|ICE|1172546147537|IX11969892-0|Physical index future.|Index|BBG001FDXN05||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAZ1|//blp/mktdata/buid/ICE/IX11969892-0|//blp/mktdata/bsid/1172546147537
 Nat Gas NGWAVE    Feb12|WAAG2|ICE|1172547115277|IX12444281-0|Physical index future.|Index|BBG001LWK8J3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAG2|//blp/mktdata/buid/ICE/IX12444281-0|//blp/mktdata/bsid/1172547115277
 Nat Gas NGWAVE    Jan12|WAAF2|ICE|1172546596192|IX12160733-0|Physical index future.|Index|BBG001K609X5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAF2|//blp/mktdata/buid/ICE/IX12160733-0|//blp/mktdata/bsid/1172546596192
-Nat Gas NGWAVE    Jul12|WAAN2|||IX13471969-0|Physical index future.|Index|BBG0021HVLD1||30022|30022|0||40087|||
+Nat Gas NGWAVE    Jul12|WAAN2|ICE|1172549785568|IX13471969-0|Physical index future.|Index|BBG0021HVLD1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAN2|//blp/mktdata/buid/ICE/IX13471969-0|//blp/mktdata/bsid/1172549785568
 Nat Gas NGWAVE    Jun12|WAAM2|ICE|1172549036385|IX13247830-0|Physical index future.|Index|BBG001YB3VD9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAM2|//blp/mktdata/buid/ICE/IX13247830-0|//blp/mktdata/bsid/1172549036385
 Nat Gas NGWAVE    Mar12|WAAH2|ICE|1172547540790|IX12637476-0|Physical index future.|Index|BBG001NVKS72||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAH2|//blp/mktdata/buid/ICE/IX12637476-0|//blp/mktdata/bsid/1172547540790
 Nat Gas NGWAVE    May12|WAAK2|ICE|1172548467387|IX13054165-0|Physical index future.|Index|BBG001V9LLB1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAK2|//blp/mktdata/buid/ICE/IX13054165-0|//blp/mktdata/bsid/1172548467387
 Nat Gas NGWAVE    Nov11|WAAX1|ICE|1172545708330|IX11780382-0|Physical index future.|Index|BBG001CSJJB8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAX1|//blp/mktdata/buid/ICE/IX11780382-0|//blp/mktdata/bsid/1172545708330
 Nat Gas NGWAVE    Oct11|WAAV1|ICE|1172545301428|IX11550893-0|Physical index future.|Index|BBG0019Q1XQ8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAV1|//blp/mktdata/buid/ICE/IX11550893-0|//blp/mktdata/bsid/1172545301428
-Nat Gas NGWAVE    Sep11|WAAU1|ICE|1172544923413|IX11364811-0|Physical index future.|Index|BBG001891KM9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAU1|//blp/mktdata/buid/ICE/IX11364811-0|//blp/mktdata/bsid/1172544923413
 New York Rainfall Aug11|YJRQ1|eCME|2078783049986|IX11385221-0|Physical index future.|Index|BBG0018FQ0L3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRQ1|//blp/mktdata/buid/eCME/IX11385221-0|//blp/mktdata/bsid/2078783049986
 New York Rainfall Dec11|YJRZ1|eCME|2078786660173|IX13094662-0|Physical index future.|Index|BBG001VKYXD4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRZ1|//blp/mktdata/buid/eCME/IX13094662-0|//blp/mktdata/bsid/2078786660173
 New York Rainfall Jan12|YJRF2|eCME|2078787215197|IX13282146-0|Physical index future.|Index|BBG001YHSN10||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRF2|//blp/mktdata/buid/eCME/IX13282146-0|//blp/mktdata/bsid/2078787215197
@@ -5068,6 +5093,7 @@ S&P GSCI CRUDE SW Aug11|SECQ1|eNYM|2117440873460|IX12846718-0|Physical index fut
 S&P GSCI CRUDE SW Dec11|SECZ1|eNYM|2117437392981|IX11216623-0|Physical index future.|Index|BBG0016YZ4J9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SECZ1|//blp/mktdata/buid/eNYM/IX11216623-0|//blp/mktdata/bsid/2117437392981
 S&P GSCI CRUDE SW Jun12|SECM2|eNYM|2117439957849|IX12456559-0|Physical index future.|Index|BBG001LZ6J17||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SECM2|//blp/mktdata/buid/eNYM/IX12456559-0|//blp/mktdata/bsid/2117439957849
 S&P GSCI CRUDE SW Mar12|SECH2|eNYM|2117438516372|IX11782098-0|Physical index future.|Index|BBG001CSKY41||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SECH2|//blp/mktdata/buid/eNYM/IX11782098-0|//blp/mktdata/bsid/2117438516372
+S&P GSCI CRUDE SW Nov11|SECX1|||IX13482792-0|Physical index future.|Index|BBG0021LCMT4||14088|14088|0||39532|||
 S&P GSCI CRUDE SW Oct11|SECV1|eNYM|2117441865544|IX13259943-0|Physical index future.|Index|BBG001YCZ8G0||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SECV1|//blp/mktdata/buid/eNYM/IX13259943-0|//blp/mktdata/bsid/2117441865544
 S&P GSCI CRUDE SW Sep11|SECU1|eNYM|2117436279335|IX10595869-0|Physical index future.|Index|BBG0012F4GW6||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SECU1|//blp/mktdata/buid/eNYM/IX10595869-0|//blp/mktdata/bsid/2117436279335
 S&P GSCI CRUDE SW Sep12|SECU2|eNYM|2117441314785|IX13068602-0|Physical index future.|Index|BBG001VDDXK5||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SECU2|//blp/mktdata/buid/eNYM/IX13068602-0|//blp/mktdata/bsid/2117441314785
@@ -5075,6 +5101,7 @@ S&P GSCI EX RTN 2 Aug11|SGLQ1|eCME|2078786168182|IX12846738-0|Physical index fut
 S&P GSCI EX RTN 2 Dec11|SGLZ1|eCME|2078779956953|IX10192077-0|Physical index future.|Index|BBG000ZCDDN6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SGLZ1|//blp/mktdata/buid/eCME/IX10192077-0|//blp/mktdata/bsid/2078779956953
 S&P GSCI EX RTN 2 Jun12|SGLM2|eCME|2078785248252|IX12456671-0|Physical index future.|Index|BBG001LZ6JX2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SGLM2|//blp/mktdata/buid/eCME/IX12456671-0|//blp/mktdata/bsid/2078785248252
 S&P GSCI EX RTN 2 Mar12|SGLH2|eCME|2078783817843|IX11806879-0|Physical index future.|Index|BBG001CTTTQ7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SGLH2|//blp/mktdata/buid/eCME/IX11806879-0|//blp/mktdata/bsid/2078783817843
+S&P GSCI EX RTN 2 Nov11|SGLX1|||IX13482816-0|Physical index future.|Index|BBG0021LCN03||14002|14002|0||39490|||
 S&P GSCI EX RTN 2 Oct11|SGLV1|eCME|2078787160334|IX13259963-0|Physical index future.|Index|BBG001YCZ8M3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SGLV1|//blp/mktdata/buid/eCME/IX13259963-0|//blp/mktdata/bsid/2078787160334
 S&P GSCI EX RTN 2 Sep11|SGLU1|eCME|2078781557895|IX10597701-0|Physical index future.|Index|BBG0012GLR06||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SGLU1|//blp/mktdata/buid/eCME/IX10597701-0|//blp/mktdata/bsid/2078781557895
 S&P GSCI EX RTN 2 Sep12|SGLU2|eCME|2078786582368|IX13068674-0|Physical index future.|Index|BBG001VDDY87||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SGLU2|//blp/mktdata/buid/eCME/IX13068674-0|//blp/mktdata/bsid/2078786582368
@@ -5093,6 +5120,7 @@ S&P GSCI GOLD SWA Aug11|SEOQ1|eNYM|2117440873454|IX12846722-0|Physical index fut
 S&P GSCI GOLD SWA Dec11|SEOZ1|eNYM|2117437392980|IX11216587-0|Physical index future.|Index|BBG0016YZ472||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SEOZ1|//blp/mktdata/buid/eNYM/IX11216587-0|//blp/mktdata/bsid/2117437392980
 S&P GSCI GOLD SWA Jun12|SEOM2|eNYM|2117439957848|IX12456555-0|Physical index future.|Index|BBG001LZ6J08||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SEOM2|//blp/mktdata/buid/eNYM/IX12456555-0|//blp/mktdata/bsid/2117439957848
 S&P GSCI GOLD SWA Mar12|SEOH2|eNYM|2117438516371|IX11782090-0|Physical index future.|Index|BBG001CSKY23||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SEOH2|//blp/mktdata/buid/eNYM/IX11782090-0|//blp/mktdata/bsid/2117438516371
+S&P GSCI GOLD SWA Nov11|SEOX1|||IX13482800-0|Physical index future.|Index|BBG0021LCMW0||14088|14088|0||39532|||
 S&P GSCI GOLD SWA Oct11|SEOV1|eNYM|2117441865538|IX13259939-0|Physical index future.|Index|BBG001YCZ8F1||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SEOV1|//blp/mktdata/buid/eNYM/IX13259939-0|//blp/mktdata/bsid/2117441865538
 S&P GSCI GOLD SWA Sep11|SEOU1|eNYM|2117436279334|IX10595837-0|Physical index future.|Index|BBG0012F4FQ5||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SEOU1|//blp/mktdata/buid/eNYM/IX10595837-0|//blp/mktdata/bsid/2117436279334
 S&P GSCI GOLD SWA Sep12|SEOU2|eNYM|2117441314784|IX13068598-0|Physical index future.|Index|BBG001VDDXJ7||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/SEOU2|//blp/mktdata/buid/eNYM/IX13068598-0|//blp/mktdata/bsid/2117441314784
@@ -5366,9 +5394,11 @@ SNP Petrom SA     Aug11|SNPQ1|||IX12842430-0|Physical index future.|Index|BBG001
 SNP Petrom SA     Dec11|SNPZ1|||IX11789219-0|Physical index future.|Index|BBG001CTR9S1||33996|33996|0||40099|||
 SNP Petrom SA     Jun12|SNPM2|||IX13063702-0|Physical index future.|Index|BBG001VD98M3||33996|33996|0||40099|||
 SNP Petrom SA     Mar12|SNPH2|||IX12452311-0|Physical index future.|Index|BBG001LZ2BZ1||33996|33996|0||40099|||
+SNP Petrom SA     Nov11|SNPX1|||IX13481448-0|Physical index future.|Index|BBG0021L8S89||33996|33996|0||40099|||
 SNP Petrom SA     Oct11|SNPV1|||IX13255887-0|Physical index future.|Index|BBG001YCX1Q6||33996|33996|0||40099|||
 SNP Petrom SA     Sep11|SNPU1|||IX11212819-0|Physical index future.|Index|BBG0016YX1Y0||33996|33996|0||40099|||
 SNTGN Transgaz S. Aug11|TGDQ1|||IX12842410-0|Physical index future.|Index|BBG001QL5LG3||33996|33996|0||40099|||
+SNTGN Transgaz S. Nov11|TGDX1|||IX13481428-0|Physical index future.|Index|BBG0021L8S34||33996|33996|0||40099|||
 SNTGN Transgaz S. Oct11|TGDV1|||IX13255895-0|Physical index future.|Index|BBG001YCX1S4||33996|33996|0||40099|||
 SNTGN Transgaz S. Sep11|TGDU1|||IX13063298-0|Physical index future.|Index|BBG001VD93C5||33996|33996|0||40099|||
 SOFT WINTER WHEAT Apr12|SAJ2|eMGE|2095960030384|IX10225175-0|Physical index future.|Index|BBG000ZF0B93||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SAJ2|//blp/mktdata/buid/eMGE/IX10225175-0|//blp/mktdata/bsid/2095960030384
@@ -5396,6 +5426,7 @@ SOFT WINTER WHEAT Oct11|SAV1|eMGE|2095956980937|IX9546739-0|Physical index futur
 SOFT WINTER WHEAT Oct12|SAV2|eMGE|2095962536293|IX11217595-0|Physical index future.|Index|BBG0016YZCS1||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SAV2|//blp/mktdata/buid/eMGE/IX11217595-0|//blp/mktdata/bsid/2095962536293
 SOFT WINTER WHEAT Sep11|SAU1|eMGE|2095956447471|IX9400751-0|Physical index future.|Index|BBG000W87776||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SAU1|//blp/mktdata/buid/eMGE/IX9400751-0|//blp/mktdata/bsid/2095956447471
 SOFT WINTER WHEAT Sep12|SAU2|eMGE|2095962189917|IX10969041-0|Physical index future.|Index|BBG0015MG0X9||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SAU2|//blp/mktdata/buid/eMGE/IX10969041-0|//blp/mktdata/bsid/2095962189917
+SOFT WINTER WHEAT Sep13|SAU3|eMGE|2095967767062|IX13482688-0|Physical index future.|Index|BBG0021LCM14||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SAU3|//blp/mktdata/buid/eMGE/IX13482688-0|//blp/mktdata/bsid/2095967767062
 SPCREX Apartments Dec11|RETZ1|CME|614192250343|IX5183891-0|Physical index future.|Index|BBG000WM6TD1||14002|14002|0||39490|//blp/mktdata/bsym/CME/RETZ1|//blp/mktdata/buid/CME/IX5183891-0|//blp/mktdata/bsid/614192250343
 SPCREX Apartments Dec12|RETZ2|CME|614188790067|IX5183907-0|Physical index future.|Index|BBG000WM6V82||14002|14002|0||39490|//blp/mktdata/bsym/CME/RETZ2|//blp/mktdata/buid/CME/IX5183907-0|//blp/mktdata/bsid/614188790067
 SPCREX Apartments Jun12|RETM2|CME|614188974848|IX5183899-0|Physical index future.|Index|BBG000WM6TZ7||14002|14002|0||39490|//blp/mktdata/bsym/CME/RETM2|//blp/mktdata/buid/CME/IX5183899-0|//blp/mktdata/bsid/614188974848
@@ -6009,6 +6040,7 @@ Transilvania Fina Aug11|SFCQ1|SIB|7456085222626|IX12842434-0|Physical index futu
 Transilvania Fina Dec11|SFCZ1|SIB|7456082869476|IX11789247-0|Physical index future.|Index|BBG001CTRB06||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCZ1|//blp/mktdata/buid/SIB/IX11789247-0|//blp/mktdata/bsid/7456082869476
 Transilvania Fina Jun12|SFCM2|SIB|7456085636957|IX13063686-0|Physical index future.|Index|BBG001VD98H9||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCM2|//blp/mktdata/buid/SIB/IX13063686-0|//blp/mktdata/bsid/7456085636957
 Transilvania Fina Mar12|SFCH2|SIB|7456084302841|IX12452283-0|Physical index future.|Index|BBG001LZ2BN4||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCH2|//blp/mktdata/buid/SIB/IX12452283-0|//blp/mktdata/bsid/7456084302841
+Transilvania Fina Nov11|SFCX1|||IX13481468-0|Physical index future.|Index|BBG0021L8SF1||33996|33996|0||40099|||
 Transilvania Fina Oct11|SFCV1|SIB|7456086213511|IX13255883-0|Physical index future.|Index|BBG001YCX1N9||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCV1|//blp/mktdata/buid/SIB/IX13255883-0|//blp/mktdata/bsid/7456086213511
 Transilvania Fina Sep11|SFCU1|SIB|7456081725938|IX11212791-0|Physical index future.|Index|BBG0016YX1Q9||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCU1|//blp/mktdata/buid/SIB/IX11212791-0|//blp/mktdata/bsid/7456081725938
 UKRAINIAN INDX FU Dec11|UXOZ1|UKR|17991640137637|IX12943258-0|Physical index future.|Index|BBG001R22JX3||38036|38036|0||39733|//blp/mktdata/bsym/UKR/UXOZ1|//blp/mktdata/buid/UKR/IX12943258-0|//blp/mktdata/bsid/17991640137637

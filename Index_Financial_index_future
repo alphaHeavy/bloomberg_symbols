@@ -1,5 +1,5 @@
-#Data Generated At: Wed Aug 31 06:39:10 EDT 2011
-#Data Records=467
+#Data Generated At: Thu Sep 1 15:09:39 EDT 2011
+#Data Records=468
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 ADVANCED MCRO CEBOSep11|AMDU1|US|399452593039|IX12215825-0|Financial index future.|Index|BBG001KJN3T0||14009|0|0||39495|//blp/mktdata/bsym/US/AMDU1|//blp/mktdata/buid/US/IX12215825-0|//blp/mktdata/bsid/399452593039
@@ -67,6 +67,7 @@ Citigroup Cebo    Dec12|CIDZ2|US|399453382565|IX12612633-0|Financial index futur
 Citigroup Cebo    Dec13|CIDZ3|US|399453390657|IX12619038-0|Financial index future.|Index|BBG001NNC8F4||14009|0|0||39495|//blp/mktdata/bsym/US/CIDZ3|//blp/mktdata/buid/US/IX12619038-0|//blp/mktdata/bsid/399453390657
 Credit IN EVT S3  Dec12|CCDZ2|eCME|2078766093472|IX4421341-0|Financial index future.|Index|BBG000WCQWP1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDZ2|//blp/mktdata/buid/eCME/IX4421341-0|//blp/mktdata/bsid/2078766093472
 Credit IN EVT S3  Jun12|CCDM2|eCME|2078766093471|IX4419501-0|Financial index future.|Index|BBG000WCQWG1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDM2|//blp/mktdata/buid/eCME/IX4419501-0|//blp/mktdata/bsid/2078766093471
+Crude ME Sour1Min Dec11|MECZ1|||IX13481548-0|Financial index future.|Index|BBG0021L8T14||30022|30022|0||40087|||
 Crude ME Sour1Min Nov11|MECX1|ICE|1172549060462|IX13255947-0|Financial index future.|Index|BBG001YCX284||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECX1|//blp/mktdata/buid/ICE/IX13255947-0|//blp/mktdata/bsid/1172549060462
 Crude ME Sour1Min Oct11|MECV1|ICE|1172548482669|IX13063458-0|Financial index future.|Index|BBG001VD9594||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECV1|//blp/mktdata/buid/ICE/IX13063458-0|//blp/mktdata/bsid/1172548482669
 Crude WTI Sing1Mi Nov11|WACX1|ICE|1172549469748|IX13379332-0|Financial index future.|Index|BBG00203F0W6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACX1|//blp/mktdata/buid/ICE/IX13379332-0|//blp/mktdata/bsid/1172549469748

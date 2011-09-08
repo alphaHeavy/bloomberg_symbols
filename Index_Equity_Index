@@ -1,5 +1,5 @@
-#Data Generated At: Wed Aug 31 06:39:10 EDT 2011
-#Data Records=16274
+#Data Generated At: Thu Sep 1 15:09:38 EDT 2011
+#Data Records=16275
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1296,6 +1296,7 @@ BI EU Nordic Banks PB|BINDBAEV Index|||EI09BINDBAEV|Equity Index|Index|BBG001D74
 BI EU Power Generat Top|BIEGENET Index|||EI09BIEGENET|Equity Index|Index|BBG001XX11N9|||||||||
 BI EU SIFIs PB    siness|BIREGBEV Index|||EI09BIREGBEV|Equity Index|Index|BBG001D74N20|||||||||
 BI EU SIFIs PB    s|BISIFIEV Index|||EI09BISIFIEV|Equity Index|Index|BBG001D74N11|||||||||
+BI EU Spec App Stores PB|BIAPPREP Index|||EI09BIAPPREP|Equity Index|Index|BBG0021L90X1|||||||||
 BI EU Telco Carri PB|BITLETSV Index|||EI09BITLETSV|Equity Index|Index|BBG001CDN1P0|||||||||
 BI EU Tele Carriers Comp|BIEUTELC Index|||EI09BIEUTELC|Equity Index|Index|BBG001D0X443|||||||||
 BI EU Tobacco PB Index|BIETOBPB Index|||EI09BIETOBPB|Equity Index|Index|BBG00205HL26|||||||||
@@ -4879,6 +4880,7 @@ GS Bespoke Basket|GSFFP003 Index|GOLD||EI09GSFFP003|Equity Index|Index|BBG00202R
 GS Bespoke Basket|GSIKEUEX Index|GOLD|3384451210360|EI09GSIKEUEX|Equity Index|Index|BBG0011G9ZB1|||||40671||//blp/mktdata/bsym/GOLD/GSIKEUEX Index|//blp/mktdata/buid/GOLD/EI09GSIKEUEX|//blp/mktdata/bsid/3384451210360
 GS Bespoke Basket|GSIKTECH Index|GOLD||EI09GSIKTECH|Equity Index|Index|BBG00218TCR9|||||||//blp/mktdata/bsym/GOLD/GSIKTECH Index|//blp/mktdata/buid/GOLD/EI09GSIKTECH|
 GS Bespoke Basket|GSNBEUR2 Index|GOLD||EI09GSNBEUR2|Equity Index|Index|BBG001YN1K12|||||||//blp/mktdata/bsym/GOLD/GSNBEUR2 Index|//blp/mktdata/buid/GOLD/EI09GSNBEUR2|
+GS Bespoke Basket|GSTBMCXX Index|GOLD||EI09GSTBMCXX|Equity Index|Index|BBG0021K3YG4|||||33368||//blp/mktdata/bsym/GOLD/GSTBMCXX Index|//blp/mktdata/buid/GOLD/EI09GSTBMCXX|
 GS Bespoke Basket|GSTBSX7X Index|GOLD||EI09GSTBSX7X|Equity Index|Index|BBG00204WHJ3|||||33368||//blp/mktdata/bsym/GOLD/GSTBSX7X Index|//blp/mktdata/buid/GOLD/EI09GSTBSX7X|
 GS Bespoke Basket|GSTBSXXX Index|GOLD||EI09GSTBSXXX|Equity Index|Index|BBG00204W2Q8|||||33368||//blp/mktdata/bsym/GOLD/GSTBSXXX Index|//blp/mktdata/buid/GOLD/EI09GSTBSXXX|
 GS Bespoke|GSTUDCUT Index|GOLD|3384454060756|EI09GSTUDCUT|Equity Index|Index|BBG001DGKTX5|||||||//blp/mktdata/bsym/GOLD/GSTUDCUT Index|//blp/mktdata/buid/GOLD/EI09GSTUDCUT|//blp/mktdata/bsid/3384454060756
@@ -5938,7 +5940,6 @@ MPSCS Dyva Fund Euro|MPSCSDFE Index|ECAP|11008017758151|EI09MPSCSDFE|Equity Inde
 MS ALT SHORT|MSSTALTS Index|MSXP|5201216258700|EI09MSSTALTS|Equity Index|Index|BBG000VNNT87|||||27700||//blp/mktdata/bsym/MSXP/MSSTALTS Index|//blp/mktdata/buid/MSXP/EI09MSSTALTS|//blp/mktdata/bsid/5201216258700
 MS Aerosp.&Defense Europ|MSESAER Index|MSBP||EI09MSESAER|Equity Index|Index|BBG001Y5HML8|||||||//blp/mktdata/bsym/MSBP/MSESAER Index|//blp/mktdata/buid/MSBP/EI09MSESAER|
 MS Aerosp.&Defense Euro|MSESAERE Index|MSBP||EI09MSESAERE|Equity Index|Index|BBG001YMS581|||||27700||//blp/mktdata/bsym/MSBP/MSESAERE Index|//blp/mktdata/buid/MSBP/EI09MSESAERE|
-MS Autom. & Parts Europe|MSESAUT Index|MSBP||EI09MSESAUT|Equity Index|Index|BBG001XQSCW1|||||||//blp/mktdata/bsym/MSBP/MSESAUT Index|//blp/mktdata/buid/MSBP/EI09MSESAUT|
 MS Autom. & Parts Euro|MSESAUTE Index|MSBP||EI09MSESAUTE|Equity Index|Index|BBG001YMM042|||||27700||//blp/mktdata/bsym/MSBP/MSESAUTE Index|//blp/mktdata/buid/MSBP/EI09MSESAUTE|
 MS BS LONG SHORT|MSBPBSLS Index|MSXP|5201212457007|EI09MSBPBSLS|Equity Index|Index|BBG000VGPKJ7|||||27700||//blp/mktdata/bsym/MSXP/MSBPBSLS Index|//blp/mktdata/buid/MSXP/EI09MSBPBSLS|//blp/mktdata/bsid/5201212457007
 MS Banks Europe|MSESBAN Index|MSBP||EI09MSESBAN|Equity Index|Index|BBG001Y33DF5|||||||//blp/mktdata/bsym/MSBP/MSESBAN Index|//blp/mktdata/buid/MSBP/EI09MSESBAN|
