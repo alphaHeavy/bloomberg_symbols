@@ -1,4 +1,4 @@
-#Data Generated At: Fri Sep 9 15:27:29 EDT 2011
+#Data Generated At: Sat Sep 10 15:38:38 EDT 2011
 #Data Records=6292
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
@@ -896,7 +896,7 @@ COFFEE INDEX FUT  Jul12|XFN2|||IX13113317-0|Physical index future.|Index|BBG001W
 COFFEE INDEX FUT  Mar12|XFH2|||IX12268088-0|Physical index future.|Index|BBG001KNJWF7||14222|0|0||39590|||
 COFFEE INDEX FUT  May12|XFK2|||IX12708158-0|Physical index future.|Index|BBG001P9TKT3||14222|0|0||39590|||
 COFFEE INDEX FUT  Nov11|XFX1|||IX11441365-0|Physical index future.|Index|BBG0018V9CQ6||14222|0|0||39590|||
-COFFEE INDEX FUT  Sep11|XFU1|||IX11059835-0|Physical index future.|Index|BBG0015YPT79||14222|0|0||39590|||
+COFFEE INDEX FUT  Sep12|XFU2|||IX13540481-0|Physical index future.|Index|BBG00228M9N6||14222|0|0||39590|||
 COLORADO CDD IX   Apr12|CDCJ2|CME|614203363440|IX13287885-0|Physical index future.|Index|BBG001YKQBR3||14002|14002|0||39490|//blp/mktdata/bsym/CME/CDCJ2|//blp/mktdata/buid/CME/IX13287885-0|//blp/mktdata/bsid/614203363440
 COLORADO CDD IX   Apr13|CDCJ3|eCME|2078780107318|IX10209270-0|Physical index future.|Index|BBG000ZDK8V8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDCJ3|//blp/mktdata/buid/eCME/IX10209270-0|//blp/mktdata/bsid/2078780107318
 COLORADO CDD IX   Apr14|CDCJ4|eCME|2078785698127|IX12663191-0|Physical index future.|Index|BBG001P11KY4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDCJ4|//blp/mktdata/buid/eCME/IX12663191-0|//blp/mktdata/bsid/2078785698127
@@ -930,7 +930,7 @@ CORN 75 INDEX FUT Jul12|UZN2|||IX13113313-0|Physical index future.|Index|BBG001W
 CORN 75 INDEX FUT Mar12|UZH2|||IX12268084-0|Physical index future.|Index|BBG001KNJWD9||14222|0|0||39590|||
 CORN 75 INDEX FUT May12|UZK2|||IX12708154-0|Physical index future.|Index|BBG001P9TKS4||14222|0|0||39590|||
 CORN 75 INDEX FUT Nov11|UZX1|||IX11441369-0|Physical index future.|Index|BBG0018V9CR5||14222|0|0||39590|||
-CORN 75 INDEX FUT Sep11|UZU1|||IX11059831-0|Physical index future.|Index|BBG0015YPT60||14222|0|0||39590|||
+CORN 75 INDEX FUT Sep12|UZU2|||IX13540477-0|Physical index future.|Index|BBG00228M9M7||14222|0|0||39590|||
 CTOP INDEX FUTURE Dec11|DKZ1|SAFE|1705122801091|IX12332461-0|Physical index future.|Index|BBG001KWQ041||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/DKZ1|//blp/mktdata/buid/SAFE/IX12332461-0|//blp/mktdata/bsid/1705122801091
 CTOP INDEX FUTURE Jun12|DKM2|SAFE|1705125762133|IX13490773-0|Physical index future.|Index|BBG0021PHSF2||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/DKM2|//blp/mktdata/buid/SAFE/IX13490773-0|//blp/mktdata/bsid/1705125762133
 CTOP INDEX FUTURE Mar12|DKH2|SAFE|1705124032735|IX12861580-0|Physical index future.|Index|BBG001QQFCK6||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/DKH2|//blp/mktdata/buid/SAFE/IX12861580-0|//blp/mktdata/bsid/1705124032735
@@ -1967,6 +1967,7 @@ Gas Oil US MM     Sep11|QMIU1|ICE|1172548165122|IX12906946-0|Physical index futu
 GasOil Aft1Min    Nov11|OICX1|ICE|1172549342899|IX13348913-0|Physical index future.|Index|BBG001ZB8LH1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICX1|//blp/mktdata/buid/ICE/IX13348913-0|//blp/mktdata/bsid/1172549342899
 GasOil Aft1Min    Oct11|OICV1|ICE|1172548693802|IX13140980-0|Physical index future.|Index|BBG001WNQSR2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICV1|//blp/mktdata/buid/ICE/IX13140980-0|//blp/mktdata/bsid/1172548693802
 GasOil Aft1Min    Sep11|OICU1|ICE|1172548175059|IX12915475-0|Physical index future.|Index|BBG001QZ9GL3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICU1|//blp/mktdata/buid/ICE/IX12915475-0|//blp/mktdata/bsid/1172548175059
+GasOil Singpore M Dec11|QSIZ1|||IX13543793-0|Physical index future.|Index|BBG002290VZ6||30022|30022|0||40087|||
 GasOil Singpore M Nov11|QSIX1|ICE|1172549301340|IX13341459-0|Physical index future.|Index|BBG001Z6CB98||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIX1|//blp/mktdata/buid/ICE/IX13341459-0|//blp/mktdata/bsid/1172549301340
 GasOil Singpore M Oct11|QSIV1|ICE|1172548676951|IX13127099-0|Physical index future.|Index|BBG001WHQDF1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIV1|//blp/mktdata/buid/ICE/IX13127099-0|//blp/mktdata/bsid/1172548676951
 GasOil Singpore M Sep11|QSIU1|ICE|1172548165124|IX12906950-0|Physical index future.|Index|BBG001QYGST4||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIU1|//blp/mktdata/buid/ICE/IX12906950-0|//blp/mktdata/bsid/1172548165124
@@ -2217,13 +2218,13 @@ HOUSTON SEASN HDD Mar12|H9H2|eCME|2078785289241|IX12486751-0|Physical index futu
 HSCEI Dividend FU Dec13|DHCZ3|HKG|1722301493983|IX11772801-0|Physical index future.|Index|BBG001CPJV27||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHCZ3|//blp/mktdata/buid/HKG/IX11772801-0|//blp/mktdata/bsid/1722301493983
 HSCEI Dividend FUTDec11|DHCZ1|HKG|1722300748111|IX11379301-0|Physical index future.|Index|BBG0018G9BN4||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHCZ1|//blp/mktdata/buid/HKG/IX11379301-0|//blp/mktdata/bsid/1722300748111
 HSCEI Dividend FUTDec12|DHCZ2|HKG|1722300748112|IX11379305-0|Physical index future.|Index|BBG0018G9BP2||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHCZ2|//blp/mktdata/buid/HKG/IX11379305-0|//blp/mktdata/bsid/1722300748112
-HSCEI Dividend FUTDec14|DHCZ4|||IX13537829-0|Physical index future.|Index|BBG00227XHJ3||14113|14082|0||40072|||
-HSCEI Dividend FUTDec15|DHCZ5|||IX13537833-0|Physical index future.|Index|BBG00227XHS3||14113|14082|0||40072|||
+HSCEI Dividend FUTDec14|DHCZ4|HKG|1722305729262|IX13537829-0|Physical index future.|Index|BBG00227XHJ3||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHCZ4|//blp/mktdata/buid/HKG/IX13537829-0|//blp/mktdata/bsid/1722305729262
+HSCEI Dividend FUTDec15|DHCZ5|HKG|1722305729263|IX13537833-0|Physical index future.|Index|BBG00227XHS3||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHCZ5|//blp/mktdata/buid/HKG/IX13537833-0|//blp/mktdata/bsid/1722305729263
 HSI Dividend FUT  Dec11|DHSZ1|HKG|1722300748108|IX11379281-0|Physical index future.|Index|BBG0018G9BR0||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHSZ1|//blp/mktdata/buid/HKG/IX11379281-0|//blp/mktdata/bsid/1722300748108
 HSI Dividend FUT  Dec12|DHSZ2|HKG|1722300748109|IX11379285-0|Physical index future.|Index|BBG0018G9BS9||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHSZ2|//blp/mktdata/buid/HKG/IX11379285-0|//blp/mktdata/bsid/1722300748109
 HSI Dividend FUT  Dec13|DHSZ3|HKG|1722301493982|IX11772797-0|Physical index future.|Index|BBG001CPJV18||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHSZ3|//blp/mktdata/buid/HKG/IX11772797-0|//blp/mktdata/bsid/1722301493982
-HSI Dividend FUT  Dec14|DHSZ4|||IX13537837-0|Physical index future.|Index|BBG00227XJ09||14113|14082|0||40072|||
-HSI Dividend FUT  Dec15|DHSZ5|||IX13537841-0|Physical index future.|Index|BBG00227XJ72||14113|14082|0||40072|||
+HSI Dividend FUT  Dec14|DHSZ4|HKG|1722305729264|IX13537837-0|Physical index future.|Index|BBG00227XJ09||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHSZ4|//blp/mktdata/buid/HKG/IX13537837-0|//blp/mktdata/bsid/1722305729264
+HSI Dividend FUT  Dec15|DHSZ5|HKG|1722305729265|IX13537841-0|Physical index future.|Index|BBG00227XJ72||14113|14082|0||40072|//blp/mktdata/bsym/HKG/DHSZ5|//blp/mktdata/buid/HKG/IX13537841-0|//blp/mktdata/bsid/1722305729265
 HUNGAR TRD IX FUT Dec11|HYZ1|AV|133161137047|IX10552240-0|Physical index future.|Index|BBG0011YBNL5||14114|14114|0||39545|//blp/mktdata/bsym/AV/HYZ1|//blp/mktdata/buid/AV/IX10552240-0|//blp/mktdata/bsid/133161137047
 HUNGAR TRD IX FUT Dec12|HYZ2|AV|133166158107|IX12977963-0|Physical index future.|Index|BBG001R722H7||14114|14114|0||39545|//blp/mktdata/bsym/AV/HYZ2|//blp/mktdata/buid/AV/IX12977963-0|//blp/mktdata/bsid/133166158107
 HUNGAR TRD IX FUT Jun12|HYM2|AV|133163423491|IX11716042-0|Physical index future.|Index|BBG001BW92R1||14114|14114|0||39545|//blp/mktdata/bsym/AV/HYM2|//blp/mktdata/buid/AV/IX11716042-0|//blp/mktdata/bsid/133163423491
@@ -3002,7 +3003,7 @@ LAS VEGAS HDD FUT Oct13|LDV3|eCME|2078783054009|IX11395590-0|Physical index futu
 LIFFE TOPIX FUTUR Dec11|TPIZ1|LIF|609904688810|IX11642089-0|Physical index future.|Index|BBG001B576M8||27269|27270|0||39605|//blp/mktdata/bsym/LIF/TPIZ1|//blp/mktdata/buid/LIF/IX11642089-0|//blp/mktdata/bsid/609904688810
 LIFFE TOPIX FUTUR Jun12|TPIM2|LIF|609907433078|IX12898685-0|Physical index future.|Index|BBG001QWSMN4||27269|27270|0||39605|//blp/mktdata/bsym/LIF/TPIM2|//blp/mktdata/buid/LIF/IX12898685-0|//blp/mktdata/bsid/609907433078
 LIFFE TOPIX FUTUR Mar12|TPIH2|LIF|609906025584|IX12262138-0|Physical index future.|Index|BBG001KLZ8Y5||27269|27270|0||39605|//blp/mktdata/bsym/LIF/TPIH2|//blp/mktdata/buid/LIF/IX12262138-0|//blp/mktdata/bsid/609906025584
-LIFFE TOPIX FUTUR Sep12|TPIU2|LIF|609909173177|IX13525927-0|Physical index future.|Index|BBG0021Y7YY0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/TPIU2|//blp/mktdata/buid/LIF/IX13525927-0|//blp/mktdata/bsid/609909173177
+LIFFE TOPIX FUTUR Sep12|TPIU2|LIF|609909173177|IX13525927-0|Physical index future.|Index|BBG0021Y7YY0||27269|27270|0||39605|//blp/mktdata/bsym/LIF/TPIU2|//blp/mktdata/buid/LIF/IX13525927-0|//blp/mktdata/bsid/609909173177
 LMEX METAL IX FUT Apr12|MZJ2|LME|661446185459|IX12537340-0|Physical index future.|Index|BBG001MKR0D4||14059|0|0||14197|//blp/mktdata/bsym/LME/MZJ2|//blp/mktdata/buid/LME/IX12537340-0|//blp/mktdata/bsid/661446185459
 LMEX METAL IX FUT Aug12|MZQ2|LME|661448182003|IX13341483-0|Physical index future.|Index|BBG001Z6CBG0||14059|0|0||14197|//blp/mktdata/bsym/LME/MZQ2|//blp/mktdata/buid/LME/IX13341483-0|//blp/mktdata/bsid/661448182003
 LMEX METAL IX FUT Dec11|MZZ1|LME|661444291972|IX11642097-0|Physical index future.|Index|BBG001B576P5||14059|0|0||14197|//blp/mktdata/bsym/LME/MZZ1|//blp/mktdata/buid/LME/IX11642097-0|//blp/mktdata/bsid/661444291972
@@ -3607,6 +3608,7 @@ MSCI JAPAN INDEX  Oct11|SJIV1|LIF|609907136053|IX12769170-0|Physical index futur
 MSCI JAPAN INDEX  Sep11|SJIU1|LIF|609902850231|IX10617789-0|Physical index future.|Index|BBG0012J9N21||27267|27268|0||40559|//blp/mktdata/bsym/LIF/SJIU1|//blp/mktdata/buid/LIF/IX10617789-0|//blp/mktdata/bsid/609902850231
 MSCI JAPAN INDEX  Sep12|SJIU2|LIF|609906151207|IX12332473-0|Physical index future.|Index|BBG001KWQ078||27267|27268|0||40559|//blp/mktdata/bsym/LIF/SJIU2|//blp/mktdata/buid/LIF/IX12332473-0|//blp/mktdata/bsid/609906151207
 MSCI Japan Index  Dec11|FMIZ1|EUX|279193571787|IX12276753-0|Physical index future.|Index|BBG001KPW0J3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FMIZ1|//blp/mktdata/buid/EUX/IX12276753-0|//blp/mktdata/bsid/279193571787
+MSCI Japan Index  Jun12|FMIM2|||IX13543877-0|Physical index future.|Index|BBG002290WP5||14066|14111|0||39521|||
 MSCI Japan Index  Mar12|FMIH2|EUX|279194976647|IX12915383-0|Physical index future.|Index|BBG001QZ9FR9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FMIH2|//blp/mktdata/buid/EUX/IX12915383-0|//blp/mktdata/bsid/279194976647
 MSCI Japan Index  Sep11|FMIU1|EUX|279192231998|IX11659071-0|Physical index future.|Index|BBG001B9VKY9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FMIU1|//blp/mktdata/buid/EUX/IX11659071-0|//blp/mktdata/bsid/279192231998
 MSCI KOKUSAI GTR  Dec11|KUSZ1|LIF|609909000752|IX13442158-0|Physical index future.|Index|BBG00217YJ72||27267|27268|0||40559|//blp/mktdata/bsym/LIF/KUSZ1|//blp/mktdata/buid/LIF/IX13442158-0|//blp/mktdata/bsid/609909000752
@@ -3896,8 +3898,12 @@ Mini SGX NK Futur Mar12|MNIH2|cSGX|10037359259755|IX12268108-0|Physical index fu
 Mini SGX NK Futur Mar12|MNIH2|cSGX|10037359259755|IX12268108-0|Physical index future.|Index|BBG001KNJWM9||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/MNIH2|//blp/mktdata/buid/cSGX/IX12268108-0|//blp/mktdata/bsid/10037359259755
 Mini SGX NK Futur Mar12|MNIH2|eSGX|2108849631339|IX12268108-0|Physical index future.|Index|BBG001KNJWM9||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/MNIH2|//blp/mktdata/buid/eSGX/IX12268108-0|//blp/mktdata/bsid/2108849631339
 Mini SGX NK Futur Mar12|MNIH2|eSGX|2108849631339|IX12268108-0|Physical index future.|Index|BBG001KNJWM9||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/MNIH2|//blp/mktdata/buid/eSGX/IX12268108-0|//blp/mktdata/bsid/2108849631339
-Mini SGX NK Futur Sep12|MNIU2|||IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|||
-Mini SGX NK Futur Sep12|MNIU2|||IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|||
+Mini SGX NK Futur Sep12|MNIU2|SGX|889082068033|IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|//blp/mktdata/bsym/SGX/MNIU2|//blp/mktdata/buid/SGX/IX13531870-0|//blp/mktdata/bsid/889082068033
+Mini SGX NK Futur Sep12|MNIU2|SGX|889082068033|IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|//blp/mktdata/bsym/SGX/MNIU2|//blp/mktdata/buid/SGX/IX13531870-0|//blp/mktdata/bsid/889082068033
+Mini SGX NK Futur Sep12|MNIU2|cSGX|10037362408513|IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/MNIU2|//blp/mktdata/buid/cSGX/IX13531870-0|//blp/mktdata/bsid/10037362408513
+Mini SGX NK Futur Sep12|MNIU2|cSGX|10037362408513|IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/MNIU2|//blp/mktdata/buid/cSGX/IX13531870-0|//blp/mktdata/bsid/10037362408513
+Mini SGX NK Futur Sep12|MNIU2|eSGX|2108852780097|IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/MNIU2|//blp/mktdata/buid/eSGX/IX13531870-0|//blp/mktdata/bsid/2108852780097
+Mini SGX NK Futur Sep12|MNIU2|eSGX|2108852780097|IX13531870-0|Physical index future.|Index|BBG0022623X4||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/MNIU2|//blp/mktdata/buid/eSGX/IX13531870-0|//blp/mktdata/bsid/2108852780097
 MiniWIG20 IPU     Dec25|MWIZ5|||IX11349610-0|Physical index future.|Index|BBG0017VF068||14083|14083|0||39529|||
 Moldova Financial Dec11|SFBZ1|||IX11789207-0|Physical index future.|Index|BBG001CTR9P4||33996|33996|0||40099|||
 Moldova Financial Jun12|SFBM2|||IX13063678-0|Physical index future.|Index|BBG001VD98F1||33996|33996|0||40099|||
@@ -4128,12 +4134,6 @@ NIKKEI 225  (CME) Mar12|NXH2|cCME|9981524677826|IX12270148-0|Physical index futu
 NIKKEI 225  (CME) Mar12|NXH2|cCME|9981524677826|IX12270148-0|Physical index future.|Index|BBG001KNSM96||14002|14002|0||39490|//blp/mktdata/bsym/cCME/NXH2|//blp/mktdata/buid/cCME/IX12270148-0|//blp/mktdata/bsid/9981524677826
 NIKKEI 225  (CME) Mar12|NXH2|eCME|2078784853186|IX12270148-0|Physical index future.|Index|BBG001KNSM96||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NXH2|//blp/mktdata/buid/eCME/IX12270148-0|//blp/mktdata/bsid/2078784853186
 NIKKEI 225  (CME) Mar12|NXH2|eCME|2078784853186|IX12270148-0|Physical index future.|Index|BBG001KNSM96||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NXH2|//blp/mktdata/buid/eCME/IX12270148-0|//blp/mktdata/bsid/2078784853186
-NIKKEI 225  (CME) Sep11|NXU1|CME|614198568916|IX11054818-0|Physical index future.|Index|BBG0015XXSC8||14002|14002|0||39490|//blp/mktdata/bsym/CME/NXU1|//blp/mktdata/buid/CME/IX11054818-0|//blp/mktdata/bsid/614198568916
-NIKKEI 225  (CME) Sep11|NXU1|CME|614198568916|IX11054818-0|Physical index future.|Index|BBG0015XXSC8||14002|14002|0||39490|//blp/mktdata/bsym/CME/NXU1|//blp/mktdata/buid/CME/IX11054818-0|//blp/mktdata/bsid/614198568916
-NIKKEI 225  (CME) Sep11|NXU1|cCME|9981522241492|IX11054818-0|Physical index future.|Index|BBG0015XXSC8||14002|14002|0||39490|//blp/mktdata/bsym/cCME/NXU1|//blp/mktdata/buid/cCME/IX11054818-0|//blp/mktdata/bsid/9981522241492
-NIKKEI 225  (CME) Sep11|NXU1|cCME|9981522241492|IX11054818-0|Physical index future.|Index|BBG0015XXSC8||14002|14002|0||39490|//blp/mktdata/bsym/cCME/NXU1|//blp/mktdata/buid/cCME/IX11054818-0|//blp/mktdata/bsid/9981522241492
-NIKKEI 225  (CME) Sep11|NXU1|eCME|2078782416852|IX11054818-0|Physical index future.|Index|BBG0015XXSC8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NXU1|//blp/mktdata/buid/eCME/IX11054818-0|//blp/mktdata/bsid/2078782416852
-NIKKEI 225  (CME) Sep11|NXU1|eCME|2078782416852|IX11054818-0|Physical index future.|Index|BBG0015XXSC8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NXU1|//blp/mktdata/buid/eCME/IX11054818-0|//blp/mktdata/bsid/2078782416852
 NIKKEI 225  (CME) Sep12|NXU2|CME|614204152495|IX13533892-0|Physical index future.|Index|BBG00226MCW3||14002|14002|0||39490|//blp/mktdata/bsym/CME/NXU2|//blp/mktdata/buid/CME/IX13533892-0|//blp/mktdata/bsid/614204152495
 NIKKEI 225  (CME) Sep12|NXU2|CME|614204152495|IX13533892-0|Physical index future.|Index|BBG00226MCW3||14002|14002|0||39490|//blp/mktdata/bsym/CME/NXU2|//blp/mktdata/buid/CME/IX13533892-0|//blp/mktdata/bsid/614204152495
 NIKKEI 225  (CME) Sep12|NXU2|cCME|9981527825071|IX13533892-0|Physical index future.|Index|BBG00226MCW3||14002|14002|0||39490|//blp/mktdata/bsym/cCME/NXU2|//blp/mktdata/buid/cCME/IX13533892-0|//blp/mktdata/bsid/9981527825071
@@ -4803,6 +4803,7 @@ RJ/CRB INDEX FUT  Dec11|CRZ1|eNYB|2100258366507|IX11659643-0|Physical index futu
 RJ/CRB INDEX FUT  Jun12|CRM2|eNYB|2100261105820|IX12916495-0|Physical index future.|Index|BBG001QZD097||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CRM2|//blp/mktdata/buid/eNYB/IX12916495-0|//blp/mktdata/bsid/2100261105820
 RJ/CRB INDEX FUT  Mar12|CRH2|eNYB|2100259705339|IX12280429-0|Physical index future.|Index|BBG001KPXQ05||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CRH2|//blp/mktdata/buid/eNYB/IX12280429-0|//blp/mktdata/bsid/2100259705339
 RJ/CRB INDEX FUT  Sep11|CRU1|eNYB|2100257258990|IX11062071-0|Physical index future.|Index|BBG0015YTSD0||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CRU1|//blp/mktdata/buid/eNYB/IX11062071-0|//blp/mktdata/bsid/2100257258990
+RJ/CRB INDEX FUT  Sep12|CRU2|||IX13544973-0|Physical index future.|Index|BBG002293HK0||14008|14008|0||40065|||
 ROME MONTHLY CAT  Apr12|Q7J2|eCME|2078785728871|IX12685418-0|Physical index future.|Index|BBG001P63M40||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7J2|//blp/mktdata/buid/eCME/IX12685418-0|//blp/mktdata/bsid/2078785728871
 ROME MONTHLY CAT  Aug12|Q7Q2|eCME|2078787966705|IX13519290-0|Physical index future.|Index|BBG0021W8ZJ7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7Q2|//blp/mktdata/buid/eCME/IX13519290-0|//blp/mktdata/bsid/2078787966705
 ROME MONTHLY CAT  Jul12|Q7N2|eCME|2078787271212|IX13310961-0|Physical index future.|Index|BBG001YR77C4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7N2|//blp/mktdata/buid/eCME/IX13310961-0|//blp/mktdata/bsid/2078787271212
@@ -6224,7 +6225,6 @@ YEN DENOM NIKKEI  Mar13|NHH3|eCME|2078779649086|IX10159038-0|Physical index futu
 YEN DENOM NIKKEI  Mar14|NHH4|eCME|2078784853189|IX12270144-0|Physical index future.|Index|BBG001KNSM87||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHH4|//blp/mktdata/buid/eCME/IX12270144-0|//blp/mktdata/bsid/2078784853189
 YEN DENOM NIKKEI  Nov11|NHX1|eCME|2078786718223|IX13108624-0|Physical index future.|Index|BBG001W4JK44||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHX1|//blp/mktdata/buid/eCME/IX13108624-0|//blp/mktdata/bsid/2078786718223
 YEN DENOM NIKKEI  Oct11|NHV1|eCME|2078785821660|IX12724430-0|Physical index future.|Index|BBG001PG1JB9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHV1|//blp/mktdata/buid/eCME/IX12724430-0|//blp/mktdata/bsid/2078785821660
-YEN DENOM NIKKEI  Sep11|NHU1|eCME|2078773845365|IX8541350-0|Physical index future.|Index|BBG000XPBGC6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHU1|//blp/mktdata/buid/eCME/IX8541350-0|//blp/mktdata/bsid/2078773845365
 YEN DENOM NIKKEI  Sep12|NHU2|eCME|2078776510297|IX9449936-0|Physical index future.|Index|BBG000THLLY3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHU2|//blp/mktdata/buid/eCME/IX9449936-0|//blp/mktdata/bsid/2078776510297
 YEN DENOM NIKKEI  Sep13|NHU3|eCME|2078782413475|IX11054834-0|Physical index future.|Index|BBG0015XXSH3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHU3|//blp/mktdata/buid/eCME/IX11054834-0|//blp/mktdata/bsid/2078782413475
 YEN DENOM NIKKEI  Sep14|NHU4|||IX13533924-0|Physical index future.|Index|BBG00226MD15||14002|14002|0||39490|||

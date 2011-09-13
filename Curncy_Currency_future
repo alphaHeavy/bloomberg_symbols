@@ -1,5 +1,5 @@
-#Data Generated At: Fri Sep 9 15:13:50 EDT 2011
-#Data Records=3910
+#Data Generated At: Sat Sep 10 15:25:10 EDT 2011
+#Data Records=3913
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Sep11|ADCU1|YLX|8744577151340|IX13481552-0|Currency future.|Curncy|BBG0021L8T23||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCU1|//blp/mktdata/buid/YLX/IX13481552-0|//blp/mktdata/bsid/8744577151340
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -1486,9 +1486,11 @@ EUR/TRY X-RATE    Nov11|TERX1|BSE|1103830007299|IX13387105-0|Currency future.|Cu
 EUR/TRY X-RATE    Oct11|TERV1|BSE|1103829460342|IX13198249-0|Currency future.|Curncy|BBG001XX1BF6||14116|14116|0||39547|//blp/mktdata/bsym/BSE/TERV1|//blp/mktdata/buid/BSE/IX13198249-0|//blp/mktdata/bsid/1103829460342
 EUR/TRY X-RATE    Sep11|TERU1|BSE|1103819140658|IX9482193-0|Currency future.|Curncy|BBG000XX1LC9||14116|14116|0||39547|//blp/mktdata/bsym/BSE/TERU1|//blp/mktdata/buid/BSE/IX9482193-0|//blp/mktdata/bsid/1103819140658
 EUR/TRY X-RATE    Sep12|TERU2|BSE|1103824885698|IX11100363-0|Currency future.|Curncy|BBG00163Z3H1||14116|14116|0||39547|//blp/mktdata/bsym/BSE/TERU2|//blp/mktdata/buid/BSE/IX11100363-0|//blp/mktdata/bsid/1103824885698
+EUR/USD 1M RL VOL Dec11|UCOZ1|||IX13545053-0|Currency future.|Curncy|BBG002293HP5||14002|14002|0||39490|||
 EUR/USD 1M RL VOL Nov11|UCOX1|eCME|2078787272680|IX13310681-0|Currency future.|Curncy|BBG001YR76T8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOX1|//blp/mktdata/buid/eCME/IX13310681-0|//blp/mktdata/bsid/2078787272680
 EUR/USD 1M RL VOL Oct11|UCOV1|eCME|2078786751072|IX13115901-0|Currency future.|Curncy|BBG001WDGXJ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOV1|//blp/mktdata/buid/eCME/IX13115901-0|//blp/mktdata/bsid/2078786751072
 EUR/USD 1M RL VOL Sep11|UCOU1|eCME|2078786203398|IX12870941-0|Currency future.|Curncy|BBG001QRNHF0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOU1|//blp/mktdata/buid/eCME/IX12870941-0|//blp/mktdata/bsid/2078786203398
+EUR/USD 3M RL VOL Jun12|UCTM2|||IX13545009-0|Currency future.|Curncy|BBG002293HN7||14002|14002|0||39490|||
 EUR/USD 3M RL VOL Mar12|UCTH2|eCME|2078786203397|IX12870761-0|Currency future.|Curncy|BBG001QRNHB4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCTH2|//blp/mktdata/buid/eCME/IX12870761-0|//blp/mktdata/bsid/2078786203397
 EUR/USD 3M RL VOL Sep11|UCTU1|eCME|2078784322833|IX12007889-0|Currency future.|Curncy|BBG001HRF8H7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCTU1|//blp/mktdata/buid/eCME/IX12007889-0|//blp/mktdata/bsid/2078784322833
 EUR/USD CFD       Nov36|FRDX6|||IX4849850-0|Currency future.|Curncy|BBG000WJM8C7||14016|14016|0||40067|||
@@ -3542,6 +3544,7 @@ UDI FUTURE        Sep12|IUU2|MDX|1743759146809|IX4901980-0|Currency future.|Curn
 UDI FUTURE        Sep13|IUU3|MDX|1743764132411|IX7605605-0|Currency future.|Curncy|BBG000HRV5F9||14153|0|0||39567|//blp/mktdata/bsym/MDX/IUU3|//blp/mktdata/buid/MDX/IX7605605-0|//blp/mktdata/bsid/1743764132411
 UDI FUTURE        Sep14|IUU4|MDX|1743769220598|IX9449928-0|Currency future.|Curncy|BBG000QDZZS6||14153|0|0||39567|//blp/mktdata/bsym/MDX/IUU4|//blp/mktdata/buid/MDX/IX9449928-0|//blp/mktdata/bsid/1743769220598
 UDI FUTURE        Sep15|IUU5|MDX|1743774972479|IX11062107-0|Currency future.|Curncy|BBG0015YTSF8||14153|0|0||39567|//blp/mktdata/bsym/MDX/IUU5|//blp/mktdata/buid/MDX/IX11062107-0|//blp/mktdata/bsid/1743774972479
+UDI FUTURE        Sep16|IUU6|||IX13545001-0|Currency future.|Curncy|BBG002293HL9||14153|0|0||39567|||
 US DOLLAR FUT     Apr12|DSJ2|MDX|1743766631086|IX8648233-0|Currency future.|Curncy|BBG000SFM9Y4||14153|0|0||39567|//blp/mktdata/bsym/MDX/DSJ2|//blp/mktdata/buid/MDX/IX8648233-0|//blp/mktdata/bsid/1743766631086
 US DOLLAR FUT     Apr13|DSJ13|MDX|1743772455222|IX10277980-0|Currency future.|Curncy|BBG000ZH2CR5||14153|0|0||39567|//blp/mktdata/bsym/MDX/DSJ13|//blp/mktdata/buid/MDX/IX10277980-0|//blp/mktdata/bsid/1743772455222
 US DOLLAR FUT     Apr14|DSJ14|MDX|1743778082199|IX12576277-0|Currency future.|Curncy|BBG001NBVY71||14153|0|0||39567|//blp/mktdata/bsym/MDX/DSJ14|//blp/mktdata/buid/MDX/IX12576277-0|//blp/mktdata/bsid/1743778082199
