@@ -1,5 +1,5 @@
-#Data Generated At: Wed Sep 7 14:56:52 EDT 2011
-#Data Records=10508
+#Data Generated At: Thu Sep 8 14:57:23 EDT 2011
+#Data Records=10522
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -3571,20 +3571,20 @@ EUR SO 30/2 FWD      15Y||||IX12614097-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      18M||||IX12614053-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      20Y||||IX12614021-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      30Y||||IX13233307-0|SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 10Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 1M|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 1W|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 1Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 20Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 2Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 30Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 3M|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 3Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 4Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 5Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 6M|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 7Y|||||SWAP|Curncy||||||||||
-EUR SPRD ON SPRD OPT 9M|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 10Y||||IX13520042-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 1M||||IX13520002-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 1W||||IX13519998-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 1Y||||IX13520010-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 20Y||||IX13520038-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 2Y||||IX13520018-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 30Y||||IX13520046-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 3M||||IX13520006-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 3Y||||IX13520022-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 4Y||||IX13520026-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 5Y||||IX13520034-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 6M||||IX13520050-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 7Y||||IX13520030-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 9M||||IX13520014-0|SWAP|Curncy||||||||||
 EUR SWAP           9M10Y||||IX2741672-0|SWAP|Curncy||||||||||
 EUR SWAP           9M15Y||||IX2741676-0|SWAP|Curncy||||||||||
 EUR SWAP           9M20Y||||IX2741680-0|SWAP|Curncy||||||||||
@@ -9191,6 +9191,20 @@ USD SO 30/2 FWD       9M||||IX13234211-0|SWAP|Curncy||||||||||
 USD SO 30/2 FWD      10Y||||IX13234247-0|SWAP|Curncy||||||||||
 USD SO 30/2 FWD      20Y||||IX13234243-0|SWAP|Curncy||||||||||
 USD SO 30/2 FWD      30Y||||IX13234251-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 10Y||||IX13526311-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 1M||||IX13526267-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 1W||||IX13526319-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 1Y||||IX13526295-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 20Y||||IX13526307-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 2Y||||IX13526283-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 30Y||||IX13526315-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 3M||||IX13526279-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 3Y||||IX13526287-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 4Y||||IX13526291-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 5Y||||IX13526303-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 6M||||IX13526271-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 7Y||||IX13526299-0|SWAP|Curncy||||||||||
+USD SPRD ON SPRD OPT 9M||||IX13526275-0|SWAP|Curncy||||||||||
 USD SWAP      30Y VS 35Y||||IX13141296-0|SWAP|Curncy||||||||||
 USD SWAP     10Y vs 10Y||||IX2742544-0|SWAP|Curncy||||||||||
 USD SWAP     10Y vs 15Y||||IX2742548-0|SWAP|Curncy||||||||||

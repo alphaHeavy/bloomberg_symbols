@@ -1,5 +1,5 @@
-#Data Generated At: Wed Sep 7 15:09:07 EDT 2011
-#Data Records=16254
+#Data Generated At: Thu Sep 8 15:09:44 EDT 2011
+#Data Records=16259
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1377,6 +1377,7 @@ BI GL Fin Info Serv PB|BBFIDPVP Index|||EI09BBFIDPVP|Equity Index|Index|BBG0014S
 BI GL Fin Info Svs Comp|BIINFOGC Index|||EI09BIINFOGC|Equity Index|Index|BBG0021R5428|||||||||
 BI GL Food CrdtRtng Cmpv|BIFDCRCO Index|||EI09BIFDCRCO|Equity Index|Index|BBG001810X12|||||||||
 BI GL Food Principal Bs|BIALFOOD Index|||EI09BIALFOOD|Equity Index|Index|BBG001924QN6|||||||||
+BI GL Food Retail PB Idx|BIGFDRTP Index|||EI09BIGFDRTP|Equity Index|Index|BBG0021Y8Q85|||||||||
 BI GL Frz&Cand&Peri Pr B|BIFRCAPE Index|||EI09BIFRCAPE|Equity Index|Index|BBG0017FY7S3|||||||||
 BI GL Fuel Cell Stge PB|BIFCELV Index|||EI09BIFCELV|Equity Index|Index|BBG001924QK9|||||||||
 BI GL FuelCell Strg Comp|BIFCELC Index|||EI09BIFCELC|Equity Index|Index|BBG001924QL8|||||||||
@@ -1544,10 +1545,8 @@ BI NA Auto/Veh OEM Mg PB|BIAUTONA Index|||EI09BIAUTONA|Equity Index|Index|BBG001
 BI NA AutoPts Svc Rtl PB|BIAUTRNP Index|||EI09BIAUTRNP|Equity Index|Index|BBG001BWY6X7|||||||||
 BI NA AutoRetail Deal PB|BIAUTRNR Index|||EI09BIAUTRNR|Equity Index|Index|BBG001BWY6W8|||||||||
 BI NA Beverages Comp|BIBEVGNV Index|||EI09BIBEVGNV|Equity Index|Index|BBG001CN6FK1|||||||||
-BI NA Bld Mat Dist CP Ix|BINBMTDC Index|||EI09BINBMTDC|Equity Index|Index|BBG001V9VCX6|||||||||
-BI NA Bld Mat Dist PB Ix|BINBMTDP Index|||EI09BINBMTDP|Equity Index|Index|BBG001V9VF05|||||||||
-BI NA Bld Prd Rtl CP Idx|BINBPDRC Index|||EI09BINBPDRC|Equity Index|Index|BBG001V9SBP1|||||||||
-BI NA Bld Prd Rtl PB Idx|BINBPDRP Index|||EI09BINBPDRP|Equity Index|Index|BBG001V9TSG3|||||||||
+BI NA Bld Mat Dlrs Comp|BINBMTDC Index|||EI09BINBMTDC|Equity Index|Index|BBG001V9VCX6|||||||||
+BI NA Bld Mat Dlrs PB Ix|BINBMTDP Index|||EI09BINBMTDP|Equity Index|Index|BBG001V9VF05|||||||||
 BI NA Bldng Prod Rtl Cmp|BRHOMCNC Index|||EI09BRHOMCNC|Equity Index|Index|BBG0012CXXZ1|||||||||
 BI NA Cable & Sat Comp|BICTVNAC Index|||EI09BICTVNAC|Equity Index|Index|BBG001Q7GB74|||||||||
 BI NA Card Lenders Cmptv|BRCREDPC Index|||EI09BRCREDPC|Equity Index|Index|BBG00162Q828|||||||||
@@ -1574,6 +1573,8 @@ BI NA HlthCare SC PB|BINHCSCC Index|||EI09BINHCSCC|Equity Index|Index|BBG001YHQ6
 BI NA Home Builder CDS|BINHBCDS Index|||EI09BINHBCDS|Equity Index|Index|BBG001YN9287|||||||||
 BI NA Home Builder Comp|BRUSHOMC Index|||EI09BRUSHOMC|Equity Index|Index|BBG000Z4J6Q0|||||||||
 BI NA Home Centers - PB|BRHOMCNV Index|||EI09BRHOMCNV|Equity Index|Index|BBG0012CXXS9|||||||||
+BI NA Home Improve Sts C|BINBPDRC Index|||EI09BINBPDRC|Equity Index|Index|BBG001V9SBP1|||||||||
+BI NA Home Improve Sts P|BINBPDRP Index|||EI09BINBPDRP|Equity Index|Index|BBG001V9TSG3|||||||||
 BI NA Homebuilder PB|BRUSHOMV Index|||EI09BRUSHOMV|Equity Index|Index|BBG000Z4J6L5|||||||||
 BI NA Hospitals Cmptive|BRUSHOSC Index|||EI09BRUSHOSC|Equity Index|Index|BBG000Z7M9S1|||||||||
 BI NA Hospitals Prin Bus|BRUSHOSV Index|||EI09BRUSHOSV|Equity Index|Index|BBG000Z7M9Z3|||||||||
@@ -2538,6 +2539,7 @@ CSWOSHRT|CSWOSHRT Index|CSUK|5987206438541|EI09CSWOSHRT|Equity Index|Index|BBG00
 CSYYTEST|CSYYTEST Index|CSUK|5987196822588|EI09CSYYTEST|Equity Index|Index|BBG000W8RWN1|||||||//blp/mktdata/bsym/CSUK/CSYYTEST Index|//blp/mktdata/buid/CSUK/EI09CSYYTEST|//blp/mktdata/bsid/5987196822588
 CTEQ TEST|CGXX1234 Index|CTEQ|19000956453781|EI09CGXX1234|Equity Index|Index|BBG001M4RD97|||||||//blp/mktdata/bsym/CTEQ/CGXX1234 Index|//blp/mktdata/buid/CTEQ/EI09CGXX1234|//blp/mktdata/bsid/19000956453781
 CUSTOM IBEX X BAN FIN|MLEIIBXF Index|MLEI|5338667768516|EI09MLEIIBXF|Equity Index|Index|BBG002079SG1|||||34974||//blp/mktdata/bsym/MLEI/MLEIIBXF Index|//blp/mktdata/buid/MLEI/EI09MLEIIBXF|//blp/mktdata/bsid/5338667768516
+CUSTOM ITMC EX FINANCIAL|MLEIITXF Index|MLEI|5338668158452|EI09MLEIITXF|Equity Index|Index|BBG0021Y7LT4|||||34974||//blp/mktdata/bsym/MLEI/MLEIITXF Index|//blp/mktdata/buid/MLEI/EI09MLEIITXF|//blp/mktdata/bsid/5338668158452
 CUSTOM OPTIMISED 7E X SP|MLEIO7EX Index|MLEI|5338667621148|EI09MLEIO7EX|Equity Index|Index|BBG001ZKTWF6|||||34974||//blp/mktdata/bsym/MLEI/MLEIO7EX Index|//blp/mktdata/buid/MLEI/EI09MLEIO7EX|//blp/mktdata/bsid/5338667621148
 CUSTOM OPTIMISED 7P X SP|MLEIO7PX Index|MLEI|5338667621149|EI09MLEIO7PX|Equity Index|Index|BBG001ZKTWD8|||||34974||//blp/mktdata/bsym/MLEI/MLEIO7PX Index|//blp/mktdata/buid/MLEI/EI09MLEIO7PX|//blp/mktdata/bsid/5338667621149
 CUSTOM SX5E X BAN FINANC|MLEI5EXF Index|MLEI|5338667756867|EI09MLEI5EXF|Equity Index|Index|BBG002054339|||||34974||//blp/mktdata/bsym/MLEI/MLEI5EXF Index|//blp/mktdata/buid/MLEI/EI09MLEI5EXF|//blp/mktdata/bsid/5338667756867
@@ -2607,7 +2609,7 @@ Citi CGDOTELK Basket|CGDOTELK Index|CGDO||EI09CGDOTELK|Equity Index|Index|BBG001
 Citi CGDOTMTT Basket|CGDOTMTT Index|CGDO||EI09CGDOTMTT|Equity Index|Index|BBG001Z50TC0|||||||//blp/mktdata/bsym/CGDO/CGDOTMTT Index|//blp/mktdata/buid/CGDO/EI09CGDOTMTT|
 Citi CGSX86P Swap|CGSX86P Index|CGDO||EI09CGSX86P|Equity Index|Index|BBG001LRXG11|||||||//blp/mktdata/bsym/CGDO/CGSX86P Index|//blp/mktdata/buid/CGDO/EI09CGSX86P|
 Citi Citi Global Governm|CGEIEUN3 Index|CGDO||EI09CGEIEUN3|Equity Index|Index|BBG001Z696H4|||||||//blp/mktdata/bsym/CGDO/CGEIEUN3 Index|//blp/mktdata/buid/CGDO/EI09CGEIEUN3|
-Citi Client Custom Early|CGDOJCEC Index|CGDO||EI09CGDOJCEC|Equity Index|Index|BBG001YV26S5|||||31088||//blp/mktdata/bsym/CGDO/CGDOJCEC Index|//blp/mktdata/buid/CGDO/EI09CGDOJCEC|
+Citi Client Custom Early|CGDOJCEC Index|CGDO|3405932878062|EI09CGDOJCEC|Equity Index|Index|BBG001YV26S5|||||31088||//blp/mktdata/bsym/CGDO/CGDOJCEC Index|//blp/mktdata/buid/CGDO/EI09CGDOJCEC|//blp/mktdata/bsid/3405932878062
 Citi Client Custom Late|CGDOJCLC Index|CGDO||EI09CGDOJCLC|Equity Index|Index|BBG001YV26R6|||||31088||//blp/mktdata/bsym/CGDO/CGDOJCLC Index|//blp/mktdata/buid/CGDO/EI09CGDOJCLC|
 Citi Consensus Position|CGDOCOPO Index|CGDO||EI09CGDOCOPO|Equity Index|Index|BBG001Z0MDC2|||||31088||//blp/mktdata/bsym/CGDO/CGDOCOPO Index|//blp/mktdata/buid/CGDO/EI09CGDOCOPO|
 Citi Custom Banks Europe|CGDOSHBK Index|CGDO||EI09CGDOSHBK|Equity Index|Index|BBG001ZZWQR9|||||31088||//blp/mktdata/bsym/CGDO/CGDOSHBK Index|//blp/mktdata/buid/CGDO/EI09CGDOSHBK|
@@ -2667,6 +2669,7 @@ Citi EPRA European Prope|CGEIQQP Index|CGDO||EI09CGEIQQP|Equity Index|Index|BBG0
 Citi EPRA US Property|CGEIQQ7 Index|CGDO||EI09CGEIQQ7|Equity Index|Index|BBG001Z68LQ2|||||||//blp/mktdata/bsym/CGDO/CGEIQQ7 Index|//blp/mktdata/buid/CGDO/EI09CGEIQQ7|
 Citi EURO STOXX 50|CGEISX5E Index|CGDO||EI09CGEISX5E|Equity Index|Index|BBG001Z51HV4|||||||//blp/mktdata/bsym/CGDO/CGEISX5E Index|//blp/mktdata/buid/CGDO/EI09CGEISX5E|
 Citi EURO STOXX|CGEISXXE Index|CGDO||EI09CGEISXXE|Equity Index|Index|BBG001Z51J22|||||||//blp/mktdata/bsym/CGDO/CGEISXXE Index|//blp/mktdata/buid/CGDO/EI09CGEISXXE|
+Citi Economic Blues|CGDOECOB Index|CGDO||EI09CGDOECOB|Equity Index|Index|BBG0021Y5441|||||31088||//blp/mktdata/bsym/CGDO/CGDOECOB Index|//blp/mktdata/buid/CGDO/EI09CGDOECOB|
 Citi Eur Corp Bd exFin 1|CGEIEUNS Index|CGDO||EI09CGEIEUNS|Equity Index|Index|BBG001Z697V6|||||||//blp/mktdata/bsym/CGDO/CGEIEUNS Index|//blp/mktdata/buid/CGDO/EI09CGEIEUNS|
 Citi Eur Corp Bd exFin 1|CGEIEX5 Index|CGDO||EI09CGEIEX5|Equity Index|Index|BBG001Z697S0|||||||//blp/mktdata/bsym/CGDO/CGEIEX5 Index|//blp/mktdata/buid/CGDO/EI09CGEIEX5|
 Citi Euro Aggregate Bond|CGEIEAG Index|CGDO||EI09CGEIEAG|Equity Index|Index|BBG001Z696K0|||||||//blp/mktdata/bsym/CGDO/CGEIEAG Index|//blp/mktdata/buid/CGDO/EI09CGEIEAG|
@@ -3204,10 +3207,6 @@ DJ SEC TITAN TELECOM IX|DJTTEL Index|DJI|622770609983|EI09DJTTEL|Equity Index|In
 DJ SEC TITAN UTILITY IX|DJTUTS Index|DJI|622770609985|EI09DJTUTS|Equity Index|Index|BBG000S4YGQ9||14224|||||//blp/mktdata/bsym/DJI/DJTUTS Index|//blp/mktdata/buid/DJI/EI09DJTUTS|//blp/mktdata/bsid/622770609985
 DJ SEC TITAN UTILITY IX|DJTUTS Index|DJI|622770609985|EI09DJTUTS|Equity Index|Index|BBG000S4YGQ9||14224|||||//blp/mktdata/bsym/DJI/DJTUTS Index|//blp/mktdata/buid/DJI/EI09DJTUTS|//blp/mktdata/bsid/622770609985
 DJ SPAIN TITANS 30 EUR|ES30 Index|DJI|622770608731|EI09ES30|Equity Index|Index|BBG000RXM8X9||14224|||||//blp/mktdata/bsym/DJI/ES30 Index|//blp/mktdata/buid/DJI/EI09ES30|//blp/mktdata/bsid/622770608731
-DJ STOXX W OPTIONS W1|WSX5EA Index|DJSX|55834909710|EI09WSX5EA|Equity Index|Index|BBG000RLTBX1||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EA Index|//blp/mktdata/buid/DJSX/EI09WSX5EA|//blp/mktdata/bsid/55834909710
-DJ STOXX W OPTIONS W2|WSX5EB Index|DJSX|55834909710|EI09WSX5EB|Equity Index|Index|BBG000HQ51L2||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EB Index|//blp/mktdata/buid/DJSX/EI09WSX5EB|//blp/mktdata/bsid/55834909710
-DJ STOXX W OPTIONS W4|WSX5ED Index|DJSX|55834909710|EI09WSX5ED|Equity Index|Index|BBG000SNQTT5||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5ED Index|//blp/mktdata/buid/DJSX/EI09WSX5ED|//blp/mktdata/bsid/55834909710
-DJ STOXX W OPTIONS W5|WSX5EE Index|DJSX|55834909710|EI09WSX5EE|Equity Index|Index|BBG000SNW3Q8||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EE Index|//blp/mktdata/buid/DJSX/EI09WSX5EE|//blp/mktdata/bsid/55834909710
 DJ STX AMERICAS 600 INDX|DJA1 Index|DJI|622770633157|EI09DJA1|Equity Index|Index|BBG000TFNBL1||14224|||||//blp/mktdata/bsym/DJI/DJA1 Index|//blp/mktdata/buid/DJI/EI09DJA1|//blp/mktdata/bsid/622770633157
 DJ SWEDEN TITANS 30 SEK|SE30 Index|DJI|622770608728|EI09SE30|Equity Index|Index|BBG000RXM1Q2||14224|||||//blp/mktdata/bsym/DJI/SE30 Index|//blp/mktdata/buid/DJI/EI09SE30|//blp/mktdata/bsid/622770608728
 DJ SWISS TITANS 30 Sfr|CH30 Index|DJI|622770608725|EI09CH30|Equity Index|Index|BBG000RXM039||14224|||||//blp/mktdata/bsym/DJI/CH30 Index|//blp/mktdata/buid/DJI/EI09CH30|//blp/mktdata/bsid/622770608725
@@ -3312,6 +3311,7 @@ DOW JONES TRAN AVG CBOE|DTX Index|OPRA|489626603040|EI09DTX|Equity Index|Index|B
 DOW JONES TRANS. AVG|TRAN Index|DJI|622770551993|EI09TRAN|Equity Index|Index|BBG000H5BW33||14224|||14224||//blp/mktdata/bsym/DJI/TRAN Index|//blp/mktdata/buid/DJI/EI09TRAN|//blp/mktdata/bsid/622770551993
 DOW JONES UTILITIES AVG|UTIL Index|DJI|622770551994|EI09UTIL|Equity Index|Index|BBG000H5BWC3||14224|||14224||//blp/mktdata/bsym/DJI/UTIL Index|//blp/mktdata/buid/DJI/EI09UTIL|//blp/mktdata/bsid/622770551994
 DOW JONES UTILITIES CBOE|DUX Index|OPRA|489626566366|EI09DUX|Equity Index|Index|BBG000HFPBV1||14009||||39495|//blp/mktdata/bsym/OPRA/DUX Index|//blp/mktdata/buid/OPRA/EI09DUX|//blp/mktdata/bsid/489626566366
+Dax Ex Financials|JPTEDAXX Index|JPUS||EI09JPTEDAXX|Equity Index|Index|BBG0021Y7234|||||33088||//blp/mktdata/bsym/JPUS/JPTEDAXX Index|//blp/mktdata/buid/JPUS/EI09JPTEDAXX|
 Dax Small C Liq Tracker|GSQSSDAX Index|GOLD||EI09GSQSSDAX|Equity Index|Index|BBG001S295P4|||||33368||//blp/mktdata/bsym/GOLD/GSQSSDAX Index|//blp/mktdata/buid/GOLD/EI09GSQSSDAX|
 Defense|GSSBDEFE Index|GOLD|3384453586793|EI09GSSBDEFE|Equity Index|Index|BBG001B92306|||||||//blp/mktdata/bsym/GOLD/GSSBDEFE Index|//blp/mktdata/buid/GOLD/EI09GSSBDEFE|//blp/mktdata/bsid/3384453586793
 Defensive Growth|CGDFNSGR Index|PCER||EI09CGDFNSGR|Equity Index|Index|BBG001YKX2M0|||||||//blp/mktdata/bsym/PCER/CGDFNSGR Index|//blp/mktdata/buid/PCER/EI09CGDFNSGR|
@@ -4920,6 +4920,7 @@ GS Bespoke Basket|GSFFP003 Index|GOLD||EI09GSFFP003|Equity Index|Index|BBG00202R
 GS Bespoke Basket|GSIKEUEX Index|GOLD|3384451210360|EI09GSIKEUEX|Equity Index|Index|BBG0011G9ZB1|||||40671||//blp/mktdata/bsym/GOLD/GSIKEUEX Index|//blp/mktdata/buid/GOLD/EI09GSIKEUEX|//blp/mktdata/bsid/3384451210360
 GS Bespoke Basket|GSIKTECH Index|GOLD||EI09GSIKTECH|Equity Index|Index|BBG00218TCR9|||||||//blp/mktdata/bsym/GOLD/GSIKTECH Index|//blp/mktdata/buid/GOLD/EI09GSIKTECH|
 GS Bespoke Basket|GSNBEUR2 Index|GOLD||EI09GSNBEUR2|Equity Index|Index|BBG001YN1K12|||||||//blp/mktdata/bsym/GOLD/GSNBEUR2 Index|//blp/mktdata/buid/GOLD/EI09GSNBEUR2|
+GS Bespoke Basket|GSNMSWEN Index|GOLD||EI09GSNMSWEN|Equity Index|Index|BBG0021XRQC1|||||33368||//blp/mktdata/bsym/GOLD/GSNMSWEN Index|//blp/mktdata/buid/GOLD/EI09GSNMSWEN|
 GS Bespoke Basket|GSTBCACX Index|GOLD||EI09GSTBCACX|Equity Index|Index|BBG0021QW395|||||33368||//blp/mktdata/bsym/GOLD/GSTBCACX Index|//blp/mktdata/buid/GOLD/EI09GSTBCACX|
 GS Bespoke Basket|GSTBDOMX Index|GOLD||EI09GSTBDOMX|Equity Index|Index|BBG0021L5P97|||||33368||//blp/mktdata/bsym/GOLD/GSTBDOMX Index|//blp/mktdata/buid/GOLD/EI09GSTBDOMX|
 GS Bespoke Basket|GSTBMCXX Index|GOLD||EI09GSTBMCXX|Equity Index|Index|BBG0021K3YG4|||||33368||//blp/mktdata/bsym/GOLD/GSTBMCXX Index|//blp/mktdata/buid/GOLD/EI09GSTBMCXX|
@@ -15279,6 +15280,10 @@ SSE Corp. Governance Ind|SSECORP Index|CG|584119988988|EI09SSECORP|Equity Index|
 SSE DIVIDEND INDEX|SSEDIV Index|CG|584115937637|EI09SSEDIV|Equity Index|Index|BBG000V39P49||39323|||41210|39752|//blp/mktdata/bsym/CG/SSEDIV Index|//blp/mktdata/buid/CG/EI09SSEDIV|//blp/mktdata/bsid/584115937637
 STOCK EXCH OF THAI INDEX|SET Index|TB|1653562706678|EI09SET|Equity Index|Index|BBG000K1BST9||14054|37703|||39512|//blp/mktdata/bsym/TB/SET Index|//blp/mktdata/buid/TB/EI09SET|//blp/mktdata/bsid/1653562706678
 STOCKHOLM BENCHMARK CAP|SBXCAP Index|SS|450974567776|EI09SBXCAP|Equity Index|Index|BBG000SC8370||29835|29836||44463|39641|//blp/mktdata/bsym/SS/SBXCAP Index|//blp/mktdata/buid/SS/EI09SBXCAP|//blp/mktdata/bsid/450974567776
+STOXX W OPTIONS W1|WSX5EA Index|DJSX|55834909710|EI09WSX5EA|Equity Index|Index|BBG000RLTBX1||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EA Index|//blp/mktdata/buid/DJSX/EI09WSX5EA|//blp/mktdata/bsid/55834909710
+STOXX W OPTIONS W2|WSX5EB Index|DJSX|55834909710|EI09WSX5EB|Equity Index|Index|BBG000HQ51L2||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EB Index|//blp/mktdata/buid/DJSX/EI09WSX5EB|//blp/mktdata/bsid/55834909710
+STOXX W OPTIONS W4|WSX5ED Index|DJSX|55834909710|EI09WSX5ED|Equity Index|Index|BBG000SNQTT5||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5ED Index|//blp/mktdata/buid/DJSX/EI09WSX5ED|//blp/mktdata/bsid/55834909710
+STOXX W OPTIONS W5|WSX5EE Index|DJSX|55834909710|EI09WSX5EE|Equity Index|Index|BBG000SNW3Q8||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EE Index|//blp/mktdata/buid/DJSX/EI09WSX5EE|//blp/mktdata/bsid/55834909710
 STRANDED EQUITY|CGDOSTRN Index|CGDO|3405929331475|EI09CGDOSTRN|Equity Index|Index|BBG001HLKSP1|||||31088||//blp/mktdata/bsym/CGDO/CGDOSTRN Index|//blp/mktdata/buid/CGDO/EI09CGDOSTRN|//blp/mktdata/bsid/3405929331475
 STUBPAH3 Cust Bskt|STUBPAH3 Index|GOLD|3384444346141|EI09STUBPAH3|Equity Index|Index|BBG000S5FD75|||||||//blp/mktdata/bsym/GOLD/STUBPAH3 Index|//blp/mktdata/buid/GOLD/EI09STUBPAH3|//blp/mktdata/bsid/3384444346141
 STX 400 Banks[8300]Pr|NBNP Index|DJSX|55834915788|EI09NBNP|Equity Index|Index|BBG000PYYQD8||14141||||39562|//blp/mktdata/bsym/DJSX/NBNP Index|//blp/mktdata/buid/DJSX/EI09NBNP|//blp/mktdata/bsid/55834915788
