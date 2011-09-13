@@ -1,5 +1,5 @@
-#Data Generated At: Tue Sep 6 15:23:59 EDT 2011
-#Data Records=10494
+#Data Generated At: Wed Sep 7 14:56:52 EDT 2011
+#Data Records=10508
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -1518,13 +1518,13 @@ CAD SWAP 8M||||IX558206-0|SWAP|Curncy||||||||||
 CAD SWAP 9M||||IX466299-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL     8 YR||||IX521607-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL     9 YR||||IX521613-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V1M) 15M||||IX521579-0|SWAP|Curncy||||||||||
+CAD SWAP ANNUAL(V1M) 18M||||IX521583-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 10M||||IX13427594-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 10Y||||IX521577-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 11M||||IX13427602-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 12Y||||IX12869909-0|SWAP|Curncy||||||||||
-CAD SWAP ANNUAL(V3M) 15M||||IX521579-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 15Y||||IX521581-0|SWAP|Curncy||||||||||
-CAD SWAP ANNUAL(V3M) 18M||||IX521583-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 1M||||IX13427570-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 1W||||IX13427574-0|SWAP|Curncy||||||||||
 CAD SWAP ANNUAL(V3M) 1Y||||IX521575-0|SWAP|Curncy||||||||||
@@ -2063,7 +2063,6 @@ COP SWAP 6M||||IX4122348-0|SWAP|Curncy||||||||||
 COP SWAP 7M||||IX4122352-0|SWAP|Curncy||||||||||
 COP SWAP 8M||||IX4122356-0|SWAP|Curncy||||||||||
 COP SWAP 9M||||IX4122360-0|SWAP|Curncy||||||||||
-COP SWAP DAILY ACT/365 8||||IX11317348-0|SWAP|Curncy||||||||||
 COP SWAP UVR vs LIB 1 YR||||IX3183087-0|SWAP|Curncy||||||||||
 COP SWAP UVR vs LIB 10YR||||IX3183123-0|SWAP|Curncy||||||||||
 COP SWAP UVR vs LIB 12YR||||IX3183127-0|SWAP|Curncy||||||||||
@@ -3572,6 +3571,20 @@ EUR SO 30/2 FWD      15Y||||IX12614097-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      18M||||IX12614053-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      20Y||||IX12614021-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      30Y||||IX13233307-0|SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 10Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 1M|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 1W|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 1Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 20Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 2Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 30Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 3M|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 3Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 4Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 5Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 6M|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 7Y|||||SWAP|Curncy||||||||||
+EUR SPRD ON SPRD OPT 9M|||||SWAP|Curncy||||||||||
 EUR SWAP           9M10Y||||IX2741672-0|SWAP|Curncy||||||||||
 EUR SWAP           9M15Y||||IX2741676-0|SWAP|Curncy||||||||||
 EUR SWAP           9M20Y||||IX2741680-0|SWAP|Curncy||||||||||
@@ -8274,6 +8287,7 @@ SWAP COP X IBR 4 YR||||IX11317336-0|SWAP|Curncy||||||||||
 SWAP COP X IBR 5 YR||||IX11317340-0|SWAP|Curncy||||||||||
 SWAP COP X IBR 6 MTH||||IX11317308-0|SWAP|Curncy||||||||||
 SWAP COP X IBR 7 YR||||IX11317344-0|SWAP|Curncy||||||||||
+SWAP COP X IBR 8 YR||||IX11317348-0|SWAP|Curncy||||||||||
 SWAP COP X IBR 9 MTH||||IX11747636-0|SWAP|Curncy||||||||||
 SWAP COP x DTF 12 YR||||IX2928702-0|SWAP|Curncy||||||||||
 SWAP COP x DTF 15 YR||||IX2928706-0|SWAP|Curncy||||||||||

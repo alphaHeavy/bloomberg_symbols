@@ -1,5 +1,5 @@
-#Data Generated At: Tue Sep 6 15:06:26 EDT 2011
-#Data Records=6369
+#Data Generated At: Wed Sep 7 14:39:58 EDT 2011
+#Data Records=6367
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -332,7 +332,6 @@
 2YR US$ SWAPNOTE  Dec11|UZZ1|LIF|609907474228|IX12930097-0|Financial commodity future.|Comdty|BBG001R068L0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/UZZ1|//blp/mktdata/buid/LIF/IX12930097-0|//blp/mktdata/bsid/609907474228
 2YR US$ SWAPNOTE  Sep11|UZU1|LIF|609906079520|IX12291895-0|Financial commodity future.|Comdty|BBG001KQZWR9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/UZU1|//blp/mktdata/buid/LIF/IX12291895-0|//blp/mktdata/bsid/609906079520
 2yr RU FedBond FutDec11|RFTZ1|RTS|1769550241154|IX13468389-0|Financial commodity future.|Comdty|BBG0021H09P9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFTZ1|//blp/mktdata/buid/RTS/IX13468389-0|//blp/mktdata/bsid/1769550241154
-2yr RU FedBond FutSep11|RFTU1|RTS|1769548583275|IX12888092-0|Financial commodity future.|Comdty|BBG001QV7JX5||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFTU1|//blp/mktdata/buid/RTS/IX12888092-0|//blp/mktdata/bsid/1769548583275
 3 MONTH CIBOR     Dec11|CIBZ1|COPE|532594118289|IX10976474-0|Financial commodity future.|Comdty|BBG0015NZPZ9||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBZ1|//blp/mktdata/buid/COPE/IX10976474-0|//blp/mktdata/bsid/532594118289
 3 MONTH CIBOR     Dec12|CIBZ2|COPE|532595711615|IX11670221-0|Financial commodity future.|Comdty|BBG001D9N9K6||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBZ2|//blp/mktdata/buid/COPE/IX11670221-0|//blp/mktdata/bsid/532595711615
 3 MONTH CIBOR     Jun12|CIBM2|COPE|532594118291|IX10976482-0|Financial commodity future.|Comdty|BBG0015NZRM9||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBM2|//blp/mktdata/buid/COPE/IX10976482-0|//blp/mktdata/bsid/532594118291
@@ -944,7 +943,6 @@
 3YR EUR$ BNDL NYL Sep11|BDBU1|eNYL|8181934826887|IX12933809-0|Financial commodity future.|Comdty|BBG001R08D37||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/BDBU1|//blp/mktdata/buid/eNYL/IX12933809-0|//blp/mktdata/bsid/8181934826887
 4YR EUR$ BNDL NYL Sep11|BDCU1|eNYL|8181935018601|IX12933813-0|Financial commodity future.|Comdty|BBG001RZ48M4||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/BDCU1|//blp/mktdata/buid/eNYL/IX12933813-0|//blp/mktdata/bsid/8181935018601
 4yr RU FedBond FutDec11|RFRZ1|RTS|1769550241153|IX13468385-0|Financial commodity future.|Comdty|BBG0021GYXY1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFRZ1|//blp/mktdata/buid/RTS/IX13468385-0|//blp/mktdata/bsid/1769550241153
-4yr RU FedBond FutSep11|RFRU1|RTS|1769548583274|IX12888096-0|Financial commodity future.|Comdty|BBG001QV7KD4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFRU1|//blp/mktdata/buid/RTS/IX12888096-0|//blp/mktdata/bsid/1769548583274
 5 YEAR SWAP FUTR  Jun13|S5M3|eCME|2078783842924|IX11825206-0|Financial commodity future.|Comdty|BBG001CXB552||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5M3|//blp/mktdata/buid/eCME/IX11825206-0|//blp/mktdata/bsid/2078783842924
 5 YEAR SWAP FUTR  Sep11|S5U1|eCME|2078785278124|IX12477890-0|Financial commodity future.|Comdty|BBG001M2YML9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5U1|//blp/mktdata/buid/eCME/IX12477890-0|//blp/mktdata/bsid/2078785278124
 5 YR KOREA TB FUT Dec11|KRZ1|KOFX|1748073815732|IX12940322-0|Financial commodity future.|Comdty|BBG001R1LWL8||14074|14074|0||39524|//blp/mktdata/bsym/KOFX/KRZ1|//blp/mktdata/buid/KOFX/IX12940322-0|//blp/mktdata/bsid/1748073815732
