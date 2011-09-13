@@ -1,5 +1,5 @@
-#Data Generated At: Thu Sep 1 14:57:14 EDT 2011
-#Data Records=10479
+#Data Generated At: Tue Sep 6 15:23:59 EDT 2011
+#Data Records=10494
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -158,6 +158,22 @@ AUD SWAP           29YR||||IX1191702-0|SWAP|Curncy||||||||||
 AUD SWAP           30YR||||IX1191706-0|SWAP|Curncy||||||||||
 AUD SWAP           6 YR||||IX296040-0|SWAP|Curncy||||||||||
 AUD SWAP           8 YR||||IX339253-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 10YR||||IX13509417-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 12YR||||IX13509421-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 15YR||||IX13509425-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 1YR||||IX13509377-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 20YR||||IX13509429-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 25YR||||IX13509433-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 2YR||||IX13509381-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 30YR||||IX13509437-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 3YR||||IX13509389-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 4YR||||IX13509393-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 5YR||||IX13509397-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 6MO||||IX13509373-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 6YR||||IX13509401-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 7YR||||IX13509405-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 8YR||||IX13509409-0|SWAP|Curncy||||||||||
+AUD SWAP (QTR/SEMI) 9YR||||IX13509413-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY)    1 DY||||IX914033-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY)    1 MO||||IX914041-0|SWAP|Curncy||||||||||
 AUD SWAP (QTRLY)    1 WK||||IX914037-0|SWAP|Curncy||||||||||
@@ -2406,11 +2422,11 @@ DEM SWAP CTD        5 YR||||IX1365827-0|SWAP|Curncy||||||||||
 DEM SWAP CTD       10 YR||||IX1424940-0|SWAP|Curncy||||||||||
 DEM SWAP DERIVED FUT IM1||||IX1370903-0|SWAP|Curncy||||||||||
 DEM TII 0.75 Apr18 ASW||||IX12508050-0|SWAP|Curncy||||||||||
-DEM TII 1.5% Apr13 ASW||||IX9883216-0|SWAP|Curncy||||||||||
 DEM TII 1.5% Apr16 ASW||||IX3025367-0|SWAP|Curncy||||||||||
 DEM TII 1.75% Apr20 ASW||||IX9963818-0|SWAP|Curncy||||||||||
 DEM TII 2% Jun07 ASW||||IX2873150-0|SWAP|Curncy||||||||||
 DEM TII 2% Mar06 ASW||||IX2872794-0|SWAP|Curncy||||||||||
+DEM TII 2.25 Apr13 ASW||||IX9883216-0|SWAP|Curncy||||||||||
 DEM TII 2.25% Dec06 ASW||||IX2876526-0|SWAP|Curncy||||||||||
 DEM TII 2.25% Sep07 ASW||||IX2873690-0|SWAP|Curncy||||||||||
 DEM TII 2.5% Mar07 ASW||||IX2872798-0|SWAP|Curncy||||||||||
@@ -4356,7 +4372,6 @@ EURO INFL SWAP CAP 6 10Y||||IX3017955-0|SWAP|Curncy||||||||||
 EURO INFL SWAP CAP 6 15Y||||IX3018051-0|SWAP|Curncy||||||||||
 EURO INFL SWAP CAP 6 20Y||||IX3018099-0|SWAP|Curncy||||||||||
 EURO INFL SWAP CAP 6 30Y||||IX3018147-0|SWAP|Curncy||||||||||
-EURO INFL SWAP FLR 1  1Y||||IX13342486-0|SWAP|Curncy||||||||||
 EURO INFL SWAP FLR 1  2Y||||IX3017815-0|SWAP|Curncy||||||||||
 EURO INFL SWAP FLR 1  5Y||||IX3017863-0|SWAP|Curncy||||||||||
 EURO INFL SWAP FLR 1  7Y||||IX3017911-0|SWAP|Curncy||||||||||
@@ -5061,9 +5076,9 @@ GBP SWP ANN.Vs 3M LIB9MO||||IX9443492-0|SWAP|Curncy||||||||||
 GBP TI 0.625% MAR 40 ASW||||IX10019075-0|SWAP|Curncy||||||||||
 GBP TII 0.5% MAR50 ASW||||IX9537615-0|SWAP|Curncy||||||||||
 GBP TII 0.625% NOV42 ASW||||IX9190148-0|SWAP|Curncy||||||||||
+GBP TII 0.75%  NOV47 ASW||||IX5643510-0|SWAP|Curncy||||||||||
 GBP TII 0.75% MAR34 ASW||||IX12789145-0|SWAP|Curncy||||||||||
 GBP TII 1.125% NOV37 ASW||||IX4152450-0|SWAP|Curncy||||||||||
-GBP TII 1.125% NOV47 ASW||||IX5643510-0|SWAP|Curncy||||||||||
 GBP TII 1.25%  NOV32 ASW||||IX9029465-0|SWAP|Curncy||||||||||
 GBP TII 1.25% NOV17 ASW||||IX3032493-0|SWAP|Curncy||||||||||
 GBP TII 1.25% NOV27 ASW||||IX3032497-0|SWAP|Curncy||||||||||
@@ -10212,14 +10227,14 @@ USD TII 0.500% Apr15 ASW||||IX10306723-0|SWAP|Curncy||||||||||
 USD TII 0.625% Apr13 ASW||||IX6490797-0|SWAP|Curncy||||||||||
 USD TII 0.625% Jul21 ASW||||IX13196317-0|SWAP|Curncy||||||||||
 USD TII 0.875% Apr10 ASW||||IX2646554-0|SWAP|Curncy||||||||||
-USD TII 1.175% Jan28 ASW||||IX5906842-0|SWAP|Curncy||||||||||
-USD TII 1.250% Apr15 ASW||||IX9093914-0|SWAP|Curncy||||||||||
+USD TII 1.125% Jan21 ASW||||IX11904544-0|SWAP|Curncy||||||||||
+USD TII 1.25%  Jul20 ASW||||IX10614076-0|SWAP|Curncy||||||||||
+USD TII 1.250% Apr14 ASW||||IX9093914-0|SWAP|Curncy||||||||||
 USD TII 1.375% Jan20 ASW||||IX9940417-0|SWAP|Curncy||||||||||
-USD TII 1.375% Jan21 ASW||||IX11904544-0|SWAP|Curncy||||||||||
 USD TII 1.375% Jul18 ASW||||IX7055437-0|SWAP|Curncy||||||||||
-USD TII 1.375% Jul20 ASW||||IX10614076-0|SWAP|Curncy||||||||||
 USD TII 1.625% Jan15 ASW||||IX2646582-0|SWAP|Curncy||||||||||
 USD TII 1.625% Jan18 ASW||||IX5855525-0|SWAP|Curncy||||||||||
+USD TII 1.75%  Jan28 ASW||||IX5906842-0|SWAP|Curncy||||||||||
 USD TII 1.875% Jul13 ASW||||IX2646570-0|SWAP|Curncy||||||||||
 USD TII 1.875% Jul15 ASW||||IX2646586-0|SWAP|Curncy||||||||||
 USD TII 1.875% Jul19 ASW||||IX9187763-0|SWAP|Curncy||||||||||
