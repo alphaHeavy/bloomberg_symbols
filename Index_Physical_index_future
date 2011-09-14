@@ -1,5 +1,5 @@
-#Data Generated At: Mon Sep 12 15:10:23 EDT 2011
-#Data Records=6293
+#Data Generated At: Tue Sep 13 15:09:30 EDT 2011
+#Data Records=6300
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -800,6 +800,7 @@ CHICAGO HDD IX FT Oct11|CQV1|eCME|2078774738603|IX8916232-0|Physical index futur
 CHICAGO HDD IX FT Oct12|CQV2|eCME|2078777686057|IX9653909-0|Physical index future.|Index|BBG000Y6PXQ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQV2|//blp/mktdata/buid/eCME/IX9653909-0|//blp/mktdata/bsid/2078777686057
 CHICAGO HDD IX FT Oct13|CQV3|eCME|2078783053986|IX11395494-0|Physical index future.|Index|BBG0018HN826||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQV3|//blp/mktdata/buid/eCME/IX11395494-0|//blp/mktdata/bsid/2078783053986
 CHICAGO SEASN CDD Sep11|KPU1|eCME|2078782702060|IX11238366-0|Physical index future.|Index|BBG001722B62||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KPU1|//blp/mktdata/buid/eCME/IX11238366-0|//blp/mktdata/bsid/2078782702060
+CHICAGO SEASN CDD Sep12|KPU2|eCME|2078788048722|IX13557135-0|Physical index future.|Index|BBG0022FSV19||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KPU2|//blp/mktdata/buid/eCME/IX13557135-0|//blp/mktdata/bsid/2078788048722
 CHICAGO SEASN HDD Mar12|HPH2|eCME|2078785274038|IX12478126-0|Physical index future.|Index|BBG001M2YN19||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HPH2|//blp/mktdata/buid/eCME/IX12478126-0|//blp/mktdata/bsid/2078785274038
 CINCIN SEASON CDD Sep11|KUU1|eCME|2078782702055|IX11238370-0|Physical index future.|Index|BBG001722B71||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KUU1|//blp/mktdata/buid/eCME/IX11238370-0|//blp/mktdata/bsid/2078782702055
 CINCIN SEASON HDD Mar12|HSH2|eCME|2078785274053|IX12478118-0|Physical index future.|Index|BBG001M2YN00||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HSH2|//blp/mktdata/buid/eCME/IX12478118-0|//blp/mktdata/bsid/2078785274053
@@ -1957,6 +1958,7 @@ Gas Oil GOWAVE FU Jan13|IGWF3|ICE|1172547732994|IX12723542-0|Physical index futu
 Gas Oil GOWAVE FU Jun12|IGWM2|ICE|1172532917134|IX7062806-0|Physical index future.|Index|BBG000S6LZL1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWM2|//blp/mktdata/buid/ICE/IX7062806-0|//blp/mktdata/bsid/1172532917134
 Gas Oil GOWAVE FU Jun13|IGWM3|ICE|1172532917136|IX7062814-0|Physical index future.|Index|BBG000S6M046||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWM3|//blp/mktdata/buid/ICE/IX7062814-0|//blp/mktdata/bsid/1172532917136
 Gas Oil GOWAVE FU Mar12|IGWH2|ICE|1172532917133|IX7062802-0|Physical index future.|Index|BBG000S6LTY1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWH2|//blp/mktdata/buid/ICE/IX7062802-0|//blp/mktdata/bsid/1172532917133
+Gas Oil GOWAVE FU May12|IGWK2|||IX13556651-0|Physical index future.|Index|BBG0022FNDN0||30022|30022|0||40087|||
 Gas Oil GOWAVE FU Nov11|IGWX1|ICE|1172541745279|IX10158626-0|Physical index future.|Index|BBG000Z9LH46||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWX1|//blp/mktdata/buid/ICE/IX10158626-0|//blp/mktdata/bsid/1172541745279
 Gas Oil GOWAVE FU Nov12|IGWX2|ICE|1172546764934|IX12269496-0|Physical index future.|Index|BBG001KNQ3M5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWX2|//blp/mktdata/buid/ICE/IX12269496-0|//blp/mktdata/bsid/1172546764934
 Gas Oil GOWAVE FU Oct11|IGWV1|ICE|1172541371888|IX10052099-0|Physical index future.|Index|BBG000Z57PX0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWV1|//blp/mktdata/buid/ICE/IX10052099-0|//blp/mktdata/bsid/1172541371888
@@ -1965,13 +1967,14 @@ Gas Oil GOWAVE FU Sep11|IGWU1|ICE|1172532917131|IX7062794-0|Physical index futur
 Gas Oil GOWAVE FU Sep12|IGWU2|ICE|1172545854823|IX11867834-0|Physical index future.|Index|BBG001D9DCF6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWU2|//blp/mktdata/buid/ICE/IX11867834-0|//blp/mktdata/bsid/1172545854823
 Gas Oil US MM     Nov11|QMIX1|ICE|1172549301339|IX13341463-0|Physical index future.|Index|BBG001Z6CBB5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QMIX1|//blp/mktdata/buid/ICE/IX13341463-0|//blp/mktdata/bsid/1172549301339
 Gas Oil US MM     Oct11|QMIV1|ICE|1172548676950|IX13127095-0|Physical index future.|Index|BBG001WHQD43||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QMIV1|//blp/mktdata/buid/ICE/IX13127095-0|//blp/mktdata/bsid/1172548676950
-Gas Oil US MM     Sep11|QMIU1|ICE|1172548165122|IX12906946-0|Physical index future.|Index|BBG001QYGSR6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QMIU1|//blp/mktdata/buid/ICE/IX12906946-0|//blp/mktdata/bsid/1172548165122
+GasOil Aft1Min    Dec11|OICZ1|||IX13556659-0|Physical index future.|Index|BBG0022FNDV1||30022|30022|0||40087|||
 GasOil Aft1Min    Nov11|OICX1|ICE|1172549342899|IX13348913-0|Physical index future.|Index|BBG001ZB8LH1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICX1|//blp/mktdata/buid/ICE/IX13348913-0|//blp/mktdata/bsid/1172549342899
 GasOil Aft1Min    Oct11|OICV1|ICE|1172548693802|IX13140980-0|Physical index future.|Index|BBG001WNQSR2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICV1|//blp/mktdata/buid/ICE/IX13140980-0|//blp/mktdata/bsid/1172548693802
 GasOil Aft1Min    Sep11|OICU1|ICE|1172548175059|IX12915475-0|Physical index future.|Index|BBG001QZ9GL3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICU1|//blp/mktdata/buid/ICE/IX12915475-0|//blp/mktdata/bsid/1172548175059
 GasOil Singpore M Dec11|QSIZ1|ICE|1172549919563|IX13543793-0|Physical index future.|Index|BBG002290VZ6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIZ1|//blp/mktdata/buid/ICE/IX13543793-0|//blp/mktdata/bsid/1172549919563
 GasOil Singpore M Nov11|QSIX1|ICE|1172549301340|IX13341459-0|Physical index future.|Index|BBG001Z6CB98||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIX1|//blp/mktdata/buid/ICE/IX13341459-0|//blp/mktdata/bsid/1172549301340
 GasOil Singpore M Oct11|QSIV1|ICE|1172548676951|IX13127099-0|Physical index future.|Index|BBG001WHQDF1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIV1|//blp/mktdata/buid/ICE/IX13127099-0|//blp/mktdata/bsid/1172548676951
+GasOil US1Min     Dec11|OIEZ1|||IX13556663-0|Physical index future.|Index|BBG0022FNDX9||30022|30022|0||40087|||
 GasOil US1Min     Nov11|OIEX1|ICE|1172549327520|IX13348921-0|Physical index future.|Index|BBG001ZB8LK7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEX1|//blp/mktdata/buid/ICE/IX13348921-0|//blp/mktdata/bsid/1172549327520
 GasOil US1Min     Oct11|OIEV1|ICE|1172548691589|IX13140984-0|Physical index future.|Index|BBG001WNQSS1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEV1|//blp/mktdata/buid/ICE/IX13140984-0|//blp/mktdata/bsid/1172548691589
 GasOil US1Min     Sep11|OIEU1|ICE|1172548174401|IX12915483-0|Physical index future.|Index|BBG001QZ9GN1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEU1|//blp/mktdata/buid/ICE/IX12915483-0|//blp/mktdata/bsid/1172548174401
@@ -3772,8 +3775,12 @@ MSCI TAIWAN INDEX Mar14|TWH4|cSGX|10037359603284|IX12442501-0|Physical index fut
 MSCI TAIWAN INDEX Mar14|TWH4|cSGX|10037359603284|IX12442501-0|Physical index future.|Index|BBG001LWC1C4||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/TWH4|//blp/mktdata/buid/cSGX/IX12442501-0|//blp/mktdata/bsid/10037359603284
 MSCI TAIWAN INDEX Mar14|TWH4|eSGX|2108849974868|IX12442501-0|Physical index future.|Index|BBG001LWC1C4||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/TWH4|//blp/mktdata/buid/eSGX/IX12442501-0|//blp/mktdata/bsid/2108849974868
 MSCI TAIWAN INDEX Mar14|TWH4|eSGX|2108849974868|IX12442501-0|Physical index future.|Index|BBG001LWC1C4||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/TWH4|//blp/mktdata/buid/eSGX/IX12442501-0|//blp/mktdata/bsid/2108849974868
-MSCI TAIWAN INDEX Nov11|TWX1|||IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|||
-MSCI TAIWAN INDEX Nov11|TWX1|||IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|||
+MSCI TAIWAN INDEX Nov11|TWX1|SGX|889082095564|IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWX1|//blp/mktdata/buid/SGX/IX13553599-0|//blp/mktdata/bsid/889082095564
+MSCI TAIWAN INDEX Nov11|TWX1|SGX|889082095564|IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWX1|//blp/mktdata/buid/SGX/IX13553599-0|//blp/mktdata/bsid/889082095564
+MSCI TAIWAN INDEX Nov11|TWX1|cSGX|10037362436044|IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/TWX1|//blp/mktdata/buid/cSGX/IX13553599-0|//blp/mktdata/bsid/10037362436044
+MSCI TAIWAN INDEX Nov11|TWX1|cSGX|10037362436044|IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/TWX1|//blp/mktdata/buid/cSGX/IX13553599-0|//blp/mktdata/bsid/10037362436044
+MSCI TAIWAN INDEX Nov11|TWX1|eSGX|2108852807628|IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/TWX1|//blp/mktdata/buid/eSGX/IX13553599-0|//blp/mktdata/bsid/2108852807628
+MSCI TAIWAN INDEX Nov11|TWX1|eSGX|2108852807628|IX13553599-0|Physical index future.|Index|BBG0022D83G2||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/TWX1|//blp/mktdata/buid/eSGX/IX13553599-0|//blp/mktdata/bsid/2108852807628
 MSCI TAIWAN INDEX Oct11|TSV1|FTX|1739485161031|IX13384989-0|Physical index future.|Index|BBG00204RXR5||14149|14149|0||39565|//blp/mktdata/bsym/FTX/TSV1|//blp/mktdata/buid/FTX/IX13384989-0|//blp/mktdata/bsid/1739485161031
 MSCI TAIWAN INDEX Oct11|TWV1|SGX|889081231282|IX13271965-0|Physical index future.|Index|BBG001YFQWR8||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWV1|//blp/mktdata/buid/SGX/IX13271965-0|//blp/mktdata/bsid/889081231282
 MSCI TAIWAN INDEX Oct11|TWV1|SGX|889081231282|IX13271965-0|Physical index future.|Index|BBG001YFQWR8||14017|14006|0||39499|//blp/mktdata/bsym/SGX/TWV1|//blp/mktdata/buid/SGX/IX13271965-0|//blp/mktdata/bsid/889081231282

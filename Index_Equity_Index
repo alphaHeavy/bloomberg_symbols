@@ -1,5 +1,5 @@
-#Data Generated At: Mon Sep 12 15:10:09 EDT 2011
-#Data Records=16287
+#Data Generated At: Tue Sep 13 15:09:16 EDT 2011
+#Data Records=16297
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1298,6 +1298,10 @@ BI EU Low Cost Airlin PB|BIELCCAR Index|||EI09BIELCCAR|Equity Index|Index|BBG001
 BI EU Mid Gen Phrm PB|BIGNRCEP Index|||EI09BIGNRCEP|Equity Index|Index|BBG001QG2QW8|||||||||
 BI EU Nordic Banks PB|BINDBAEV Index|||EI09BINDBAEV|Equity Index|Index|BBG001D74N39|||||||||
 BI EU Power Generat Top|BIEGENET Index|||EI09BIEGENET|Equity Index|Index|BBG001XX11N9|||||||||
+BI EU Reg Banks CEE C|BIERBCEC Index|||EI09BIERBCEC|Equity Index|Index|BBG0022FPH31|||||||||
+BI EU Reg Banks CIS C|BIERBCSC Index|||EI09BIERBCSC|Equity Index|Index|BBG0022FSN08|||||||||
+BI EU Reg Banks SEE C|BIERBSEC Index|||EI09BIERBSEC|Equity Index|Index|BBG0022FPLP8|||||||||
+BI EU Regional Banks PB|BIERGBKP Index|||EI09BIERGBKP|Equity Index|Index|BBG0022FPC32|||||||||
 BI EU SIFIs PB    siness|BIREGBEV Index|||EI09BIREGBEV|Equity Index|Index|BBG001D74N20|||||||||
 BI EU SIFIs PB    s|BISIFIEV Index|||EI09BISIFIEV|Equity Index|Index|BBG001D74N11|||||||||
 BI EU Spec App Stores PB|BIAPPREP Index|||EI09BIAPPREP|Equity Index|Index|BBG0021L90X1|||||||||
@@ -2071,6 +2075,7 @@ CECEEUR|CGECECE2 Index|CGDO||EI09CGECECE2|Equity Index|Index|BBG00172T0M9|||||31
 CECENTRE Index|CECENTRE Index|AV|133162095280|EI09CECENTRE|Equity Index|Index|BBG0015J08S2||31149||||39655|//blp/mktdata/bsym/AV/CECENTRE Index|//blp/mktdata/buid/AV/EI09CECENTRE|//blp/mktdata/bsid/133162095280
 CEEMEA Earnings Momentum|CGDOCEMO Index|CGDO||EI09CGDOCEMO|Equity Index|Index|BBG00228R452|||||||//blp/mktdata/bsym/CGDO/CGDOCEMO Index|//blp/mktdata/buid/CGDO/EI09CGDOCEMO|
 CEEMEA GARP|CGDOCGAR Index|CGDO||EI09CGDOCGAR|Equity Index|Index|BBG00228R3Z1|||||||//blp/mktdata/bsym/CGDO/CGDOCGAR Index|//blp/mktdata/buid/CGDO/EI09CGDOCGAR|
+CEEMEA Growth|CGDOCGRO Index|CGDO||EI09CGDOCGRO|Equity Index|Index|BBG0022D5GV9|||||||//blp/mktdata/bsym/CGDO/CGDOCGRO Index|//blp/mktdata/buid/CGDO/EI09CGDOCGRO|
 CEEMEA Growth|CGDOVGRO Index|CGDO||EI09CGDOVGRO|Equity Index|Index|BBG00228R416|||||||//blp/mktdata/bsym/CGDO/CGDOVGRO Index|//blp/mktdata/buid/CGDO/EI09CGDOVGRO|
 CEEMEA Low Risk|CGDOCLOW Index|CGDO||EI09CGDOCLOW|Equity Index|Index|BBG00228R425|||||||//blp/mktdata/bsym/CGDO/CGDOCLOW Index|//blp/mktdata/buid/CGDO/EI09CGDOCLOW|
 CEEMEA Preferred Basket|CGDOCEEM Index|CGDO||EI09CGDOCEEM|Equity Index|Index|BBG0019MXVN9|||||31088||//blp/mktdata/bsym/CGDO/CGDOCEEM Index|//blp/mktdata/buid/CGDO/EI09CGDOCEEM|
@@ -2701,6 +2706,7 @@ Citi European Banks|CGDOEUBK Index|CGDO|3405926108875|EI09CGDOEUBK|Equity Index|
 Citi European Corp Buyba|CGDOBUYB Index|CGDO||EI09CGDOBUYB|Equity Index|Index|BBG0021P9MZ2|||||31088||//blp/mktdata/bsym/CGDO/CGDOBUYB Index|//blp/mktdata/buid/CGDO/EI09CGDOBUYB|
 Citi FTSE BRIC 50|CGEIQQ9 Index|CGDO||EI09CGEIQQ9|Equity Index|Index|BBG001Z68M17|||||||//blp/mktdata/bsym/CGDO/CGEIQQ9 Index|//blp/mktdata/buid/CGDO/EI09CGEIQQ9|
 Citi FTSE/Xinhua China 2|CGEIQQC Index|CGDO||EI09CGEIQQC|Equity Index|Index|BBG001Z51JZ6|||||||//blp/mktdata/bsym/CGDO/CGEIQQC Index|//blp/mktdata/buid/CGDO/EI09CGEIQQC|
+Citi GEMs High Div Baske|CGDOGEMD Index|CGDO||EI09CGDOGEMD|Equity Index|Index|BBG0022FRLP6|||||31088||//blp/mktdata/bsym/CGDO/CGDOGEMD Index|//blp/mktdata/buid/CGDO/EI09CGDOGEMD|
 Citi Global Ag Chems|CGDOGLAG Index|CGDO||EI09CGDOGLAG|Equity Index|Index|BBG0021R3CC1|||||31088||//blp/mktdata/bsym/CGDO/CGDOGLAG Index|//blp/mktdata/buid/CGDO/EI09CGDOGLAG|
 Citi Global Inflatn-Link|CGEIEGIL Index|CGDO||EI09CGEIEGIL|Equity Index|Index|BBG001Z696C9|||||||//blp/mktdata/bsym/CGDO/CGEIEGIL Index|//blp/mktdata/buid/CGDO/EI09CGEIEGIL|
 Citi Global Inflatn-Link|CGEIUS5 Index|CGDO||EI09CGEIUS5|Equity Index|Index|BBG001Z696D8|||||||//blp/mktdata/bsym/CGDO/CGEIUS5 Index|//blp/mktdata/buid/CGDO/EI09CGEIUS5|
@@ -4866,6 +4872,7 @@ GMP Junior Oil & Gas|GMPOG Index|CME|614200043689|EI09GMPOG|Equity Index|Index|B
 GOLD SACHS FUT PRICE IDX|GXX Index|CME|614186208282|EI09GXX|Equity Index|Index|BBG000M47WL5||14002|14002|||39490|//blp/mktdata/bsym/CME/GXX Index|//blp/mktdata/buid/CME/EI09GXX|//blp/mktdata/bsid/614186208282
 GS 7P Restricted  icted|GS7PREST Index|GOLD||EI09GS7PREST|Equity Index|Index|BBG001ZKVYX9|||||||//blp/mktdata/bsym/GOLD/GS7PREST Index|//blp/mktdata/buid/GOLD/EI09GS7PREST|
 GS 7P ex restricted|GS7PEXRS Index|GOLD||EI09GS7PEXRS|Equity Index|Index|BBG001ZKVYZ7|||||||//blp/mktdata/bsym/GOLD/GS7PEXRS Index|//blp/mktdata/buid/GOLD/EI09GS7PEXRS|
+GS AB TEST 90|GSABTT89 Index|GOLD|3384458102119|EI09GSABTT89|Equity Index|Index|BBG0022FNKQ1|||||33368||//blp/mktdata/bsym/GOLD/GSABTT89 Index|//blp/mktdata/buid/GOLD/EI09GSABTT89|//blp/mktdata/bsid/3384458102119
 GS AMB TEST 66|GSABTT66 Index|GOLD|3384457632364|EI09GSABTT66|Equity Index|Index|BBG00204J041|||||33368||//blp/mktdata/bsym/GOLD/GSABTT66 Index|//blp/mktdata/buid/GOLD/EI09GSABTT66|//blp/mktdata/bsid/3384457632364
 GS AMB TEST 67|GSABTT67 Index|GOLD|3384457632469|EI09GSABTT67|Equity Index|Index|BBG00204JRM2|||||33368||//blp/mktdata/bsym/GOLD/GSABTT67 Index|//blp/mktdata/buid/GOLD/EI09GSABTT67|//blp/mktdata/bsid/3384457632469
 GS AMB TEST 68|GSABTT68 Index|GOLD|3384457632470|EI09GSABTT68|Equity Index|Index|BBG00204JRN1|||||33368||//blp/mktdata/bsym/GOLD/GSABTT68 Index|//blp/mktdata/buid/GOLD/EI09GSABTT68|//blp/mktdata/bsid/3384457632470
@@ -4941,6 +4948,7 @@ GS Bespoke Basket|GSTBCACX Index|GOLD||EI09GSTBCACX|Equity Index|Index|BBG0021QW
 GS Bespoke Basket|GSTBDOMX Index|GOLD||EI09GSTBDOMX|Equity Index|Index|BBG0021L5P97|||||33368||//blp/mktdata/bsym/GOLD/GSTBDOMX Index|//blp/mktdata/buid/GOLD/EI09GSTBDOMX|
 GS Bespoke Basket|GSTBMCXX Index|GOLD||EI09GSTBMCXX|Equity Index|Index|BBG0021K3YG4|||||33368||//blp/mktdata/bsym/GOLD/GSTBMCXX Index|//blp/mktdata/buid/GOLD/EI09GSTBMCXX|
 GS Bespoke Basket|GSTBSCX1 Index|GOLD||EI09GSTBSCX1|Equity Index|Index|BBG00228GF77|||||33368||//blp/mktdata/bsym/GOLD/GSTBSCX1 Index|//blp/mktdata/buid/GOLD/EI09GSTBSCX1|
+GS Bespoke Basket|GSTBSCXX Index|GOLD||EI09GSTBSCXX|Equity Index|Index|BBG0022D55K5|||||||//blp/mktdata/bsym/GOLD/GSTBSCXX Index|//blp/mktdata/buid/GOLD/EI09GSTBSCXX|
 GS Bespoke Basket|GSTBSX7X Index|GOLD||EI09GSTBSX7X|Equity Index|Index|BBG00204WHJ3|||||33368||//blp/mktdata/bsym/GOLD/GSTBSX7X Index|//blp/mktdata/buid/GOLD/EI09GSTBSX7X|
 GS Bespoke Basket|GSTBSXXX Index|GOLD||EI09GSTBSXXX|Equity Index|Index|BBG00204W2Q8|||||33368||//blp/mktdata/bsym/GOLD/GSTBSXXX Index|//blp/mktdata/buid/GOLD/EI09GSTBSXXX|
 GS Bespoke|GSTUDCUT Index|GOLD|3384454060756|EI09GSTUDCUT|Equity Index|Index|BBG001DGKTX5|||||||//blp/mktdata/bsym/GOLD/GSTUDCUT Index|//blp/mktdata/buid/GOLD/EI09GSTUDCUT|//blp/mktdata/bsid/3384454060756
@@ -5913,6 +5921,7 @@ Long Rebalance|CGDOBALL Index|CGDO||EI09CGDOBALL|Equity Index|Index|BBG001PPHYK9
 Long Val Short DY(Short)|GSQSVADS Index|GOLD||EI09GSQSVADS|Equity Index|Index|BBG001ZZ0LT3|||||||//blp/mktdata/bsym/GOLD/GSQSVADS Index|//blp/mktdata/buid/GOLD/EI09GSQSVADS|
 Long Val short DY (long)|GSQSVADL Index|GOLD||EI09GSQSVADL|Equity Index|Index|BBG001ZZ0F25|||||||//blp/mktdata/bsym/GOLD/GSQSVADL Index|//blp/mktdata/buid/GOLD/EI09GSQSVADL|
 Low Risk|CGDOLOWR Index|CGDO||EI09CGDOLOWR|Equity Index|Index|BBG001BW3NL7|||||31088||//blp/mktdata/bsym/CGDO/CGDOLOWR Index|//blp/mktdata/buid/CGDO/EI09CGDOLOWR|
+Lusaka Stock Exchange Al|LUSEIDX Index|ZL|17201364272897|EI09LUSEIDX|Equity Index|Index|BBG000YSZR57||41198|41198|||41377|//blp/mktdata/bsym/ZL/LUSEIDX Index|//blp/mktdata/buid/ZL/EI09LUSEIDX|//blp/mktdata/bsid/17201364272897
 Luxury Euro Retailer|JPCEELUX Index|JPUS|7116777502498|EI09JPCEELUX|Equity Index|Index|BBG0010R5L69|||||33088||//blp/mktdata/bsym/JPUS/JPCEELUX Index|//blp/mktdata/buid/JPUS/EI09JPCEELUX|//blp/mktdata/bsid/7116777502498
 Luxury Goods      asket|GSSBLUXG Index|GOLD|3384441345930|EI09GSSBLUXG|Equity Index|Index|BBG000X116R6|||||15864||//blp/mktdata/bsym/GOLD/GSSBLUXG Index|//blp/mktdata/buid/GOLD/EI09GSSBLUXG|//blp/mktdata/bsid/3384441345930
 Luxury Goods Basket|JPCELUXG Index|JPUS|7116779328190|EI09JPCELUXG|Equity Index|Index|BBG001710F85|||||33088||//blp/mktdata/bsym/JPUS/JPCELUXG Index|//blp/mktdata/buid/JPUS/EI09JPCELUXG|//blp/mktdata/bsid/7116779328190
@@ -12823,6 +12832,7 @@ Russia Commod Squeeze|CGDORCSQ Index|CGDO||EI09CGDORCSQ|Equity Index|Index|BBG00
 Russia Consumer|GSECRCNS Index|GOLD|3384448551678|EI09GSECRCNS|Equity Index|Index|BBG000Z0Y8T4|||||||//blp/mktdata/bsym/GOLD/GSECRCNS Index|//blp/mktdata/buid/GOLD/EI09GSECRCNS|//blp/mktdata/bsid/3384448551678
 Russia Energy|GSECREGY Index|GOLD|3384448551669|EI09GSECREGY|Equity Index|Index|BBG000Z0XZN1|||||||//blp/mktdata/bsym/GOLD/GSECREGY Index|//blp/mktdata/buid/GOLD/EI09GSECREGY|//blp/mktdata/bsid/3384448551669
 Russian Metals|JPCERSTL Index|JPUS||EI09JPCERSTL|Equity Index|Index|BBG001MFRY50|||||33088||//blp/mktdata/bsym/JPUS/JPCERSTL Index|//blp/mktdata/buid/JPUS/EI09JPCERSTL|
+Russian RTS Select Index|RTSSI Index|||EI09RTSSI|Equity Index|Index|BBG0022FZ4Y5|||||||||
 S&P  500 INDEX (CME)|INX Index|CME|614180617397|EI09INX|Equity Index|Index|BBG000H59R91||43397|||37750||//blp/mktdata/bsym/CME/INX Index|//blp/mktdata/buid/CME/EI09INX|//blp/mktdata/bsid/614180617397
 S&P  500 LEAPS INDEX|LSX Index||489626570254|EI09LSX|Equity Index|Index|BBG000K7F745|||||||||//blp/mktdata/bsid/489626570254
 S&P 100 EQUAL WEIGHT|SPOEXEUP Index|SPGC|7838327717201|EI09SPOEXEUP|Equity Index|Index|BBG000ZGN4H3||34773|||37750||//blp/mktdata/bsym/SPGC/SPOEXEUP Index|//blp/mktdata/buid/SPGC/EI09SPOEXEUP|//blp/mktdata/bsid/7838327717201
