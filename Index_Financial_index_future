@@ -1,5 +1,5 @@
-#Data Generated At: Tue Sep 13 15:09:17 EDT 2011
-#Data Records=467
+#Data Generated At: Wed Sep 14 06:42:42 EDT 2011
+#Data Records=476
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 ADVANCED MCRO CEBOSep11|AMDU1|US|399452593039|IX12215825-0|Financial index future.|Index|BBG001KJN3T0||14009|0|0||39495|//blp/mktdata/bsym/US/AMDU1|//blp/mktdata/buid/US/IX12215825-0|//blp/mktdata/bsid/399452593039
@@ -142,7 +142,6 @@ FTSE/EPRA Eur Zon Mar12|REIH2|EOP1|7718078409324|IX12977623-0|Financial index fu
 FTSE/EPRA Eur Zon Sep11|REIU1|EOP1|7718075679373|IX11716990-0|Financial index future.|Index|BBG001BW97G2||27269|27270|0||39605|//blp/mktdata/bsym/EOP1/REIU1|//blp/mktdata/buid/EOP1/IX11716990-0|//blp/mktdata/bsid/7718075679373
 GasOil Sing1Min   Nov11|AMOX1|ICE|1172549641183|IX13416913-0|Financial index future.|Index|BBG0021050T6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/AMOX1|//blp/mktdata/buid/ICE/IX13416913-0|//blp/mktdata/bsid/1172549641183
 GasOil Sing1Min   Oct11|AMOV1|ICE|1172548708152|IX13153570-0|Financial index future.|Index|BBG001WSC1Z6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/AMOV1|//blp/mktdata/buid/ICE/IX13153570-0|//blp/mktdata/bsid/1172548708152
-GasOil Sing1Min   Sep11|AMOU1|ICE|1172548226064|IX12961410-0|Financial index future.|Index|BBG001R5FCG6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/AMOU1|//blp/mktdata/buid/ICE/IX12961410-0|//blp/mktdata/bsid/1172548226064
 Gazprom Stock Fut Dec11|PZAZ1|||IX11684319-0|Financial index future.|Index|BBG001BJVJ70||14134|14134|0||39558|||
 Gazprom Stock Fut Jun12|PZAM2|||IX12943166-0|Financial index future.|Index|BBG001R22J72||14134|14134|0||39558|||
 Gazprom Stock Fut Mar12|PZAH2|||IX12291851-0|Financial index future.|Index|BBG001KQZWL5||14134|14134|0||39558|||
@@ -459,6 +458,16 @@ VTBR Future       Dec11|VTBZ1|||IX11684359-0|Financial index future.|Index|BBG00
 VTBR Future       Jun12|VTBM2|||IX12943162-0|Financial index future.|Index|BBG001R22J63||14134|14134|0||39558|||
 VTBR Future       Mar12|VTBH2|||IX12291891-0|Financial index future.|Index|BBG001KQZWQ0||14134|14134|0||39558|||
 VTBR Future       Sep11|VTBU1|||IX11085550-0|Financial index future.|Index|BBG00162S602||14134|14134|0||39558|||
+Vancouver May Stp Aug12|VKAQ2|||IX13565072-0|Financial index future.|Index|BBG0022HZY02||14002|14002|0||39490|||
+Vancouver May Stp Jul12|VKAN2|||IX13565068-0|Financial index future.|Index|BBG0022HZXC1||14002|14002|0||39490|||
+Vancouver May Stp Jun12|VKAM2|||IX13565064-0|Financial index future.|Index|BBG0022HZVV4||14002|14002|0||39490|||
+Vancouver May Stp Oct12|VKAV2|||IX13565080-0|Financial index future.|Index|BBG0022HZY84||14002|14002|0||39490|||
+Vancouver May Stp Sep12|VKAU2|||IX13565076-0|Financial index future.|Index|BBG0022HZY48||14002|14002|0||39490|||
+Winnipeg May Stp  Aug12|VKBQ2|||IX13565168-0|Financial index future.|Index|BBG0022JD3P3||14002|14002|0||39490|||
+Winnipeg May Stp  Jul12|VKBN2|||IX13565164-0|Financial index future.|Index|BBG0022JD3M6||14002|14002|0||39490|||
+Winnipeg May Stp  Jun12|VKBM2|||IX13565160-0|Financial index future.|Index|BBG0022J03D0||14002|14002|0||39490|||
+Winnipeg May Stp  Oct12|VKBV2|||IX13565176-0|Financial index future.|Index|BBG0022JD3R1||14002|14002|0||39490|||
+Winnipeg May Stp  Sep12|VKBU2|||IX13565172-0|Financial index future.|Index|BBG0022JD3Q2||14002|14002|0||39490|||
 XGKQ Can Do BasketMar13|XGAH3|SAFE|1705113491279|IX10050235-0|Financial index future.|Index|BBG000Z57KM3||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/XGAH3|//blp/mktdata/buid/SAFE/IX10050235-0|//blp/mktdata/bsid/1705113491279
 XISQ Can Do BasketSep11|XISU1|SAFE|1705113491332|IX10050411-0|Financial index future.|Index|BBG000Z57L05||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/XISU1|//blp/mktdata/buid/SAFE/IX10050411-0|//blp/mktdata/bsid/1705113491332
 iTraxx Eur 5yr Fu Sep11|FEAU1|EUX|279193885504|IX12425857-0|Financial index future.|Index|BBG001LSZYM5||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FEAU1|//blp/mktdata/buid/EUX/IX12425857-0|//blp/mktdata/bsid/279193885504

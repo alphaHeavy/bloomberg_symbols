@@ -1,5 +1,5 @@
-#Data Generated At: Tue Sep 13 15:09:30 EDT 2011
-#Data Records=6300
+#Data Generated At: Wed Sep 14 06:42:52 EDT 2011
+#Data Records=6314
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -637,6 +637,7 @@ CARPATICA Bank    Mar12|BBCH2|||IX12452315-0|Physical index future.|Index|BBG001
 CARPATICA Bank    Sep11|BBCU1|||IX11212831-0|Physical index future.|Index|BBG0016YX205||33996|33996|0||40099|||
 CAT Index Norway  Dec11|HLLZ1|CME|614198846424|IX11226432-0|Physical index future.|Index|BBG001712PN4||14002|14002|0||39490|//blp/mktdata/bsym/CME/HLLZ1|//blp/mktdata/buid/CME/IX11226432-0|//blp/mktdata/bsid/614198846424
 CBOE DJIA VL FUT  Feb12|QAG2|CBF|773116241605|IX12943998-0|Physical index future.|Index|BBG001R249C6||14204|44383|0||39587|//blp/mktdata/bsym/CBF/QAG2|//blp/mktdata/buid/CBF/IX12943998-0|//blp/mktdata/bsid/773116241605
+CBOE DJIA VL FUT  May12|QAK2|CBF|773118012385|IX13565292-0|Physical index future.|Index|BBG0022J3DM5||14204|44383|0||39587|//blp/mktdata/bsym/CBF/QAK2|//blp/mktdata/buid/CBF/IX13565292-0|//blp/mktdata/bsid/773118012385
 CBOE DJIA VL FUT  Nov11|QAX1|CBF|773114382516|IX12085879-0|Physical index future.|Index|BBG001J4CJN8||14204|44383|0||39587|//blp/mktdata/bsym/CBF/QAX1|//blp/mktdata/buid/CBF/IX12085879-0|//blp/mktdata/bsid/773114382516
 CBOE DJIA VL FUT  Oct11|QAV1|CBF|773117509334|IX13380000-0|Physical index future.|Index|BBG00203JL47||14204|44383|0||39587|//blp/mktdata/bsym/CBF/QAV1|//blp/mktdata/buid/CBF/IX13380000-0|//blp/mktdata/bsid/773117509334
 CBOE DJIA VL FUT  Sep11|QAU1|CBF|773116729963|IX13141576-0|Physical index future.|Index|BBG001WNV4N3||14204|44383|0||39587|//blp/mktdata/bsym/CBF/QAU1|//blp/mktdata/buid/CBF/IX13141576-0|//blp/mktdata/bsid/773116729963
@@ -799,7 +800,6 @@ CHICAGO HDD IX FT Nov13|CQX3|eCME|2078783438560|IX11594176-0|Physical index futu
 CHICAGO HDD IX FT Oct11|CQV1|eCME|2078774738603|IX8916232-0|Physical index future.|Index|BBG000QRW9T5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQV1|//blp/mktdata/buid/eCME/IX8916232-0|//blp/mktdata/bsid/2078774738603
 CHICAGO HDD IX FT Oct12|CQV2|eCME|2078777686057|IX9653909-0|Physical index future.|Index|BBG000Y6PXQ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQV2|//blp/mktdata/buid/eCME/IX9653909-0|//blp/mktdata/bsid/2078777686057
 CHICAGO HDD IX FT Oct13|CQV3|eCME|2078783053986|IX11395494-0|Physical index future.|Index|BBG0018HN826||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQV3|//blp/mktdata/buid/eCME/IX11395494-0|//blp/mktdata/bsid/2078783053986
-CHICAGO SEASN CDD Sep11|KPU1|eCME|2078782702060|IX11238366-0|Physical index future.|Index|BBG001722B62||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KPU1|//blp/mktdata/buid/eCME/IX11238366-0|//blp/mktdata/bsid/2078782702060
 CHICAGO SEASN CDD Sep12|KPU2|eCME|2078788048722|IX13557135-0|Physical index future.|Index|BBG0022FSV19||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KPU2|//blp/mktdata/buid/eCME/IX13557135-0|//blp/mktdata/bsid/2078788048722
 CHICAGO SEASN HDD Mar12|HPH2|eCME|2078785274038|IX12478126-0|Physical index future.|Index|BBG001M2YN19||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HPH2|//blp/mktdata/buid/eCME/IX12478126-0|//blp/mktdata/bsid/2078785274038
 CINCIN SEASON CDD Sep11|KUU1|eCME|2078782702055|IX11238370-0|Physical index future.|Index|BBG001722B71||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KUU1|//blp/mktdata/buid/eCME/IX11238370-0|//blp/mktdata/bsid/2078782702055
@@ -1958,26 +1958,23 @@ Gas Oil GOWAVE FU Jan13|IGWF3|ICE|1172547732994|IX12723542-0|Physical index futu
 Gas Oil GOWAVE FU Jun12|IGWM2|ICE|1172532917134|IX7062806-0|Physical index future.|Index|BBG000S6LZL1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWM2|//blp/mktdata/buid/ICE/IX7062806-0|//blp/mktdata/bsid/1172532917134
 Gas Oil GOWAVE FU Jun13|IGWM3|ICE|1172532917136|IX7062814-0|Physical index future.|Index|BBG000S6M046||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWM3|//blp/mktdata/buid/ICE/IX7062814-0|//blp/mktdata/bsid/1172532917136
 Gas Oil GOWAVE FU Mar12|IGWH2|ICE|1172532917133|IX7062802-0|Physical index future.|Index|BBG000S6LTY1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWH2|//blp/mktdata/buid/ICE/IX7062802-0|//blp/mktdata/bsid/1172532917133
-Gas Oil GOWAVE FU May12|IGWK2|||IX13556651-0|Physical index future.|Index|BBG0022FNDN0||30022|30022|0||40087|||
+Gas Oil GOWAVE FU May12|IGWK2|ICE|1172549949336|IX13556651-0|Physical index future.|Index|BBG0022FNDN0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWK2|//blp/mktdata/buid/ICE/IX13556651-0|//blp/mktdata/bsid/1172549949336
 Gas Oil GOWAVE FU Nov11|IGWX1|ICE|1172541745279|IX10158626-0|Physical index future.|Index|BBG000Z9LH46||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWX1|//blp/mktdata/buid/ICE/IX10158626-0|//blp/mktdata/bsid/1172541745279
 Gas Oil GOWAVE FU Nov12|IGWX2|ICE|1172546764934|IX12269496-0|Physical index future.|Index|BBG001KNQ3M5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWX2|//blp/mktdata/buid/ICE/IX12269496-0|//blp/mktdata/bsid/1172546764934
 Gas Oil GOWAVE FU Oct11|IGWV1|ICE|1172541371888|IX10052099-0|Physical index future.|Index|BBG000Z57PX0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWV1|//blp/mktdata/buid/ICE/IX10052099-0|//blp/mktdata/bsid/1172541371888
 Gas Oil GOWAVE FU Oct12|IGWV2|ICE|1172546298044|IX12050515-0|Physical index future.|Index|BBG001J06WK7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWV2|//blp/mktdata/buid/ICE/IX12050515-0|//blp/mktdata/bsid/1172546298044
-Gas Oil GOWAVE FU Sep11|IGWU1|ICE|1172532917131|IX7062794-0|Physical index future.|Index|BBG000S6LS46||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWU1|//blp/mktdata/buid/ICE/IX7062794-0|//blp/mktdata/bsid/1172532917131
 Gas Oil GOWAVE FU Sep12|IGWU2|ICE|1172545854823|IX11867834-0|Physical index future.|Index|BBG001D9DCF6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWU2|//blp/mktdata/buid/ICE/IX11867834-0|//blp/mktdata/bsid/1172545854823
 Gas Oil US MM     Nov11|QMIX1|ICE|1172549301339|IX13341463-0|Physical index future.|Index|BBG001Z6CBB5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QMIX1|//blp/mktdata/buid/ICE/IX13341463-0|//blp/mktdata/bsid/1172549301339
 Gas Oil US MM     Oct11|QMIV1|ICE|1172548676950|IX13127095-0|Physical index future.|Index|BBG001WHQD43||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QMIV1|//blp/mktdata/buid/ICE/IX13127095-0|//blp/mktdata/bsid/1172548676950
-GasOil Aft1Min    Dec11|OICZ1|||IX13556659-0|Physical index future.|Index|BBG0022FNDV1||30022|30022|0||40087|||
+GasOil Aft1Min    Dec11|OICZ1|ICE|1172549966315|IX13556659-0|Physical index future.|Index|BBG0022FNDV1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICZ1|//blp/mktdata/buid/ICE/IX13556659-0|//blp/mktdata/bsid/1172549966315
 GasOil Aft1Min    Nov11|OICX1|ICE|1172549342899|IX13348913-0|Physical index future.|Index|BBG001ZB8LH1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICX1|//blp/mktdata/buid/ICE/IX13348913-0|//blp/mktdata/bsid/1172549342899
 GasOil Aft1Min    Oct11|OICV1|ICE|1172548693802|IX13140980-0|Physical index future.|Index|BBG001WNQSR2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICV1|//blp/mktdata/buid/ICE/IX13140980-0|//blp/mktdata/bsid/1172548693802
-GasOil Aft1Min    Sep11|OICU1|ICE|1172548175059|IX12915475-0|Physical index future.|Index|BBG001QZ9GL3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICU1|//blp/mktdata/buid/ICE/IX12915475-0|//blp/mktdata/bsid/1172548175059
 GasOil Singpore M Dec11|QSIZ1|ICE|1172549919563|IX13543793-0|Physical index future.|Index|BBG002290VZ6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIZ1|//blp/mktdata/buid/ICE/IX13543793-0|//blp/mktdata/bsid/1172549919563
 GasOil Singpore M Nov11|QSIX1|ICE|1172549301340|IX13341459-0|Physical index future.|Index|BBG001Z6CB98||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIX1|//blp/mktdata/buid/ICE/IX13341459-0|//blp/mktdata/bsid/1172549301340
 GasOil Singpore M Oct11|QSIV1|ICE|1172548676951|IX13127099-0|Physical index future.|Index|BBG001WHQDF1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIV1|//blp/mktdata/buid/ICE/IX13127099-0|//blp/mktdata/bsid/1172548676951
-GasOil US1Min     Dec11|OIEZ1|||IX13556663-0|Physical index future.|Index|BBG0022FNDX9||30022|30022|0||40087|||
+GasOil US1Min     Dec11|OIEZ1|ICE|1172549954869|IX13556663-0|Physical index future.|Index|BBG0022FNDX9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEZ1|//blp/mktdata/buid/ICE/IX13556663-0|//blp/mktdata/bsid/1172549954869
 GasOil US1Min     Nov11|OIEX1|ICE|1172549327520|IX13348921-0|Physical index future.|Index|BBG001ZB8LK7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEX1|//blp/mktdata/buid/ICE/IX13348921-0|//blp/mktdata/bsid/1172549327520
 GasOil US1Min     Oct11|OIEV1|ICE|1172548691589|IX13140984-0|Physical index future.|Index|BBG001WNQSS1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEV1|//blp/mktdata/buid/ICE/IX13140984-0|//blp/mktdata/bsid/1172548691589
-GasOil US1Min     Sep11|OIEU1|ICE|1172548174401|IX12915483-0|Physical index future.|Index|BBG001QZ9GN1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEU1|//blp/mktdata/buid/ICE/IX12915483-0|//blp/mktdata/bsid/1172548174401
 General Motor CEBOSep12|BGCU2|||IX4490405-0|Physical index future.|Index|BBG000WFPXD6||14009|0|0||39495|||
 GulfCoast 2nd $10 Dec13|WGLZ3|CCX|2559817895126|IX10596025-0|Physical index future.|Index|BBG0012F7TC7||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WGLZ3|//blp/mktdata/buid/CCX/IX10596025-0|//blp/mktdata/bsid/2559817895126
 GulfCoast 2nd $10BDec10|WGLZ0|CCX|2559809767737|IX8355450-0|Physical index future.|Index|BBG000JJFTJ7||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WGLZ0|//blp/mktdata/buid/CCX/IX8355450-0|//blp/mktdata/bsid/2559809767737
@@ -2785,6 +2782,11 @@ Jacksonville HDD  Nov13|HDSX3|eCME|2078783446222|IX11594300-0|Physical index fut
 Jacksonville HDD  Oct11|HDSV1|eCME|2078774870576|IX9012555-0|Physical index future.|Index|BBG000TY3TV2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDSV1|//blp/mktdata/buid/eCME/IX9012555-0|//blp/mktdata/bsid/2078774870576
 Jacksonville HDD  Oct12|HDSV2|eCME|2078777686031|IX9653485-0|Physical index future.|Index|BBG000Y6P9C8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDSV2|//blp/mktdata/buid/eCME/IX9653485-0|//blp/mktdata/bsid/2078777686031
 Jacksonville HDD  Oct13|HDSV3|eCME|2078783061652|IX11395654-0|Physical index future.|Index|BBG0018HN951||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDSV3|//blp/mktdata/buid/eCME/IX11395654-0|//blp/mktdata/bsid/2078783061652
+Jacksonville May  Aug12|LJBQ2|||IX13565252-0|Physical index future.|Index|BBG0022J2TF9||14002|14002|0||39490|||
+Jacksonville May  Jul12|LJBN2|||IX13565248-0|Physical index future.|Index|BBG0022J2TD1||14002|14002|0||39490|||
+Jacksonville May  Jun12|LJBM2|||IX13565244-0|Physical index future.|Index|BBG0022J2TC2||14002|14002|0||39490|||
+Jacksonville May  Oct11|LJBV1|||IX13565240-0|Physical index future.|Index|BBG0022J2TB3||14002|14002|0||39490|||
+Jacksonville May  Sep11|LJBU1|||IX13565236-0|Physical index future.|Index|BBG0022J2PT2||14002|14002|0||39490|||
 Jacksonville Rain Dec11|LJRZ1|eCME|2078786635330|IX13094570-0|Physical index future.|Index|BBG001VKYWZ2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRZ1|//blp/mktdata/buid/eCME/IX13094570-0|//blp/mktdata/bsid/2078786635330
 Jacksonville Rain Feb12|LJRG2|eCME|2078787935752|IX13500119-0|Physical index future.|Index|BBG0021RGP01||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRG2|//blp/mktdata/buid/eCME/IX13500119-0|//blp/mktdata/bsid/2078787935752
 Jacksonville Rain Jan12|LJRF2|eCME|2078787197399|IX13282054-0|Physical index future.|Index|BBG001YHSML0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRF2|//blp/mktdata/buid/eCME/IX13282054-0|//blp/mktdata/bsid/2078787197399
@@ -2904,6 +2906,12 @@ Kansas May Strip  Jun12|KCDM2|eCME|2078786635311|IX13094582-0|Physical index fut
 Kansas May Strip  May12|KCDK2|eCME|2078786195697|IX12862836-0|Physical index future.|Index|BBG001QQHJW6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCDK2|//blp/mktdata/buid/eCME/IX12862836-0|//blp/mktdata/bsid/2078786195697
 Kansas May Strip  Oct11|KCDV1|eCME|2078785757086|IX12701173-0|Physical index future.|Index|BBG001P83MT9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCDV1|//blp/mktdata/buid/eCME/IX12701173-0|//blp/mktdata/bsid/2078785757086
 Kansas May Strip  Sep11|KCDU1|eCME|2078785757085|IX12701169-0|Physical index future.|Index|BBG001P83MR1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCDU1|//blp/mktdata/buid/eCME/IX12701169-0|//blp/mktdata/bsid/2078785757085
+Kansas Rainfall   Apr12|KCRJ2|||IX13565232-0|Physical index future.|Index|BBG0022J1NS9||14002|14002|0||39490|||
+Kansas Rainfall   Dec11|KCRZ1|||IX13565220-0|Physical index future.|Index|BBG0022J1MZ3||14002|14002|0||39490|||
+Kansas Rainfall   Mar12|KCRH2|||IX13565228-0|Physical index future.|Index|BBG0022J1NR0||14002|14002|0||39490|||
+Kansas Rainfall   Nov11|KCRX1|||IX13565216-0|Physical index future.|Index|BBG0022J1MY4||14002|14002|0||39490|||
+Kansas Rainfall   Oct11|KCRV1|||IX13565212-0|Physical index future.|Index|BBG0022J1MW6||14002|14002|0||39490|||
+Kansas Rainfall   Sep11|KCRU1|||IX13565204-0|Physical index future.|Index|BBG0022J1GL1||14002|14002|0||39490|||
 Kansas Sept Strip Aug12|KCOQ2|||IX13500187-0|Physical index future.|Index|BBG0021RGP74||14002|14002|0||39490|||
 Kansas Sept Strip Jul12|KCON2|||IX13282082-0|Physical index future.|Index|BBG001YHSMV9||14002|14002|0||39490|||
 Kansas Sept Strip Jun12|KCOM2|||IX13094598-0|Physical index future.|Index|BBG001VKYX62||14002|14002|0||39490|||
@@ -4920,6 +4928,11 @@ Raleigh Durham HD Nov13|HDRX3|eCME|2078783446225|IX11594312-0|Physical index fut
 Raleigh Durham HD Oct11|HDRV1|eCME|2078774870637|IX9012999-0|Physical index future.|Index|BBG000TYXSP8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDRV1|//blp/mktdata/buid/eCME/IX9012999-0|//blp/mktdata/bsid/2078774870637
 Raleigh Durham HD Oct12|HDRV2|eCME|2078777686033|IX9653497-0|Physical index future.|Index|BBG000Y6PBJ6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDRV2|//blp/mktdata/buid/eCME/IX9653497-0|//blp/mktdata/bsid/2078777686033
 Raleigh Durham HD Oct13|HDRV3|eCME|2078783061658|IX11395678-0|Physical index future.|Index|BBG0018HN9C3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDRV3|//blp/mktdata/buid/eCME/IX11395678-0|//blp/mktdata/bsid/2078783061658
+Raleigh May Strip Aug12|DFBQ2|||IX13565288-0|Physical index future.|Index|BBG0022J3025||14002|14002|0||39490|||
+Raleigh May Strip Jul12|DFBN2|||IX13565284-0|Physical index future.|Index|BBG0022J3016||14002|14002|0||39490|||
+Raleigh May Strip Jun12|DFBM2|||IX13565280-0|Physical index future.|Index|BBG0022J3007||14002|14002|0||39490|||
+Raleigh May Strip Oct11|DFBV1|||IX13565276-0|Physical index future.|Index|BBG0022J2ZW6||14002|14002|0||39490|||
+Raleigh May Strip Sep11|DFBU1|||IX13565272-0|Physical index future.|Index|BBG0022J2ZS1||14002|14002|0||39490|||
 Raleigh Rainfall  Dec11|DFRZ1|eCME|2078786633633|IX13094674-0|Physical index future.|Index|BBG001VKYXF2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRZ1|//blp/mktdata/buid/eCME/IX13094674-0|//blp/mktdata/bsid/2078786633633
 Raleigh Rainfall  Feb12|DFRG2|eCME|2078787935150|IX13500267-0|Physical index future.|Index|BBG0021RGPH3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRG2|//blp/mktdata/buid/eCME/IX13500267-0|//blp/mktdata/bsid/2078787935150
 Raleigh Rainfall  Jan12|DFRF2|eCME|2078787193804|IX13282158-0|Physical index future.|Index|BBG001YHSN29||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRF2|//blp/mktdata/buid/eCME/IX13282158-0|//blp/mktdata/bsid/2078787193804
@@ -4950,6 +4963,7 @@ Russell 2000 VOL  Aug12|VRAQ2|CBF|773116245253|IX12944002-0|Physical index futur
 Russell 2000 VOL  Feb12|VRAG2|CBF|773113508388|IX11685975-0|Physical index future.|Index|BBG001BK9625||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VRAG2|//blp/mktdata/buid/CBF/IX11685975-0|//blp/mktdata/bsid/773113508388
 Russell 2000 VOL  May12|VRAK2|CBF|773114859115|IX12312851-0|Physical index future.|Index|BBG001KSCDS1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VRAK2|//blp/mktdata/buid/CBF/IX12312851-0|//blp/mktdata/bsid/773114859115
 Russell 2000 VOL  Nov11|VRAX1|CBF|773112393810|IX11092330-0|Physical index future.|Index|BBG00162VTH0||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VRAX1|//blp/mktdata/buid/CBF/IX11092330-0|//blp/mktdata/bsid/773112393810
+Russell 2000 VOL  Nov12|VRAX2|||IX13565296-0|Physical index future.|Index|BBG0022J3DN4||14204|44383|0||39587|||
 Russell 2000 VOL  Oct11|VRAV1|CBF|773117511224|IX13379980-0|Physical index future.|Index|BBG00203JKZ5||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VRAV1|//blp/mktdata/buid/CBF/IX13379980-0|//blp/mktdata/bsid/773117511224
 Russell 2000 VOL  Sep11|VRAU1|CBF|773116730163|IX13141580-0|Physical index future.|Index|BBG001WNV4P1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VRAU1|//blp/mktdata/buid/CBF/IX13141580-0|//blp/mktdata/bsid/773116730163
 S&P 500 1ST WEEKL Dec11|1DZ1|||IX9865635-0|Physical index future.|Index|BBG000YZKYG0||14002|14002|0||39490|||

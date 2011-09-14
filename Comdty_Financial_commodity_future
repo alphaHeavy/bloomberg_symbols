@@ -1,4 +1,4 @@
-#Data Generated At: Tue Sep 13 14:40:20 EDT 2011
+#Data Generated At: Wed Sep 14 06:13:33 EDT 2011
 #Data Records=6371
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -3904,6 +3904,7 @@ HUNGAR 1YR T-BILL Dec11|VWZ1|BSE|1103825901315|IX11636352-0|Financial commodity 
 HUNGAR 1YR T-BILL Jun12|VWM2|BSE|1103828653321|IX12890332-0|Financial commodity future.|Comdty|BBG001QVLBH4||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWM2|//blp/mktdata/buid/BSE/IX12890332-0|//blp/mktdata/bsid/1103828653321
 HUNGAR 1YR T-BILL Mar12|VWH2|BSE|1103827247859|IX12238873-0|Financial commodity future.|Comdty|BBG001KKMLM5||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWH2|//blp/mktdata/buid/BSE/IX12238873-0|//blp/mktdata/bsid/1103827247859
 HUNGAR 1YR T-BILL Sep11|VWU1|BSE|1103824819106|IX11040356-0|Financial commodity future.|Comdty|BBG0015VX2F6||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWU1|//blp/mktdata/buid/BSE/IX11040356-0|//blp/mktdata/bsid/1103824819106
+HUNGAR 1YR T-BILL Sep12|VWU2|BSE|1103830489779|IX13564612-0|Financial commodity future.|Comdty|BBG0022HY8Z2||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWU2|//blp/mktdata/buid/BSE/IX13564612-0|//blp/mktdata/bsid/1103830489779
 HUNGARIAN 5Y BOND Nov11|HFX1|BSE|1103829985106|IX13379328-0|Financial commodity future.|Comdty|BBG00203F0S1||14116|14116|0||39547|//blp/mktdata/bsym/BSE/HFX1|//blp/mktdata/buid/BSE/IX13379328-0|//blp/mktdata/bsid/1103829985106
 HUNGARIAN 5Y BOND Oct11|HFV1|BSE|1103829241610|IX13154838-0|Financial commodity future.|Comdty|BBG001WSHD21||14116|14116|0||39547|//blp/mktdata/bsym/BSE/HFV1|//blp/mktdata/buid/BSE/IX13154838-0|//blp/mktdata/bsid/1103829241610
 HUNGARIAN 5Y BOND Sep11|HFU1|BSE|1103828755919|IX12963690-0|Financial commodity future.|Comdty|BBG001R5JWG8||14116|14116|0||39547|//blp/mktdata/bsym/BSE/HFU1|//blp/mktdata/buid/BSE/IX12963690-0|//blp/mktdata/bsid/1103828755919
@@ -5002,7 +5003,6 @@ NYH GAS v RBOB SW Sep12|RBSU2|eNYM|2117427695854|IX8142398-0|Financial commodity
 NYH GAS v RBOB SW Sep13|RBSU3|eNYM|2117433250560|IX9906103-0|Financial commodity future.|Comdty|BBG000Z1Y368||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/RBSU3|//blp/mktdata/buid/eNYM/IX9906103-0|//blp/mktdata/bsid/2117433250560
 NYH GAS v RBOB SW Sep14|RBSU4|eNYM|2117438522977|IX11804555-0|Financial commodity future.|Comdty|BBG001CTT7X7||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/RBSU4|//blp/mktdata/buid/eNYM/IX11804555-0|//blp/mktdata/bsid/2117438522977
 NYMEX FCOJ Fut    Jan12|FFCF2|eNYM|2117433358387|IX9933150-0|Financial commodity future.|Comdty|BBG000QRR1H1||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/FFCF2|//blp/mktdata/buid/eNYM/IX9933150-0|//blp/mktdata/bsid/2117433358387
-NYMEX FCOJ Fut    Sep11|FFCU1|eNYM|2117435005462|IX10159014-0|Financial commodity future.|Comdty|BBG000Z9RV85||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/FFCU1|//blp/mktdata/buid/eNYM/IX10159014-0|//blp/mktdata/bsid/2117435005462
 NZ 30-DAY CASH RT Apr12|KXJ2|SFE|1176842530128|IX12643085-0|Financial commodity future.|Comdty|BBG001NXSQF5||14016|14016|0||40067|//blp/mktdata/bsym/SFE/KXJ2|//blp/mktdata/buid/SFE/IX12643085-0|//blp/mktdata/bsid/1176842530128
 NZ 30-DAY CASH RT Apr12|KXJ2|SFE|1176842530128|IX12643085-0|Financial commodity future.|Comdty|BBG001NXSQF5||14016|14016|0||40067|//blp/mktdata/bsym/SFE/KXJ2|//blp/mktdata/buid/SFE/IX12643085-0|//blp/mktdata/bsid/1176842530128
 NZ 30-DAY CASH RT Apr12|KXJ2|cSFE|10033065094480|IX12643085-0|Financial commodity future.|Comdty|BBG001NXSQF5||14016|14016|0||40067|//blp/mktdata/bsym/cSFE/KXJ2|//blp/mktdata/buid/cSFE/IX12643085-0|//blp/mktdata/bsid/10033065094480
@@ -5157,6 +5157,7 @@ ONE MONTH EONIA   Oct11|EXV1|EUX|279191730878|IX11371119-0|Financial commodity f
 ONE MONTH EONIA   Oct11|OMV1|LIF|609903959190|IX11279202-0|Financial commodity future.|Comdty|BBG00179ZQZ6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/OMV1|//blp/mktdata/buid/LIF/IX11279202-0|//blp/mktdata/bsid/609903959190
 ONE MONTH EONIA   Sep11|EXU1|EUX|279191369119|IX11212851-0|Financial commodity future.|Comdty|BBG0016YX250||14066|14111|0||39521|//blp/mktdata/bsym/EUX/EXU1|//blp/mktdata/buid/EUX/IX11212851-0|//blp/mktdata/bsid/279191369119
 ONE MONTH EONIA   Sep11|OMU1|LIF|609903574848|IX11040360-0|Financial commodity future.|Comdty|BBG0015VX2G5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/OMU1|//blp/mktdata/buid/LIF/IX11040360-0|//blp/mktdata/bsid/609903574848
+ONE MONTH EONIA   Sep12|OMU2|LIF|609909250738|IX13564616-0|Financial commodity future.|Comdty|BBG0022HY908||27267|27268|0||40559|//blp/mktdata/bsym/LIF/OMU2|//blp/mktdata/buid/LIF/IX13564616-0|//blp/mktdata/bsid/609909250738
 ONE-DAY BANK COPY1Apr12|ODDJ2|||IX13425958-0|Financial commodity future.|Comdty|BBG002132XP5||14098|14098|0||39537|||
 ONE-DAY BANK COPY1Apr13|ODDJ3|||IX13426006-0|Financial commodity future.|Comdty|BBG002132Y28||14098|14098|0||39537|||
 ONE-DAY BANK COPY1Apr14|ODDJ4|||IX13426054-0|Financial commodity future.|Comdty|BBG002132YG3||14098|14098|0||39537|||
@@ -5267,7 +5268,6 @@ ONE-DAY BANK DEP  Jul13|ODN3|eBMF|2074469656190|IX3934454-0|Financial commodity 
 ONE-DAY BANK DEP  Jul14|ODN4|eBMF|2074479000568|IX8578894-0|Financial commodity future.|Comdty|BBG000Q5XVL1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODN4|//blp/mktdata/buid/eBMF/IX8578894-0|//blp/mktdata/bsid/2074479000568
 ONE-DAY BANK DEP  Jul15|ODN5|eBMF|2074477706314|IX8013164-0|Financial commodity future.|Comdty|BBG000XBSV36||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODN5|//blp/mktdata/buid/eBMF/IX8013164-0|//blp/mktdata/bsid/2074477706314
 ONE-DAY BANK DEP  Jul16|ODN6|eBMF|2074484409461|IX10024860-0|Financial commodity future.|Comdty|BBG000Z4R0Q4||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODN6|//blp/mktdata/buid/eBMF/IX10024860-0|//blp/mktdata/bsid/2074484409461
-ONE-DAY BANK DEP  Jul17|ODN18|eBMF|2074493079709|IX13553419-0|Financial commodity future.|Comdty|BBG0022D57G6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODN18|//blp/mktdata/buid/eBMF/IX13553419-0|//blp/mktdata/bsid/2074493079709
 ONE-DAY BANK DEP  Jul17|ODN7|eBMF|2074493069206|IX13553415-0|Financial commodity future.|Comdty|BBG0022D57B1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODN7|//blp/mktdata/buid/eBMF/IX13553415-0|//blp/mktdata/bsid/2074493069206
 ONE-DAY BANK DEP  Nov11|ODX1|eBMF|2074491612554|IX13067346-0|Financial commodity future.|Comdty|BBG001VDDM01||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODX1|//blp/mktdata/buid/eBMF/IX13067346-0|//blp/mktdata/bsid/2074491612554
 ONE-DAY BANK DEP  Oct11|ODV1|eBMF|2074469626130|IX3196331-0|Financial commodity future.|Comdty|BBG000VTHR49||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODV1|//blp/mktdata/buid/eBMF/IX3196331-0|//blp/mktdata/bsid/2074469626130
