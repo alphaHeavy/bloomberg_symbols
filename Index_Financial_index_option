@@ -1,5 +1,5 @@
-#Data Generated At: Wed Sep 14 06:42:42 EDT 2011
-#Data Records=3144
+#Data Generated At: Thu Sep 15 06:42:20 EDT 2011
+#Data Records=3520
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index option.
 Gulf Coast Cat SeaDec11C     1|HPAZ1C 1|||IX13479628-0-8020|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11C     2|HPAZ1C 2|||IX13479628-0-8040|Financial index option.|Index|||14002|14002|0||39490|||
@@ -213,6 +213,140 @@ Gulf Coast Cat SeaDec11P   103|HPAZ1P 103|||IX13479632-0-0CE0|Financial index op
 Gulf Coast Cat SeaDec11P   104|HPAZ1P 104|||IX13479632-0-0D00|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11P   105|HPAZ1P 105|||IX13479632-0-0D20|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11P   106|HPAZ1P 106|||IX13479632-0-0D40|Financial index option.|Index|||14002|14002|0||39490|||
+Lukoil Futures OptDec11C 11000|LKOZ1C 11000|||IX13573757-0-844C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 11500|LKOZ1C 11500|||IX13573757-0-847E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 12000|LKOZ1C 12000|||IX13573757-0-84B0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 12500|LKOZ1C 12500|||IX13573757-0-84E2|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 13000|LKOZ1C 13000|||IX13573757-0-8514|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 13500|LKOZ1C 13500|||IX13573757-0-8546|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 14000|LKOZ1C 14000|||IX13573757-0-8578|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 14500|LKOZ1C 14500|||IX13573757-0-85AA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 15000|LKOZ1C 15000|||IX13573757-0-85DC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 15500|LKOZ1C 15500|||IX13573757-0-860E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 16000|LKOZ1C 16000|||IX13573757-0-8640|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 16500|LKOZ1C 16500|||IX13573757-0-8672|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 17000|LKOZ1C 17000|||IX13573757-0-86A4|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 17500|LKOZ1C 17500|||IX13573757-0-86D6|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 18000|LKOZ1C 18000|||IX13573757-0-8708|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 18500|LKOZ1C 18500|||IX13573757-0-873A|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 19000|LKOZ1C 19000|||IX13573757-0-876C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 19500|LKOZ1C 19500|||IX13573757-0-879E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 20000|LKOZ1C 20000|||IX13573757-0-87D0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 20500|LKOZ1C 20500|||IX13573757-0-8802|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 21000|LKOZ1C 21000|||IX13573757-0-8834|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 21500|LKOZ1C 21500|||IX13573757-0-8866|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 22000|LKOZ1C 22000|||IX13573757-0-8898|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 22500|LKOZ1C 22500|||IX13573757-0-88CA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 23000|LKOZ1C 23000|||IX13573757-0-88FC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 23500|LKOZ1C 23500|||IX13573757-0-892E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 11000|LKOZ1P 11000|||IX12291871-0-044C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 11500|LKOZ1P 11500|||IX12291871-0-047E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 12000|LKOZ1P 12000|||IX12291871-0-04B0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 12500|LKOZ1P 12500|||IX12291871-0-04E2|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 13000|LKOZ1P 13000|||IX12291871-0-0514|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 13500|LKOZ1P 13500|||IX12291871-0-0546|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 14000|LKOZ1P 14000|||IX12291871-0-0578|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 14500|LKOZ1P 14500|||IX12291871-0-05AA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 15000|LKOZ1P 15000|||IX12291871-0-05DC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 15500|LKOZ1P 15500|||IX12291871-0-060E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 16000|LKOZ1P 16000|||IX12291871-0-0640|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 16500|LKOZ1P 16500|||IX12291871-0-0672|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 17000|LKOZ1P 17000|||IX12291871-0-06A4|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 17500|LKOZ1P 17500|||IX12291871-0-06D6|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 18000|LKOZ1P 18000|||IX12291871-0-0708|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 18500|LKOZ1P 18500|||IX12291871-0-073A|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 19000|LKOZ1P 19000|||IX12291871-0-076C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 19500|LKOZ1P 19500|||IX12291871-0-079E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 20000|LKOZ1P 20000|||IX12291871-0-07D0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 20500|LKOZ1P 20500|||IX12291871-0-0802|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 21000|LKOZ1P 21000|||IX12291871-0-0834|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 21500|LKOZ1P 21500|||IX12291871-0-0866|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 22000|LKOZ1P 22000|||IX12291871-0-0898|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 22500|LKOZ1P 22500|||IX12291871-0-08CA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 23000|LKOZ1P 23000|||IX12291871-0-08FC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 23500|LKOZ1P 23500|||IX12291871-0-092E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 11000|LKOH2P 11000|||IX12953249-0-044C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 11500|LKOH2P 11500|||IX12953249-0-047E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 12000|LKOH2P 12000|||IX12953249-0-04B0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 12500|LKOH2P 12500|||IX12953249-0-04E2|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 13000|LKOH2P 13000|||IX12953249-0-0514|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 13500|LKOH2P 13500|||IX12953249-0-0546|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 14000|LKOH2P 14000|||IX12953249-0-0578|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 14500|LKOH2P 14500|||IX12953249-0-05AA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 15000|LKOH2P 15000|||IX12953249-0-05DC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 15500|LKOH2P 15500|||IX12953249-0-060E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 16000|LKOH2P 16000|||IX12953249-0-0640|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 16500|LKOH2P 16500|||IX12953249-0-0672|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 17000|LKOH2P 17000|||IX12953249-0-06A4|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 17500|LKOH2P 17500|||IX12953249-0-06D6|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 18000|LKOH2P 18000|||IX12953249-0-0708|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 18500|LKOH2P 18500|||IX12953249-0-073A|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 19000|LKOH2P 19000|||IX12953249-0-076C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 19500|LKOH2P 19500|||IX12953249-0-079E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 20000|LKOH2P 20000|||IX12953249-0-07D0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 20500|LKOH2P 20500|||IX12953249-0-0802|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 21000|LKOH2P 21000|||IX12953249-0-0834|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 21500|LKOH2P 21500|||IX12953249-0-0866|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 22000|LKOH2P 22000|||IX12953249-0-0898|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 22500|LKOH2P 22500|||IX12953249-0-08CA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 23000|LKOH2P 23000|||IX12953249-0-08FC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 23500|LKOH2P 23500|||IX12953249-0-092E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 24000|LKOH2P 24000|||IX12953249-0-0960|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 25000|LKOH2P 25000|||IX12953249-0-09C4|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 11000|LKOV1C 11000|||IX13573709-0-844C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 11500|LKOV1C 11500|||IX13573709-0-847E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 12000|LKOV1C 12000|||IX13573709-0-84B0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 12500|LKOV1C 12500|||IX13573709-0-84E2|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 13000|LKOV1C 13000|||IX13573709-0-8514|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 13500|LKOV1C 13500|||IX13573709-0-8546|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 14000|LKOV1C 14000|||IX13573709-0-8578|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 14500|LKOV1C 14500|||IX13573709-0-85AA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 15000|LKOV1C 15000|||IX13573709-0-85DC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 15500|LKOV1C 15500|||IX13573709-0-860E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 16000|LKOV1C 16000|||IX13573709-0-8640|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 16500|LKOV1C 16500|||IX13573709-0-8672|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 17000|LKOV1C 17000|||IX13573709-0-86A4|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 17500|LKOV1C 17500|||IX13573709-0-86D6|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 18000|LKOV1C 18000|||IX13573709-0-8708|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 18500|LKOV1C 18500|||IX13573709-0-873A|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 19000|LKOV1C 19000|||IX13573709-0-876C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 19500|LKOV1C 19500|||IX13573709-0-879E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 20000|LKOV1C 20000|||IX13573709-0-87D0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 20500|LKOV1C 20500|||IX13573709-0-8802|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 21000|LKOV1C 21000|||IX13573709-0-8834|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 21500|LKOV1C 21500|||IX13573709-0-8866|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 22000|LKOV1C 22000|||IX13573709-0-8898|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 22500|LKOV1C 22500|||IX13573709-0-88CA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 23000|LKOV1C 23000|||IX13573709-0-88FC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 23500|LKOV1C 23500|||IX13573709-0-892E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 10000|LKOV1P 10000|||IX13154878-0-03E8|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 10500|LKOV1P 10500|||IX13154878-0-041A|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 11000|LKOV1P 11000|||IX13154878-0-044C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 11500|LKOV1P 11500|||IX13154878-0-047E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 12000|LKOV1P 12000|||IX13154878-0-04B0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 12500|LKOV1P 12500|||IX13154878-0-04E2|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 13000|LKOV1P 13000|||IX13154878-0-0514|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 13500|LKOV1P 13500|||IX13154878-0-0546|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 14000|LKOV1P 14000|||IX13154878-0-0578|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 14500|LKOV1P 14500|||IX13154878-0-05AA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 15000|LKOV1P 15000|||IX13154878-0-05DC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 15500|LKOV1P 15500|||IX13154878-0-060E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 16000|LKOV1P 16000|||IX13154878-0-0640|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 16500|LKOV1P 16500|||IX13154878-0-0672|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 17000|LKOV1P 17000|||IX13154878-0-06A4|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 17500|LKOV1P 17500|||IX13154878-0-06D6|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 18000|LKOV1P 18000|||IX13154878-0-0708|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 18500|LKOV1P 18500|||IX13154878-0-073A|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 19000|LKOV1P 19000|||IX13154878-0-076C|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 19500|LKOV1P 19500|||IX13154878-0-079E|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 20000|LKOV1P 20000|||IX13154878-0-07D0|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 20500|LKOV1P 20500|||IX13154878-0-0802|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 21000|LKOV1P 21000|||IX13154878-0-0834|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 21500|LKOV1P 21500|||IX13154878-0-0866|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 22000|LKOV1P 22000|||IX13154878-0-0898|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 22500|LKOV1P 22500|||IX13154878-0-08CA|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 23000|LKOV1P 23000|||IX13154878-0-08FC|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptOct11P 23500|LKOV1P 23500|||IX13154878-0-092E|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptSep11C  1000|LKOU1C 1000|||IX13045210-0-8064|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptSep11C  2000|LKOU1C 2000|||IX13045210-0-80C8|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptSep11C  3000|LKOU1C 3000|||IX13045210-0-812C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -475,6 +609,248 @@ Lukoil Futures OptSep11P115000|LKOU1P 115000|||IX11694880-0-2CEC|Financial index
 Lukoil Futures OptSep11P116000|LKOU1P 116000|||IX11694880-0-2D50|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptSep11P117000|LKOU1P 117000|||IX11694880-0-2DB4|Financial index option.|Index|||14134|14134|0||39558|||
 NAME|ID_BB_SEC_NUM_DES|FEED_SOURCE|ID_BB_SEC_NUM_SRC|ID_BB_UNIQUE|SECURITY_TYP|MARKET_SECTOR_DES|ID_BB_GLOBAL|COMPOSITE_ID_BB_GLOBAL|FEED_EID1|FEED_EID2|FEED_EID3|FEED_EID4|FEED_DELAYED_EID1|Subscription String 1|Subscription String 2|Subscription String 3
+ROSN Future Opt   Dec11C  1000|ROSZ1C 1000|||IX13572705-0-8064|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  2000|ROSZ1C 2000|||IX13572705-0-80C8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  3000|ROSZ1C 3000|||IX13572705-0-812C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  4000|ROSZ1C 4000|||IX13572705-0-8190|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  5000|ROSZ1C 5000|||IX13572705-0-81F4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  6000|ROSZ1C 6000|||IX13572705-0-8258|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  7000|ROSZ1C 7000|||IX13572705-0-82BC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  8000|ROSZ1C 8000|||IX13572705-0-8320|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C  9000|ROSZ1C 9000|||IX13572705-0-8384|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 10000|ROSZ1C 10000|||IX13572705-0-83E8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 11000|ROSZ1C 11000|||IX13572705-0-844C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 12000|ROSZ1C 12000|||IX13572705-0-84B0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 13000|ROSZ1C 13000|||IX13572705-0-8514|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 14000|ROSZ1C 14000|||IX13572705-0-8578|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 15000|ROSZ1C 15000|||IX13572705-0-85DC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 16000|ROSZ1C 16000|||IX13572705-0-8640|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 17000|ROSZ1C 17000|||IX13572705-0-86A4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 18000|ROSZ1C 18000|||IX13572705-0-8708|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 19000|ROSZ1C 19000|||IX13572705-0-876C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 20000|ROSZ1C 20000|||IX13572705-0-87D0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 21000|ROSZ1C 21000|||IX13572705-0-8834|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 22000|ROSZ1C 22000|||IX13572705-0-8898|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 23000|ROSZ1C 23000|||IX13572705-0-88FC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 24000|ROSZ1C 24000|||IX13572705-0-8960|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 25000|ROSZ1C 25000|||IX13572705-0-89C4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 26000|ROSZ1C 26000|||IX13572705-0-8A28|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 27000|ROSZ1C 27000|||IX13572705-0-8A8C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 28000|ROSZ1C 28000|||IX13572705-0-8AF0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 29000|ROSZ1C 29000|||IX13572705-0-8B54|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 30000|ROSZ1C 30000|||IX13572705-0-8BB8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 31000|ROSZ1C 31000|||IX13572705-0-8C1C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 32000|ROSZ1C 32000|||IX13572705-0-8C80|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 33000|ROSZ1C 33000|||IX13572705-0-8CE4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 34000|ROSZ1C 34000|||IX13572705-0-8D48|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 35000|ROSZ1C 35000|||IX13572705-0-8DAC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 36000|ROSZ1C 36000|||IX13572705-0-8E10|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 37000|ROSZ1C 37000|||IX13572705-0-8E74|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 38000|ROSZ1C 38000|||IX13572705-0-8ED8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 39000|ROSZ1C 39000|||IX13572705-0-8F3C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 40000|ROSZ1C 40000|||IX13572705-0-8FA0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 41000|ROSZ1C 41000|||IX13572705-0-9004|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 42000|ROSZ1C 42000|||IX13572705-0-9068|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 43000|ROSZ1C 43000|||IX13572705-0-90CC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 44000|ROSZ1C 44000|||IX13572705-0-9130|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 45000|ROSZ1C 45000|||IX13572705-0-9194|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 46000|ROSZ1C 46000|||IX13572705-0-91F8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 47000|ROSZ1C 47000|||IX13572705-0-925C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 48000|ROSZ1C 48000|||IX13572705-0-92C0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 49000|ROSZ1C 49000|||IX13572705-0-9324|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 50000|ROSZ1C 50000|||IX13572705-0-9388|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 51000|ROSZ1C 51000|||IX13572705-0-93EC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 52000|ROSZ1C 52000|||IX13572705-0-9450|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 53000|ROSZ1C 53000|||IX13572705-0-94B4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 54000|ROSZ1C 54000|||IX13572705-0-9518|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 55000|ROSZ1C 55000|||IX13572705-0-957C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 56000|ROSZ1C 56000|||IX13572705-0-95E0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 57000|ROSZ1C 57000|||IX13572705-0-9644|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 58000|ROSZ1C 58000|||IX13572705-0-96A8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 59000|ROSZ1C 59000|||IX13572705-0-970C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 60000|ROSZ1C 60000|||IX13572705-0-9770|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 61000|ROSZ1C 61000|||IX13572705-0-97D4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 62000|ROSZ1C 62000|||IX13572705-0-9838|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 63000|ROSZ1C 63000|||IX13572705-0-989C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 64000|ROSZ1C 64000|||IX13572705-0-9900|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 65000|ROSZ1C 65000|||IX13572705-0-9964|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 66000|ROSZ1C 66000|||IX13572705-0-99C8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 67000|ROSZ1C 67000|||IX13572705-0-9A2C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 68000|ROSZ1C 68000|||IX13572705-0-9A90|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 69000|ROSZ1C 69000|||IX13572705-0-9AF4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 70000|ROSZ1C 70000|||IX13572705-0-9B58|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 71000|ROSZ1C 71000|||IX13572705-0-9BBC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 72000|ROSZ1C 72000|||IX13572705-0-9C20|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 73000|ROSZ1C 73000|||IX13572705-0-9C84|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 74000|ROSZ1C 74000|||IX13572705-0-9CE8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 75000|ROSZ1C 75000|||IX13572705-0-9D4C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 76000|ROSZ1C 76000|||IX13572705-0-9DB0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 77000|ROSZ1C 77000|||IX13572705-0-9E14|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 78000|ROSZ1C 78000|||IX13572705-0-9E78|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 79000|ROSZ1C 79000|||IX13572705-0-9EDC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 80000|ROSZ1C 80000|||IX13572705-0-9F40|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 81000|ROSZ1C 81000|||IX13572705-0-9FA4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 82000|ROSZ1C 82000|||IX13572705-0-A008|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 83000|ROSZ1C 83000|||IX13572705-0-A06C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 84000|ROSZ1C 84000|||IX13572705-0-A0D0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 85000|ROSZ1C 85000|||IX13572705-0-A134|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 86000|ROSZ1C 86000|||IX13572705-0-A198|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 87000|ROSZ1C 87000|||IX13572705-0-A1FC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 88000|ROSZ1C 88000|||IX13572705-0-A260|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 89000|ROSZ1C 89000|||IX13572705-0-A2C4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 90000|ROSZ1C 90000|||IX13572705-0-A328|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 91000|ROSZ1C 91000|||IX13572705-0-A38C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 92000|ROSZ1C 92000|||IX13572705-0-A3F0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 93000|ROSZ1C 93000|||IX13572705-0-A454|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 94000|ROSZ1C 94000|||IX13572705-0-A4B8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 95000|ROSZ1C 95000|||IX13572705-0-A51C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 96000|ROSZ1C 96000|||IX13572705-0-A580|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 97000|ROSZ1C 97000|||IX13572705-0-A5E4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 98000|ROSZ1C 98000|||IX13572705-0-A648|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 99000|ROSZ1C 99000|||IX13572705-0-A6AC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C100000|ROSZ1C 100000|||IX13572705-0-A710|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C101000|ROSZ1C 101000|||IX13572705-0-A774|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C102000|ROSZ1C 102000|||IX13572705-0-A7D8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C103000|ROSZ1C 103000|||IX13572705-0-A83C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C104000|ROSZ1C 104000|||IX13572705-0-A8A0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C105000|ROSZ1C 105000|||IX13572705-0-A904|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C106000|ROSZ1C 106000|||IX13572705-0-A968|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C107000|ROSZ1C 107000|||IX13572705-0-A9CC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C108000|ROSZ1C 108000|||IX13572705-0-AA30|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C109000|ROSZ1C 109000|||IX13572705-0-AA94|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C110000|ROSZ1C 110000|||IX13572705-0-AAF8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C111000|ROSZ1C 111000|||IX13572705-0-AB5C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C112000|ROSZ1C 112000|||IX13572705-0-ABC0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C113000|ROSZ1C 113000|||IX13572705-0-AC24|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C114000|ROSZ1C 114000|||IX13572705-0-AC88|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C115000|ROSZ1C 115000|||IX13572705-0-ACEC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C116000|ROSZ1C 116000|||IX13572705-0-AD50|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C117000|ROSZ1C 117000|||IX13572705-0-ADB4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C118000|ROSZ1C 118000|||IX13572705-0-AE18|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C119000|ROSZ1C 119000|||IX13572705-0-AE7C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C120000|ROSZ1C 120000|||IX13572705-0-AEE0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C121000|ROSZ1C 121000|||IX13572705-0-AF44|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  1000|ROSZ1P 1000|||IX13572709-0-0064|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  2000|ROSZ1P 2000|||IX13572709-0-00C8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  3000|ROSZ1P 3000|||IX13572709-0-012C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  4000|ROSZ1P 4000|||IX13572709-0-0190|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  5000|ROSZ1P 5000|||IX13572709-0-01F4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  6000|ROSZ1P 6000|||IX13572709-0-0258|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  7000|ROSZ1P 7000|||IX13572709-0-02BC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  8000|ROSZ1P 8000|||IX13572709-0-0320|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P  9000|ROSZ1P 9000|||IX13572709-0-0384|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 10000|ROSZ1P 10000|||IX13572709-0-03E8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 11000|ROSZ1P 11000|||IX13572709-0-044C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 12000|ROSZ1P 12000|||IX13572709-0-04B0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 13000|ROSZ1P 13000|||IX13572709-0-0514|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 14000|ROSZ1P 14000|||IX13572709-0-0578|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 15000|ROSZ1P 15000|||IX13572709-0-05DC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 16000|ROSZ1P 16000|||IX13572709-0-0640|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 17000|ROSZ1P 17000|||IX13572709-0-06A4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 18000|ROSZ1P 18000|||IX13572709-0-0708|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 19000|ROSZ1P 19000|||IX13572709-0-076C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 20000|ROSZ1P 20000|||IX13572709-0-07D0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 21000|ROSZ1P 21000|||IX13572709-0-0834|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 22000|ROSZ1P 22000|||IX13572709-0-0898|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 23000|ROSZ1P 23000|||IX13572709-0-08FC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 24000|ROSZ1P 24000|||IX13572709-0-0960|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 25000|ROSZ1P 25000|||IX13572709-0-09C4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 26000|ROSZ1P 26000|||IX13572709-0-0A28|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 27000|ROSZ1P 27000|||IX13572709-0-0A8C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 28000|ROSZ1P 28000|||IX13572709-0-0AF0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 29000|ROSZ1P 29000|||IX13572709-0-0B54|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 30000|ROSZ1P 30000|||IX13572709-0-0BB8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 31000|ROSZ1P 31000|||IX13572709-0-0C1C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 32000|ROSZ1P 32000|||IX13572709-0-0C80|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 33000|ROSZ1P 33000|||IX13572709-0-0CE4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 34000|ROSZ1P 34000|||IX13572709-0-0D48|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 35000|ROSZ1P 35000|||IX13572709-0-0DAC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 36000|ROSZ1P 36000|||IX13572709-0-0E10|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 37000|ROSZ1P 37000|||IX13572709-0-0E74|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 38000|ROSZ1P 38000|||IX13572709-0-0ED8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 39000|ROSZ1P 39000|||IX13572709-0-0F3C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 40000|ROSZ1P 40000|||IX13572709-0-0FA0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 41000|ROSZ1P 41000|||IX13572709-0-1004|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 42000|ROSZ1P 42000|||IX13572709-0-1068|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 43000|ROSZ1P 43000|||IX13572709-0-10CC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 44000|ROSZ1P 44000|||IX13572709-0-1130|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 45000|ROSZ1P 45000|||IX13572709-0-1194|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 46000|ROSZ1P 46000|||IX13572709-0-11F8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 47000|ROSZ1P 47000|||IX13572709-0-125C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 48000|ROSZ1P 48000|||IX13572709-0-12C0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 49000|ROSZ1P 49000|||IX13572709-0-1324|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 50000|ROSZ1P 50000|||IX13572709-0-1388|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 51000|ROSZ1P 51000|||IX13572709-0-13EC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 52000|ROSZ1P 52000|||IX13572709-0-1450|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 53000|ROSZ1P 53000|||IX13572709-0-14B4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 54000|ROSZ1P 54000|||IX13572709-0-1518|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 55000|ROSZ1P 55000|||IX13572709-0-157C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 56000|ROSZ1P 56000|||IX13572709-0-15E0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 57000|ROSZ1P 57000|||IX13572709-0-1644|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 58000|ROSZ1P 58000|||IX13572709-0-16A8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 59000|ROSZ1P 59000|||IX13572709-0-170C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 60000|ROSZ1P 60000|||IX13572709-0-1770|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 61000|ROSZ1P 61000|||IX13572709-0-17D4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 62000|ROSZ1P 62000|||IX13572709-0-1838|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 63000|ROSZ1P 63000|||IX13572709-0-189C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 64000|ROSZ1P 64000|||IX13572709-0-1900|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 65000|ROSZ1P 65000|||IX13572709-0-1964|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 66000|ROSZ1P 66000|||IX13572709-0-19C8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 67000|ROSZ1P 67000|||IX13572709-0-1A2C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 68000|ROSZ1P 68000|||IX13572709-0-1A90|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 69000|ROSZ1P 69000|||IX13572709-0-1AF4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 70000|ROSZ1P 70000|||IX13572709-0-1B58|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 71000|ROSZ1P 71000|||IX13572709-0-1BBC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 72000|ROSZ1P 72000|||IX13572709-0-1C20|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 73000|ROSZ1P 73000|||IX13572709-0-1C84|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 74000|ROSZ1P 74000|||IX13572709-0-1CE8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 75000|ROSZ1P 75000|||IX13572709-0-1D4C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 76000|ROSZ1P 76000|||IX13572709-0-1DB0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 77000|ROSZ1P 77000|||IX13572709-0-1E14|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 78000|ROSZ1P 78000|||IX13572709-0-1E78|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 79000|ROSZ1P 79000|||IX13572709-0-1EDC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 80000|ROSZ1P 80000|||IX13572709-0-1F40|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 81000|ROSZ1P 81000|||IX13572709-0-1FA4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 82000|ROSZ1P 82000|||IX13572709-0-2008|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 83000|ROSZ1P 83000|||IX13572709-0-206C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 84000|ROSZ1P 84000|||IX13572709-0-20D0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 85000|ROSZ1P 85000|||IX13572709-0-2134|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 86000|ROSZ1P 86000|||IX13572709-0-2198|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 87000|ROSZ1P 87000|||IX13572709-0-21FC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 88000|ROSZ1P 88000|||IX13572709-0-2260|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 89000|ROSZ1P 89000|||IX13572709-0-22C4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 90000|ROSZ1P 90000|||IX13572709-0-2328|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 91000|ROSZ1P 91000|||IX13572709-0-238C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 92000|ROSZ1P 92000|||IX13572709-0-23F0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 93000|ROSZ1P 93000|||IX13572709-0-2454|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 94000|ROSZ1P 94000|||IX13572709-0-24B8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 95000|ROSZ1P 95000|||IX13572709-0-251C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 96000|ROSZ1P 96000|||IX13572709-0-2580|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 97000|ROSZ1P 97000|||IX13572709-0-25E4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 98000|ROSZ1P 98000|||IX13572709-0-2648|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P 99000|ROSZ1P 99000|||IX13572709-0-26AC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P100000|ROSZ1P 100000|||IX13572709-0-2710|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P101000|ROSZ1P 101000|||IX13572709-0-2774|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P102000|ROSZ1P 102000|||IX13572709-0-27D8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P103000|ROSZ1P 103000|||IX13572709-0-283C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P104000|ROSZ1P 104000|||IX13572709-0-28A0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P105000|ROSZ1P 105000|||IX13572709-0-2904|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P106000|ROSZ1P 106000|||IX13572709-0-2968|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P107000|ROSZ1P 107000|||IX13572709-0-29CC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P108000|ROSZ1P 108000|||IX13572709-0-2A30|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P109000|ROSZ1P 109000|||IX13572709-0-2A94|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P110000|ROSZ1P 110000|||IX13572709-0-2AF8|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P111000|ROSZ1P 111000|||IX13572709-0-2B5C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P112000|ROSZ1P 112000|||IX13572709-0-2BC0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P113000|ROSZ1P 113000|||IX13572709-0-2C24|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P114000|ROSZ1P 114000|||IX13572709-0-2C88|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P115000|ROSZ1P 115000|||IX13572709-0-2CEC|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P116000|ROSZ1P 116000|||IX13572709-0-2D50|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P117000|ROSZ1P 117000|||IX13572709-0-2DB4|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P118000|ROSZ1P 118000|||IX13572709-0-2E18|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P119000|ROSZ1P 119000|||IX13572709-0-2E7C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P120000|ROSZ1P 120000|||IX13572709-0-2EE0|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P121000|ROSZ1P 121000|||IX13572709-0-2F44|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Sep11C  1000|ROSU1C 1000|||IX12854663-0-8064|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Sep11C  2000|ROSU1C 2000|||IX12854663-0-80C8|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Sep11C  3000|ROSU1C 3000|||IX12854663-0-812C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -1295,16 +1671,16 @@ SX5E DIVIDEND OPT Dec13C    46|DEDZ3C 46|||IX10363934-0-85C0|Financial index opt
 SX5E DIVIDEND OPT Dec13C    47|DEDZ3C 47|||IX10363934-0-85E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    48|DEDZ3C 48|||IX10363934-0-8600|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    49|DEDZ3C 49|||IX10363934-0-8620|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13C    50|DEDZ3C 50|||IX10363934-0-8640|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13C    50|DEDZ3C 50|||IX10363934-0-8640|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec13C    50|DEDZ3C 50|EUX|279196760172|IX10363934-0-8640|Financial index option.|Index|BBG0022J9CY8||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3C 50|//blp/mktdata/buid/EUX/IX10363934-0-8640|//blp/mktdata/bsid/279196760172
+SX5E DIVIDEND OPT Dec13C    50|DEDZ3C 50|EUX|279196760172|IX10363934-0-8640|Financial index option.|Index|BBG0022J9CY8||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3C 50|//blp/mktdata/buid/EUX/IX10363934-0-8640|//blp/mktdata/bsid/279196760172
 SX5E DIVIDEND OPT Dec13C    50|DEDZ3C 50|||IX10363934-0-8640|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    50|DEDZ3C 50|||IX10363934-0-8640|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    51|DEDZ3C 51|||IX10363934-0-8660|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    52|DEDZ3C 52|||IX10363934-0-8680|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    53|DEDZ3C 53|||IX10363934-0-86A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    54|DEDZ3C 54|||IX10363934-0-86C0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13C    55|DEDZ3C 55|||IX10363934-0-86E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13C    55|DEDZ3C 55|||IX10363934-0-86E0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec13C    55|DEDZ3C 55|EUX|279196760175|IX10363934-0-86E0|Financial index option.|Index|BBG0022J9CZ7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3C 55|//blp/mktdata/buid/EUX/IX10363934-0-86E0|//blp/mktdata/bsid/279196760175
+SX5E DIVIDEND OPT Dec13C    55|DEDZ3C 55|EUX|279196760175|IX10363934-0-86E0|Financial index option.|Index|BBG0022J9CZ7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3C 55|//blp/mktdata/buid/EUX/IX10363934-0-86E0|//blp/mktdata/bsid/279196760175
 SX5E DIVIDEND OPT Dec13C    55|DEDZ3C 55|||IX10363934-0-86E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    55|DEDZ3C 55|||IX10363934-0-86E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    56|DEDZ3C 56|||IX10363934-0-8700|Financial index option.|Index|||14066|14111|0||39521|||
@@ -1431,16 +1807,16 @@ SX5E DIVIDEND OPT Dec13P    46|DEDZ3P 46|||IX10363938-0-05C0|Financial index opt
 SX5E DIVIDEND OPT Dec13P    47|DEDZ3P 47|||IX10363938-0-05E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    48|DEDZ3P 48|||IX10363938-0-0600|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    49|DEDZ3P 49|||IX10363938-0-0620|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13P    50|DEDZ3P 50|||IX10363938-0-0640|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13P    50|DEDZ3P 50|||IX10363938-0-0640|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec13P    50|DEDZ3P 50|EUX|279196760171|IX10363938-0-0640|Financial index option.|Index|BBG0022J9D03||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3P 50|//blp/mktdata/buid/EUX/IX10363938-0-0640|//blp/mktdata/bsid/279196760171
+SX5E DIVIDEND OPT Dec13P    50|DEDZ3P 50|EUX|279196760171|IX10363938-0-0640|Financial index option.|Index|BBG0022J9D03||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3P 50|//blp/mktdata/buid/EUX/IX10363938-0-0640|//blp/mktdata/bsid/279196760171
 SX5E DIVIDEND OPT Dec13P    50|DEDZ3P 50|||IX10363938-0-0640|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    50|DEDZ3P 50|||IX10363938-0-0640|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    51|DEDZ3P 51|||IX10363938-0-0660|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    52|DEDZ3P 52|||IX10363938-0-0680|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    53|DEDZ3P 53|||IX10363938-0-06A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    54|DEDZ3P 54|||IX10363938-0-06C0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13P    55|DEDZ3P 55|||IX10363938-0-06E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec13P    55|DEDZ3P 55|||IX10363938-0-06E0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec13P    55|DEDZ3P 55|EUX|279196760170|IX10363938-0-06E0|Financial index option.|Index|BBG0022J9D21||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3P 55|//blp/mktdata/buid/EUX/IX10363938-0-06E0|//blp/mktdata/bsid/279196760170
+SX5E DIVIDEND OPT Dec13P    55|DEDZ3P 55|EUX|279196760170|IX10363938-0-06E0|Financial index option.|Index|BBG0022J9D21||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ3P 55|//blp/mktdata/buid/EUX/IX10363938-0-06E0|//blp/mktdata/bsid/279196760170
 SX5E DIVIDEND OPT Dec13P    55|DEDZ3P 55|||IX10363938-0-06E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    55|DEDZ3P 55|||IX10363938-0-06E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P    56|DEDZ3P 56|||IX10363938-0-0700|Financial index option.|Index|||14066|14111|0||39521|||

@@ -1,5 +1,5 @@
-#Data Generated At: Wed Sep 14 06:42:42 EDT 2011
-#Data Records=16318
+#Data Generated At: Thu Sep 15 06:42:19 EDT 2011
+#Data Records=16315
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1441,7 +1441,7 @@ BI GL Mining Prin Busins|BIMNGMV Index|||EI09BIMNGMV|Equity Index|Index|BBG00179
 BI GL Molybdenum Cmptve|BRMOLCOM Index|||EI09BRMOLCOM|Equity Index|Index|BBG000Z7DLF8|||||||||
 BI GL Mtl Coal - Comp|BIIMTCV Index|||EI09BIIMTCV|Equity Index|Index|BBG001767W35|||||||||
 BI GL Mtl Coal - PB|BIIMTCP Index|||EI09BIIMTCP|Equity Index|Index|BBG001PKSTD7|||||||||
-BI GL NAND Flash Memory|BIMMRYGC Index|||EI09BIMMRYGC|Equity Index|Index|BBG001Z0WLJ6|||||||||
+BI GL NAND Flash Semicon|BIMMRYGC Index|||EI09BIMMRYGC|Equity Index|Index|BBG001Z0WLJ6|||||||||
 BI GL Net Sto&Fab - Cmp|BRGNETSV Index|||EI09BRGNETSV|Equity Index|Index|BBG0012CXWZ3|||||||||
 BI GL Nickel OreMine Com|BRNICCOM Index|||EI09BRNICCOM|Equity Index|Index|BBG00114ZPJ3|||||||||
 BI GL NonAlc Bev PB|BRGNABCV Index|||EI09BRGNABCV|Equity Index|Index|BBG000ZCD2K3|||||||||
@@ -2313,6 +2313,8 @@ CSBHUKX1|CSBHUKX1 Index|CSUK|5987199937541|EI09CSBHUKX1|Equity Index|Index|BBG00
 CSBHVCT1|CSBHVCT1 Index|CSUK|5987197474080|EI09CSBHVCT1|Equity Index|Index|BBG000Y4BRN6|||||31522||//blp/mktdata/bsym/CSUK/CSBHVCT1 Index|//blp/mktdata/buid/CSUK/EI09CSBHVCT1|//blp/mktdata/bsid/5987197474080
 CSBHVCT2|CSBHVCT2 Index|CSUK|5987197475281|EI09CSBHVCT2|Equity Index|Index|BBG000Y4BRW6|||||31522||//blp/mktdata/bsym/CSUK/CSBHVCT2 Index|//blp/mktdata/buid/CSUK/EI09CSBHVCT2|//blp/mktdata/bsid/5987197475281
 CSBRANDS|CSBRANDS Index|CSUK|5987202579611|EI09CSBRANDS|Equity Index|Index|BBG0015P39W8|||||35590||//blp/mktdata/bsym/CSUK/CSBRANDS Index|//blp/mktdata/buid/CSUK/EI09CSBRANDS|//blp/mktdata/bsid/5987202579611
+CSBRFINA|CSBRFINA Index|CSUK|5987208326201|EI09CSBRFINA|Equity Index|Index|BBG0022LYDX4|||||35590||//blp/mktdata/bsym/CSUK/CSBRFINA Index|//blp/mktdata/buid/CSUK/EI09CSBRFINA|//blp/mktdata/bsid/5987208326201
+CSBRFINS|CSBRFINS Index|CSUK|5987208326343|EI09CSBRFINS|Equity Index|Index|BBG0022LYDY3|||||35590||//blp/mktdata/bsym/CSUK/CSBRFINS Index|//blp/mktdata/buid/CSUK/EI09CSBRFINS|//blp/mktdata/bsid/5987208326343
 CSBRTRBK|CSBRTRBK Index|CSUK|5987207691472|EI09CSBRTRBK|Equity Index|Index|BBG001ZP2JX3|||||35590||//blp/mktdata/bsym/CSUK/CSBRTRBK Index|//blp/mktdata/buid/CSUK/EI09CSBRTRBK|//blp/mktdata/bsid/5987207691472
 CSBRTRIN|CSBRTRIN Index|CSUK|5987207691473|EI09CSBRTRIN|Equity Index|Index|BBG001ZP2K06|||||35590||//blp/mktdata/bsym/CSUK/CSBRTRIN Index|//blp/mktdata/buid/CSUK/EI09CSBRTRIN|//blp/mktdata/bsid/5987207691473
 CSCA Assisted Living|CSCAALIV Index|SIAC|2061594127263|EI09CSCAALIV|Equity Index|Index|BBG000T15S99||14226|||14226||//blp/mktdata/bsym/SIAC/CSCAALIV Index|//blp/mktdata/buid/SIAC/EI09CSCAALIV|//blp/mktdata/bsid/2061594127263
@@ -3161,6 +3163,8 @@ DBCGPUBP UK Pubs NR|DBCGPUBN Index|DBAB|4681530687852|EI09DBCGPUBN|Equity Index|
 DBCGXXXX  Template|DBCGXXXX Index|DBAB|4681524875687|EI09DBCGXXXX|Equity Index|Index|BBG000PCWPT3|||||||//blp/mktdata/bsym/DBAB/DBCGXXXX Index|//blp/mktdata/buid/DBAB/EI09DBCGXXXX|//blp/mktdata/bsid/4681524875687
 DBCTSPAN|DBCTSPAN Index|DBAB|4681530899403|EI09DBCTSPAN|Equity Index|Index|BBG001004BP0|||||14835||//blp/mktdata/bsym/DBAB/DBCTSPAN Index|//blp/mktdata/buid/DBAB/EI09DBCTSPAN|//blp/mktdata/bsid/4681530899403
 DBHKXXXX  Template|DBHKXXXX Index|DBIA||EI09DBHKXXXX|Equity Index|Index|BBG000T3VYW7|||||||//blp/mktdata/bsym/DBIA/DBHKXXXX Index|//blp/mktdata/buid/DBIA/EI09DBHKXXXX|
+DBPF Europe Laggards Con|DBCGELCP Index|DBAB|4681538272136|EI09DBCGELCP|Equity Index|Index|BBG0022MCZS3|||||14835||//blp/mktdata/bsym/DBAB/DBCGELCP Index|//blp/mktdata/buid/DBAB/EI09DBCGELCP|//blp/mktdata/bsid/4681538272136
+DBPF Europe Poor Recomme|DBCGERCP Index|DBAB|4681538272139|EI09DBCGERCP|Equity Index|Index|BBG0022MCZT2|||||14835||//blp/mktdata/bsym/DBAB/DBCGERCP Index|//blp/mktdata/buid/DBAB/EI09DBCGERCP|//blp/mktdata/bsid/4681538272139
 DBPF Quality + Low Expec|DBCGQLEP Index|DBAB|4681537742424|EI09DBCGQLEP|Equity Index|Index|BBG00203DX10|||||14835||//blp/mktdata/bsym/DBAB/DBCGQLEP Index|//blp/mktdata/buid/DBAB/EI09DBCGQLEP|//blp/mktdata/bsid/4681537742424
 DEUTSCHE BANK ENERGY IDX|DXE Index|NGIB|20310900682452|EI09DXE|Equity Index|Index|BBG000PTV7B6||45404||||45412|//blp/mktdata/bsym/NGIB/DXE Index|//blp/mktdata/buid/NGIB/EI09DXE|//blp/mktdata/bsid/20310900682452
 DFM CONSUMER STAPLES IDX|DFCONSTP Index|DB|1954210488412|EI09DFCONSTP|Equity Index|Index|BBG000SZVVN3||27813|43744|||39616|//blp/mktdata/bsym/DB/DFCONSTP Index|//blp/mktdata/buid/DB/EI09DFCONSTP|//blp/mktdata/bsid/1954210488412
@@ -5278,7 +5282,7 @@ HKSE Warrants|HKSEWRNT Index|HK|730150457834|EI09HKSEWRNT|Equity Index|Index|BBG
 HO CHI MINH STOCK INDEX|VNINDEX Index|VM|2714421243954|EI09VNINDEX|Equity Index|Index|BBG000VMR4N3||31765|31765|||39660|//blp/mktdata/bsym/VM/VNINDEX Index|//blp/mktdata/buid/VM/EI09VNINDEX|//blp/mktdata/bsid/2714421243954
 HOLT Cyclicals|HTERCYCL Index|CSUK|5987195928715|EI09HTERCYCL|Equity Index|Index|BBG000VV8739|||||31521||//blp/mktdata/bsym/CSUK/HTERCYCL Index|//blp/mktdata/buid/CSUK/EI09HTERCYCL|//blp/mktdata/bsid/5987195928715
 HSBC TEMPLATE|HSBCXXXX Index|HSAP||EI09HSBCXXXX|Equity Index|Index|BBG0014FXQS5|||||||//blp/mktdata/bsym/HSAP/HSBCXXXX Index|//blp/mktdata/buid/HSAP/EI09HSBCXXXX|
-HSCEI Dividend Point IDX|HSCEIDPI Index|HSI||EI09HSCEIDPI|Equity Index|Index|BBG000ZH8X48||14206||||39588|//blp/mktdata/bsym/HSI/HSCEIDPI Index|//blp/mktdata/buid/HSI/EI09HSCEIDPI|
+HSCEI Dividend Point IDX|HSCEIDPI Index|HSI|996456320992|EI09HSCEIDPI|Equity Index|Index|BBG000ZH8X48||14206||||39588|//blp/mktdata/bsym/HSI/HSCEIDPI Index|//blp/mktdata/buid/HSI/EI09HSCEIDPI|//blp/mktdata/bsid/996456320992
 HSI Dividend Point Index|HSIDPI Index|HSI|996453024768|EI09HSIDPI|Equity Index|Index|BBG000ZH8WW9||14206||||39588|//blp/mktdata/bsym/HSI/HSIDPI Index|//blp/mktdata/buid/HSI/EI09HSIDPI|//blp/mktdata/bsid/996453024768
 HTERCNTR|HTERCNTR Index|CSUK|5987207847209|EI09HTERCNTR|Equity Index|Index|BBG00208JRL4|||||31521||//blp/mktdata/bsym/CSUK/HTERCNTR Index|//blp/mktdata/buid/CSUK/EI09HTERCNTR|//blp/mktdata/bsid/5987207847209
 HTEREBBC|HTEREBBC Index|CSUK|5987207360846|EI09HTEREBBC|Equity Index|Index|BBG001Y9BK21|||||31521||//blp/mktdata/bsym/CSUK/HTEREBBC Index|//blp/mktdata/buid/CSUK/EI09HTEREBBC|//blp/mktdata/bsid/5987207360846
@@ -5401,7 +5405,6 @@ ISE WATER INDEX|HHO Index|OPRA|489626621731|EI09HHO|Equity Index|Index|BBG000RSW
 ISE WHOLESALE RETAIL TRD|XTCRT Index|TI|837518972677|EI09XTCRT|Equity Index|Index|BBG000RSGK51||26854|||26854||//blp/mktdata/bsym/TI/XTCRT Index|//blp/mktdata/buid/TI/EI09XTCRT|//blp/mktdata/bsid/837518972677
 ISE WOOD PAPER PRINTING|XKAGT Index|TI|837518972666|EI09XKAGT|Equity Index|Index|BBG000RSGB42||26854|||26854||//blp/mktdata/bsym/TI/XKAGT Index|//blp/mktdata/buid/TI/EI09XKAGT|//blp/mktdata/bsid/837518972666
 ISE-CCM Global Uranium|YC Index|OPRA|489633403840|EI09YC|Equity Index|Index|BBG000X13LB8||14009||||39495|//blp/mktdata/bsym/OPRA/YC Index|//blp/mktdata/buid/OPRA/EI09YC|//blp/mktdata/bsid/489633403840
-ISHARE GS $INVTOP BD IX|DLLE Index|||EI09DLLE|Equity Index|Index|BBG000QK6C58|||||||||
 ISHARE MSCI EAFE IOPV|EFAIV Index|NGIB|20310900786331|EI09EFAIV|Equity Index|Index|BBG000VZ3CD3||45404||||45412|//blp/mktdata/bsym/NGIB/EFAIV Index|//blp/mktdata/buid/NGIB/EI09EFAIV|//blp/mktdata/bsid/20310900786331
 ISHARE MSCI EAFE IOPV|EFGIV Index|NGIB|20310900786330|EI09EFGIV|Equity Index|Index|BBG000VZ3BN4||45404||||45412|//blp/mktdata/bsym/NGIB/EFGIV Index|//blp/mktdata/buid/NGIB/EI09EFGIV|//blp/mktdata/bsid/20310900786330
 ISHARE MSCI EMRG MK IOPV|EEMIV Index|NGIB|20310900786332|EI09EEMIV|Equity Index|Index|BBG000VZ3CK5||45404||||45412|//blp/mktdata/bsym/NGIB/EEMIV Index|//blp/mktdata/buid/NGIB/EI09EEMIV|//blp/mktdata/bsid/20310900786332
@@ -10561,16 +10564,8 @@ NZX TEXTILES & APPAREL|NZTEXT Index|NZ|768799477694|EI09NZTEXT|Equity Index|Inde
 NZX TOP 10 INDEX|NZSE10 Index|NZ|768799442455|EI09NZSE10|Equity Index|Index|BBG000JH0395||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZSE10 Index|//blp/mktdata/buid/NZ/EI09NZSE10|//blp/mktdata/bsid/768799442455
 NZX TRANSPORT INDEX|NZTRAN Index|NZ|768799477697|EI09NZTRAN|Equity Index|Index|BBG000NRL2K4||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZTRAN Index|//blp/mktdata/buid/NZ/EI09NZTRAN|//blp/mktdata/bsid/768799477697
 Nairobi Agricultural|NSEAG Index|KN|7949993082234|EI09NSEAG|Equity Index|Index|BBG000X1WGD5||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEAG Index|//blp/mktdata/buid/KN/EI09NSEAG|//blp/mktdata/bsid/7949993082234
-Nairobi Automobiles&Acc|NSEAA Index|KN|7950008307097|EI09NSEAA|Equity Index|Index|BBG00228L252||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEAA Index|//blp/mktdata/buid/KN/EI09NSEAA|//blp/mktdata/bsid/7950008307097
-Nairobi Banking|NSEBN Index|KN|7950008307096|EI09NSEBN|Equity Index|Index|BBG00228L181||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEBN Index|//blp/mktdata/buid/KN/EI09NSEBN|//blp/mktdata/bsid/7950008307096
 Nairobi Commerical & Svs|NSECS Index|KN|7949993082231|EI09NSECS|Equity Index|Index|BBG000X1WFR2||34877|34877|||39691|//blp/mktdata/bsym/KN/NSECS Index|//blp/mktdata/buid/KN/EI09NSECS|//blp/mktdata/bsid/7949993082231
-Nairobi Constr&Allied|NSECO Index|KN|7950008307104|EI09NSECO|Equity Index|Index|BBG00228L1X3||34877|34877|||39691|//blp/mktdata/bsym/KN/NSECO Index|//blp/mktdata/buid/KN/EI09NSECO|//blp/mktdata/bsid/7950008307104
-Nairobi Energy & Petrol|NSEEP Index|KN|7950008307103|EI09NSEEP|Equity Index|Index|BBG00228L1D5||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEEP Index|//blp/mktdata/buid/KN/EI09NSEEP|//blp/mktdata/bsid/7950008307103
-Nairobi Insurance|NSEIS Index|KN|7950008307133|EI09NSEIS|Equity Index|Index|BBG00228L216||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEIS Index|//blp/mktdata/buid/KN/EI09NSEIS|//blp/mktdata/bsid/7950008307133
-Nairobi Investment|NSEIN Index|KN|7950008307197|EI09NSEIN|Equity Index|Index|BBG00228L1S9||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEIN Index|//blp/mktdata/buid/KN/EI09NSEIN|//blp/mktdata/bsid/7950008307197
-Nairobi Manufacturing|NSEMF Index|KN|7949996314363|EI09NSEMF|Equity Index|Index|BBG00228L1N4||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEMF Index|//blp/mktdata/buid/KN/EI09NSEMF|//blp/mktdata/bsid/7949996314363
 Nairobi SE 20 Share|KNSMIDX Index|KN||EI09KNSMIDX|Equity Index|Index|BBG0022653T6||34877|34877|||39691|//blp/mktdata/bsym/KN/KNSMIDX Index|//blp/mktdata/buid/KN/EI09KNSMIDX|
-Nairobi Telecom & Tech|NSETT Index|KN|7950008307132|EI09NSETT|Equity Index|Index|BBG00228L1J9||34877|34877|||39691|//blp/mktdata/bsym/KN/NSETT Index|//blp/mktdata/buid/KN/EI09NSETT|//blp/mktdata/bsid/7950008307132
 Namibia Alt Energy|FTN58 Index|FTSA|266300829030|EI09FTN58|Equity Index|Index|BBG000TQDJQ6||29357||||40177|//blp/mktdata/bsym/FTSA/FTN58 Index|//blp/mktdata/buid/FTSA/EI09FTN58|//blp/mktdata/bsid/266300829030
 Namibia RE Invest & Serv|FTN863 Index|FTSA|266300829803|EI09FTN863|Equity Index|Index|BBG000Y2VDY7||29357||||40177|//blp/mktdata/bsym/FTSA/FTN863 Index|//blp/mktdata/buid/FTSA/EI09FTN863|//blp/mktdata/bsid/266300829803
 Namibia REITS|FTN867 Index|FTSA|266300829804|EI09FTN867|Equity Index|Index|BBG000Y2VFG2||29357||||40177|//blp/mktdata/bsym/FTSA/FTN867 Index|//blp/mktdata/buid/FTSA/EI09FTN867|//blp/mktdata/bsid/266300829804
@@ -12851,6 +12846,7 @@ Russell Taiwan|RGTW Index|RUSL|8001540070296|EI09RGTW|Equity Index|Index|BBG000Z
 Russia Commod Squeeze|CGDORCSQ Index|CGDO||EI09CGDORCSQ|Equity Index|Index|BBG001KY2C10|||||31088||//blp/mktdata/bsym/CGDO/CGDORCSQ Index|//blp/mktdata/buid/CGDO/EI09CGDORCSQ|
 Russia Consumer|GSECRCNS Index|GOLD|3384448551678|EI09GSECRCNS|Equity Index|Index|BBG000Z0Y8T4|||||||//blp/mktdata/bsym/GOLD/GSECRCNS Index|//blp/mktdata/buid/GOLD/EI09GSECRCNS|//blp/mktdata/bsid/3384448551678
 Russia Energy|GSECREGY Index|GOLD|3384448551669|EI09GSECREGY|Equity Index|Index|BBG000Z0XZN1|||||||//blp/mktdata/bsym/GOLD/GSECREGY Index|//blp/mktdata/buid/GOLD/EI09GSECREGY|//blp/mktdata/bsid/3384448551669
+Russia-US 14 Index|RUS14BN Index|||EI09RUS14BN|Equity Index|Index|BBG0022M9FK9|||||||||
 Russian Metals|JPCERSTL Index|JPUS||EI09JPCERSTL|Equity Index|Index|BBG001MFRY50|||||33088||//blp/mktdata/bsym/JPUS/JPCERSTL Index|//blp/mktdata/buid/JPUS/EI09JPCERSTL|
 Russian RTS Select Index|RTSSI Index|||EI09RTSSI|Equity Index|Index|BBG0022FZ4Y5|||||||||
 S&P  500 INDEX (CME)|INX Index|CME|614180617397|EI09INX|Equity Index|Index|BBG000H59R91||43397|||37750||//blp/mktdata/bsym/CME/INX Index|//blp/mktdata/buid/CME/EI09INX|//blp/mktdata/bsid/614180617397
@@ -15895,6 +15891,7 @@ UBS CPS UBSSXNP|UBSSXNP Index|WDRL|2495397787132|EI09UBSSXNP|Equity Index|Index|
 UBS CPS UBSWBETA|UBSWBETA Index|WDRL|2495394220667|EI09UBSWBETA|Equity Index|Index|BBG0015W2S98|||||||//blp/mktdata/bsym/WDRL/UBSWBETA Index|//blp/mktdata/buid/WDRL/EI09UBSWBETA|//blp/mktdata/bsid/2495394220667
 UBS Consumers EUR|UBSSCONE Index|WDRL|2495399217128|EI09UBSSCONE|Equity Index|Index|BBG001Z559M8|||||||//blp/mktdata/bsym/WDRL/UBSSCONE Index|//blp/mktdata/buid/WDRL/EI09UBSSCONE|//blp/mktdata/bsid/2495399217128
 UBS Euro Pharma|UBSSPHAR Index|WDRL||EI09UBSSPHAR|Equity Index|Index|BBG0021R92S0|||||||//blp/mktdata/bsym/WDRL/UBSSPHAR Index|//blp/mktdata/buid/WDRL/EI09UBSSPHAR|
+UBS Europe Grey Black|UBEUTROU Index|WDRL|2495399916360|EI09UBEUTROU|Equity Index|Index|BBG0022KMCL4|||||||//blp/mktdata/bsym/WDRL/UBEUTROU Index|//blp/mktdata/buid/WDRL/EI09UBEUTROU|//blp/mktdata/bsid/2495399916360
 UBS Europe High Beta|UBTEUHBT Index|WDRL|2495399842671|EI09UBTEUHBT|Equity Index|Index|BBG0022648V3|||||||//blp/mktdata/bsym/WDRL/UBTEUHBT Index|//blp/mktdata/buid/WDRL/EI09UBTEUHBT|//blp/mktdata/bsid/2495399842671
 UBS Grey Sky Bottom Pick|UBSRGSBP Index|WDRL|2495399407768|EI09UBSRGSBP|Equity Index|Index|BBG00204M2F1|||||||//blp/mktdata/bsym/WDRL/UBSRGSBP Index|//blp/mktdata/buid/WDRL/EI09UBSRGSBP|//blp/mktdata/bsid/2495399407768
 UBS Grey Sky Top Picks|UBSRGSTP Index|WDRL|2495399407769|EI09UBSRGSTP|Equity Index|Index|BBG00204MPN1|||||||//blp/mktdata/bsym/WDRL/UBSRGSTP Index|//blp/mktdata/buid/WDRL/EI09UBSRGSTP|//blp/mktdata/bsid/2495399407769

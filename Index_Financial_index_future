@@ -1,5 +1,5 @@
-#Data Generated At: Wed Sep 14 06:42:42 EDT 2011
-#Data Records=476
+#Data Generated At: Thu Sep 15 06:42:20 EDT 2011
+#Data Records=488
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 ADVANCED MCRO CEBOSep11|AMDU1|US|399452593039|IX12215825-0|Financial index future.|Index|BBG001KJN3T0||14009|0|0||39495|//blp/mktdata/bsym/US/AMDU1|//blp/mktdata/buid/US/IX12215825-0|//blp/mktdata/bsid/399452593039
@@ -108,6 +108,7 @@ Euro Inflation    Oct12|HICV2|EUX|279193198818|IX12113462-0|Financial index futu
 Euro Inflation    Sep11|HICU1|EUX|279187450815|IX9954318-0|Financial index future.|Index|BBG000QSG0Y4||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICU1|//blp/mktdata/buid/EUX/IX9954318-0|//blp/mktdata/bsid/279187450815
 Euro Inflation    Sep12|HICU2|EUX|279192684873|IX11879572-0|Financial index future.|Index|BBG001DFFTK7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICU2|//blp/mktdata/buid/EUX/IX11879572-0|//blp/mktdata/bsid/279192684873
 FGC UES Futs      Dec11|FEEZ1|||IX12928013-0|Financial index future.|Index|BBG001R03P17||14134|14134|0||39558|||
+FGC UES Futs      Jun12|FEEM2|||IX13572997-0|Financial index future.|Index|BBG0022MD5F2||14134|14134|0||39558|||
 FGC UES Futs      Mar12|FEEH2|||IX12943138-0|Financial index future.|Index|BBG001R22HW8||14134|14134|0||39558|||
 FGC UES Futs      Sep11|FEEU1|||IX12928005-0|Financial index future.|Index|BBG001R03NN8||14134|14134|0||39558|||
 FRA on IGPM FutureJan12|FISF2|eBMF|2074476320321|IX7289012-0|Financial index future.|Index|BBG000X114V6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/FISF2|//blp/mktdata/buid/eBMF/IX7289012-0|//blp/mktdata/bsid/2074476320321
@@ -146,6 +147,7 @@ Gazprom Stock Fut Dec11|PZAZ1|||IX11684319-0|Financial index future.|Index|BBG00
 Gazprom Stock Fut Jun12|PZAM2|||IX12943166-0|Financial index future.|Index|BBG001R22J72||14134|14134|0||39558|||
 Gazprom Stock Fut Mar12|PZAH2|||IX12291851-0|Financial index future.|Index|BBG001KQZWL5||14134|14134|0||39558|||
 Gazprom Stock Fut Sep11|PZAU1|||IX11085554-0|Financial index future.|Index|BBG00162S611||14134|14134|0||39558|||
+Gazprom Stock Fut Sep12|PZAU2|||IX13572953-0|Financial index future.|Index|BBG0022MD4X5||14134|14134|0||39558|||
 Goldman Sach Cebo Dec11|SGAZ1|US|399453382569|IX12613185-0|Financial index future.|Index|BBG001NMD133||14009|0|0||39495|//blp/mktdata/bsym/US/SGAZ1|//blp/mktdata/buid/US/IX12613185-0|//blp/mktdata/bsid/399453382569
 Goldman Sach Cebo Dec12|SGAZ2|US|399453382570|IX12613189-0|Financial index future.|Index|BBG001NMD1N1||14009|0|0||39495|//blp/mktdata/bsym/US/SGAZ2|//blp/mktdata/buid/US/IX12613189-0|//blp/mktdata/bsid/399453382570
 Goldman Sach Cebo Dec13|SGAZ3|US|399453390658|IX12619046-0|Financial index future.|Index|BBG001NNC971||14009|0|0||39495|//blp/mktdata/bsym/US/SGAZ3|//blp/mktdata/buid/US/IX12619046-0|//blp/mktdata/bsid/399453390658
@@ -160,11 +162,9 @@ Lukoil future opt Dec11|LKOZ1|||IX11684323-0|Financial index future.|Index|BBG00
 Lukoil future opt Jun12|LKOM2|||IX12943170-0|Financial index future.|Index|BBG001R22J81||14134|14134|0||39558|||
 Lukoil future opt Mar12|LKOH2|||IX12291863-0|Financial index future.|Index|BBG001KQZWM4||14134|14134|0||39558|||
 Lukoil future opt Sep11|LKOU1|||IX11085506-0|Financial index future.|Index|BBG00162S5M0||14134|14134|0||39558|||
+Lukoil future opt Sep12|LKOU2|||IX13572925-0|Financial index future.|Index|BBG0022MD4N6||14134|14134|0||39558|||
 MBIA Inc CEBO     Dec11|MBDZ1|US|399452604503|IX12230453-0|Financial index future.|Index|BBG001KKTT41||14009|0|0||39495|//blp/mktdata/bsym/US/MBDZ1|//blp/mktdata/buid/US/IX12230453-0|//blp/mktdata/bsid/399452604503
 MBIA Inc CEBO     Sep11|MBDU1|US|399452604502|IX12230449-0|Financial index future.|Index|BBG001KKTT32||14009|0|0||39495|//blp/mktdata/bsym/US/MBDU1|//blp/mktdata/buid/US/IX12230449-0|//blp/mktdata/bsid/399452604502
-MICEX INDEX FUTUR Dec11|MXIZ1|MCX|1782432462552|IX12440705-0|Financial index future.|Index|BBG001LW5PS2||45077|45078|0||45499|//blp/mktdata/bsym/MCX/MXIZ1|//blp/mktdata/buid/MCX/IX12440705-0|//blp/mktdata/bsid/1782432462552
-MICEX INDEX FUTUR Mar12|MXIH2|MCX|1782435120924|IX13460425-0|Financial index future.|Index|BBG0021DR773||45077|45078|0||45499|//blp/mktdata/bsym/MCX/MXIH2|//blp/mktdata/buid/MCX/IX13460425-0|//blp/mktdata/bsid/1782435120924
-MICEX INDEX FUTUR Sep11|MXIU1|MCX|1782432173683|IX12305703-0|Financial index future.|Index|BBG001KS98C3||45077|45078|0||45499|//blp/mktdata/bsym/MCX/MXIU1|//blp/mktdata/buid/MCX/IX12305703-0|//blp/mktdata/bsid/1782432173683
 MSCI Asia Apex 50 Dec11|APEZ1|SGX|889080625847|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEZ1|//blp/mktdata/buid/SGX/IX13051841-0|//blp/mktdata/bsid/889080625847
 MSCI Asia Apex 50 Dec11|APEZ1|SGX|889080625847|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEZ1|//blp/mktdata/buid/SGX/IX13051841-0|//blp/mktdata/bsid/889080625847
 MSCI Asia Apex 50 Dec11|APEZ1|cSGX|10037360966327|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEZ1|//blp/mktdata/buid/cSGX/IX13051841-0|//blp/mktdata/bsid/10037360966327
@@ -319,6 +319,7 @@ MTS OJSC Future   Dec11|MTSZ1|||IX11684327-0|Financial index future.|Index|BBG00
 MTS OJSC Future   Jun12|MTSM2|||IX12943190-0|Financial index future.|Index|BBG001R22JF3||14134|14134|0||39558|||
 MTS OJSC Future   Mar12|MTSH2|||IX12292275-0|Financial index future.|Index|BBG001KQZZJ1||14134|14134|0||39558|||
 MTS OJSC Future   Sep11|MTSU1|||IX11085522-0|Financial index future.|Index|BBG00162S5S4||14134|14134|0||39558|||
+MTS OJSC Future   Sep12|MTSU2|||IX13572937-0|Financial index future.|Index|BBG0022MD4S1||14134|14134|0||39558|||
 Morgan Stan Cebo  Dec11|MSYZ1|US|399453384278|IX12613261-0|Financial index future.|Index|BBG001NMD3Z4||14009|0|0||39495|//blp/mktdata/bsym/US/MSYZ1|//blp/mktdata/buid/US/IX12613261-0|//blp/mktdata/bsid/399453384278
 Morgan Stan Cebo  Dec12|MSYZ2|US|399453387446|IX12613265-0|Financial index future.|Index|BBG001NMD464||14009|0|0||39495|//blp/mktdata/bsym/US/MSYZ2|//blp/mktdata/buid/US/IX12613265-0|//blp/mktdata/bsid/399453387446
 Morgan Stan Cebo  Dec13|MSYZ3|US|399453390836|IX12619058-0|Financial index future.|Index|BBG001NNCB12||14009|0|0||39495|//blp/mktdata/bsym/US/MSYZ3|//blp/mktdata/buid/US/IX12619058-0|//blp/mktdata/bsid/399453390836
@@ -380,11 +381,14 @@ Norilsk Nickel Fu Dec11|MMCZ1|||IX11684383-0|Financial index future.|Index|BBG00
 Norilsk Nickel Fu Jun12|MMCM2|||IX12943194-0|Financial index future.|Index|BBG001R22JG2||14134|14134|0||39558|||
 Norilsk Nickel Fu Mar12|MMCH2|||IX12292259-0|Financial index future.|Index|BBG001KQZZD7||14134|14134|0||39558|||
 Norilsk Nickel Fu Sep11|MMCU1|||IX11085594-0|Financial index future.|Index|BBG00162S675||14134|14134|0||39558|||
+Norilsk Nickel Fu Sep12|MMCU2|||IX13572973-0|Financial index future.|Index|BBG0022MD535||14134|14134|0||39558|||
 NovaTek Fut       Dec11|TECZ1|||IX11684331-0|Financial index future.|Index|BBG001BJVJB5||14134|14134|0||39558|||
 NovaTek Fut       Jun12|TECM2|||IX12943178-0|Financial index future.|Index|BBG001R22JB7||14134|14134|0||39558|||
 NovaTek Fut       Mar12|TECH2|||IX12292279-0|Financial index future.|Index|BBG001KQZZK9||14134|14134|0||39558|||
 NovaTek Fut       Sep11|TECU1|||IX11085526-0|Financial index future.|Index|BBG00162S5T3||14134|14134|0||39558|||
+NovaTek Fut       Sep12|TECU2|||IX13572933-0|Financial index future.|Index|BBG0022MD4Q3||14134|14134|0||39558|||
 OJSC Uralkali     Dec11|UKRZ1|||IX12928685-0|Financial index future.|Index|BBG001R05412||14134|14134|0||39558|||
+OJSC Uralkali     Jun12|UKRM2|||IX13573001-0|Financial index future.|Index|BBG0022MD5G1||14134|14134|0||39558|||
 OJSC Uralkali     Mar12|UKRH2|||IX12943142-0|Financial index future.|Index|BBG001R22HX7||14134|14134|0||39558|||
 OJSC Uralkali     Sep11|UKRU1|||IX12928677-0|Financial index future.|Index|BBG001R053Y8||14134|14134|0||39558|||
 OMX Benchmark Fut Dec11|OSBZ1|SS|450985634712|IX9871072-0|Financial index future.|Index|BBG000YZRD79||29839|29839|0||40086|//blp/mktdata/bsym/SS/OSBZ1|//blp/mktdata/buid/SS/IX9871072-0|//blp/mktdata/bsid/450985634712
@@ -400,10 +404,12 @@ RTS ConsRet IdxFu Dec11|COAZ1|RTS|1769545923203|IX11684351-0|Financial index fut
 RTS ConsRet IdxFu Jun12|COAM2|RTS|1769548660893|IX12943202-0|Financial index future.|Index|BBG001R22JJ9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/COAM2|//blp/mktdata/buid/RTS/IX12943202-0|//blp/mktdata/bsid/1769548660893
 RTS ConsRet IdxFu Mar12|COAH2|RTS|1769547252148|IX12292315-0|Financial index future.|Index|BBG001KQZZS1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/COAH2|//blp/mktdata/buid/RTS/IX12292315-0|//blp/mktdata/bsid/1769547252148
 RTS ConsRet IdxFu Sep11|COAU1|RTS|1769544811527|IX11085510-0|Financial index future.|Index|BBG00162S5P7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/COAU1|//blp/mktdata/buid/RTS/IX11085510-0|//blp/mktdata/bsid/1769544811527
+RTS ConsRet IdxFu Sep12|COAU2|||IX13572921-0|Financial index future.|Index|BBG0022MD4M7||14134|14134|0||39558|||
 RTS Oil&Gas IdxFu Dec11|OGAZ1|RTS|1769545915263|IX11684355-0|Financial index future.|Index|BBG001BJVJJ7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/OGAZ1|//blp/mktdata/buid/RTS/IX11684355-0|//blp/mktdata/bsid/1769545915263
 RTS Oil&Gas IdxFu Jun12|OGAM2|RTS|1769548654743|IX12943206-0|Financial index future.|Index|BBG001R22JK7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/OGAM2|//blp/mktdata/buid/RTS/IX12943206-0|//blp/mktdata/bsid/1769548654743
 RTS Oil&Gas IdxFu Mar12|OGAH2|RTS|1769547249853|IX12292311-0|Financial index future.|Index|BBG001KQZZR2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/OGAH2|//blp/mktdata/buid/RTS/IX12292311-0|//blp/mktdata/bsid/1769547249853
 RTS Oil&Gas IdxFu Sep11|OGAU1|RTS|1769544804365|IX11085502-0|Financial index future.|Index|BBG00162S5L1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/OGAU1|//blp/mktdata/buid/RTS/IX11085502-0|//blp/mktdata/bsid/1769544804365
+RTS Oil&Gas IdxFu Sep12|OGAU2|||IX13572917-0|Financial index future.|Index|BBG0022MD4L8||14134|14134|0||39558|||
 RTS Telecoms      Dec11|RTIZ1|RTS|1769545923202|IX11684315-0|Financial index future.|Index|BBG001BJVJ61||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RTIZ1|//blp/mktdata/buid/RTS/IX11684315-0|//blp/mktdata/bsid/1769545923202
 RTS Telecoms      Sep11|RTIU1|RTS|1769544811528|IX11085514-0|Financial index future.|Index|BBG00162S5Q6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RTIU1|//blp/mktdata/buid/RTS/IX11085514-0|//blp/mktdata/bsid/1769544811528
 Raleigh Durham CD Apr14|CDLJ4|eCME|2078785689940|IX12663223-0|Financial index future.|Index|BBG001P11L63||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDLJ4|//blp/mktdata/buid/eCME/IX12663223-0|//blp/mktdata/bsid/2078785689940
@@ -430,25 +436,30 @@ RusHydro Fut      Dec11|HYDZ1|||IX11684367-0|Financial index future.|Index|BBG00
 RusHydro Fut      Jun12|HYDM2|||IX12943186-0|Financial index future.|Index|BBG001R22JD5||14134|14134|0||39558|||
 RusHydro Fut      Mar12|HYDH2|||IX12292267-0|Financial index future.|Index|BBG001KQZZG4||14134|14134|0||39558|||
 RusHydro Fut      Sep11|HYDU1|||IX11085518-0|Financial index future.|Index|BBG00162S5R5||14134|14134|0||39558|||
+RusHydro Fut      Sep12|HYDU2|||IX13572929-0|Financial index future.|Index|BBG0022MD4P4||14134|14134|0||39558|||
 SNGS Future       Dec11|SGSZ1|||IX11684395-0|Financial index future.|Index|BBG001BJVJT6||14134|14134|0||39558|||
 SNGS Future       Jun12|SGSM2|||IX12943198-0|Financial index future.|Index|BBG001R22JH1||14134|14134|0||39558|||
 SNGS Future       Mar12|SGSH2|||IX12292263-0|Financial index future.|Index|BBG001KQZZF5||14134|14134|0||39558|||
 SNGS Future       Sep11|SGSU1|||IX11085598-0|Financial index future.|Index|BBG00162S684||14134|14134|0||39558|||
+SNGS Future       Sep12|SGSU2|||IX13572977-0|Financial index future.|Index|BBG0022MD544||14134|14134|0||39558|||
 Severstal Futures Dec11|SVLZ1|||IX11684311-0|Financial index future.|Index|BBG001BJVJ52||14134|14134|0||39558|||
 Severstal Futures Jun12|SVLM2|||IX12943158-0|Financial index future.|Index|BBG001R22J54||14134|14134|0||39558|||
 Severstal Futures Mar12|SVLH2|||IX12292219-0|Financial index future.|Index|BBG001KQZZ29||14134|14134|0||39558|||
 Severstal Futures Sep11|SVLU1|||IX11085542-0|Financial index future.|Index|BBG00162S5Y7||14134|14134|0||39558|||
+Severstal Futures Sep12|SVLU2|||IX13572949-0|Financial index future.|Index|BBG0022MD4W6||14134|14134|0||39558|||
 Smithfield CEBO   Dec11|SDCZ1|US|399452604506|IX12230465-0|Financial index future.|Index|BBG001KKVH08||14009|0|0||39495|//blp/mktdata/bsym/US/SDCZ1|//blp/mktdata/buid/US/IX12230465-0|//blp/mktdata/bsid/399452604506
 Smithfield CEBO   Sep11|SDCU1|US|399452604505|IX12230461-0|Financial index future.|Index|BBG001KKVGZ2||14009|0|0||39495|//blp/mktdata/bsym/US/SDCU1|//blp/mktdata/buid/US/IX12230461-0|//blp/mktdata/bsid/399452604505
 Tatneft Futures   Dec11|TNTZ1|||IX11684347-0|Financial index future.|Index|BBG001BJVJG0||14134|14134|0||39558|||
 Tatneft Futures   Jun12|TNTM2|||IX12943174-0|Financial index future.|Index|BBG001R22J90||14134|14134|0||39558|||
 Tatneft Futures   Sep11|TNTU1|||IX11085546-0|Financial index future.|Index|BBG00162S5Z6||14134|14134|0||39558|||
+Tatneft Futures   Sep12|TNTU2|||IX13572945-0|Financial index future.|Index|BBG0022MD4V7||14134|14134|0||39558|||
 Tenet Health CEBO Dec11|TTCZ1|US|399452604509|IX12230477-0|Financial index future.|Index|BBG001KKVT20||14009|0|0||39495|//blp/mktdata/bsym/US/TTCZ1|//blp/mktdata/buid/US/IX12230477-0|//blp/mktdata/bsid/399452604509
 Tenet Health CEBO Sep11|TTCU1|US|399452604508|IX12230473-0|Financial index future.|Index|BBG001KKVT11||14009|0|0||39495|//blp/mktdata/bsym/US/TTCU1|//blp/mktdata/buid/US/IX12230473-0|//blp/mktdata/bsid/399452604508
 Transneft Future  Dec11|TRPZ1|||IX11684339-0|Financial index future.|Index|BBG001BJVJD3||14134|14134|0||39558|||
 Transneft Future  Jun12|TRPM2|||IX12943182-0|Financial index future.|Index|BBG001R22JC6||14134|14134|0||39558|||
 Transneft Future  Mar12|TRPH2|||IX12292271-0|Financial index future.|Index|BBG001KQZZH3||14134|14134|0||39558|||
 Transneft Future  Sep11|TRPU1|||IX11085534-0|Financial index future.|Index|BBG00162S5W9||14134|14134|0||39558|||
+Transneft Future  Sep12|TRPU2|||IX13572941-0|Financial index future.|Index|BBG0022MD4T0||14134|14134|0||39558|||
 URSI Future       Dec11|URSZ1|||IX11684343-0|Financial index future.|Index|BBG001BJVJF1||14134|14134|0||39558|||
 URSI Future       Sep11|URSU1|||IX11085538-0|Financial index future.|Index|BBG00162S5X8||14134|14134|0||39558|||
 US-ELF, 4th $40B  Dec10|RQRZ0|CCX|2559809767782|IX8355622-0|Financial index future.|Index|BBG000M5WMJ9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/RQRZ0|//blp/mktdata/buid/CCX/IX8355622-0|//blp/mktdata/bsid/2559809767782
@@ -458,16 +469,17 @@ VTBR Future       Dec11|VTBZ1|||IX11684359-0|Financial index future.|Index|BBG00
 VTBR Future       Jun12|VTBM2|||IX12943162-0|Financial index future.|Index|BBG001R22J63||14134|14134|0||39558|||
 VTBR Future       Mar12|VTBH2|||IX12291891-0|Financial index future.|Index|BBG001KQZWQ0||14134|14134|0||39558|||
 VTBR Future       Sep11|VTBU1|||IX11085550-0|Financial index future.|Index|BBG00162S602||14134|14134|0||39558|||
+VTBR Future       Sep12|VTBU2|||IX13572957-0|Financial index future.|Index|BBG0022MD4Y4||14134|14134|0||39558|||
 Vancouver May Stp Aug12|VKAQ2|||IX13565072-0|Financial index future.|Index|BBG0022HZY02||14002|14002|0||39490|||
-Vancouver May Stp Jul12|VKAN2|||IX13565068-0|Financial index future.|Index|BBG0022HZXC1||14002|14002|0||39490|||
-Vancouver May Stp Jun12|VKAM2|||IX13565064-0|Financial index future.|Index|BBG0022HZVV4||14002|14002|0||39490|||
+Vancouver May Stp Jul12|VKAN2|eCME|2078788078679|IX13565068-0|Financial index future.|Index|BBG0022HZXC1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKAN2|//blp/mktdata/buid/eCME/IX13565068-0|//blp/mktdata/bsid/2078788078679
+Vancouver May Stp Jun12|VKAM2|eCME|2078788078678|IX13565064-0|Financial index future.|Index|BBG0022HZVV4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKAM2|//blp/mktdata/buid/eCME/IX13565064-0|//blp/mktdata/bsid/2078788078678
 Vancouver May Stp Oct12|VKAV2|||IX13565080-0|Financial index future.|Index|BBG0022HZY84||14002|14002|0||39490|||
 Vancouver May Stp Sep12|VKAU2|||IX13565076-0|Financial index future.|Index|BBG0022HZY48||14002|14002|0||39490|||
-Winnipeg May Stp  Aug12|VKBQ2|||IX13565168-0|Financial index future.|Index|BBG0022JD3P3||14002|14002|0||39490|||
-Winnipeg May Stp  Jul12|VKBN2|||IX13565164-0|Financial index future.|Index|BBG0022JD3M6||14002|14002|0||39490|||
-Winnipeg May Stp  Jun12|VKBM2|||IX13565160-0|Financial index future.|Index|BBG0022J03D0||14002|14002|0||39490|||
-Winnipeg May Stp  Oct12|VKBV2|||IX13565176-0|Financial index future.|Index|BBG0022JD3R1||14002|14002|0||39490|||
-Winnipeg May Stp  Sep12|VKBU2|||IX13565172-0|Financial index future.|Index|BBG0022JD3Q2||14002|14002|0||39490|||
+Winnipeg May Stp  Aug12|VKBQ2|eCME|2078788078685|IX13565168-0|Financial index future.|Index|BBG0022JD3P3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBQ2|//blp/mktdata/buid/eCME/IX13565168-0|//blp/mktdata/bsid/2078788078685
+Winnipeg May Stp  Jul12|VKBN2|eCME|2078788078684|IX13565164-0|Financial index future.|Index|BBG0022JD3M6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBN2|//blp/mktdata/buid/eCME/IX13565164-0|//blp/mktdata/bsid/2078788078684
+Winnipeg May Stp  Jun12|VKBM2|eCME|2078788078683|IX13565160-0|Financial index future.|Index|BBG0022J03D0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBM2|//blp/mktdata/buid/eCME/IX13565160-0|//blp/mktdata/bsid/2078788078683
+Winnipeg May Stp  Oct12|VKBV2|eCME|2078788078687|IX13565176-0|Financial index future.|Index|BBG0022JD3R1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBV2|//blp/mktdata/buid/eCME/IX13565176-0|//blp/mktdata/bsid/2078788078687
+Winnipeg May Stp  Sep12|VKBU2|eCME|2078788078686|IX13565172-0|Financial index future.|Index|BBG0022JD3Q2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBU2|//blp/mktdata/buid/eCME/IX13565172-0|//blp/mktdata/bsid/2078788078686
 XGKQ Can Do BasketMar13|XGAH3|SAFE|1705113491279|IX10050235-0|Financial index future.|Index|BBG000Z57KM3||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/XGAH3|//blp/mktdata/buid/SAFE/IX10050235-0|//blp/mktdata/bsid/1705113491279
 XISQ Can Do BasketSep11|XISU1|SAFE|1705113491332|IX10050411-0|Financial index future.|Index|BBG000Z57L05||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/XISU1|//blp/mktdata/buid/SAFE/IX10050411-0|//blp/mktdata/bsid/1705113491332
 iTraxx Eur 5yr Fu Sep11|FEAU1|EUX|279193885504|IX12425857-0|Financial index future.|Index|BBG001LSZYM5||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FEAU1|//blp/mktdata/buid/EUX/IX12425857-0|//blp/mktdata/bsid/279193885504
