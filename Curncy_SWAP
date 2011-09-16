@@ -1,5 +1,5 @@
-#Data Generated At: Thu Sep 15 06:30:26 EDT 2011
-#Data Records=10558
+#Data Generated At: Fri Sep 16 06:32:13 EDT 2011
+#Data Records=10570
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -2007,6 +2007,18 @@ CNY IRS ON (ANN-5YL) 3Y||||IX10864794-0|SWAP|Curncy||||||||||
 CNY IRS ON (ANN-5YL) 4Y||||IX10864798-0|SWAP|Curncy||||||||||
 CNY IRS ON (ANN-5YL) 5Y||||IX10864802-0|SWAP|Curncy||||||||||
 CNY IRS ON (ANN-5YL) 7Y||||IX12951265-0|SWAP|Curncy||||||||||
+CNY IRS(1-3Y LEND)  2 YR||||IX13580650-0|SWAP|Curncy||||||||||
+CNY IRS(1-3Y LEND)  3 YR||||IX13580654-0|SWAP|Curncy||||||||||
+CNY IRS(1-3Y LEND)  4 YR||||IX13580658-0|SWAP|Curncy||||||||||
+CNY IRS(1-3Y LEND)  5 YR||||IX13580662-0|SWAP|Curncy||||||||||
+CNY IRS(1-3Y LEND)  7 YR||||IX13580666-0|SWAP|Curncy||||||||||
+CNY IRS(1-3Y LEND) 10 YR||||IX13580670-0|SWAP|Curncy||||||||||
+CNY IRS(3-5Y LEND)  2 YR||||IX13577834-0|SWAP|Curncy||||||||||
+CNY IRS(3-5Y LEND)  3 YR||||IX13580674-0|SWAP|Curncy||||||||||
+CNY IRS(3-5Y LEND)  4 YR||||IX13580678-0|SWAP|Curncy||||||||||
+CNY IRS(3-5Y LEND)  5 YR||||IX13580682-0|SWAP|Curncy||||||||||
+CNY IRS(3-5Y LEND)  7 YR||||IX13580690-0|SWAP|Curncy||||||||||
+CNY IRS(3-5Y LEND) 10 YR||||IX13580686-0|SWAP|Curncy||||||||||
 CNY IRS(3M SHIBOR)   1YR||||IX4036643-0|SWAP|Curncy||||||||||
 CNY IRS(3M SHIBOR)   2YR||||IX4036647-0|SWAP|Curncy||||||||||
 CNY IRS(3M SHIBOR)   3YR||||IX4036651-0|SWAP|Curncy||||||||||
