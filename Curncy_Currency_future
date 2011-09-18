@@ -1,5 +1,5 @@
-#Data Generated At: Fri Sep 16 06:31:23 EDT 2011
-#Data Records=3925
+#Data Generated At: Sat Sep 17 15:30:35 EDT 2011
+#Data Records=3952
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Sep11|ADCU1|YLX|8744577151340|IX13481552-0|Currency future.|Curncy|BBG0021L8T23||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCU1|//blp/mktdata/buid/YLX/IX13481552-0|//blp/mktdata/bsid/8744577151340
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -140,8 +140,7 @@ AUD/USD Future    Sep11|KAAU1|eNYB|2100261036978|IX12862104-0|Currency future.|C
 AUD/USD Future TASDec11|KATZ1|eNYB|2100262227998|IX13337483-0|Currency future.|Curncy|BBG001Z52022||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/KATZ1|//blp/mktdata/buid/eNYB/IX13337483-0|//blp/mktdata/bsid/2100262227998
 AUD/USD Future TASSep11|KATU1|eNYB|2100262227997|IX13337479-0|Currency future.|Curncy|BBG001Z51Y01||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/KATU1|//blp/mktdata/buid/eNYB/IX13337479-0|//blp/mktdata/bsid/2100262227997
 AUD/USD Futures   Dec11|XAPZ1|RTS|1769548550471|IX12861032-0|Currency future.|Curncy|BBG001QQDPD7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/XAPZ1|//blp/mktdata/buid/RTS/IX12861032-0|//blp/mktdata/bsid/1769548550471
-AUD/USD Futures   Mar12|XAPH2|||IX13582814-0|Currency future.|Curncy|BBG0022QPMW4||14134|14134|0||39558|||
-AUD/USD Futures   Sep11|XAPU1|RTS|1769547228190|IX12275509-0|Currency future.|Curncy|BBG001KPVH61||14134|14134|0||39558|//blp/mktdata/bsym/RTS/XAPU1|//blp/mktdata/buid/RTS/IX12275509-0|//blp/mktdata/bsid/1769547228190
+AUD/USD Futures   Mar12|XAPH2|RTS|1769550470916|IX13582814-0|Currency future.|Curncy|BBG0022QPMW4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/XAPH2|//blp/mktdata/buid/RTS/IX13582814-0|//blp/mktdata/bsid/1769550470916
 AUD/USD Million   Dec11|IACZ1|eNYB|2100258385924|IX11677217-0|Currency future.|Curncy|BBG001BDTM06||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/IACZ1|//blp/mktdata/buid/eNYB/IX11677217-0|//blp/mktdata/bsid/2100258385924
 AUD/USD Million   Jun12|IACM2|eNYB|2100261127356|IX12933681-0|Currency future.|Curncy|BBG001R08C84||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/IACM2|//blp/mktdata/buid/eNYB/IX12933681-0|//blp/mktdata/bsid/2100261127356
 AUD/USD Million   Mar12|IACH2|eNYB|2100259731662|IX12296064-0|Currency future.|Curncy|BBG001KR2K62||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/IACH2|//blp/mktdata/buid/eNYB/IX12296064-0|//blp/mktdata/bsid/2100259731662
@@ -906,6 +905,9 @@ CAD/USD 1M RL VOL Oct11|CDOV1|eCME|2078786830698|IX13170995-0|Currency future.|C
 CAD/USD 1M RL VOL Sep11|CDOU1|eCME|2078786273868|IX12916543-0|Currency future.|Curncy|BBG001QZD0N1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDOU1|//blp/mktdata/buid/eCME/IX12916543-0|//blp/mktdata/bsid/2078786273868
 CAD/USD 3M RL VOL Mar12|CDTH2|eCME|2078786273863|IX12916375-0|Currency future.|Curncy|BBG001QZCZ28||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDTH2|//blp/mktdata/buid/eCME/IX12916375-0|//blp/mktdata/bsid/2078786273863
 CAD/USD 3M RL VOL Sep11|CDTU1|eCME|2078784322821|IX12007717-0|Currency future.|Curncy|BBG001HRF0Z4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDTU1|//blp/mktdata/buid/eCME/IX12007717-0|//blp/mktdata/bsid/2078784322821
+CAD/USD Future    Dec11|KMBZ1|||IX13583954-0|Currency future.|Curncy|BBG0022W7148||14008|14008|0||40065|||
+CAD/USD Future    Jun12|KMBM2|||IX13590722-0|Currency future.|Curncy|BBG0022W7139||14008|14008|0||40065|||
+CAD/USD Future    Mar12|KMBH2|||IX13590718-0|Currency future.|Curncy|BBG0022W7120||14008|14008|0||40065|||
 CANADA $/Yen AON    Dec11|YCZ1|eCME|2078781273971|IX10530627-0|Currency future.|Curncy|BBG0011RZ3H3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YCZ1|//blp/mktdata/buid/eCME/IX10530627-0|//blp/mktdata/bsid/2078781273971
 CANADA $/Yen AON    Dec12|YCZ2|eCME|2078786299243|IX12933253-0|Currency future.|Curncy|BBG001R087T2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YCZ2|//blp/mktdata/buid/eCME/IX12933253-0|//blp/mktdata/bsid/2078786299243
 CANADA $/Yen AON    Jun12|YCM2|eCME|2078783545188|IX11676429-0|Currency future.|Curncy|BBG001BDT6P4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YCM2|//blp/mktdata/buid/eCME/IX11676429-0|//blp/mktdata/bsid/2078783545188
@@ -1057,6 +1059,7 @@ CHF/PLN Future    Mar12|CPLH2|PW|1095237544056|IX12343224-0|Currency future.|Cur
 CHF/PLN Future    Nov11|CPLX1|PW|1095240117064|IX13405519-0|Currency future.|Curncy|BBG0020BB105||14083|14083|0||39529|//blp/mktdata/bsym/PW/CPLX1|//blp/mktdata/buid/PW/IX13405519-0|//blp/mktdata/bsid/1095240117064
 CHF/PLN Future    Oct11|CPLV1|PW|1095239317881|IX13169627-0|Currency future.|Curncy|BBG001WWF5X7||14083|14083|0||39529|//blp/mktdata/bsym/PW/CPLV1|//blp/mktdata/buid/PW/IX13169627-0|//blp/mktdata/bsid/1095239317881
 CHF/PLN Future    Sep11|CPLU1|PW|1095234974455|IX11117893-0|Currency future.|Curncy|BBG00165SNN3||14083|14083|0||39529|//blp/mktdata/bsym/PW/CPLU1|//blp/mktdata/buid/PW/IX11117893-0|//blp/mktdata/bsid/1095234974455
+CHF/PLN Future    Sep12|CPLU2|||IX13594854-0|Currency future.|Curncy|BBG0022V9200||14083|14083|0||39529|||
 CHF/RON Future    Dec11|CHRZ1|SIB|7456085636824|IX13063378-0|Currency future.|Curncy|BBG001VD93P1||33996|33996|0||40099|//blp/mktdata/bsym/SIB/CHRZ1|//blp/mktdata/buid/SIB/IX13063378-0|//blp/mktdata/bsid/7456085636824
 CHF/RON Future    Nov11|CHRX1|SIB|7456086952590|IX13481460-0|Currency future.|Curncy|BBG0021L8SC4||33996|33996|0||40099|//blp/mktdata/bsym/SIB/CHRX1|//blp/mktdata/buid/SIB/IX13481460-0|//blp/mktdata/bsid/7456086952590
 CHF/RON Future    Oct11|CHRV1|SIB|7456086213514|IX13255891-0|Currency future.|Curncy|BBG001YCX1R5||33996|33996|0||40099|//blp/mktdata/bsym/SIB/CHRV1|//blp/mktdata/buid/SIB/IX13255891-0|//blp/mktdata/bsid/7456086213514
@@ -1065,10 +1068,14 @@ CHF/USD 1M RL VOL Oct11|SFOV1|eCME|2078786830700|IX13171007-0|Currency future.|C
 CHF/USD 1M RL VOL Sep11|SFOU1|eCME|2078786273870|IX12916551-0|Currency future.|Curncy|BBG001QZD0T5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SFOU1|//blp/mktdata/buid/eCME/IX12916551-0|//blp/mktdata/bsid/2078786273870
 CHF/USD 3M RL VOL Mar12|SFTH2|eCME|2078786273865|IX12916383-0|Currency future.|Curncy|BBG001QZCZ64||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SFTH2|//blp/mktdata/buid/eCME/IX12916383-0|//blp/mktdata/bsid/2078786273865
 CHF/USD 3M RL VOL Sep11|SFTU1|eCME|2078784322827|IX12007805-0|Currency future.|Curncy|BBG001HRF6H1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/SFTU1|//blp/mktdata/buid/eCME/IX12007805-0|//blp/mktdata/bsid/2078784322827
+CHF/USD Future    Dec11|KMIZ1|||IX13595330-0|Currency future.|Curncy|BBG0022W71R3||14008|14008|0||40065|||
+CHF/USD Future    Jun12|KMIM2|||IX13595342-0|Currency future.|Curncy|BBG0022W71Q4||14008|14008|0||40065|||
+CHF/USD Future    Mar12|KMIH2|||IX13595338-0|Currency future.|Curncy|BBG0022W71P5||14008|14008|0||40065|||
 CHF/ZAR FUT       Dec11|SWRZ1|YLX|8744575534300|IX12930165-0|Currency future.|Curncy|BBG001R068Z5||34183|34183|0||39685|//blp/mktdata/bsym/YLX/SWRZ1|//blp/mktdata/buid/YLX/IX12930165-0|//blp/mktdata/bsid/8744575534300
 CHF/ZAR FUT       Sep11|SWRU1|YLX|8744574138621|IX12291943-0|Currency future.|Curncy|BBG001KQZX42||34183|34183|0||39685|//blp/mktdata/bsym/YLX/SWRU1|//blp/mktdata/buid/YLX/IX12291943-0|//blp/mktdata/bsid/8744574138621
 CNY/ZAR Futures   Dec11|ZCYZ1|YLX|8744575534253|IX12930089-0|Currency future.|Curncy|BBG001R068J3||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ZCYZ1|//blp/mktdata/buid/YLX/IX12930089-0|//blp/mktdata/bsid/8744575534253
 CNY/ZAR Futures   Sep11|ZCYU1|YLX|8744574138552|IX12292119-0|Currency future.|Curncy|BBG001KQZY68||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ZCYU1|//blp/mktdata/buid/YLX/IX12292119-0|//blp/mktdata/bsid/8744574138552
+COP/USD Future    Dec11|KMLZ1|||IX13595514-0|Currency future.|Curncy|BBG0022W71W7||14008|14008|0||40065|||
 CUPOM CAMBIAL     Apr12|EVJ2|eBMF|2074469701062|IX4103280-0|Currency future.|Curncy|BBG000W6YCN1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/EVJ2|//blp/mktdata/buid/eBMF/IX4103280-0|//blp/mktdata/bsid/2074469701062
 CUPOM CAMBIAL     Apr13|EVJ3|eBMF|2074469701452|IX4103384-0|Currency future.|Curncy|BBG000W6YJ56||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/EVJ3|//blp/mktdata/buid/eBMF/IX4103384-0|//blp/mktdata/bsid/2074469701452
 CUPOM CAMBIAL     Apr14|EVJ4|eBMF|2074470411622|IX4194990-0|Currency future.|Curncy|BBG000W9N393||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/EVJ4|//blp/mktdata/buid/eBMF/IX4194990-0|//blp/mktdata/bsid/2074470411622
@@ -1409,6 +1416,7 @@ EUR/RON Future    Nov11|ROEX1|SIB|7456086952588|IX13481484-0|Currency future.|Cu
 EUR/RON Future    Oct11|ROEV1|SIB|7456086213512|IX13255903-0|Currency future.|Curncy|BBG001YCX1V0||33996|33996|0||40099|//blp/mktdata/bsym/SIB/ROEV1|//blp/mktdata/buid/SIB/IX13255903-0|//blp/mktdata/bsid/7456086213512
 EUR/RON Future    Sep11|REOU1|RO|1163954451144|IX11117901-0|Currency future.|Curncy|BBG00165SNQ0||31836|29764|0||39662|//blp/mktdata/bsym/RO/REOU1|//blp/mktdata/buid/RO/IX11117901-0|//blp/mktdata/bsid/1163954451144
 EUR/RON Future    Sep11|ROEU1|SIB|7456081744852|IX11212855-0|Currency future.|Curncy|BBG0016YX269||33996|33996|0||40099|//blp/mktdata/bsym/SIB/ROEU1|//blp/mktdata/buid/SIB/IX11212855-0|//blp/mktdata/bsid/7456081744852
+EUR/RON Future    Sep12|REOU2|||IX13594862-0|Currency future.|Curncy|BBG0022V9291||31836|29764|0||39662|||
 EUR/RON X-RATE    Dec11|ROOZ1|BSE|1103820695348|IX9860006-0|Currency future.|Curncy|BBG000YYV7M3||14116|14116|0||39547|//blp/mktdata/bsym/BSE/ROOZ1|//blp/mktdata/buid/BSE/IX9860006-0|//blp/mktdata/bsid/1103820695348
 EUR/RON X-RATE    Dec12|ROOZ2|BSE|1103826007135|IX11694516-0|Currency future.|Curncy|BBG001BP1XP8||14116|14116|0||39547|//blp/mktdata/bsym/BSE/ROOZ2|//blp/mktdata/buid/BSE/IX11694516-0|//blp/mktdata/bsid/1103826007135
 EUR/RON X-RATE    Jun12|ROOM2|BSE|1103823710438|IX10541121-0|Currency future.|Curncy|BBG0011VVPQ9||14116|14116|0||39547|//blp/mktdata/bsym/BSE/ROOM2|//blp/mktdata/buid/BSE/IX10541121-0|//blp/mktdata/bsid/1103823710438
@@ -1432,7 +1440,6 @@ EUR/RSD X-RATE    Sep12|RESU2|BSE|1103824885691|IX11100335-0|Currency future.|Cu
 EUR/RUB Futures   Dec11|RERZ1|RTS|1769545915270|IX11684375-0|Currency future.|Curncy|BBG001BJVJP0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RERZ1|//blp/mktdata/buid/RTS/IX11684375-0|//blp/mktdata/bsid/1769545915270
 EUR/RUB Futures   Jun12|RERM2|RTS|1769548654750|IX12943210-0|Currency future.|Curncy|BBG001R22JL6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RERM2|//blp/mktdata/buid/RTS/IX12943210-0|//blp/mktdata/bsid/1769548654750
 EUR/RUB Futures   Mar12|RERH2|RTS|1769547249887|IX12292215-0|Currency future.|Curncy|BBG001KQZZ10||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RERH2|//blp/mktdata/buid/RTS/IX12292215-0|//blp/mktdata/bsid/1769547249887
-EUR/RUB Futures   Sep11|RERU1|RTS|1769544804373|IX11085566-0|Currency future.|Curncy|BBG00162S648||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RERU1|//blp/mktdata/buid/RTS/IX11085566-0|//blp/mktdata/bsid/1769544804373
 EUR/RUB Futures   Sep12|RERU2|RTS|1769550449364|IX13572969-0|Currency future.|Curncy|BBG0022MD526||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RERU2|//blp/mktdata/buid/RTS/IX13572969-0|//blp/mktdata/bsid/1769550449364
 EUR/RUB X-RATE    Dec11|REBZ1|BSE|1103820695350|IX9860110-0|Currency future.|Curncy|BBG000YZ5G12||14116|14116|0||39547|//blp/mktdata/bsym/BSE/REBZ1|//blp/mktdata/buid/BSE/IX9860110-0|//blp/mktdata/bsid/1103820695350
 EUR/RUB X-RATE    Dec12|REBZ2|BSE|1103826007143|IX11694568-0|Currency future.|Curncy|BBG001BP1Y85||14116|14116|0||39547|//blp/mktdata/bsym/BSE/REBZ2|//blp/mktdata/buid/BSE/IX11694568-0|//blp/mktdata/bsid/1103826007143
@@ -1997,6 +2004,7 @@ EURO/USD FUTURE   Mar12|FEH2|NA|468172239297|IX12342956-0|Currency future.|Curnc
 EURO/USD FUTURE   Nov11|FEX1|NA|468174891835|IX13405651-0|Currency future.|Curncy|BBG0020BB1Z7||27267|27268|0||40559|//blp/mktdata/bsym/NA/FEX1|//blp/mktdata/buid/NA/IX13405651-0|//blp/mktdata/bsid/468174891835
 EURO/USD FUTURE   Oct11|FEV1|NA|468174090010|IX13169111-0|Currency future.|Curncy|BBG001WWF4W1||27267|27268|0||40559|//blp/mktdata/bsym/NA/FEV1|//blp/mktdata/buid/NA/IX13169111-0|//blp/mktdata/bsid/468174090010
 EURO/USD FUTURE   Sep11|FEU1|NA|468169744137|IX11117849-0|Currency future.|Curncy|BBG00165SN99||27267|27268|0||40559|//blp/mktdata/bsym/NA/FEU1|//blp/mktdata/buid/NA/IX11117849-0|//blp/mktdata/bsid/468169744137
+EURO/USD FUTURE   Sep12|FEU2|||IX13594818-0|Currency future.|Curncy|BBG0022V91G5||27269|27270|0||39605|||
 EURO/USD X-RATE   Dec11|SDZ1|BSE|1103820695367|IX9859914-0|Currency future.|Curncy|BBG000YYV0F6||14116|14116|0||39547|//blp/mktdata/bsym/BSE/SDZ1|//blp/mktdata/buid/BSE/IX9859914-0|//blp/mktdata/bsid/1103820695367
 EURO/USD X-RATE   Dec12|SDZ2|BSE|1103826001041|IX11694444-0|Currency future.|Curncy|BBG001BP1WT6||14116|14116|0||39547|//blp/mktdata/bsym/BSE/SDZ2|//blp/mktdata/buid/BSE/IX11694444-0|//blp/mktdata/bsid/1103826001041
 EURO/USD X-RATE   Jun12|SDM2|BSE|1103823710457|IX10541029-0|Currency future.|Curncy|BBG0011VSBG5||14116|14116|0||39547|//blp/mktdata/bsym/BSE/SDM2|//blp/mktdata/buid/BSE/IX10541029-0|//blp/mktdata/bsid/1103823710457
@@ -2158,6 +2166,7 @@ GBP/PLN Future    Dec11|PPLZ1|PW|1095236108949|IX11716702-0|Currency future.|Cur
 GBP/PLN Future    Jun12|PPLM2|PW|1095238838907|IX12978055-0|Currency future.|Curncy|BBG001R72330||14083|14083|0||39529|//blp/mktdata/bsym/PW/PPLM2|//blp/mktdata/buid/PW/IX12978055-0|//blp/mktdata/bsid/1095238838907
 GBP/PLN Future    Mar12|PPLH2|PW|1095237475233|IX12343220-0|Currency future.|Curncy|BBG001KY1ND4||14083|14083|0||39529|//blp/mktdata/bsym/PW/PPLH2|//blp/mktdata/buid/PW/IX12343220-0|//blp/mktdata/bsid/1095237475233
 GBP/PLN Future    Sep11|PPLU1|PW|1095234974454|IX11117889-0|Currency future.|Curncy|BBG00165SNM4||14083|14083|0||39529|//blp/mktdata/bsym/PW/PPLU1|//blp/mktdata/buid/PW/IX11117889-0|//blp/mktdata/bsid/1095234974454
+GBP/PLN Future    Sep12|PPLU2|||IX13594858-0|Currency future.|Curncy|BBG0022V9255||14083|14083|0||39529|||
 GBP/SEK FUTURE    Dec11|ZNZ1|eNYB|2100258381988|IX11677153-0|Currency future.|Curncy|BBG001BDTLB6||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ZNZ1|//blp/mktdata/buid/eNYB/IX11677153-0|//blp/mktdata/bsid/2100258381988
 GBP/SEK FUTURE    Jun12|ZNM2|eNYB|2100261127334|IX12933625-0|Currency future.|Curncy|BBG001R08BT3||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ZNM2|//blp/mktdata/buid/eNYB/IX12933625-0|//blp/mktdata/bsid/2100261127334
 GBP/SEK FUTURE    Mar12|ZNH2|eNYB|2100259731628|IX12296000-0|Currency future.|Curncy|BBG001KR2JR2||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ZNH2|//blp/mktdata/buid/eNYB/IX12296000-0|//blp/mktdata/bsid/2100259731628
@@ -2215,8 +2224,7 @@ GBP/Sfr X-RATE AON   Mar12|PFH2|CME|614198587903|IX11078173-0|Currency future.|C
 GBP/Sfr X-RATE AON   Sep11|PFU1|CME|614196040421|IX10170373-0|Currency future.|Curncy|BBG000ZB3RR4||14002|14002|0||39490|//blp/mktdata/bsym/CME/PFU1|//blp/mktdata/buid/CME/IX10170373-0|//blp/mktdata/bsid/614196040421
 GBP/Sfr X-RATE AON   Sep12|PFU2|CME|614201040694|IX12295440-0|Currency future.|Curncy|BBG001KR2D77||14002|14002|0||39490|//blp/mktdata/bsym/CME/PFU2|//blp/mktdata/buid/CME/IX12295440-0|//blp/mktdata/bsid/614201040694
 GBP/USD           Dec11|XUPZ1|RTS|1769548550473|IX12861064-0|Currency future.|Curncy|BBG001QQDQ72||14134|14134|0||39558|//blp/mktdata/bsym/RTS/XUPZ1|//blp/mktdata/buid/RTS/IX12861064-0|//blp/mktdata/bsid/1769548550473
-GBP/USD           Mar12|XUPH2|||IX13582818-0|Currency future.|Curncy|BBG0022QPMX3||14134|14134|0||39558|||
-GBP/USD           Sep11|XUPU1|RTS|1769547228191|IX12275525-0|Currency future.|Curncy|BBG001KPVK55||14134|14134|0||39558|//blp/mktdata/bsym/RTS/XUPU1|//blp/mktdata/buid/RTS/IX12275525-0|//blp/mktdata/bsid/1769547228191
+GBP/USD           Mar12|XUPH2|RTS|1769550470915|IX13582818-0|Currency future.|Curncy|BBG0022QPMX3||14134|14134|0||39558|//blp/mktdata/bsym/RTS/XUPH2|//blp/mktdata/buid/RTS/IX13582818-0|//blp/mktdata/bsid/1769550470915
 GBP/USD 3M RL VOL Mar12|BPTH2|eCME|2078786273862|IX12916371-0|Currency future.|Curncy|BBG001QZCYZ5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPTH2|//blp/mktdata/buid/eCME/IX12916371-0|//blp/mktdata/bsid/2078786273862
 GBP/USD 3M RL VOL Sep11|BPTU1|eCME|2078784322818|IX12007681-0|Currency future.|Curncy|BBG001HRDYV6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPTU1|//blp/mktdata/buid/eCME/IX12007681-0|//blp/mktdata/bsid/2078784322818
 GBP/USD FUTURES   Dec11|BOBZ1|GBT|18197798552723|IX12930077-0|Currency future.|Curncy|BBG001R068F7||42507|0|0||42623|//blp/mktdata/bsym/GBT/BOBZ1|//blp/mktdata/buid/GBT/IX12930077-0|//blp/mktdata/bsid/18197798552723
@@ -2259,6 +2267,7 @@ GBPINR Futures    May12|BURK2|USE|17965870169599|IX12821519-0|Currency future.|C
 GBPINR Futures    Nov11|BURX1|USE|17965867413387|IX11536523-0|Currency future.|Curncy|BBG0019P2TB4||42235|42237|0||42240|//blp/mktdata/bsym/USE/BURX1|//blp/mktdata/buid/USE/IX11536523-0|//blp/mktdata/bsid/17965867413387
 GBPINR Futures    Oct11|BURV1|USE|17965867018702|IX11356713-0|Currency future.|Curncy|BBG00186T4W0||42235|42237|0||42240|//blp/mktdata/bsym/USE/BURV1|//blp/mktdata/buid/USE/IX11356713-0|//blp/mktdata/bsid/17965867018702
 GBPINR Futures    Sep11|BURU1|USE|17965866676910|IX11192657-0|Currency future.|Curncy|BBG0016WD9N1||42235|42237|0||42240|//blp/mktdata/bsym/USE/BURU1|//blp/mktdata/buid/USE/IX11192657-0|//blp/mktdata/bsid/17965866676910
+GPB/USD 1M RL VOL Dec11|BPOZ1|||IX13596582-0|Currency future.|Curncy|BBG0022W07Y9||14002|14002|0||39490|||
 GPB/USD 1M RL VOL Nov11|BPOX1|eCME|2078787472893|IX13358041-0|Currency future.|Curncy|BBG001ZTVGK3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOX1|//blp/mktdata/buid/eCME/IX13358041-0|//blp/mktdata/bsid/2078787472893
 GPB/USD 1M RL VOL Oct11|BPOV1|eCME|2078786830697|IX13170999-0|Currency future.|Curncy|BBG001WWJK97||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOV1|//blp/mktdata/buid/eCME/IX13170999-0|//blp/mktdata/bsid/2078786830697
 GPB/USD 1M RL VOL Sep11|BPOU1|eCME|2078786273867|IX12916539-0|Currency future.|Curncy|BBG001QZD0K4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOU1|//blp/mktdata/buid/eCME/IX12916539-0|//blp/mktdata/bsid/2078786273867
@@ -2466,6 +2475,9 @@ JPY/USD 3M RL VOL Mar12|JYTH2|eCME|2078786273864|IX12916379-0|Currency future.|C
 JPY/USD 3M RL VOL Sep11|JYTU1|eCME|2078784322824|IX12007777-0|Currency future.|Curncy|BBG001HRF592||14002|14002|0||39490|//blp/mktdata/bsym/eCME/JYTU1|//blp/mktdata/buid/eCME/IX12007777-0|//blp/mktdata/bsid/2078784322824
 JPY/USD FUTURES   Dec11|BOCZ1|GBT|18197798552724|IX12930081-0|Currency future.|Curncy|BBG001R068G6||42507|0|0||42623|//blp/mktdata/bsym/GBT/BOCZ1|//blp/mktdata/buid/GBT/IX12930081-0|//blp/mktdata/bsid/18197798552724
 JPY/USD FUTURES   Sep11|BOCU1|GBT|18197797150409|IX12292079-0|Currency future.|Curncy|BBG001KQZXT5||42507|0|0||42623|//blp/mktdata/bsym/GBT/BOCU1|//blp/mktdata/buid/GBT/IX12292079-0|//blp/mktdata/bsid/18197797150409
+JPY/USD Future    Dec11|KMCZ1|||IX13591934-0|Currency future.|Curncy|BBG0022W71B0||14008|14008|0||40065|||
+JPY/USD Future    Jun12|KMCM2|||IX13592338-0|Currency future.|Curncy|BBG0022W7193||14008|14008|0||40065|||
+JPY/USD Future    Mar12|KMCH2|||IX13592334-0|Currency future.|Curncy|BBG0022W7184||14008|14008|0||40065|||
 JPY/ZAR Future    Dec11|JPRZ1|YLX|8744574138620|IX12292299-0|Currency future.|Curncy|BBG001KQZZQ3||34183|34183|0||39685|//blp/mktdata/bsym/YLX/JPRZ1|//blp/mktdata/buid/YLX/IX12292299-0|//blp/mktdata/bsid/8744574138620
 JPY/ZAR Future    Mar12|JPRH2|YLX|8744575534296|IX12929897-0|Currency future.|Curncy|BBG001R06769||34183|34183|0||39685|//blp/mktdata/bsym/YLX/JPRH2|//blp/mktdata/buid/YLX/IX12929897-0|//blp/mktdata/bsid/8744575534296
 JPY/ZAR Future    Sep11|JPRU1|YLX|8744572792863|IX11670253-0|Currency future.|Curncy|BBG001BD7VL7||34183|34183|0||39685|//blp/mktdata/bsym/YLX/JPRU1|//blp/mktdata/buid/YLX/IX11670253-0|//blp/mktdata/bsid/8744572792863
@@ -2506,8 +2518,7 @@ KRUGER RAND FUTR  Mar12|RHH2|SAFE|1705122801059|IX12332041-0|Currency future.|Cu
 KRUGER RAND TENTH Dec11|KRZ1|SAFE|1705121422502|IX11694788-0|Currency future.|Curncy|BBG001BP2024||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/KRZ1|//blp/mktdata/buid/SAFE/IX11694788-0|//blp/mktdata/bsid/1705121422502
 KRUGER RAND TENTH Jun12|KRM2|SAFE|1705124155538|IX12953549-0|Currency future.|Curncy|BBG001R3JHY6||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/KRM2|//blp/mktdata/buid/SAFE/IX12953549-0|//blp/mktdata/bsid/1705124155538
 KRUGER RAND TENTH Mar12|KRH2|SAFE|1705122801060|IX12332409-0|Currency future.|Curncy|BBG001KWPZM5||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/KRH2|//blp/mktdata/buid/SAFE/IX12332409-0|//blp/mktdata/bsid/1705122801060
-KRUGER RAND TENTH Sep11|KRU1|SAFE|1705120314351|IX11108100-0|Currency future.|Curncy|BBG00164X7J0||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/KRU1|//blp/mktdata/buid/SAFE/IX11108100-0|//blp/mktdata/bsid/1705120314351
-KRUGER RAND TENTH Sep12|KRU2|||IX13582310-0|Currency future.|Curncy|BBG0022QPJP9||14117|36810|0||39548|||
+KRUGER RAND TENTH Sep12|KRU2|SAFE|1705125969864|IX13582310-0|Currency future.|Curncy|BBG0022QPJP9||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/KRU2|//blp/mktdata/buid/SAFE/IX13582310-0|//blp/mktdata/bsid/1705125969864
 MCX EURINR        Apr12|INLJ2|MSX|8740279897997|IX12627215-0|Currency future.|Curncy|BBG001NPVKS7||36180|42869|0||39706|//blp/mktdata/bsym/MSX/INLJ2|//blp/mktdata/buid/MSX/IX12627215-0|//blp/mktdata/bsid/8740279897997
 MCX EURINR        Aug12|INLQ2|MSX|8740282146446|IX13461473-0|Currency future.|Curncy|BBG0021F0W90||36180|42869|0||39706|//blp/mktdata/bsym/MSX/INLQ2|//blp/mktdata/buid/MSX/IX13461473-0|//blp/mktdata/bsid/8740282146446
 MCX EURINR        Dec11|INLZ1|MSX|8740278056350|IX11772809-0|Currency future.|Curncy|BBG001CPJV54||36180|42869|0||39706|//blp/mktdata/bsym/MSX/INLZ1|//blp/mktdata/buid/MSX/IX11772809-0|//blp/mktdata/bsid/8740278056350
@@ -2696,6 +2707,9 @@ MINI DOLLAR (BMF) Oct14|MDV4|eBMF|2074487404923|IX11006673-0|Currency future.|Cu
 MINI DOLLAR (BMF) Oct15|MDV5|eBMF|2074487291947|IX10914401-0|Currency future.|Curncy|BBG0015F9CM8||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/MDV5|//blp/mktdata/buid/eBMF/IX10914401-0|//blp/mktdata/bsid/2074487291947
 MINI DOLLAR (BMF) Oct16|MDV6|eBMF|2074487285848|IX10914405-0|Currency future.|Curncy|BBG0015F9CN7||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/MDV6|//blp/mktdata/buid/eBMF/IX10914405-0|//blp/mktdata/bsid/2074487285848
 MINI DOLLAR (BMF) Oct17|MDV7|eBMF|2074487285843|IX10914409-0|Currency future.|Curncy|BBG0015F9CP5||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/MDV7|//blp/mktdata/buid/eBMF/IX10914409-0|//blp/mktdata/bsid/2074487285843
+MXN/USD Future    Dec11|KMDZ1|||IX13592382-0|Currency future.|Curncy|BBG0022W71G5||14008|14008|0||40065|||
+MXN/USD Future    Jun12|KMDM2|||IX13593786-0|Currency future.|Curncy|BBG0022W71F6||14008|14008|0||40065|||
+MXN/USD Future    Mar12|KMDH2|||IX13593782-0|Currency future.|Curncy|BBG0022W71D8||14008|14008|0||40065|||
 Mar Pol Col Pesol Apr12|MPCJ2|eNYM|2117435151944|IX10287390-0|Currency future.|Curncy|BBG000ZHB947||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MPCJ2|//blp/mktdata/buid/eNYM/IX10287390-0|//blp/mktdata/bsid/2117435151944
 Mar Pol Col Pesol Apr13|MPCJ3|eNYM|2117440107663|IX12538213-0|Currency future.|Curncy|BBG001MKSM72||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MPCJ3|//blp/mktdata/buid/eNYM/IX12538213-0|//blp/mktdata/bsid/2117440107663
 Mar Pol Col Pesol Aug12|MPCQ2|eNYM|2117436826989|IX10881048-0|Currency future.|Curncy|BBG0014WFRL3||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MPCQ2|//blp/mktdata/buid/eNYM/IX10881048-0|//blp/mktdata/bsid/2117436826989
@@ -2813,16 +2827,20 @@ NFX WC Australia  Dec11|AXAZ1|NFX|9801134817919|IX11718242-0|Currency future.|Cu
 NFX WC Australia  Jun12|AXAM2|NFX|9801137547689|IX12979667-0|Currency future.|Curncy|BBG001R78FM6||36261|0|0||39707|//blp/mktdata/bsym/NFX/AXAM2|//blp/mktdata/buid/NFX/IX12979667-0|//blp/mktdata/bsid/9801137547689
 NFX WC Australia  Mar12|AXAH2|NFX|9801136184207|IX12345984-0|Currency future.|Curncy|BBG001KY4QW3||36261|0|0||39707|//blp/mktdata/bsym/NFX/AXAH2|//blp/mktdata/buid/NFX/IX12345984-0|//blp/mktdata/bsid/9801136184207
 NFX WC Australia  Sep11|AXAU1|NFX|9801133684704|IX11119025-0|Currency future.|Curncy|BBG001660DL5||36261|0|0||39707|//blp/mktdata/bsym/NFX/AXAU1|//blp/mktdata/buid/NFX/IX11119025-0|//blp/mktdata/bsid/9801133684704
+NFX WC Australia  Sep12|AXAU2|||IX13596318-0|Currency future.|Curncy|BBG0022W06V4||36261|0|0||39707|||
 NFX WC Brazil Rea Dec11|BZRZ1|NFX|9801136184239|IX12346132-0|Currency future.|Curncy|BBG001KY4RH8||36261|0|0||39707|//blp/mktdata/bsym/NFX/BZRZ1|//blp/mktdata/buid/NFX/IX12346132-0|//blp/mktdata/bsid/9801136184239
+NFX WC Brazil Rea Jun12|BZRM2|||IX13596202-0|Currency future.|Curncy|BBG0022W06B6||36261|0|0||39707|||
 NFX WC Brazil Rea Mar12|BZRH2|NFX|9801137547681|IX12979491-0|Currency future.|Curncy|BBG001R78DM1||36261|0|0||39707|//blp/mktdata/bsym/NFX/BZRH2|//blp/mktdata/buid/NFX/IX12979491-0|//blp/mktdata/bsid/9801137547681
 NFX WC Brazil Rea Sep11|BZRU1|NFX|9801134817956|IX11718182-0|Currency future.|Curncy|BBG001BWLZC0||36261|0|0||39707|//blp/mktdata/bsym/NFX/BZRU1|//blp/mktdata/buid/NFX/IX11718182-0|//blp/mktdata/bsid/9801134817956
 NFX WC British GBP  Dec11|BPCZ1|NFX|9801134817884|IX11718226-0|Currency future.|Curncy|BBG001BWLZN8||36261|0|0||39707|//blp/mktdata/bsym/NFX/BPCZ1|//blp/mktdata/buid/NFX/IX11718226-0|//blp/mktdata/bsid/9801134817884
 NFX WC British GBP  Jun12|BPCM2|NFX|9801137547690|IX12979735-0|Currency future.|Curncy|BBG001R78FV6||36261|0|0||39707|//blp/mktdata/bsym/NFX/BPCM2|//blp/mktdata/buid/NFX/IX12979735-0|//blp/mktdata/bsid/9801137547690
 NFX WC British GBP  Mar12|BPCH2|NFX|9801136184185|IX12346000-0|Currency future.|Curncy|BBG001KY4QY1||36261|0|0||39707|//blp/mktdata/bsym/NFX/BPCH2|//blp/mktdata/buid/NFX/IX12346000-0|//blp/mktdata/bsid/9801136184185
 NFX WC British GBP  Sep11|BPCU1|NFX|9801133684702|IX11119041-0|Currency future.|Curncy|BBG001660DN3||36261|0|0||39707|//blp/mktdata/bsym/NFX/BPCU1|//blp/mktdata/buid/NFX/IX11119041-0|//blp/mktdata/bsid/9801133684702
+NFX WC British GBP  Sep12|BPCU2|||IX13596322-0|Currency future.|Curncy|BBG0022W06W3||36261|0|0||39707|||
 NFX WC COP        Dec11|CPPZ1|NFX|9801137547680|IX12979447-0|Currency future.|Curncy|BBG001R78DL2||36261|0|0||39707|//blp/mktdata/bsym/NFX/CPPZ1|//blp/mktdata/buid/NFX/IX12979447-0|//blp/mktdata/bsid/9801137547680
 NFX WC COP        Feb12|CPPG2|NFX|9801138828424|IX13407339-0|Currency future.|Curncy|BBG0020BM2K9||36261|0|0||39707|//blp/mktdata/bsym/NFX/CPPG2|//blp/mktdata/buid/NFX/IX13407339-0|//blp/mktdata/bsid/9801138828424
 NFX WC COP        Jan12|CPPF2|NFX|9801138028923|IX13171027-0|Currency future.|Curncy|BBG001WWJKD2||36261|0|0||39707|//blp/mktdata/bsym/NFX/CPPF2|//blp/mktdata/buid/NFX/IX13171027-0|//blp/mktdata/bsid/9801138028923
+NFX WC COP        Mar12|CPPH2|||IX13596766-0|Currency future.|Curncy|BBG0022W08S4||36261|0|0||39707|||
 NFX WC COP        Nov11|CPPX1|NFX|9801137164942|IX12779603-0|Currency future.|Curncy|BBG001PR67W3||36261|0|0||39707|//blp/mktdata/bsym/NFX/CPPX1|//blp/mktdata/buid/NFX/IX12779603-0|//blp/mktdata/bsid/9801137164942
 NFX WC COP        Oct11|CPPV1|NFX|9801136628414|IX12562971-0|Currency future.|Curncy|BBG001MPHJ34||36261|0|0||39707|//blp/mktdata/bsym/NFX/CPPV1|//blp/mktdata/buid/NFX/IX12562971-0|//blp/mktdata/bsid/9801136628414
 NFX WC COP        Sep11|CPPU1|NFX|9801136184233|IX12345836-0|Currency future.|Curncy|BBG001KY4PS0||36261|0|0||39707|//blp/mktdata/bsym/NFX/CPPU1|//blp/mktdata/buid/NFX/IX12345836-0|//blp/mktdata/bsid/9801136184233
@@ -2830,40 +2848,51 @@ NFX WC Canadian $ Dec11|CUCZ1|NFX|9801134817946|IX11718362-0|Currency future.|Cu
 NFX WC Canadian $ Jun12|CUCM2|NFX|9801137547693|IX12979799-0|Currency future.|Curncy|BBG001R78G53||36261|0|0||39707|//blp/mktdata/bsym/NFX/CUCM2|//blp/mktdata/buid/NFX/IX12979799-0|//blp/mktdata/bsid/9801137547693
 NFX WC Canadian $ Mar12|CUCH2|NFX|9801136184229|IX12346084-0|Currency future.|Curncy|BBG001KY4R79||36261|0|0||39707|//blp/mktdata/bsym/NFX/CUCH2|//blp/mktdata/buid/NFX/IX12346084-0|//blp/mktdata/bsid/9801136184229
 NFX WC Canadian $ Sep11|CUCU1|NFX|9801133685138|IX11119149-0|Currency future.|Curncy|BBG001660FC0||36261|0|0||39707|//blp/mktdata/bsym/NFX/CUCU1|//blp/mktdata/buid/NFX/IX11119149-0|//blp/mktdata/bsid/9801133685138
+NFX WC Canadian $ Sep12|CUCU2|||IX13596370-0|Currency future.|Curncy|BBG0022W0797||36261|0|0||39707|||
 NFX WC Euro EUR     Dec11|UDEZ1|NFX|9801134817945|IX11718358-0|Currency future.|Curncy|BBG001BWM045||36261|0|0||39707|//blp/mktdata/bsym/NFX/UDEZ1|//blp/mktdata/buid/NFX/IX11718358-0|//blp/mktdata/bsid/9801134817945
 NFX WC Euro EUR     Jun12|UDEM2|NFX|9801137547691|IX12979791-0|Currency future.|Curncy|BBG001R78G35||36261|0|0||39707|//blp/mktdata/bsym/NFX/UDEM2|//blp/mktdata/buid/NFX/IX12979791-0|//blp/mktdata/bsid/9801137547691
 NFX WC Euro EUR     Mar12|UDEH2|NFX|9801136184228|IX12346080-0|Currency future.|Curncy|BBG001KY4R60||36261|0|0||39707|//blp/mktdata/bsym/NFX/UDEH2|//blp/mktdata/buid/NFX/IX12346080-0|//blp/mktdata/bsid/9801136184228
 NFX WC Euro EUR     Sep11|UDEU1|NFX|9801133684715|IX11119145-0|Currency future.|Curncy|BBG001660FB1||36261|0|0||39707|//blp/mktdata/bsym/NFX/UDEU1|//blp/mktdata/buid/NFX/IX11119145-0|//blp/mktdata/bsid/9801133684715
+NFX WC Euro EUR     Sep12|UDEU2|||IX13596374-0|Currency future.|Curncy|BBG0022W07B4||36261|0|0||39707|||
 NFX WC Japanese Yen Dec11|JYCZ1|NFX|9801134817947|IX11718366-0|Currency future.|Curncy|BBG001BWM063||36261|0|0||39707|//blp/mktdata/bsym/NFX/JYCZ1|//blp/mktdata/buid/NFX/IX11718366-0|//blp/mktdata/bsid/9801134817947
 NFX WC Japanese Yen Jun12|JYCM2|NFX|9801137547692|IX12979795-0|Currency future.|Curncy|BBG001R78G44||36261|0|0||39707|//blp/mktdata/bsym/NFX/JYCM2|//blp/mktdata/buid/NFX/IX12979795-0|//blp/mktdata/bsid/9801137547692
 NFX WC Japanese Yen Mar12|JYCH2|NFX|9801136184230|IX12346088-0|Currency future.|Curncy|BBG001KY4R88||36261|0|0||39707|//blp/mktdata/bsym/NFX/JYCH2|//blp/mktdata/buid/NFX/IX12346088-0|//blp/mktdata/bsid/9801136184230
 NFX WC Japanese Yen Sep11|JYCU1|NFX|9801133684716|IX11119153-0|Currency future.|Curncy|BBG001660FD9||36261|0|0||39707|//blp/mktdata/bsym/NFX/JYCU1|//blp/mktdata/buid/NFX/IX11119153-0|//blp/mktdata/bsid/9801133684716
+NFX WC Japanese Yen Sep12|JYCU2|||IX13596378-0|Currency future.|Curncy|BBG0022W07C3||36261|0|0||39707|||
 NFX WC NZ Dollar  Dec11|AZDZ1|NFX|9801136184240|IX12346136-0|Currency future.|Curncy|BBG001KY4RJ6||36261|0|0||39707|//blp/mktdata/bsym/NFX/AZDZ1|//blp/mktdata/buid/NFX/IX12346136-0|//blp/mktdata/bsid/9801136184240
+NFX WC NZ Dollar  Jun12|AZDM2|||IX13596206-0|Currency future.|Curncy|BBG0022W06C5||36261|0|0||39707|||
 NFX WC NZ Dollar  Mar12|AZDH2|NFX|9801137547683|IX12979499-0|Currency future.|Curncy|BBG001R78DP8||36261|0|0||39707|//blp/mktdata/bsym/NFX/AZDH2|//blp/mktdata/buid/NFX/IX12979499-0|//blp/mktdata/bsid/9801137547683
 NFX WC NZ Dollar  Sep11|AZDU1|NFX|9801134817957|IX11718186-0|Currency future.|Curncy|BBG001BWLZD9||36261|0|0||39707|//blp/mktdata/bsym/NFX/AZDU1|//blp/mktdata/buid/NFX/IX11718186-0|//blp/mktdata/bsid/9801134817957
 NFX WC Swiss Sfr  Dec11|SFDZ1|NFX|9801134817948|IX11718370-0|Currency future.|Curncy|BBG001BWM072||36261|0|0||39707|//blp/mktdata/bsym/NFX/SFDZ1|//blp/mktdata/buid/NFX/IX11718370-0|//blp/mktdata/bsid/9801134817948
 NFX WC Swiss Sfr  Jun12|SFDM2|NFX|9801137547694|IX12979803-0|Currency future.|Curncy|BBG001R78G62||36261|0|0||39707|//blp/mktdata/bsym/NFX/SFDM2|//blp/mktdata/buid/NFX/IX12979803-0|//blp/mktdata/bsid/9801137547694
 NFX WC Swiss Sfr  Mar12|SFDH2|NFX|9801136184231|IX12346092-0|Currency future.|Curncy|BBG001KY4R97||36261|0|0||39707|//blp/mktdata/bsym/NFX/SFDH2|//blp/mktdata/buid/NFX/IX12346092-0|//blp/mktdata/bsid/9801136184231
 NFX WC Swiss Sfr  Sep11|SFDU1|NFX|9801133684717|IX11119157-0|Currency future.|Curncy|BBG001660FF7||36261|0|0||39707|//blp/mktdata/bsym/NFX/SFDU1|//blp/mktdata/buid/NFX/IX11119157-0|//blp/mktdata/bsid/9801133684717
+NFX WC Swiss Sfr  Sep12|SFDU2|||IX13596386-0|Currency future.|Curncy|BBG0022W07D2||36261|0|0||39707|||
 NFXWC Chinese Yua Dec11|CYYZ1|NFX|9801136184242|IX12346144-0|Currency future.|Curncy|BBG001KY4RL3||36261|0|0||39707|//blp/mktdata/bsym/NFX/CYYZ1|//blp/mktdata/buid/NFX/IX12346144-0|//blp/mktdata/bsid/9801136184242
+NFXWC Chinese Yua Jun12|CYYM2|||IX13596214-0|Currency future.|Curncy|BBG0022W06F2||36261|0|0||39707|||
 NFXWC Chinese Yua Mar12|CYYH2|NFX|9801137547684|IX12979503-0|Currency future.|Curncy|BBG001R78DQ7||36261|0|0||39707|//blp/mktdata/bsym/NFX/CYYH2|//blp/mktdata/buid/NFX/IX12979503-0|//blp/mktdata/bsid/9801137547684
 NFXWC Chinese Yua Sep11|CYYU1|NFX|9801134817959|IX11718194-0|Currency future.|Curncy|BBG001BWLZG6||36261|0|0||39707|//blp/mktdata/bsym/NFX/CYYU1|//blp/mktdata/buid/NFX/IX11718194-0|//blp/mktdata/bsid/9801134817959
 NFXWC Korean Won  Dec11|KWAZ1|NFX|9801136184245|IX12346156-0|Currency future.|Curncy|BBG001KY4RP9||36261|0|0||39707|//blp/mktdata/bsym/NFX/KWAZ1|//blp/mktdata/buid/NFX/IX12346156-0|//blp/mktdata/bsid/9801136184245
+NFXWC Korean Won  Jun12|KWAM2|||IX13596222-0|Currency future.|Curncy|BBG0022W06H0||36261|0|0||39707|||
 NFXWC Korean Won  Mar12|KWAH2|NFX|9801137547686|IX12979511-0|Currency future.|Curncy|BBG001R78DT4||36261|0|0||39707|//blp/mktdata/bsym/NFX/KWAH2|//blp/mktdata/buid/NFX/IX12979511-0|//blp/mktdata/bsid/9801137547686
 NFXWC Korean Won  Sep11|KWAU1|NFX|9801134817961|IX11718206-0|Currency future.|Curncy|BBG001BWLZK1||36261|0|0||39707|//blp/mktdata/bsym/NFX/KWAU1|//blp/mktdata/buid/NFX/IX11718206-0|//blp/mktdata/bsid/9801134817961
 NFXWC Mexican Pes Dec11|MEPZ1|NFX|9801135951508|IX12189093-0|Currency future.|Curncy|BBG001K94T89||36261|0|0||39707|//blp/mktdata/bsym/NFX/MEPZ1|//blp/mktdata/buid/NFX/IX12189093-0|//blp/mktdata/bsid/9801135951508
 NFXWC Mexican Pes Jun12|MEPM2|NFX|9801139133883|IX13491277-0|Currency future.|Curncy|BBG0021PLWV0||36261|0|0||39707|//blp/mktdata/bsym/NFX/MEPM2|//blp/mktdata/buid/NFX/IX13491277-0|//blp/mktdata/bsid/9801139133883
 NFXWC Mexican Pes Mar12|MEPH2|NFX|9801137378445|IX12855431-0|Currency future.|Curncy|BBG001QMJC12||36261|0|0||39707|//blp/mktdata/bsym/NFX/MEPH2|//blp/mktdata/buid/NFX/IX12855431-0|//blp/mktdata/bsid/9801137378445
 NFXWC Norwegian   Dec11|KNRZ1|NFX|9801136184246|IX12346160-0|Currency future.|Curncy|BBG001KY4RQ8||36261|0|0||39707|//blp/mktdata/bsym/NFX/KNRZ1|//blp/mktdata/buid/NFX/IX12346160-0|//blp/mktdata/bsid/9801136184246
+NFXWC Norwegian   Jun12|KNRM2|||IX13596226-0|Currency future.|Curncy|BBG0022W06J8||36261|0|0||39707|||
 NFXWC Norwegian   Mar12|KNRH2|NFX|9801137547688|IX12979523-0|Currency future.|Curncy|BBG001R78DX9||36261|0|0||39707|//blp/mktdata/bsym/NFX/KNRH2|//blp/mktdata/buid/NFX/IX12979523-0|//blp/mktdata/bsid/9801137547688
 NFXWC Norwegian   Sep11|KNRU1|NFX|9801134817962|IX11718210-0|Currency future.|Curncy|BBG001BWLZL0||36261|0|0||39707|//blp/mktdata/bsym/NFX/KNRU1|//blp/mktdata/buid/NFX/IX11718210-0|//blp/mktdata/bsid/9801134817962
 NFXWC S.Africa ZA Dec11|SAOZ1|NFX|9801136184243|IX12346148-0|Currency future.|Curncy|BBG001KY4RM2||36261|0|0||39707|//blp/mktdata/bsym/NFX/SAOZ1|//blp/mktdata/buid/NFX/IX12346148-0|//blp/mktdata/bsid/9801136184243
+NFXWC S.Africa ZA Jun12|SAOM2|||IX13596602-0|Currency future.|Curncy|BBG0022W0813||36261|0|0||39707|||
 NFXWC S.Africa ZA Mar12|SAOH2|NFX|9801137547685|IX12979507-0|Currency future.|Curncy|BBG001R78DS5||36261|0|0||39707|//blp/mktdata/bsym/NFX/SAOH2|//blp/mktdata/buid/NFX/IX12979507-0|//blp/mktdata/bsid/9801137547685
 NFXWC S.Africa ZA Sep11|SAOU1|NFX|9801134626830|IX11585223-0|Currency future.|Curncy|BBG0019SSNP8||36261|0|0||39707|//blp/mktdata/bsym/NFX/SAOU1|//blp/mktdata/buid/NFX/IX11585223-0|//blp/mktdata/bsid/9801134626830
 NFXWC Swedish SEK Dec11|SSWZ1|NFX|9801136184244|IX12346152-0|Currency future.|Curncy|BBG001KY4RN1||36261|0|0||39707|//blp/mktdata/bsym/NFX/SSWZ1|//blp/mktdata/buid/NFX/IX12346152-0|//blp/mktdata/bsid/9801136184244
+NFXWC Swedish SEK Jun12|SSWM2|||IX13596218-0|Currency future.|Curncy|BBG0022W06G1||36261|0|0||39707|||
 NFXWC Swedish SEK Mar12|SSWH2|NFX|9801137547687|IX12979515-0|Currency future.|Curncy|BBG001R78DV1||36261|0|0||39707|//blp/mktdata/bsym/NFX/SSWH2|//blp/mktdata/buid/NFX/IX12979515-0|//blp/mktdata/bsid/9801137547687
 NFXWC Swedish SEK Sep11|SSWU1|NFX|9801134817960|IX11718202-0|Currency future.|Curncy|BBG001BWLZJ3||36261|0|0||39707|//blp/mktdata/bsym/NFX/SSWU1|//blp/mktdata/buid/NFX/IX11718202-0|//blp/mktdata/bsid/9801134817960
 NFXWC Turkish Lir Dec11|TKRZ1|NFX|9801136184241|IX12346140-0|Currency future.|Curncy|BBG001KY4RK4||36261|0|0||39707|//blp/mktdata/bsym/NFX/TKRZ1|//blp/mktdata/buid/NFX/IX12346140-0|//blp/mktdata/bsid/9801136184241
+NFXWC Turkish Lir Jun12|TKRM2|||IX13596210-0|Currency future.|Curncy|BBG0022W06D4||36261|0|0||39707|||
 NFXWC Turkish Lir Mar12|TKRH2|NFX|9801137547682|IX12979495-0|Currency future.|Curncy|BBG001R78DN0||36261|0|0||39707|//blp/mktdata/bsym/NFX/TKRH2|//blp/mktdata/buid/NFX/IX12979495-0|//blp/mktdata/bsid/9801137547682
 NFXWC Turkish Lir Sep11|TKRU1|NFX|9801134817958|IX11718190-0|Currency future.|Curncy|BBG001BWLZF7||36261|0|0||39707|//blp/mktdata/bsym/NFX/TKRU1|//blp/mktdata/buid/NFX/IX11718190-0|//blp/mktdata/bsid/9801134817958
 NOK/JPY FUTURE    Dec11|ZSZ1|eNYB|2100258381987|IX11677149-0|Currency future.|Curncy|BBG001BDTL80||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ZSZ1|//blp/mktdata/buid/eNYB/IX11677149-0|//blp/mktdata/bsid/2100258381987
@@ -2946,6 +2975,9 @@ NZD/JPY X-RATE    Sep11|ZJPU1|BSE|1103819140704|IX9482169-0|Currency future.|Cur
 NZD/JPY X-RATE    Sep12|ZJPU2|BSE|1103824885692|IX11100339-0|Currency future.|Curncy|BBG00163Z390||14116|14116|0||39547|//blp/mktdata/bsym/BSE/ZJPU2|//blp/mktdata/buid/BSE/IX11100339-0|//blp/mktdata/bsid/1103824885692
 NZD/USD CFD       Nov36|FZDX6|||IX4849858-0|Currency future.|Curncy|BBG000WJM8N5||14016|14016|0||40067|||
 NZD/USD CFD       Nov36|FZDX6|||IX4849858-0|Currency future.|Curncy|BBG000WJM8N5||14016|14016|0||40067|||
+NZD/USD Future    Dec11|KMEZ1|||IX13595294-0|Currency future.|Curncy|BBG0022W71N7||14008|14008|0||40065|||
+NZD/USD Future    Jun12|KMEM2|||IX13595302-0|Currency future.|Curncy|BBG0022W71M8||14008|14008|0||40065|||
+NZD/USD Future    Mar12|KMEH2|||IX13595298-0|Currency future.|Curncy|BBG0022W71L9||14008|14008|0||40065|||
 OSE FX AUD/JPY    DEC36|PILZ6|OSE|11922840048196|IX9071785-0|Currency future.|Curncy|BBG000VMTKM6||37622|37622|0||43987|//blp/mktdata/bsym/OSE/PILZ6|//blp/mktdata/buid/OSE/IX9071785-0|//blp/mktdata/bsid/11922840048196
 OSE FX AUD/USD    Dec36|PIIZ6|OSE|11922849963092|IX12317952-0|Currency future.|Curncy|BBG001KT6BQ2||37622|37622|0||43987|//blp/mktdata/bsym/OSE/PIIZ6|//blp/mktdata/buid/OSE/IX12317952-0|//blp/mktdata/bsid/11922849963092
 OSE FX CAD/JPY    DEC36|PIWZ6|OSE|11922840048199|IX9071809-0|Currency future.|Curncy|BBG000VMTLP1||37622|37622|0||43987|//blp/mktdata/bsym/OSE/PIWZ6|//blp/mktdata/buid/OSE/IX9071809-0|//blp/mktdata/bsid/11922840048199
@@ -3087,16 +3119,15 @@ RON/EURO5 Future  Mar12|RFEH2|SIB|7456084040632|IX12343184-0|Currency future.|Cu
 RON/EURO5 Future  Nov11|RFEX1|SIB|7456086682439|IX13406091-0|Currency future.|Curncy|BBG0020BB267||33996|33996|0||40099|//blp/mktdata/bsym/SIB/RFEX1|//blp/mktdata/buid/SIB/IX13406091-0|//blp/mktdata/bsid/7456086682439
 RON/EURO5 Future  Oct11|RFEV1|SIB|7456085883256|IX13169579-0|Currency future.|Curncy|BBG001WWF5P6||33996|33996|0||40099|//blp/mktdata/bsym/SIB/RFEV1|//blp/mktdata/buid/SIB/IX13169579-0|//blp/mktdata/bsid/7456085883256
 RON/EURO5 Future  Sep11|RFEU1|SIB|7456081539785|IX11118221-0|Currency future.|Curncy|BBG00165SR72||33996|33996|0||40099|//blp/mktdata/bsym/SIB/RFEU1|//blp/mktdata/buid/SIB/IX11118221-0|//blp/mktdata/bsid/7456081539785
+RON/EURO5 Future  Sep12|RFEU2|||IX13594874-0|Currency future.|Curncy|BBG0022V92X4||33996|33996|0||40099|||
 RUS RUBLE AON FUT Dec11|UAZ1|CME|614186689375|IX6731352-0|Currency future.|Curncy|BBG000QZ6S05||14002|14002|0||39490|//blp/mktdata/bsym/CME/UAZ1|//blp/mktdata/buid/CME/IX6731352-0|//blp/mktdata/bsid/614186689375
 RUS RUBLE AON FUT Dec12|UAZ2|CME|614186693790|IX6731368-0|Currency future.|Curncy|BBG000WVHKJ2||14002|14002|0||39490|//blp/mktdata/bsym/CME/UAZ2|//blp/mktdata/buid/CME/IX6731368-0|//blp/mktdata/bsid/614186693790
 RUS RUBLE AON FUT Jun12|UAM2|CME|614186689356|IX6731360-0|Currency future.|Curncy|BBG000WVHK02||14002|14002|0||39490|//blp/mktdata/bsym/CME/UAM2|//blp/mktdata/buid/CME/IX6731360-0|//blp/mktdata/bsid/614186689356
 RUS RUBLE AON FUT Mar12|UAH2|CME|614186689364|IX6731356-0|Currency future.|Curncy|BBG000WM3Y07||14002|14002|0||39490|//blp/mktdata/bsym/CME/UAH2|//blp/mktdata/buid/CME/IX6731356-0|//blp/mktdata/bsid/614186689364
-RUS RUBLE AON FUT Sep11|UAU1|CME|614186689367|IX6731348-0|Currency future.|Curncy|BBG000QZ6T76||14002|14002|0||39490|//blp/mktdata/bsym/CME/UAU1|//blp/mktdata/buid/CME/IX6731348-0|//blp/mktdata/bsid/614186689367
 RUS RUBLE AON FUT Sep12|UAU2|CME|614186689368|IX6731364-0|Currency future.|Curncy|BBG000WVHK75||14002|14002|0||39490|//blp/mktdata/bsym/CME/UAU2|//blp/mktdata/buid/CME/IX6731364-0|//blp/mktdata/bsid/614186689368
 RUSSIAN RUBLE EUR Dec11|R6Z1|CME|614201058482|IX12312931-0|Currency future.|Curncy|BBG001KSCFB4||14002|14002|0||39490|//blp/mktdata/bsym/CME/R6Z1|//blp/mktdata/buid/CME/IX12312931-0|//blp/mktdata/bsid/614201058482
 RUSSIAN RUBLE EUR Jun12|R6M2|||IX13584697-0|Currency future.|Curncy|BBG0022R02V4||14002|14002|0||39490|||
 RUSSIAN RUBLE EUR Mar12|R6H2|CME|614202463663|IX12954441-0|Currency future.|Curncy|BBG001R3LHK8||14002|14002|0||39490|//blp/mktdata/bsym/CME/R6H2|//blp/mktdata/buid/CME/IX12954441-0|//blp/mktdata/bsid/614202463663
-RUSSIAN RUBLE EUR Sep11|R6U1|CME|614199730519|IX11695788-0|Currency future.|Curncy|BBG001BPFKG1||14002|14002|0||39490|//blp/mktdata/bsym/CME/R6U1|//blp/mktdata/buid/CME/IX11695788-0|//blp/mktdata/bsid/614199730519
 RUSSIAN RUBLE FUT Apr12|RUJ2|CME|614202238775|IX12803173-0|Currency future.|Curncy|BBG001QBKQ95||14002|14002|0||39490|//blp/mktdata/bsym/CME/RUJ2|//blp/mktdata/buid/CME/IX12803173-0|//blp/mktdata/bsid/614202238775
 RUSSIAN RUBLE FUT Apr12|RUJ2|CME|614202238775|IX12803173-0|Currency future.|Curncy|BBG001QBKQ95||14002|14002|0||39490|//blp/mktdata/bsym/CME/RUJ2|//blp/mktdata/buid/CME/IX12803173-0|//blp/mktdata/bsid/614202238775
 RUSSIAN RUBLE FUT Apr12|RUJ2|cCME|9981525911351|IX12803173-0|Currency future.|Curncy|BBG001QBKQ95||14002|14002|0||39490|//blp/mktdata/bsym/cCME/RUJ2|//blp/mktdata/buid/cCME/IX12803173-0|//blp/mktdata/bsid/9981525911351
@@ -3223,12 +3254,6 @@ RUSSIAN RUBLE FUT Oct11|RUV1|cCME|9981525911348|IX12803157-0|Currency future.|Cu
 RUSSIAN RUBLE FUT Oct11|RUV1|cCME|9981525911348|IX12803157-0|Currency future.|Curncy|BBG001QBKMX7||14002|14002|0||39490|//blp/mktdata/bsym/cCME/RUV1|//blp/mktdata/buid/cCME/IX12803157-0|//blp/mktdata/bsid/9981525911348
 RUSSIAN RUBLE FUT Oct11|RUV1|eCME|2078786086708|IX12803157-0|Currency future.|Curncy|BBG001QBKMX7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RUV1|//blp/mktdata/buid/eCME/IX12803157-0|//blp/mktdata/bsid/2078786086708
 RUSSIAN RUBLE FUT Oct11|RUV1|eCME|2078786086708|IX12803157-0|Currency future.|Curncy|BBG001QBKMX7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RUV1|//blp/mktdata/buid/eCME/IX12803157-0|//blp/mktdata/bsid/2078786086708
-RUSSIAN RUBLE FUT Sep11|RUU1|CME|614184818772|IX5831882-0|Currency future.|Curncy|BBG000T2WHJ0||14002|14002|0||39490|//blp/mktdata/bsym/CME/RUU1|//blp/mktdata/buid/CME/IX5831882-0|//blp/mktdata/bsid/614184818772
-RUSSIAN RUBLE FUT Sep11|RUU1|CME|614184818772|IX5831882-0|Currency future.|Curncy|BBG000T2WHJ0||14002|14002|0||39490|//blp/mktdata/bsym/CME/RUU1|//blp/mktdata/buid/CME/IX5831882-0|//blp/mktdata/bsid/614184818772
-RUSSIAN RUBLE FUT Sep11|RUU1|cCME|9981508491348|IX5831882-0|Currency future.|Curncy|BBG000T2WHJ0||14002|14002|0||39490|//blp/mktdata/bsym/cCME/RUU1|//blp/mktdata/buid/cCME/IX5831882-0|//blp/mktdata/bsid/9981508491348
-RUSSIAN RUBLE FUT Sep11|RUU1|cCME|9981508491348|IX5831882-0|Currency future.|Curncy|BBG000T2WHJ0||14002|14002|0||39490|//blp/mktdata/bsym/cCME/RUU1|//blp/mktdata/buid/cCME/IX5831882-0|//blp/mktdata/bsid/9981508491348
-RUSSIAN RUBLE FUT Sep11|RUU1|eCME|2078768666708|IX5831882-0|Currency future.|Curncy|BBG000T2WHJ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RUU1|//blp/mktdata/buid/eCME/IX5831882-0|//blp/mktdata/bsid/2078768666708
-RUSSIAN RUBLE FUT Sep11|RUU1|eCME|2078768666708|IX5831882-0|Currency future.|Curncy|BBG000T2WHJ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RUU1|//blp/mktdata/buid/eCME/IX5831882-0|//blp/mktdata/bsid/2078768666708
 RUSSIAN RUBLE FUT Sep12|RUU2|CME|614187903578|IX7666144-0|Currency future.|Curncy|BBG000K9CFM6||14002|14002|0||39490|//blp/mktdata/bsym/CME/RUU2|//blp/mktdata/buid/CME/IX7666144-0|//blp/mktdata/bsid/614187903578
 RUSSIAN RUBLE FUT Sep12|RUU2|CME|614187903578|IX7666144-0|Currency future.|Curncy|BBG000K9CFM6||14002|14002|0||39490|//blp/mktdata/bsym/CME/RUU2|//blp/mktdata/buid/CME/IX7666144-0|//blp/mktdata/bsid/614187903578
 RUSSIAN RUBLE FUT Sep12|RUU2|cCME|9981511576154|IX7666144-0|Currency future.|Curncy|BBG000K9CFM6||14002|14002|0||39490|//blp/mktdata/bsym/cCME/RUU2|//blp/mktdata/buid/cCME/IX7666144-0|//blp/mktdata/bsid/9981511576154
@@ -3492,13 +3517,13 @@ TRM Curncy Future Jun12|TRSM2|CDE|7679423597885|IX12899409-0|Currency future.|Cu
 TRM Curncy Future Mar12|TRSH2|CDE|7679422195542|IX12262851-0|Currency future.|Curncy|BBG001KM1BR1||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSH2|//blp/mktdata/buid/CDE/IX12262851-0|//blp/mktdata/bsid/7679422195542
 TRM Curncy Future Nov11|TRSX1|CDE|7679424754774|IX13342058-0|Currency future.|Curncy|BBG001Z6HWJ6||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSX1|//blp/mktdata/buid/CDE/IX13342058-0|//blp/mktdata/bsid/7679424754774
 TRM Curncy Future Oct11|TRSV1|CDE|7679424152649|IX13148577-0|Currency future.|Curncy|BBG001WQTNB0||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSV1|//blp/mktdata/buid/CDE/IX13148577-0|//blp/mktdata/bsid/7679424152649
-TRM Curncy Future Sep12|TRSU2|||IX13573981-0|Currency future.|Curncy|BBG0022MJY63||34657|39759|39760||39689|||
+TRM Curncy Future Sep12|TRSU2|CDE|7679425453519|IX13573981-0|Currency future.|Curncy|BBG0022MJY63||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSU2|//blp/mktdata/buid/CDE/IX13573981-0|//blp/mktdata/bsid/7679425453519
 TRM Curncy Small  Dec11|TRWZ1|CDE|7679424706831|IX13331196-0|Currency future.|Curncy|BBG001Z10DT6||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWZ1|//blp/mktdata/buid/CDE/IX13331196-0|//blp/mktdata/bsid/7679424706831
 TRM Curncy Small  Jun12|TRWM2|CDE|7679424706833|IX13331212-0|Currency future.|Curncy|BBG001Z0DT46||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWM2|//blp/mktdata/buid/CDE/IX13331212-0|//blp/mktdata/bsid/7679424706833
 TRM Curncy Small  Mar12|TRWH2|CDE|7679424706832|IX13331208-0|Currency future.|Curncy|BBG001Z0DRP7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWH2|//blp/mktdata/buid/CDE/IX13331208-0|//blp/mktdata/bsid/7679424706832
 TRM Curncy Small  Nov11|TRWX1|CDE|7679424754781|IX13342090-0|Currency future.|Curncy|BBG001Z6HWN1||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWX1|//blp/mktdata/buid/CDE/IX13342090-0|//blp/mktdata/bsid/7679424754781
 TRM Curncy Small  Oct11|TRWV1|CDE|7679424706830|IX13331192-0|Currency future.|Curncy|BBG001Z10DS7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWV1|//blp/mktdata/buid/CDE/IX13331192-0|//blp/mktdata/bsid/7679424706830
-TRM Curncy Small  Sep12|TRWU2|||IX13574017-0|Currency future.|Curncy|BBG0022MJYH1||34657|39759|39760||39689|||
+TRM Curncy Small  Sep12|TRWU2|CDE|7679425453526|IX13574017-0|Currency future.|Curncy|BBG0022MJYH1||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWU2|//blp/mktdata/buid/CDE/IX13574017-0|//blp/mktdata/bsid/7679425453526
 TRY DOLLAR FUTURE Dec11|A1Z1|TKD|115983762770|IX11789167-0|Currency future.|Curncy|BBG001CTR9C8||27809|27809|0||39613|//blp/mktdata/bsym/TKD/A1Z1|//blp/mktdata/buid/TKD/IX11789167-0|//blp/mktdata/bsid/115983762770
 TRY DOLLAR FUTURE Feb12|A1G2|TKD|115987810249|IX13463461-0|Currency future.|Curncy|BBG0021F5K91||27809|27809|0||39613|//blp/mktdata/bsym/TKD/A1G2|//blp/mktdata/buid/TKD/IX13463461-0|//blp/mktdata/bsid/115987810249
 TRY DOLLAR FUTURE Oct11|A1V1|TKD|115985609016|IX12645285-0|Currency future.|Curncy|BBG001NY1CG2||27809|27809|0||39613|//blp/mktdata/bsym/TKD/A1V1|//blp/mktdata/buid/TKD/IX12645285-0|//blp/mktdata/bsid/115985609016
@@ -3749,6 +3774,7 @@ USD/EUR FUT (NEW) Mar12|JKH2|NA|468172239298|IX12342952-0|Currency future.|Curnc
 USD/EUR FUT (NEW) Nov11|JKX1|NA|468174891832|IX13405639-0|Currency future.|Curncy|BBG0020BB1W0||27269|27270|0||39605|//blp/mktdata/bsym/NA/JKX1|//blp/mktdata/buid/NA/IX13405639-0|//blp/mktdata/bsid/468174891832
 USD/EUR FUT (NEW) Oct11|JKV1|NA|468174090040|IX13169135-0|Currency future.|Curncy|BBG001WWF521||27269|27270|0||39605|//blp/mktdata/bsym/NA/JKV1|//blp/mktdata/buid/NA/IX13169135-0|//blp/mktdata/bsid/468174090040
 USD/EUR FUT (NEW) Sep11|JKU1|NA|468158933315|IX11117845-0|Currency future.|Curncy|BBG00165SN80||27267|27268|0||40559|//blp/mktdata/bsym/NA/JKU1|//blp/mktdata/buid/NA/IX11117845-0|//blp/mktdata/bsid/468158933315
+USD/EUR FUT (NEW) Sep12|JKU2|||IX13594810-0|Currency future.|Curncy|BBG0022V91B0||27269|27270|0||39605|||
 USD/HUF Future    Dec11|VUAZ1|eNYB|2100258385883|IX11676993-0|Currency future.|Curncy|BBG001BDTHP0||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/VUAZ1|//blp/mktdata/buid/eNYB/IX11676993-0|//blp/mktdata/bsid/2100258385883
 USD/HUF Future    Jun12|VUAM2|eNYB|2100261127300|IX12933477-0|Currency future.|Curncy|BBG001R089M5||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/VUAM2|//blp/mktdata/buid/eNYB/IX12933477-0|//blp/mktdata/bsid/2100261127300
 USD/HUF Future    Mar12|VUAH2|eNYB|2100259710193|IX12280441-0|Currency future.|Curncy|BBG001KPXQ14||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/VUAH2|//blp/mktdata/buid/eNYB/IX12280441-0|//blp/mktdata/bsid/2100259710193
@@ -3822,6 +3848,7 @@ USD/RON Future    Dec11|USRZ1|RO|1163955633240|IX11717034-0|Currency future.|Cur
 USD/RON Future    Jun12|USRM2|RO|1163958311580|IX12978099-0|Currency future.|Curncy|BBG001R723H5||31836|29764|0||39662|//blp/mktdata/bsym/RO/USRM2|//blp/mktdata/buid/RO/IX12978099-0|//blp/mktdata/bsid/1163958311580
 USD/RON Future    Sep11|RNYU1|SIB|7456084302588|IX12452079-0|Currency future.|Curncy|BBG001LZ25H4||33996|33996|0||40099|//blp/mktdata/bsym/SIB/RNYU1|//blp/mktdata/buid/SIB/IX12452079-0|//blp/mktdata/bsid/7456084302588
 USD/RON Future    Sep11|USRU1|RO|1163954451148|IX11118305-0|Currency future.|Curncy|BBG00165SRX3||31836|29764|0||39662|//blp/mktdata/bsym/RO/USRU1|//blp/mktdata/buid/RO/IX11118305-0|//blp/mktdata/bsid/1163954451148
+USD/RON Future    Sep12|USRU2|||IX13594890-0|Currency future.|Curncy|BBG0022V9353||31836|29764|0||39662|||
 USD/RUB X-RATE    Dec11|URSZ1|BSE|1103820695444|IX9860102-0|Currency future.|Curncy|BBG000YZ5FC2||14116|14116|0||39547|//blp/mktdata/bsym/BSE/URSZ1|//blp/mktdata/buid/BSE/IX9860102-0|//blp/mktdata/bsid/1103820695444
 USD/RUB X-RATE    Dec11|URZ1|RTS|1769544788854|IX11074315-0|Currency future.|Curncy|BBG00161J793||14134|14134|0||39558|//blp/mktdata/bsym/RTS/URZ1|//blp/mktdata/buid/RTS/IX11074315-0|//blp/mktdata/bsid/1769544788854
 USD/RUB X-RATE    Dec12|URSZ2|BSE|1103826007141|IX11694560-0|Currency future.|Curncy|BBG001BP1Y67||14116|14116|0||39547|//blp/mktdata/bsym/BSE/URSZ2|//blp/mktdata/buid/BSE/IX11694560-0|//blp/mktdata/bsid/1103826007141

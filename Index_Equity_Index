@@ -1,5 +1,5 @@
-#Data Generated At: Fri Sep 16 06:44:55 EDT 2011
-#Data Records=16314
+#Data Generated At: Sat Sep 17 15:44:39 EDT 2011
+#Data Records=16315
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1343,6 +1343,8 @@ BI GL Cable & Sat Comp|BRCSATC Index|||EI09BRCSATC|Equity Index|Index|BBG000Z4J5
 BI GL Cardiac Rhy Mmt PB|BICRMGMT Index|||EI09BICRMGMT|Equity Index|Index|BBG001BST4C0|||||||||
 BI GL Cardiovascular Com|BICDIOGC Index|||EI09BICDIOGC|Equity Index|Index|BBG001S45QK3|||||||||
 BI GL Cardiovascular Pri|BICDIOGP Index|||EI09BICDIOGP|Equity Index|Index|BBG001S45QD1|||||||||
+BI GL Cement & Aggreg Co|BICMNTGC Index|||EI09BICMNTGC|Equity Index|Index|BBG0022V3L95|||||||||
+BI GL Cement & Aggreg PB|BICMNTGP Index|||EI09BICMNTGP|Equity Index|Index|BBG0022V3KV2|||||||||
 BI GL Cmt & Agg Comp|BRCMAGC Index|||EI09BRCMAGC|Equity Index|Index|BBG0011DF4W7|||||||||
 BI GL Cmt & Agg PB|BRCMAGV Index|||EI09BRCMAGV|Equity Index|Index|BBG0011DF4K0|||||||||
 BI GL Cnst & Mng Cmptv|BICMMAC Index|||EI09BICMMAC|Equity Index|Index|BBG00179TKK2|||||||||
@@ -1431,6 +1433,7 @@ BI GL Meat&Dairy&Seaf PB|BIMEDISF Index|||EI09BIMEDISF|Equity Index|Index|BBG001
 BI GL Media Content Comp|BIMEDAGC Index|||EI09BIMEDAGC|Equity Index|Index|BBG001CBF155|||||||||
 BI GL Mega Miners Prin|BRMETLV Index|||EI09BRMETLV|Equity Index|Index|BBG000Z4J662|||||||||
 BI GL Memory Comp Idx|BIMMRY Index|||EI09BIMMRY|Equity Index|Index|BBG0017DXM42|||||||||
+BI GL Memory Principal B|BIMMRYGP Index|||EI09BIMMRYGP|Equity Index|Index|BBG0022TBLJ0|||||||||
 BI GL Mid Analog Cmptv|BRMCANSV Index|||EI09BRMCANSV|Equity Index|Index|BBG00128R445|||||||||
 BI GL Mid Auto Pts - Com|BIAUTPMS Index|||EI09BIAUTPMS|Equity Index|Index|BBG0017G4RW5|||||||||
 BI GL Mid Food Cmptv|BIMDFOCO Index|||EI09BIMDFOCO|Equity Index|Index|BBG0017FY7Z5|||||||||
@@ -3423,7 +3426,6 @@ ECAPDER|ECAPDER Index|ECAP|11008020133888|EI09ECAPDER|Equity Index|Index|BBG0019
 ECAPEMUN index|ECAPEMUN Index|ECAP|11008016100984|EI09ECAPEMUN|Equity Index|Index|BBG000Z3N9M5|||||37436||//blp/mktdata/bsym/ECAP/ECAPEMUN Index|//blp/mktdata/buid/ECAP/EI09ECAPEMUN|//blp/mktdata/bsid/11008016100984
 ECAPEMUP index|ECAPEMUP Index|ECAP|11008016100979|EI09ECAPEMUP|Equity Index|Index|BBG000Z3N8Y4|||||37436||//blp/mktdata/bsym/ECAP/ECAPEMUP Index|//blp/mktdata/buid/ECAP/EI09ECAPEMUP|//blp/mktdata/bsid/11008016100979
 ECAPEMUR index|ECAPEMUR Index|ECAP|11008016100982|EI09ECAPEMUR|Equity Index|Index|BBG000Z3N9T8|||||37436||//blp/mktdata/bsym/ECAP/ECAPEMUR Index|//blp/mktdata/buid/ECAP/EI09ECAPEMUR|//blp/mktdata/bsid/11008016100982
-ECFA Potential Benefit|JPHTTECF Index|JPUS|7116774877512|EI09JPHTTECF|Equity Index|Index|BBG000YT7XL5|||||33088||//blp/mktdata/bsym/JPUS/JPHTTECF Index|//blp/mktdata/buid/JPUS/EI09JPHTTECF|//blp/mktdata/bsid/7116774877512
 ECPI ASIAN INFRASTRUCT|ECPAIFP Index|ECAP|11008018295659|EI09ECPAIFP|Equity Index|Index|BBG0011SH4K5|||||37436||//blp/mktdata/bsym/ECAP/ECPAIFP Index|//blp/mktdata/buid/ECAP/EI09ECPAIFP|//blp/mktdata/bsid/11008018295659
 ECPI CARBONN|CARBONN Index|ECAP|11008015883464|EI09CARBONN|Equity Index|Index|BBG000Z36LQ3|||||37436||//blp/mktdata/bsym/ECAP/CARBONN Index|//blp/mktdata/buid/ECAP/EI09CARBONN|//blp/mktdata/bsid/11008015883464
 ECPI CARBONP|CARBONP Index|ECAP|11008015883456|EI09CARBONP|Equity Index|Index|BBG000Z36KT2|||||37436||//blp/mktdata/bsym/ECAP/CARBONP Index|//blp/mktdata/buid/ECAP/EI09CARBONP|//blp/mktdata/bsid/11008015883456
@@ -5802,7 +5804,6 @@ JSE SELECT INDEX|JSESEL Index|JA|1082332218850|EI09JSESEL|Equity Index|Index|BBG
 JSHR40/MXZA|JPSAX1GQ Index|JPUS||EI09JPSAX1GQ|Equity Index|Index|BBG00204XXR8|||||33088||//blp/mktdata/bsym/JPUS/JPSAX1GQ Index|//blp/mktdata/buid/JPUS/EI09JPSAX1GQ|
 JSHR40/MXZA|JPSAX1GY Index|JPUS||EI09JPSAX1GY|Equity Index|Index|BBG00204JRR7|||||33088||//blp/mktdata/bsym/JPUS/JPSAX1GY Index|//blp/mktdata/buid/JPUS/EI09JPSAX1GY|
 Japan Restructuring|JPHJTRES Index|JPUS|7116774443418|EI09JPHJTRES|Equity Index|Index|BBG000YB2MW1|||||33088||//blp/mktdata/bsym/JPUS/JPHJTRES Index|//blp/mktdata/buid/JPUS/EI09JPHJTRES|//blp/mktdata/bsid/7116774443418
-Japan Summer O/P|JPHJTSUM Index|JPUS|7116776535958|EI09JPHJTSUM|Equity Index|Index|BBG000ZB4PC3|||||33088||//blp/mktdata/bsym/JPUS/JPHJTSUM Index|//blp/mktdata/buid/JPUS/EI09JPHJTSUM|//blp/mktdata/bsid/7116776535958
 Japanese Exporters|JPCEJAEX Index|JPUS|7116781290632|EI09JPCEJAEX|Equity Index|Index|BBG001K3MVG8|||||33088||//blp/mktdata/bsym/JPUS/JPCEJAEX Index|//blp/mktdata/buid/JPUS/EI09JPCEJAEX|//blp/mktdata/bsid/7116781290632
 Jasdaq Growth Index|JASDAQGR Index|JSDQ|5965727370595|EI09JASDAQGR|Equity Index|Index|BBG00133SSB3||14021|14021|||39502|//blp/mktdata/bsym/JSDQ/JASDAQGR Index|//blp/mktdata/buid/JSDQ/EI09JASDAQGR|//blp/mktdata/bsid/5965727370595
 Jasdaq Standard Index|JASDAQST Index|JSDQ|5965728175378|EI09JASDAQST|Equity Index|Index|BBG00133SSK3||14021|14021|||39502|//blp/mktdata/bsym/JSDQ/JASDAQST Index|//blp/mktdata/buid/JSDQ/EI09JASDAQST|//blp/mktdata/bsid/5965728175378
@@ -15272,7 +15273,6 @@ SOURCE ETF SELECT DIV|MLSDJDIV Index|MLEI|5338667714549|EI09MLSDJDIV|Equity Inde
 SOURCE ETF STOXX 50|MLSDJS50 Index|MLEI|5338667714759|EI09MLSDJS50|Equity Index|Index|BBG001ZZZ0N7|||||34974||//blp/mktdata/bsym/MLEI/MLSDJS50 Index|//blp/mktdata/buid/MLEI/EI09MLSDJS50|//blp/mktdata/bsid/5338667714759
 SOURCE ETF SX5E B FUND|MLSDJE5D Index|MLEI|5338667730084|EI09MLSDJE5D|Equity Index|Index|BBG00202JV92|||||34974||//blp/mktdata/bsym/MLEI/MLSDJE5D Index|//blp/mktdata/buid/MLEI/EI09MLSDJE5D|//blp/mktdata/bsid/5338667730084
 SOURCE ETF SX5E|MLSDJE50 Index|MLEI|5338667714758|EI09MLSDJE50|Equity Index|Index|BBG001ZZZ0P5|||||34974||//blp/mktdata/bsym/MLEI/MLSDJE50 Index|//blp/mktdata/buid/MLEI/EI09MLSDJE50|//blp/mktdata/bsid/5338667714758
-SP Potential Home IPO|JPHSPPHL Index|JPUS|7116774799400|EI09JPHSPPHL|Equity Index|Index|BBG000YSYJ10|||||33088||//blp/mktdata/bsym/JPUS/JPHSPPHL Index|//blp/mktdata/buid/JPUS/EI09JPHSPPHL|//blp/mktdata/bsid/7116774799400
 SPAIN MA  MADRID INDEX|MADX Index|SM|476741667637|EI09MADX|Equity Index|Index|BBG000K1QCM5||14050||||39509|//blp/mktdata/bsym/SM/MADX Index|//blp/mktdata/buid/SM/EI09MADX|//blp/mktdata/bsid/476741667637
 SPAIN MA BSC MAT IND IX|MAB2 Index|SM|476741755659|EI09MAB2|Equity Index|Index|BBG000V3HFZ8||14050||||39509|//blp/mktdata/bsym/SM/MAB2 Index|//blp/mktdata/buid/SM/EI09MAB2|//blp/mktdata/bsid/476741755659
 SPAIN MA CONSUMER GDS IX|MAB3 Index|SM|476741755660|EI09MAB3|Equity Index|Index|BBG000V3HMH3||14050||||39509|//blp/mktdata/bsym/SM/MAB3 Index|//blp/mktdata/buid/SM/EI09MAB3|//blp/mktdata/bsid/476741755660
@@ -15897,6 +15897,7 @@ UBS Oil M&A|UBSSOILM Index|WDRL|2495399247950|EI09UBSSOILM|Equity Index|Index|BB
 UBS Optimised EU Insu|UBTEUINS Index|WDRL|2495399892970|EI09UBTEUINS|Equity Index|Index|BBG0022GTSS4|||||||//blp/mktdata/bsym/WDRL/UBTEUINS Index|//blp/mktdata/buid/WDRL/EI09UBTEUINS|//blp/mktdata/bsid/2495399892970
 UBS Optimised Europe|UBSSSX5E Index|WDRL|2495399425909|EI09UBSSSX5E|Equity Index|Index|BBG00207X4Q6|||||||//blp/mktdata/bsym/WDRL/UBSSSX5E Index|//blp/mktdata/buid/WDRL/EI09UBSSSX5E|//blp/mktdata/bsid/2495399425909
 UBS Optimised France|UBSSCACS Index|WDRL|2495399447513|EI09UBSSCACS|Equity Index|Index|BBG002081P55|||||||//blp/mktdata/bsym/WDRL/UBSSCACS Index|//blp/mktdata/buid/WDRL/EI09UBSSCACS|//blp/mktdata/bsid/2495399447513
+UBS Optimised Germany|UBOEGDAX Index|WDRL||EI09UBOEGDAX|Equity Index|Index|BBG0022TZNN5|||||||//blp/mktdata/bsym/WDRL/UBOEGDAX Index|//blp/mktdata/buid/WDRL/EI09UBOEGDAX|
 UBS Optimised Italy|UBTITOPT Index|WDRL|2495399784159|EI09UBTITOPT|Equity Index|Index|BBG0021SM285|||||||//blp/mktdata/bsym/WDRL/UBTITOPT Index|//blp/mktdata/buid/WDRL/EI09UBTITOPT|//blp/mktdata/bsid/2495399784159
 UBS Optimised Spain|UBTESOPT Index|WDRL|2495399784160|EI09UBTESOPT|Equity Index|Index|BBG0021S7LL5|||||||//blp/mktdata/bsym/WDRL/UBTESOPT Index|//blp/mktdata/buid/WDRL/EI09UBTESOPT|//blp/mktdata/bsid/2495399784160
 UBS Periphery Banks|UBSSBNKE Index|WDRL|2495399247947|EI09UBSSBNKE|Equity Index|Index|BBG001Z6C626|||||||//blp/mktdata/bsym/WDRL/UBSSBNKE Index|//blp/mktdata/buid/WDRL/EI09UBSSBNKE|//blp/mktdata/bsid/2495399247947
