@@ -1,5 +1,5 @@
-#Data Generated At: Sun Sep 18 06:09:42 EDT 2011
-#Data Records=3196
+#Data Generated At: Mon Sep 19 06:29:07 EDT 2011
+#Data Records=3212
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=CD
 AED CD              1 MO||||IX3400308-0|CD|Curncy|BBG0013LPPB2|||||||||
 AED CD              1 WK||||IX3400284-0|CD|Curncy|BBG0013LPP77|||||||||
@@ -857,6 +857,9 @@ DOP CD 9M||||IX4208013-0|CD|Curncy|BBG0013LPS53|||||||||
 EGP CD Floating 3Y||||IX9048453-0|CD|Curncy|BBG0013LQ0W3|||||||||
 EGP CD Floating 5Y||||IX9040075-0|CD|Curncy|BBG0013LQHB9|||||||||
 EUR CD              1 MO||BCMI|6506875491960|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/BCMI/IX441833-0|//blp/mktdata/bsid/6506875491960
+EUR CD              1 MO||CMPL|412316898936|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/CMPL/IX441833-0|//blp/mktdata/bsid/412316898936
+EUR CD              1 MO||CMPN|416611866232|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/CMPN/IX441833-0|//blp/mktdata/bsid/416611866232
+EUR CD              1 MO||CMPT|425201800824|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/CMPT/IX441833-0|//blp/mktdata/bsid/425201800824
 EUR CD              1 MO||CREM|5729486411384|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/CREM/IX441833-0|//blp/mktdata/bsid/5729486411384
 EUR CD              1 MO||HLBL|4307852236408|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/HLBL/IX441833-0|//blp/mktdata/bsid/4307852236408
 EUR CD              1 MO||NABN|16531329160824|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/NABN/IX441833-0|//blp/mktdata/bsid/16531329160824
@@ -865,6 +868,9 @@ EUR CD              1 MO||POHB|9607841879672|IX441833-0|CD|Curncy|BBG0013LP544||
 EUR CD              1 MO||TPMM|14581414008440|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/TPMM/IX441833-0|//blp/mktdata/bsid/14581414008440
 EUR CD              1 MO||UNCR|4531190535800|IX441833-0|CD|Curncy|BBG0013LP544||||||||//blp/mktdata/buid/UNCR/IX441833-0|//blp/mktdata/bsid/4531190535800
 EUR CD              1 WK||CREM|5729508095356|IX509732-0|CD|Curncy|BBG0013LP9L7||||||||//blp/mktdata/buid/CREM/IX509732-0|//blp/mktdata/bsid/5729508095356
+EUR CD              1 YR||CMPL|412316898935|IX441841-0|CD|Curncy|BBG0013LP5H0||||||||//blp/mktdata/buid/CMPL/IX441841-0|//blp/mktdata/bsid/412316898935
+EUR CD              1 YR||CMPN|416611866231|IX441841-0|CD|Curncy|BBG0013LP5H0||||||||//blp/mktdata/buid/CMPN/IX441841-0|//blp/mktdata/bsid/416611866231
+EUR CD              1 YR||CMPT|425201800823|IX441841-0|CD|Curncy|BBG0013LP5H0||||||||//blp/mktdata/buid/CMPT/IX441841-0|//blp/mktdata/bsid/425201800823
 EUR CD              1 YR||HLBL|4307852236407|IX441841-0|CD|Curncy|BBG0013LP5H0||||||||//blp/mktdata/buid/HLBL/IX441841-0|//blp/mktdata/bsid/4307852236407
 EUR CD              1 YR||NABN|16531329160823|IX441841-0|CD|Curncy|BBG0013LP5H0||||||||//blp/mktdata/buid/NABN/IX441841-0|//blp/mktdata/bsid/16531329160823
 EUR CD              1 YR||NDL|11712375854711|IX441841-0|CD|Curncy|BBG0013LP5H0||||||||//blp/mktdata/buid/NDL/IX441841-0|//blp/mktdata/bsid/11712375854711
@@ -895,6 +901,9 @@ EUR CD              3 MO||POHB|9607841879754|IX441837-0|CD|Curncy|BBG0013LP5B6||
 EUR CD              3 MO||TPMM|14581414008522|IX441837-0|CD|Curncy|BBG0013LP5B6||||||||//blp/mktdata/buid/TPMM/IX441837-0|//blp/mktdata/bsid/14581414008522
 EUR CD              3 MO||UNCR|4531190535882|IX441837-0|CD|Curncy|BBG0013LP5B6||||||||//blp/mktdata/buid/UNCR/IX441837-0|//blp/mktdata/bsid/4531190535882
 EUR CD              4 MO||BCMI|6506875492043|IX469753-0|CD|Curncy|BBG0013LP5W3||||||||//blp/mktdata/buid/BCMI/IX469753-0|//blp/mktdata/bsid/6506875492043
+EUR CD              4 MO||CMPL|412316899019|IX469753-0|CD|Curncy|BBG0013LP5W3||||||||//blp/mktdata/buid/CMPL/IX469753-0|//blp/mktdata/bsid/412316899019
+EUR CD              4 MO||CMPN|416611866315|IX469753-0|CD|Curncy|BBG0013LP5W3||||||||//blp/mktdata/buid/CMPN/IX469753-0|//blp/mktdata/bsid/416611866315
+EUR CD              4 MO||CMPT|425201800907|IX469753-0|CD|Curncy|BBG0013LP5W3||||||||//blp/mktdata/buid/CMPT/IX469753-0|//blp/mktdata/bsid/425201800907
 EUR CD              4 MO||CREM|5729486411467|IX469753-0|CD|Curncy|BBG0013LP5W3||||||||//blp/mktdata/buid/CREM/IX469753-0|//blp/mktdata/bsid/5729486411467
 EUR CD              4 MO||HLBL|4307852236491|IX469753-0|CD|Curncy|BBG0013LP5W3||||||||//blp/mktdata/buid/HLBL/IX469753-0|//blp/mktdata/bsid/4307852236491
 EUR CD              4 MO||NABN|16531329160907|IX469753-0|CD|Curncy|BBG0013LP5W3||||||||//blp/mktdata/buid/NABN/IX469753-0|//blp/mktdata/bsid/16531329160907
@@ -911,6 +920,9 @@ EUR CD              5 MO||POHB|9607841879756|IX469755-0|CD|Curncy|BBG0013LP5Z0||
 EUR CD              5 MO||TPMM|14581414008524|IX469755-0|CD|Curncy|BBG0013LP5Z0||||||||//blp/mktdata/buid/TPMM/IX469755-0|//blp/mktdata/bsid/14581414008524
 EUR CD              5 MO||UNCR|4531190535884|IX469755-0|CD|Curncy|BBG0013LP5Z0||||||||//blp/mktdata/buid/UNCR/IX469755-0|//blp/mktdata/bsid/4531190535884
 EUR CD              6 MO||BCMI|6506875492045|IX441839-0|CD|Curncy|BBG0013LP5F2||||||||//blp/mktdata/buid/BCMI/IX441839-0|//blp/mktdata/bsid/6506875492045
+EUR CD              6 MO||CMPL|412316899021|IX441839-0|CD|Curncy|BBG0013LP5F2||||||||//blp/mktdata/buid/CMPL/IX441839-0|//blp/mktdata/bsid/412316899021
+EUR CD              6 MO||CMPN|416611866317|IX441839-0|CD|Curncy|BBG0013LP5F2||||||||//blp/mktdata/buid/CMPN/IX441839-0|//blp/mktdata/bsid/416611866317
+EUR CD              6 MO||CMPT|425201800909|IX441839-0|CD|Curncy|BBG0013LP5F2||||||||//blp/mktdata/buid/CMPT/IX441839-0|//blp/mktdata/bsid/425201800909
 EUR CD              6 MO||CREM|5729486411469|IX441839-0|CD|Curncy|BBG0013LP5F2||||||||//blp/mktdata/buid/CREM/IX441839-0|//blp/mktdata/bsid/5729486411469
 EUR CD              6 MO||HLBL|4307852236493|IX441839-0|CD|Curncy|BBG0013LP5F2||||||||//blp/mktdata/buid/HLBL/IX441839-0|//blp/mktdata/bsid/4307852236493
 EUR CD              6 MO||NABN|16531329160909|IX441839-0|CD|Curncy|BBG0013LP5F2||||||||//blp/mktdata/buid/NABN/IX441839-0|//blp/mktdata/bsid/16531329160909
@@ -922,6 +934,9 @@ EUR CD              7 MO||POHB|9607841879758|IX850840-0|CD|Curncy|BBG0013LPGJ4||
 EUR CD              7 MO||UNCR|4531190535886|IX850840-0|CD|Curncy|BBG0013LPGJ4||||||||//blp/mktdata/buid/UNCR/IX850840-0|//blp/mktdata/bsid/4531190535886
 EUR CD              8 MO||POHB|9607841879759|IX850842-0|CD|Curncy|BBG0013LPGM0||||||||//blp/mktdata/buid/POHB/IX850842-0|//blp/mktdata/bsid/9607841879759
 EUR CD              8 MO||UNCR|4531190535887|IX850842-0|CD|Curncy|BBG0013LPGM0||||||||//blp/mktdata/buid/UNCR/IX850842-0|//blp/mktdata/bsid/4531190535887
+EUR CD              9 MO||CMPL|412316899039|IX469757-0|CD|Curncy|BBG0013LP624||||||||//blp/mktdata/buid/CMPL/IX469757-0|//blp/mktdata/bsid/412316899039
+EUR CD              9 MO||CMPN|416611866335|IX469757-0|CD|Curncy|BBG0013LP624||||||||//blp/mktdata/buid/CMPN/IX469757-0|//blp/mktdata/bsid/416611866335
+EUR CD              9 MO||CMPT|425201800927|IX469757-0|CD|Curncy|BBG0013LP624||||||||//blp/mktdata/buid/CMPT/IX469757-0|//blp/mktdata/bsid/425201800927
 EUR CD              9 MO||HLBL|4307852236511|IX469757-0|CD|Curncy|BBG0013LP624||||||||//blp/mktdata/buid/HLBL/IX469757-0|//blp/mktdata/bsid/4307852236511
 EUR CD              9 MO||NABN|16531329160927|IX469757-0|CD|Curncy|BBG0013LP624||||||||//blp/mktdata/buid/NABN/IX469757-0|//blp/mktdata/bsid/16531329160927
 EUR CD              9 MO||NDL|11712375854815|IX469757-0|CD|Curncy|BBG0013LP624||||||||//blp/mktdata/buid/NDL/IX469757-0|//blp/mktdata/bsid/11712375854815
@@ -1556,13 +1571,10 @@ HKD CD Fiduciary 12M||SGIC|19155563951079|IX8504997-0|CD|Curncy|BBG0013LQPL0||||
 HKD CD Fiduciary 1M||RABO|6472525525960|IX8504977-0|CD|Curncy|BBG0013LQNY1||||||||//blp/mktdata/buid/RABO/IX8504977-0|//blp/mktdata/bsid/6472525525960
 HKD CD Fiduciary 1M||SFID|10900636808136|IX8504977-0|CD|Curncy|BBG0013LQNY1||||||||//blp/mktdata/buid/SFID/IX8504977-0|//blp/mktdata/bsid/10900636808136
 HKD CD Fiduciary 1M||SGIC|19155563951048|IX8504977-0|CD|Curncy|BBG0013LQNY1||||||||//blp/mktdata/buid/SGIC/IX8504977-0|//blp/mktdata/bsid/19155563951048
-HKD CD Fiduciary 1W||RABO|6472525525968|IX8504969-0|CD|Curncy|BBG0013LQNS8||||||||//blp/mktdata/buid/RABO/IX8504969-0|//blp/mktdata/bsid/6472525525968
 HKD CD Fiduciary 1W||SFID|10900636808144|IX8504969-0|CD|Curncy|BBG0013LQNS8||||||||//blp/mktdata/buid/SFID/IX8504969-0|//blp/mktdata/bsid/10900636808144
-HKD CD Fiduciary 1W||SGIC|19155563951056|IX8504969-0|CD|Curncy|BBG0013LQNS8||||||||//blp/mktdata/buid/SGIC/IX8504969-0|//blp/mktdata/bsid/19155563951056
 HKD CD Fiduciary 2M||RABO|6472525525964|IX8504981-0|CD|Curncy|BBG0013LQP30||||||||//blp/mktdata/buid/RABO/IX8504981-0|//blp/mktdata/bsid/6472525525964
 HKD CD Fiduciary 2M||SFID|10900636808140|IX8504981-0|CD|Curncy|BBG0013LQP30||||||||//blp/mktdata/buid/SFID/IX8504981-0|//blp/mktdata/bsid/10900636808140
 HKD CD Fiduciary 2M||SGIC|19155563951052|IX8504981-0|CD|Curncy|BBG0013LQP30||||||||//blp/mktdata/buid/SGIC/IX8504981-0|//blp/mktdata/bsid/19155563951052
-HKD CD Fiduciary 2W||RABO|6472525525962|IX8504973-0|CD|Curncy|BBG0013LQNW3||||||||//blp/mktdata/buid/RABO/IX8504973-0|//blp/mktdata/bsid/6472525525962
 HKD CD Fiduciary 2W||SFID|10900636808138|IX8504973-0|CD|Curncy|BBG0013LQNW3||||||||//blp/mktdata/buid/SFID/IX8504973-0|//blp/mktdata/bsid/10900636808138
 HKD CD Fiduciary 2W||SGIC|19155563951050|IX8504973-0|CD|Curncy|BBG0013LQNW3||||||||//blp/mktdata/buid/SGIC/IX8504973-0|//blp/mktdata/bsid/19155563951050
 HKD CD Fiduciary 3M||CMPL|412326671330|IX8504985-0|CD|Curncy|BBG0013LQP67||||||||//blp/mktdata/buid/CMPL/IX8504985-0|//blp/mktdata/bsid/412326671330
@@ -2042,7 +2054,6 @@ MYR DEPOSIT FIXED  11 MO||PUBK|14873471818586|IX526925-0|CD|Curncy|BBG0013LPC58|
 MYR DEPOSIT FIXED  13 MO||PUBK|14873471818573|IX526927-0|CD|Curncy|BBG0013LPC94||||||||//blp/mktdata/buid/PUBK/IX526927-0|//blp/mktdata/bsid/14873471818573
 MYR DEPOSIT FIXED  14 MO||PUBK|14873471818574|IX526929-0|CD|Curncy|BBG0013LPCC0||||||||//blp/mktdata/buid/PUBK/IX526929-0|//blp/mktdata/bsid/14873471818574
 MYR NID              7YR||ABSB|10776074808583|IX4452271-0|CD|Curncy|BBG0013LPSC5||||||||//blp/mktdata/buid/ABSB/IX4452271-0|//blp/mktdata/bsid/10776074808583
-MYR NID             1 MO||ABSB|10776075275684|IX476623-0|CD|Curncy|BBG0013LP2X9||||||||//blp/mktdata/buid/ABSB/IX476623-0|//blp/mktdata/bsid/10776075275684
 MYR NID             1 MO||AMMB|14817639501220|IX476623-0|CD|Curncy|BBG0013LP2X9||||||||//blp/mktdata/buid/AMMB/IX476623-0|//blp/mktdata/bsid/14817639501220
 MYR NID             10YR||ABSB|10776075275683|IX4452275-0|CD|Curncy|BBG0013LPSG1||||||||//blp/mktdata/buid/ABSB/IX4452275-0|//blp/mktdata/bsid/10776075275683
 MYR NID             2 MO||ABSB|10776075275685|IX476625-0|CD|Curncy|BBG0017132N4||||||||//blp/mktdata/buid/ABSB/IX476625-0|//blp/mktdata/bsid/10776075275685
@@ -2285,7 +2296,6 @@ NZD CD Fiduciary 1M||IFAB|19619420419035|IX8504853-0|CD|Curncy|BBG0013LQL84|||||
 NZD CD Fiduciary 1M||IFBB|12120407520219|IX8504853-0|CD|Curncy|BBG0013LQL84||||||||//blp/mktdata/buid/IFBB/IX8504853-0|//blp/mktdata/bsid/12120407520219
 NZD CD Fiduciary 1M||IFCB|19632305320923|IX8504853-0|CD|Curncy|BBG0013LQL84||||||||//blp/mktdata/buid/IFCB/IX8504853-0|//blp/mktdata/bsid/19632305320923
 NZD CD Fiduciary 1M||LBLU|21122658972635|IX8504853-0|CD|Curncy|BBG0013LQL84||||||||//blp/mktdata/buid/LBLU/IX8504853-0|//blp/mktdata/bsid/21122658972635
-NZD CD Fiduciary 1M||LFID|17102569583579|IX8504853-0|CD|Curncy|BBG0013LQL84||||||||//blp/mktdata/buid/LFID/IX8504853-0|//blp/mktdata/bsid/17102569583579
 NZD CD Fiduciary 1M||RABO|6472525525979|IX8504853-0|CD|Curncy|BBG0013LQL84||||||||//blp/mktdata/buid/RABO/IX8504853-0|//blp/mktdata/bsid/6472525525979
 NZD CD Fiduciary 1M||RBSA|2379421692891|IX8504853-0|CD|Curncy|BBG0013LQL84||||||||//blp/mktdata/buid/RBSA/IX8504853-0|//blp/mktdata/bsid/2379421692891
 NZD CD Fiduciary 1M||SFID|10900636808155|IX8504853-0|CD|Curncy|BBG0013LQL84||||||||//blp/mktdata/buid/SFID/IX8504853-0|//blp/mktdata/bsid/10900636808155
@@ -2718,6 +2728,9 @@ TTD CD 9M||||IX6884513-0|CD|Curncy|BBG0013LPVQ3|||||||||
 USD CD               O/N||||IX812910-0|CD|Curncy|BBG0013LNR93|||||||||
 USD CD              1 MO||ANTS|9504762740863|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/ANTS/IX400309-0|//blp/mktdata/bsid/9504762740863
 USD CD              1 MO||BCMI|6506875568255|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/BCMI/IX400309-0|//blp/mktdata/bsid/6506875568255
+USD CD              1 MO||CMPL|412316975231|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/CMPL/IX400309-0|//blp/mktdata/bsid/412316975231
+USD CD              1 MO||CMPN|416611942527|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/CMPN/IX400309-0|//blp/mktdata/bsid/416611942527
+USD CD              1 MO||CMPT|425201877119|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/CMPT/IX400309-0|//blp/mktdata/bsid/425201877119
 USD CD              1 MO||HLBL|4307852312703|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/HLBL/IX400309-0|//blp/mktdata/bsid/4307852312703
 USD CD              1 MO||NABN|16531329237119|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/NABN/IX400309-0|//blp/mktdata/bsid/16531329237119
 USD CD              1 MO||NDL|11712375931007|IX400309-0|CD|Curncy|BBG0013LP4H3||||||||//blp/mktdata/buid/NDL/IX400309-0|//blp/mktdata/bsid/11712375931007
@@ -2762,6 +2775,9 @@ USD CD              5 MO||UNCR|4531190612179|IX400317-0|CD|Curncy|BBG0013LP4R2||
 USD CD              5 YR||BCMI|6506881563664|IX812859-0|CD|Curncy|BBG0013LPGC1||||||||//blp/mktdata/buid/BCMI/IX812859-0|//blp/mktdata/bsid/6506881563664
 USD CD              6 MO||ANTS|9504762740948|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/ANTS/IX400303-0|//blp/mktdata/bsid/9504762740948
 USD CD              6 MO||BCMI|6506875568340|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/BCMI/IX400303-0|//blp/mktdata/bsid/6506875568340
+USD CD              6 MO||CMPL|412316975316|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/CMPL/IX400303-0|//blp/mktdata/bsid/412316975316
+USD CD              6 MO||CMPN|416611942612|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/CMPN/IX400303-0|//blp/mktdata/bsid/416611942612
+USD CD              6 MO||CMPT|425201877204|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/CMPT/IX400303-0|//blp/mktdata/bsid/425201877204
 USD CD              6 MO||HLBL|4307852312788|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/HLBL/IX400303-0|//blp/mktdata/bsid/4307852312788
 USD CD              6 MO||NABN|16531329237204|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/NABN/IX400303-0|//blp/mktdata/bsid/16531329237204
 USD CD              6 MO||NDL|11712375931092|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/NDL/IX400303-0|//blp/mktdata/bsid/11712375931092

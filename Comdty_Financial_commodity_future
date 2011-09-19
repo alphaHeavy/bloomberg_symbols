@@ -1,5 +1,5 @@
-#Data Generated At: Sun Sep 18 05:52:59 EDT 2011
-#Data Records=6301
+#Data Generated At: Mon Sep 19 06:13:05 EDT 2011
+#Data Records=6309
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -982,8 +982,12 @@
 5YR EURO$ BUNDLE  Dec11|Y5Z1|cCME|9981526098498|IX12916303-0|Financial commodity future.|Comdty|BBG001QZCY58||14002|14002|0||39490|//blp/mktdata/bsym/cCME/Y5Z1|//blp/mktdata/buid/cCME/IX12916303-0|//blp/mktdata/bsid/9981526098498
 5YR EURO$ BUNDLE  Dec11|Y5Z1|eCME|2078786273858|IX12916303-0|Financial commodity future.|Comdty|BBG001QZCY58||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Y5Z1|//blp/mktdata/buid/eCME/IX12916303-0|//blp/mktdata/bsid/2078786273858
 5YR EURO$ BUNDLE  Dec11|Y5Z1|eCME|2078786273858|IX12916303-0|Financial commodity future.|Comdty|BBG001QZCY58||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Y5Z1|//blp/mktdata/buid/eCME/IX12916303-0|//blp/mktdata/bsid/2078786273858
-5YR EURO$ BUNDLE  Mar12|Y5H2|||IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|||
-5YR EURO$ BUNDLE  Mar12|Y5H2|||IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|||
+5YR EURO$ BUNDLE  Mar12|Y5H2|CME|614204296022|IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|//blp/mktdata/bsym/CME/Y5H2|//blp/mktdata/buid/CME/IX13596298-0|//blp/mktdata/bsid/614204296022
+5YR EURO$ BUNDLE  Mar12|Y5H2|CME|614204296022|IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|//blp/mktdata/bsym/CME/Y5H2|//blp/mktdata/buid/CME/IX13596298-0|//blp/mktdata/bsid/614204296022
+5YR EURO$ BUNDLE  Mar12|Y5H2|cCME|9981527968598|IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|//blp/mktdata/bsym/cCME/Y5H2|//blp/mktdata/buid/cCME/IX13596298-0|//blp/mktdata/bsid/9981527968598
+5YR EURO$ BUNDLE  Mar12|Y5H2|cCME|9981527968598|IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|//blp/mktdata/bsym/cCME/Y5H2|//blp/mktdata/buid/cCME/IX13596298-0|//blp/mktdata/bsid/9981527968598
+5YR EURO$ BUNDLE  Mar12|Y5H2|eCME|2078788143958|IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Y5H2|//blp/mktdata/buid/eCME/IX13596298-0|//blp/mktdata/bsid/2078788143958
+5YR EURO$ BUNDLE  Mar12|Y5H2|eCME|2078788143958|IX13596298-0|Financial commodity future.|Comdty|BBG0022W06T7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Y5H2|//blp/mktdata/buid/eCME/IX13596298-0|//blp/mktdata/bsid/2078788143958
 5YR EURO$ EMINI B Dec12|ASZ2|eCME|2078781582875|IX10603020-0|Financial commodity future.|Comdty|BBG0012H6PY8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ASZ2|//blp/mktdata/buid/eCME/IX10603020-0|//blp/mktdata/bsid/2078781582875
 5YR EURO$ EMINI B Dec13|ASZ3|eCME|2078781582876|IX10603056-0|Financial commodity future.|Comdty|BBG0012H6QY6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ASZ3|//blp/mktdata/buid/eCME/IX10603056-0|//blp/mktdata/bsid/2078781582876
 5YR EURO$ EMINI B Jun13|ASM3|eCME|2078781582879|IX10603048-0|Financial commodity future.|Comdty|BBG0012H6QT2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ASM3|//blp/mktdata/buid/eCME/IX10603048-0|//blp/mktdata/bsid/2078781582879
@@ -2315,7 +2319,7 @@ E-MINI EURO$ FUT  Sep20|IUU20|eCME|2078783592080|IX11701929-0|Financial commodit
 ELX 2YR EUR$ BUND Dec11|BNEZ1|ELX|10995136939909|IX12085955-0|Financial commodity future.|Comdty|BBG001KM2CG0||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEZ1|//blp/mktdata/buid/ELX/IX12085955-0|//blp/mktdata/bsid/10995136939909
 ELX 2YR EUR$ BUND Dec12|BNEZ2|ELX|10995136939913|IX12085971-0|Financial commodity future.|Comdty|BBG001KM2CH9||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEZ2|//blp/mktdata/buid/ELX/IX12085971-0|//blp/mktdata/bsid/10995136939913
 ELX 2YR EUR$ BUND Dec13|BNEZ3|ELX|10995136939917|IX12085987-0|Financial commodity future.|Comdty|BBG001KM2CJ7||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEZ3|//blp/mktdata/buid/ELX/IX12085987-0|//blp/mktdata/bsid/10995136939917
-ELX 2YR EUR$ BUND Dec14|BNEZ4|||IX13596606-0|Financial commodity future.|Comdty|BBG0022W0822||37407|37407|0||39729|||
+ELX 2YR EUR$ BUND Dec14|BNEZ4|ELX|10995140321655|IX13596606-0|Financial commodity future.|Comdty|BBG0022W0822||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEZ4|//blp/mktdata/buid/ELX/IX13596606-0|//blp/mktdata/bsid/10995140321655
 ELX 2YR EUR$ BUND Jun12|BNEM2|ELX|10995136939911|IX12085963-0|Financial commodity future.|Comdty|BBG001KM2C98||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEM2|//blp/mktdata/buid/ELX/IX12085963-0|//blp/mktdata/bsid/10995136939911
 ELX 2YR EUR$ BUND Jun13|BNEM3|ELX|10995136939914|IX12085979-0|Financial commodity future.|Comdty|BBG001KM2CB5||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEM3|//blp/mktdata/buid/ELX/IX12085979-0|//blp/mktdata/bsid/10995136939914
 ELX 2YR EUR$ BUND Jun14|BNEM4|ELX|10995136980324|IX12280269-0|Financial commodity future.|Comdty|BBG001KPXPJ7||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEM4|//blp/mktdata/buid/ELX/IX12280269-0|//blp/mktdata/bsid/10995136980324
@@ -2327,7 +2331,7 @@ ELX 2YR EUR$ BUND Sep13|BNEU3|ELX|10995136939916|IX12085983-0|Financial commodit
 ELX 2YR EUR$ BUND Sep14|BNEU4|ELX|10995138382062|IX12916459-0|Financial commodity future.|Comdty|BBG001QZCZM6||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNEU4|//blp/mktdata/buid/ELX/IX12916459-0|//blp/mktdata/bsid/10995138382062
 ELX 3YR EUR$ BUND Dec11|BNLZ1|ELX|10995136899905|IX12188897-0|Financial commodity future.|Comdty|BBG001KM2CS7||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNLZ1|//blp/mktdata/buid/ELX/IX12188897-0|//blp/mktdata/bsid/10995136899905
 ELX 3YR EUR$ BUND Dec12|BNLZ2|ELX|10995136899909|IX12188913-0|Financial commodity future.|Comdty|BBG001KM2CT6||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNLZ2|//blp/mktdata/buid/ELX/IX12188913-0|//blp/mktdata/bsid/10995136899909
-ELX 3YR EUR$ BUND Dec13|BNLZ3|||IX13596710-0|Financial commodity future.|Comdty|BBG0022W08J4||37407|37407|0||39729|||
+ELX 3YR EUR$ BUND Dec13|BNLZ3|ELX|10995140253356|IX13596710-0|Financial commodity future.|Comdty|BBG0022W08J4||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNLZ3|//blp/mktdata/buid/ELX/IX13596710-0|//blp/mktdata/bsid/10995140253356
 ELX 3YR EUR$ BUND Jun12|BNLM2|ELX|10995136899907|IX12188905-0|Financial commodity future.|Comdty|BBG001KM2CP0||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNLM2|//blp/mktdata/buid/ELX/IX12188905-0|//blp/mktdata/bsid/10995136899907
 ELX 3YR EUR$ BUND Jun13|BNLM3|ELX|10995136980325|IX12280477-0|Financial commodity future.|Comdty|BBG001KPXQ32||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNLM3|//blp/mktdata/buid/ELX/IX12280477-0|//blp/mktdata/bsid/10995136980325
 ELX 3YR EUR$ BUND Mar12|BNLH2|ELX|10995136899906|IX12188901-0|Financial commodity future.|Comdty|BBG001KM2CL4||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNLH2|//blp/mktdata/buid/ELX/IX12188901-0|//blp/mktdata/bsid/10995136899906
@@ -2337,8 +2341,8 @@ ELX 3YR EUR$ BUND Sep13|BNLU3|ELX|10995138380371|IX12916531-0|Financial commodit
 ELX 4YR EUR$ BUND Dec11|BNOZ1|ELX|10995136899914|IX12188977-0|Financial commodity future.|Comdty|BBG001KM2CY0||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNOZ1|//blp/mktdata/buid/ELX/IX12188977-0|//blp/mktdata/bsid/10995136899914
 ELX 4YR EUR$ BUND Jun12|BNOM2|ELX|10995138380372|IX12916535-0|Financial commodity future.|Comdty|BBG001QZD0J6||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNOM2|//blp/mktdata/buid/ELX/IX12916535-0|//blp/mktdata/bsid/10995138380372
 ELX 4YR EUR$ BUND Mar12|BNOH2|ELX|10995136980326|IX12280481-0|Financial commodity future.|Comdty|BBG001KPXQ41||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNOH2|//blp/mktdata/buid/ELX/IX12280481-0|//blp/mktdata/bsid/10995136980326
-ELX 4YR EUR$ BUND Sep12|BNOU2|||IX13596714-0|Financial commodity future.|Comdty|BBG0022W08K2||37407|37407|0||39729|||
-ELX 5YR EUR$ BUND Dec11|BNPZ1|||IX13596586-0|Financial commodity future.|Comdty|BBG0022W07Z8||37407|37407|0||39729|||
+ELX 4YR EUR$ BUND Sep12|BNOU2|ELX|10995140253357|IX13596714-0|Financial commodity future.|Comdty|BBG0022W08K2||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNOU2|//blp/mktdata/buid/ELX/IX13596714-0|//blp/mktdata/bsid/10995140253357
+ELX 5YR EUR$ BUND Dec11|BNPZ1|ELX|10995140321654|IX13596586-0|Financial commodity future.|Comdty|BBG0022W07Z8||37407|37407|0||39729|//blp/mktdata/bsym/ELX/BNPZ1|//blp/mktdata/buid/ELX/IX13596586-0|//blp/mktdata/bsid/10995140321654
 ELX EURO$ PACK FU Dec11|PKEZ1|ELX|10995134555784|IX11079053-0|Financial commodity future.|Comdty|BBG00161MK63||37407|37407|0||39729|//blp/mktdata/bsym/ELX/PKEZ1|//blp/mktdata/buid/ELX/IX11079053-0|//blp/mktdata/bsid/10995134555784
 ELX EURO$ PACK FU Dec12|PKEZ2|ELX|10995136939897|IX12085895-0|Financial commodity future.|Comdty|BBG001KM4RQ4||37407|37407|0||39729|//blp/mktdata/bsym/ELX/PKEZ2|//blp/mktdata/buid/ELX/IX12085895-0|//blp/mktdata/bsid/10995136939897
 ELX EURO$ PACK FU Dec13|PKEZ3|ELX|10995136939901|IX12085911-0|Financial commodity future.|Comdty|BBG001KM4RR3||37407|37407|0||39729|//blp/mktdata/bsym/ELX/PKEZ3|//blp/mktdata/buid/ELX/IX12085911-0|//blp/mktdata/bsid/10995136939901
@@ -3012,6 +3016,10 @@ EUROYen TIBOR (CME) Sep15|MYU5|eCME|2078782441239|IX11078449-0|Financial commodi
 EUROYen TIBOR (CME) Sep15|MYU5|eCME|2078782441239|IX11078449-0|Financial commodity future.|Comdty|BBG00161MDQ7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MYU5|//blp/mktdata/buid/eCME/IX11078449-0|//blp/mktdata/bsid/2078782441239
 EUROYen TIBOR (CME) Sep16|MYU6|CME|614190752910|IX13596610-0|Financial commodity future.|Comdty|BBG0022W0831||14002|14002|0||39490|//blp/mktdata/bsym/CME/MYU6|//blp/mktdata/buid/CME/IX13596610-0|//blp/mktdata/bsid/614190752910
 EUROYen TIBOR (CME) Sep16|MYU6|CME|614190752910|IX13596610-0|Financial commodity future.|Comdty|BBG0022W0831||14002|14002|0||39490|//blp/mktdata/bsym/CME/MYU6|//blp/mktdata/buid/CME/IX13596610-0|//blp/mktdata/bsid/614190752910
+EUROYen TIBOR (CME) Sep16|MYU6|cCME|9981527968599|IX13596610-0|Financial commodity future.|Comdty|BBG0022W0831||14002|14002|0||39490|//blp/mktdata/bsym/cCME/MYU6|//blp/mktdata/buid/cCME/IX13596610-0|//blp/mktdata/bsid/9981527968599
+EUROYen TIBOR (CME) Sep16|MYU6|cCME|9981527968599|IX13596610-0|Financial commodity future.|Comdty|BBG0022W0831||14002|14002|0||39490|//blp/mktdata/bsym/cCME/MYU6|//blp/mktdata/buid/cCME/IX13596610-0|//blp/mktdata/bsid/9981527968599
+EUROYen TIBOR (CME) Sep16|MYU6|eCME|2078788143959|IX13596610-0|Financial commodity future.|Comdty|BBG0022W0831||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MYU6|//blp/mktdata/buid/eCME/IX13596610-0|//blp/mktdata/bsid/2078788143959
+EUROYen TIBOR (CME) Sep16|MYU6|eCME|2078788143959|IX13596610-0|Financial commodity future.|Comdty|BBG0022W0831||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MYU6|//blp/mktdata/buid/eCME/IX13596610-0|//blp/mktdata/bsid/2078788143959
 EUX 3 MO EURIBOR  Dec11|FPZ1|EUX|279181506029|IX8074019-0|Financial commodity future.|Comdty|BBG000XCWFX1||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FPZ1|//blp/mktdata/buid/EUX/IX8074019-0|//blp/mktdata/bsid/279181506029
 EUX 3 MO EURIBOR  Dec12|FPZ2|EUX|279186946145|IX9847936-0|Financial commodity future.|Comdty|BBG000YWHCD2||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FPZ2|//blp/mktdata/buid/EUX/IX9847936-0|//blp/mktdata/bsid/279186946145
 EUX 3 MO EURIBOR  Dec13|FPZ3|EUX|279179690860|IX11670337-0|Financial commodity future.|Comdty|BBG001BD7W71||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FPZ3|//blp/mktdata/buid/EUX/IX11670337-0|//blp/mktdata/bsid/279179690860
