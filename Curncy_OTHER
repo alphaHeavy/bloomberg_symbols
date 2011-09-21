@@ -1,5 +1,5 @@
-#Data Generated At: Tue Sep 20 06:30:07 EDT 2011
-#Data Records=2529
+#Data Generated At: Wed Sep 21 06:30:44 EDT 2011
+#Data Records=2532
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=OTHER
 $/EGP Banknote||||IX9418390-0|OTHER|Curncy||||||||||
 $/EGP Transfer Note||||IX9418386-0|OTHER|Curncy||||||||||
@@ -1629,6 +1629,10 @@ RUB Basket Fwd Pts 5Y||||IX6649510-0|OTHER|Curncy||||||||||
 RUB Basket Fwd Pts 6M||||IX6635218-0|OTHER|Curncy||||||||||
 RUB Basket Fwd Pts 7Y||||IX6649514-0|OTHER|Curncy||||||||||
 RUB Basket Fwd Pts 9M||||IX6635222-0|OTHER|Curncy||||||||||
+RUB Repo OFZ < 5Y 1W||||IX13619982-0|OTHER|Curncy||||||||||
+RUB Repo OFZ < 5Y ON||||IX13619958-0|OTHER|Curncy||||||||||
+RUB Repo OFZ > 5Y 1W||||IX13620018-0|OTHER|Curncy||||||||||
+RUB Repo OFZ > 5Y ON||||IX13620002-0|OTHER|Curncy||||||||||
 S. KOREAN WON DAY 3 SPOT||||IX526913-0|OTHER|Curncy||||||||||
 SAO PAULO PAPEL RATE ADJ||||IX266405-0|OTHER|Curncy||||||||||
 SAO PAULO PAPEL RATE||||IX266399-0|OTHER|Curncy||||||||||
@@ -1799,7 +1803,6 @@ USD CASH SETTLE    10 MO||||IX474375-0|OTHER|Curncy||||||||||
 USD CASH SETTLE    11 MO||||IX474377-0|OTHER|Curncy||||||||||
 USD CASH SETTLE    12 MO||||IX329987-0|OTHER|Curncy||||||||||
 USD DISCOUNT RATE||||IX1365362-0|OTHER|Curncy||||||||||
-USD Deposit Wakala 1W||||IX13139788-0|OTHER|Curncy||||||||||
 USD FED FUNDS        O/N||||IX1370747-0|OTHER|Curncy||||||||||
 USD PRIME||||IX1365366-0|OTHER|Curncy||||||||||
 USD Reverse Deposit Mura||||IX11822558-0|OTHER|Curncy||||||||||

@@ -1,5 +1,5 @@
-#Data Generated At: Tue Sep 20 06:41:50 EDT 2011
-#Data Records=452
+#Data Generated At: Wed Sep 21 06:42:13 EDT 2011
+#Data Records=453
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Oct11|AEAV1|LIF|609909399562|IX13594998-0|Financial index future.|Index|BBG0022V97S9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAV1|//blp/mktdata/buid/LIF/IX13594998-0|//blp/mktdata/bsid/609909399562
@@ -44,6 +44,7 @@ Brent Future BWAV Sep12|BCWU2|ICE|1172526551064|IX10865914-0|Financial index fut
 Brent Future BWAV Sep13|BCWU3|ICE|1172549468450|IX13379304-0|Financial index future.|Index|BBG00203F0L8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWU3|//blp/mktdata/buid/ICE/IX13379304-0|//blp/mktdata/bsid/1172549468450
 CAC 1MO VAR       Oct11|CAAV1|LIF|609909399563|IX13595002-0|Financial index future.|Index|BBG0022V97W4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAAV1|//blp/mktdata/buid/LIF/IX13595002-0|//blp/mktdata/bsid/609909399563
 CAC 3MO VAR       Dec11|CAYZ1|LIF|609909399559|IX13594954-0|Financial index future.|Index|BBG0022V96Z3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAYZ1|//blp/mktdata/buid/LIF/IX13594954-0|//blp/mktdata/bsid/609909399559
+CBOE MINI VIX FUT Dec11|MVIZ1|||IX13622746-0|Financial index future.|Index|BBG00242FHH4||14204|44383|0||39587|||
 CBOE MINI VIX FUT Nov11|MVIX1|CBF|773117510803|IX13379940-0|Financial index future.|Index|BBG00203JKV9||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIX1|//blp/mktdata/buid/CBF/IX13379940-0|//blp/mktdata/bsid/773117510803
 CBOE MINI VIX FUT Oct11|MVIV1|CBF|773116955733|IX13191266-0|Financial index future.|Index|BBG001XT6VM8||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIV1|//blp/mktdata/buid/CBF/IX13191266-0|//blp/mktdata/bsid/773116955733
 CBOE MINI VIX FUT Sep11|MVIU1|CBF|773116242374|IX12944110-0|Financial index future.|Index|BBG001R24B31||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIU1|//blp/mktdata/buid/CBF/IX12944110-0|//blp/mktdata/bsid/773116242374
@@ -176,7 +177,7 @@ MSCI EUR AUTO COM Dec12|MACZ2|LIF|609904784053|IX11705197-0|Financial index futu
 MSCI EUR AUTO COM Jun12|MACM2|LIF|609902495382|IX10546070-0|Financial index future.|Index|BBG0011XMJM3||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACM2|//blp/mktdata/buid/LIF/IX10546070-0|//blp/mktdata/bsid/609902495382
 MSCI EUR AUTO COM Jun13|MACM3|LIF|609907516687|IX12963610-0|Financial index future.|Index|BBG001R5JW05||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACM3|//blp/mktdata/buid/LIF/IX12963610-0|//blp/mktdata/bsid/609907516687
 MSCI EUR AUTO COM Mar12|MACH2|LIF|609903656402|IX11108356-0|Financial index future.|Index|BBG00164X9C3||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACH2|//blp/mktdata/buid/LIF/IX11108356-0|//blp/mktdata/bsid/609903656402
-MSCI EUR AUTO COM Mar13|MACH3|LIF|609909301033|IX13582722-0|Financial index future.|Index|BBG0022QPM36||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MACH3|//blp/mktdata/buid/LIF/IX13582722-0|//blp/mktdata/bsid/609909301033
+MSCI EUR AUTO COM Mar13|MACH3|LIF|609909301033|IX13582722-0|Financial index future.|Index|BBG0022QPM36||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACH3|//blp/mktdata/buid/LIF/IX13582722-0|//blp/mktdata/bsid/609909301033
 MSCI EUR AUTO COM Nov11|MACX1|LIF|609907997585|IX13154998-0|Financial index future.|Index|BBG001WSHGY9||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACX1|//blp/mktdata/buid/LIF/IX13154998-0|//blp/mktdata/bsid/609907997585
 MSCI EUR AUTO COM Oct11|MACV1|LIF|609907136037|IX12769182-0|Financial index future.|Index|BBG001PPLRZ3||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACV1|//blp/mktdata/buid/LIF/IX12769182-0|//blp/mktdata/bsid/609907136037
 MSCI EUR AUTO COM Sep12|MACU2|LIF|609906151198|IX12332373-0|Financial index future.|Index|BBG001KWPZD5||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACU2|//blp/mktdata/buid/LIF/IX12332373-0|//blp/mktdata/bsid/609906151198
