@@ -1,5 +1,5 @@
-#Data Generated At: Fri Sep 23 06:13:21 EDT 2011
-#Data Records=6257
+#Data Generated At: Sat Sep 24 06:00:15 EDT 2011
+#Data Records=6254
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -2023,6 +2023,8 @@ Corn Base Quequen Mar12|VBWH2|cMBA|10011587209301|IX11155808-0|Financial commodi
 Corn Base Quequen Mar12|VBWH2|cMBA|10011587209301|IX11155808-0|Financial commodity future.|Comdty|BBG0016RPDZ7||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWH2|//blp/mktdata/buid/cMBA/IX11155808-0|//blp/mktdata/bsid/10011587209301
 Corn Base Quequen Mar12|VBWH2|eMBA|3362977835093|IX11155808-0|Financial commodity future.|Comdty|BBG0016RPDZ7||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWH2|//blp/mktdata/buid/eMBA/IX11155808-0|//blp/mktdata/bsid/3362977835093
 Corn Base Quequen Mar12|VBWH2|eMBA|3362977835093|IX11155808-0|Financial commodity future.|Comdty|BBG0016RPDZ7||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWH2|//blp/mktdata/buid/eMBA/IX11155808-0|//blp/mktdata/bsid/3362977835093
+Corn Base Quequen Mar13|VBWH3|||IX13648775-0|Financial commodity future.|Comdty|BBG0024CSY81||14145|0|0||39563|||
+Corn Base Quequen Mar13|VBWH3|||IX13648775-0|Financial commodity future.|Comdty|BBG0024CSY81||14145|0|0||39563|||
 Corn Base Quequen May12|VBWK2|MBA|1735185952770|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWK2|//blp/mktdata/buid/MBA/IX11520016-0|//blp/mktdata/bsid/1735185952770
 Corn Base Quequen May12|VBWK2|MBA|1735185952770|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWK2|//blp/mktdata/buid/MBA/IX11520016-0|//blp/mktdata/bsid/1735185952770
 Corn Base Quequen May12|VBWK2|cMBA|10011587932162|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWK2|//blp/mktdata/buid/cMBA/IX11520016-0|//blp/mktdata/bsid/10011587932162
@@ -3434,7 +3436,6 @@ Fert FOB Orleans  Mar12|DFLH2|eNYM|2117441482094|IX13134439-0|Financial commodit
 Fert FOB Orleans  May12|DFLK2|eNYM|2117441482096|IX13134447-0|Financial commodity future.|Comdty|BBG001WL6SK5||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFLK2|//blp/mktdata/buid/eNYM/IX13134447-0|//blp/mktdata/bsid/2117441482096
 Fert FOB Orleans  Nov11|DFLX1|eNYM|2117441482090|IX13134423-0|Financial commodity future.|Comdty|BBG001WL6SC4||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFLX1|//blp/mktdata/buid/eNYM/IX13134423-0|//blp/mktdata/bsid/2117441482090
 Fert FOB Orleans  Oct11|DFLV1|eNYM|2117441482089|IX13134419-0|Financial commodity future.|Comdty|BBG001WL6SB5||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFLV1|//blp/mktdata/buid/eNYM/IX13134419-0|//blp/mktdata/bsid/2117441482089
-Fert FOB Orleans  Sep11|DFLU1|eNYM|2117441482088|IX13134415-0|Financial commodity future.|Comdty|BBG001WL6S98||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFLU1|//blp/mktdata/buid/eNYM/IX13134415-0|//blp/mktdata/bsid/2117441482088
 Fert FOB Orleans  Sep12|DFLU2|||IX13640010-0|Financial commodity future.|Comdty|BBG00248K9H3||14088|14088|0||39532|||
 Fert FOB Tampa Fu Aug12|DFTQ2|eNYM|2117442522801|IX13442810-0|Financial commodity future.|Comdty|BBG002180TZ4||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFTQ2|//blp/mktdata/buid/eNYM/IX13442810-0|//blp/mktdata/bsid/2117442522801
 Fert FOB Tampa Fu Jul12|DFTN2|eNYM|2117441841512|IX13248626-0|Financial commodity future.|Comdty|BBG001YB7GW7||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFTN2|//blp/mktdata/buid/eNYM/IX13248626-0|//blp/mktdata/bsid/2117441841512
@@ -3448,7 +3449,6 @@ Fert FOB Tampa FutMar12|DFTH2|eNYM|2117441482082|IX13134343-0|Financial commodit
 Fert FOB Tampa FutMay12|DFTK2|eNYM|2117441482084|IX13134351-0|Financial commodity future.|Comdty|BBG001WL6QS1||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFTK2|//blp/mktdata/buid/eNYM/IX13134351-0|//blp/mktdata/bsid/2117441482084
 Fert FOB Tampa FutNov11|DFTX1|eNYM|2117441482078|IX13134327-0|Financial commodity future.|Comdty|BBG001WL6QL8||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFTX1|//blp/mktdata/buid/eNYM/IX13134327-0|//blp/mktdata/bsid/2117441482078
 Fert FOB Tampa FutOct11|DFTV1|eNYM|2117441482077|IX13134323-0|Financial commodity future.|Comdty|BBG001WL6QK9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFTV1|//blp/mktdata/buid/eNYM/IX13134323-0|//blp/mktdata/bsid/2117441482077
-Fert FOB Tampa FutSep11|DFTU1|eNYM|2117441482076|IX13134319-0|Financial commodity future.|Comdty|BBG001WL6QJ1||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/DFTU1|//blp/mktdata/buid/eNYM/IX13134319-0|//blp/mktdata/bsid/2117441482076
 GC ULSD v GC Jet  Apr12|VVAJ2|NYM|1614917813350|IX8736932-0|Financial commodity future.|Comdty|BBG000XTPXL6||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VVAJ2|//blp/mktdata/buid/NYM/IX8736932-0|//blp/mktdata/bsid/1614917813350
 GC ULSD v GC Jet  Apr13|VVAJ3|NYM|1614924113621|IX10322146-0|Financial commodity future.|Comdty|BBG000V0JDD1||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VVAJ3|//blp/mktdata/buid/NYM/IX10322146-0|//blp/mktdata/bsid/1614924113621
 GC ULSD v GC Jet  Apr14|VVAJ4|NYM|1614929204198|IX12648569-0|Financial commodity future.|Comdty|BBG001NY3S75||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VVAJ4|//blp/mktdata/buid/NYM/IX12648569-0|//blp/mktdata/bsid/1614929204198
@@ -5692,7 +5692,6 @@ Sterling 2yr MidC Sep14|2LU4|||IX13639590-0|Financial commodity future.|Comdty|B
 Sterling 2yr MidCvDec11|2LZ1|||IX9170355-0|Financial commodity future.|Comdty|BBG000VW1KH0||27267|27268|0||40559|||
 Sterling 2yr MidCvJun12|2LM2|||IX9170363-0|Financial commodity future.|Comdty|BBG000VW1G89||27267|27268|0||40559|||
 Sterling 2yr MidCvMar12|2LH2|||IX9170359-0|Financial commodity future.|Comdty|BBG000VW1B17||27267|27268|0||40559|||
-Sterling 2yr MidCvSep11|2LU1|||IX9170311-0|Financial commodity future.|Comdty|BBG000VW19V9||27267|27268|0||40559|||
 Swedish 10yr Futs Dec11|OTZ1|SSE|15380299639582|IX12757889-0|Financial commodity future.|Comdty|BBG001PM2X88||39827|39827|0||40171|//blp/mktdata/bsym/SSE/OTZ1|//blp/mktdata/buid/SSE/IX12757889-0|//blp/mktdata/bsid/15380299639582
 Swedish 10yr Futs Mar12|OTH2|SSE|15380301837643|IX13582810-0|Financial commodity future.|Comdty|BBG0022QPMV5||39827|39827|0||40171|//blp/mktdata/bsym/SSE/OTH2|//blp/mktdata/buid/SSE/IX13582810-0|//blp/mktdata/bsid/15380301837643
 Swedish 2yr Futur Dec11|LQZ1|SSE|15380299639518|IX12757865-0|Financial commodity future.|Comdty|BBG001PM2RL6||39827|39827|0||40171|//blp/mktdata/bsym/SSE/LQZ1|//blp/mktdata/buid/SSE/IX12757865-0|//blp/mktdata/bsid/15380299639518
@@ -6232,7 +6231,6 @@ Urea A.Nit 32% FutMar12|UFSH2|eNYM|2117441471725|IX13124975-0|Financial commodit
 Urea A.Nit 32% FutMay12|UFSK2|eNYM|2117441471727|IX13124983-0|Financial commodity future.|Comdty|BBG001WFVK90||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UFSK2|//blp/mktdata/buid/eNYM/IX13124983-0|//blp/mktdata/bsid/2117441471727
 Urea A.Nit 32% FutNov11|UFSX1|eNYM|2117441471721|IX13124959-0|Financial commodity future.|Comdty|BBG001WFVJX6||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UFSX1|//blp/mktdata/buid/eNYM/IX13124959-0|//blp/mktdata/bsid/2117441471721
 Urea A.Nit 32% FutOct11|UFSV1|eNYM|2117441471720|IX13124955-0|Financial commodity future.|Comdty|BBG001WFVJW7||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UFSV1|//blp/mktdata/buid/eNYM/IX13124955-0|//blp/mktdata/bsid/2117441471720
-Urea A.Nit 32% FutSep11|UFSU1|eNYM|2117441471719|IX13124951-0|Financial commodity future.|Comdty|BBG001WFVJV8||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UFSU1|//blp/mktdata/buid/eNYM/IX13124951-0|//blp/mktdata/bsid/2117441471719
 Urea FOB NOLA Fut Apr12|UREJ2|eNYM|2117441462174|IX13116089-0|Financial commodity future.|Comdty|BBG001WLFL20||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UREJ2|//blp/mktdata/buid/eNYM/IX13116089-0|//blp/mktdata/bsid/2117441462174
 Urea FOB NOLA Fut Aug12|UREQ2|eNYM|2117442522799|IX13442802-0|Financial commodity future.|Comdty|BBG002180TX6||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UREQ2|//blp/mktdata/buid/eNYM/IX13442802-0|//blp/mktdata/bsid/2117442522799
 Urea FOB NOLA Fut Dec11|UREZ1|eNYM|2117441462170|IX13116073-0|Financial commodity future.|Comdty|BBG001WLFLB0||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UREZ1|//blp/mktdata/buid/eNYM/IX13116073-0|//blp/mktdata/bsid/2117441462170
@@ -6244,7 +6242,6 @@ Urea FOB NOLA Fut Mar12|UREH2|eNYM|2117441462173|IX13116085-0|Financial commodit
 Urea FOB NOLA Fut May12|UREK2|eNYM|2117441462175|IX13116093-0|Financial commodity future.|Comdty|BBG001WLFL39||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UREK2|//blp/mktdata/buid/eNYM/IX13116093-0|//blp/mktdata/bsid/2117441462175
 Urea FOB NOLA Fut Nov11|UREX1|eNYM|2117441462169|IX13116069-0|Financial commodity future.|Comdty|BBG001WLFL93||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UREX1|//blp/mktdata/buid/eNYM/IX13116069-0|//blp/mktdata/bsid/2117441462169
 Urea FOB NOLA Fut Oct11|UREV1|eNYM|2117441462168|IX13116065-0|Financial commodity future.|Comdty|BBG001WLFL84||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UREV1|//blp/mktdata/buid/eNYM/IX13116065-0|//blp/mktdata/bsid/2117441462168
-Urea FOB NOLA Fut Sep11|UREU1|eNYM|2117441462167|IX13116061-0|Financial commodity future.|Comdty|BBG001WLFL75||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/UREU1|//blp/mktdata/buid/eNYM/IX13116061-0|//blp/mktdata/bsid/2117441462167
 Urea FOB NOLA Fut Sep12|UREU2|||IX13639998-0|Financial commodity future.|Comdty|BBG00248K9D7||14088|14088|0||39532|||
 ZINC FUT (SHFE)   Apr12|ZNAJ2|SHF|16990911880757|IX12556763-0|Financial commodity future.|Comdty|BBG001MNRTV5||25827|0|0||39592|//blp/mktdata/bsym/SHF/ZNAJ2|//blp/mktdata/buid/SHF/IX12556763-0|//blp/mktdata/bsid/16990911880757
 ZINC FUT (SHFE)   Aug12|ZNAQ2|SHF|16990914001289|IX13369743-0|Financial commodity future.|Comdty|BBG001ZZHCZ8||25827|0|0||39592|//blp/mktdata/bsym/SHF/ZNAQ2|//blp/mktdata/buid/SHF/IX13369743-0|//blp/mktdata/bsid/16990914001289
