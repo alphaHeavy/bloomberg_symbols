@@ -1,4 +1,4 @@
-#Data Generated At: Sun Sep 25 06:22:29 EDT 2011
+#Data Generated At: Mon Sep 26 06:42:24 EDT 2011
 #Data Records=3619
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index option.
 Gulf Coast Cat SeaDec11C     1|HPAZ1C 1|||IX13479628-0-8020|Financial index option.|Index|||14002|14002|0||39490|||
@@ -220,8 +220,8 @@ Lukoil Futures OptDec11C  6000|LKOZ1C 6000|||IX13573757-0-8258|Financial index o
 Lukoil Futures OptDec11C  7000|LKOZ1C 7000|||IX13573757-0-82BC|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C  8000|LKOZ1C 8000|||IX13573757-0-8320|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C  9000|LKOZ1C 9000|||IX13573757-0-8384|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptDec11C 10000|LKOZ1C 10000|||IX13573757-0-83E8|Financial index option.|Index|BBG0024CYZ63||14134|14134|0||39558|||
-Lukoil Futures OptDec11C 10500|LKOZ1C 10500|||IX13573757-0-841A|Financial index option.|Index|BBG0024CYZ72||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 10000|LKOZ1C 10000|RTS|1769550689974|IX13573757-0-83E8|Financial index option.|Index|BBG0024CYZ63||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 10000|//blp/mktdata/buid/RTS/IX13573757-0-83E8|//blp/mktdata/bsid/1769550689974
+Lukoil Futures OptDec11C 10500|LKOZ1C 10500|RTS|1769550690000|IX13573757-0-841A|Financial index option.|Index|BBG0024CYZ72||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 10500|//blp/mktdata/buid/RTS/IX13573757-0-841A|//blp/mktdata/bsid/1769550690000
 Lukoil Futures OptDec11C 11000|LKOZ1C 11000|RTS|1769550297850|IX13573757-0-844C|Financial index option.|Index|BBG0022MT431||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 11000|//blp/mktdata/buid/RTS/IX13573757-0-844C|//blp/mktdata/bsid/1769550297850
 Lukoil Futures OptDec11C 11500|LKOZ1C 11500|RTS|1769550241577|IX13573757-0-847E|Financial index option.|Index|BBG0022MT440||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 11500|//blp/mktdata/buid/RTS/IX13573757-0-847E|//blp/mktdata/bsid/1769550241577
 Lukoil Futures OptDec11C 12000|LKOZ1C 12000|RTS|1769550243827|IX13573757-0-84B0|Financial index option.|Index|BBG0022MT459||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 12000|//blp/mktdata/buid/RTS/IX13573757-0-84B0|//blp/mktdata/bsid/1769550243827
@@ -248,7 +248,7 @@ Lukoil Futures OptDec11C 22000|LKOZ1C 22000|RTS|1769550241669|IX13573757-0-8898|
 Lukoil Futures OptDec11C 22500|LKOZ1C 22500|RTS|1769550241684|IX13573757-0-88CA|Financial index option.|Index|BBG0022MT4V0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 22500|//blp/mktdata/buid/RTS/IX13573757-0-88CA|//blp/mktdata/bsid/1769550241684
 Lukoil Futures OptDec11C 23000|LKOZ1C 23000|RTS|1769550241583|IX13573757-0-88FC|Financial index option.|Index|BBG0022MT4W9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 23000|//blp/mktdata/buid/RTS/IX13573757-0-88FC|//blp/mktdata/bsid/1769550241583
 Lukoil Futures OptDec11C 23500|LKOZ1C 23500|RTS|1769550241579|IX13573757-0-892E|Financial index option.|Index|BBG0022MT4X8||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 23500|//blp/mktdata/buid/RTS/IX13573757-0-892E|//blp/mktdata/bsid/1769550241579
-Lukoil Futures OptDec11C 24000|LKOZ1C 24000|||IX13573757-0-8960|Financial index option.|Index|BBG00245WCR8||14134|14134|0||39558|||
+Lukoil Futures OptDec11C 24000|LKOZ1C 24000|RTS|1769550338645|IX13573757-0-8960|Financial index option.|Index|BBG00245WCR8||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1C 24000|//blp/mktdata/buid/RTS/IX13573757-0-8960|//blp/mktdata/bsid/1769550338645
 Lukoil Futures OptDec11C 25000|LKOZ1C 25000|||IX13573757-0-89C4|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C 26000|LKOZ1C 26000|||IX13573757-0-8A28|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C 27000|LKOZ1C 27000|||IX13573757-0-8A8C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -349,8 +349,8 @@ Lukoil Futures OptDec11P  6000|LKOZ1P 6000|||IX12291871-0-0258|Financial index o
 Lukoil Futures OptDec11P  7000|LKOZ1P 7000|||IX12291871-0-02BC|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P  8000|LKOZ1P 8000|||IX12291871-0-0320|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P  9000|LKOZ1P 9000|||IX12291871-0-0384|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptDec11P 10000|LKOZ1P 10000|||IX12291871-0-03E8|Financial index option.|Index|BBG0024CYZ81||14134|14134|0||39558|||
-Lukoil Futures OptDec11P 10500|LKOZ1P 10500|||IX12291871-0-041A|Financial index option.|Index|BBG0024CYZ90||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 10000|LKOZ1P 10000|RTS|1769550690013|IX12291871-0-03E8|Financial index option.|Index|BBG0024CYZ81||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 10000|//blp/mktdata/buid/RTS/IX12291871-0-03E8|//blp/mktdata/bsid/1769550690013
+Lukoil Futures OptDec11P 10500|LKOZ1P 10500|RTS|1769550689973|IX12291871-0-041A|Financial index option.|Index|BBG0024CYZ90||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 10500|//blp/mktdata/buid/RTS/IX12291871-0-041A|//blp/mktdata/bsid/1769550689973
 Lukoil Futures OptDec11P 11000|LKOZ1P 11000|RTS|1769550297853|IX12291871-0-044C|Financial index option.|Index|BBG0022MT4Y7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 11000|//blp/mktdata/buid/RTS/IX12291871-0-044C|//blp/mktdata/bsid/1769550297853
 Lukoil Futures OptDec11P 11500|LKOZ1P 11500|RTS|1769550243117|IX12291871-0-047E|Financial index option.|Index|BBG0022MT4Z6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 11500|//blp/mktdata/buid/RTS/IX12291871-0-047E|//blp/mktdata/bsid/1769550243117
 Lukoil Futures OptDec11P 12000|LKOZ1P 12000|RTS|1769550241680|IX12291871-0-04B0|Financial index option.|Index|BBG0022MT501||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 12000|//blp/mktdata/buid/RTS/IX12291871-0-04B0|//blp/mktdata/bsid/1769550241680
@@ -377,7 +377,7 @@ Lukoil Futures OptDec11P 22000|LKOZ1P 22000|RTS|1769550243213|IX12291871-0-0898|
 Lukoil Futures OptDec11P 22500|LKOZ1P 22500|RTS|1769550241667|IX12291871-0-08CA|Financial index option.|Index|BBG0022MT5P4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 22500|//blp/mktdata/buid/RTS/IX12291871-0-08CA|//blp/mktdata/bsid/1769550241667
 Lukoil Futures OptDec11P 23000|LKOZ1P 23000|RTS|1769550241682|IX12291871-0-08FC|Financial index option.|Index|BBG0022MT5Q3||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 23000|//blp/mktdata/buid/RTS/IX12291871-0-08FC|//blp/mktdata/bsid/1769550241682
 Lukoil Futures OptDec11P 23500|LKOZ1P 23500|RTS|1769550241582|IX12291871-0-092E|Financial index option.|Index|BBG0022MT5R2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 23500|//blp/mktdata/buid/RTS/IX12291871-0-092E|//blp/mktdata/bsid/1769550241582
-Lukoil Futures OptDec11P 24000|LKOZ1P 24000|||IX12291871-0-0960|Financial index option.|Index|BBG00245WCS7||14134|14134|0||39558|||
+Lukoil Futures OptDec11P 24000|LKOZ1P 24000|RTS|1769550338621|IX12291871-0-0960|Financial index option.|Index|BBG00245WCS7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOZ1P 24000|//blp/mktdata/buid/RTS/IX12291871-0-0960|//blp/mktdata/bsid/1769550338621
 Lukoil Futures OptDec11P 25000|LKOZ1P 25000|||IX12291871-0-09C4|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P 26000|LKOZ1P 26000|||IX12291871-0-0A28|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P 27000|LKOZ1P 27000|||IX12291871-0-0A8C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -479,7 +479,7 @@ Lukoil Futures OptMar12C  7000|LKOH2C 7000|||IX13573693-0-82BC|Financial index o
 Lukoil Futures OptMar12C  8000|LKOH2C 8000|||IX13573693-0-8320|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12C  9000|LKOH2C 9000|||IX13573693-0-8384|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12C 10000|LKOH2C 10000|||IX13573693-0-83E8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptMar12C 10500|LKOH2C 10500|||IX13573693-0-841A|Financial index option.|Index|BBG0024CYZ27||14134|14134|0||39558|||
+Lukoil Futures OptMar12C 10500|LKOH2C 10500|RTS|1769550113208|IX13573693-0-841A|Financial index option.|Index|BBG0024CYZ27||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2C 10500|//blp/mktdata/buid/RTS/IX13573693-0-841A|//blp/mktdata/bsid/1769550113208
 Lukoil Futures OptMar12C 11000|LKOH2C 11000|RTS|1769549686814|IX13573693-0-844C|Financial index option.|Index|BBG0022MT0J2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2C 11000|//blp/mktdata/buid/RTS/IX13573693-0-844C|//blp/mktdata/bsid/1769549686814
 Lukoil Futures OptMar12C 11500|LKOH2C 11500|RTS|1769549687668|IX13573693-0-847E|Financial index option.|Index|BBG0022MT0K0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2C 11500|//blp/mktdata/buid/RTS/IX13573693-0-847E|//blp/mktdata/bsid/1769549687668
 Lukoil Futures OptMar12C 12000|LKOH2C 12000|RTS|1769549687883|IX13573693-0-84B0|Financial index option.|Index|BBG0022MT0L9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2C 12000|//blp/mktdata/buid/RTS/IX13573693-0-84B0|//blp/mktdata/bsid/1769549687883
@@ -608,7 +608,7 @@ Lukoil Futures OptMar12P  7000|LKOH2P 7000|||IX12953249-0-02BC|Financial index o
 Lukoil Futures OptMar12P  8000|LKOH2P 8000|||IX12953249-0-0320|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12P  9000|LKOH2P 9000|||IX12953249-0-0384|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12P 10000|LKOH2P 10000|||IX12953249-0-03E8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptMar12P 10500|LKOH2P 10500|||IX12953249-0-041A|Financial index option.|Index|BBG0024CYZ36||14134|14134|0||39558|||
+Lukoil Futures OptMar12P 10500|LKOH2P 10500|RTS|1769550113205|IX12953249-0-041A|Financial index option.|Index|BBG0024CYZ36||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2P 10500|//blp/mktdata/buid/RTS/IX12953249-0-041A|//blp/mktdata/bsid/1769550113205
 Lukoil Futures OptMar12P 11000|LKOH2P 11000|RTS|1769549686832|IX12953249-0-044C|Financial index option.|Index|BBG0022MT1F4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2P 11000|//blp/mktdata/buid/RTS/IX12953249-0-044C|//blp/mktdata/bsid/1769549686832
 Lukoil Futures OptMar12P 11500|LKOH2P 11500|RTS|1769549686848|IX12953249-0-047E|Financial index option.|Index|BBG0022MT1G3||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2P 11500|//blp/mktdata/buid/RTS/IX12953249-0-047E|//blp/mktdata/bsid/1769549686848
 Lukoil Futures OptMar12P 12000|LKOH2P 12000|RTS|1769549686793|IX12953249-0-04B0|Financial index option.|Index|BBG0022MT1H2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOH2P 12000|//blp/mktdata/buid/RTS/IX12953249-0-04B0|//blp/mktdata/bsid/1769549686793
@@ -736,8 +736,8 @@ Lukoil Futures OptOct11C  6000|LKOV1C 6000|||IX13573709-0-8258|Financial index o
 Lukoil Futures OptOct11C  7000|LKOV1C 7000|||IX13573709-0-82BC|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptOct11C  8000|LKOV1C 8000|||IX13573709-0-8320|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptOct11C  9000|LKOV1C 9000|||IX13573709-0-8384|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 10000|LKOV1C 10000|||IX13573709-0-83E8|Financial index option.|Index|BBG0024CYZ45||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 10500|LKOV1C 10500|||IX13573709-0-841A|Financial index option.|Index|BBG0024CYZ54||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 10000|LKOV1C 10000|RTS|1769549763380|IX13573709-0-83E8|Financial index option.|Index|BBG0024CYZ45||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 10000|//blp/mktdata/buid/RTS/IX13573709-0-83E8|//blp/mktdata/bsid/1769549763380
+Lukoil Futures OptOct11C 10500|LKOV1C 10500|RTS|1769549761354|IX13573709-0-841A|Financial index option.|Index|BBG0024CYZ54||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 10500|//blp/mktdata/buid/RTS/IX13573709-0-841A|//blp/mktdata/bsid/1769549761354
 Lukoil Futures OptOct11C 11000|LKOV1C 11000|RTS|1769549686869|IX13573709-0-844C|Financial index option.|Index|BBG0022MT2B6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 11000|//blp/mktdata/buid/RTS/IX13573709-0-844C|//blp/mktdata/bsid/1769549686869
 Lukoil Futures OptOct11C 11500|LKOV1C 11500|RTS|1769549654621|IX13573709-0-847E|Financial index option.|Index|BBG0022MT2C5||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 11500|//blp/mktdata/buid/RTS/IX13573709-0-847E|//blp/mktdata/bsid/1769549654621
 Lukoil Futures OptOct11C 12000|LKOV1C 12000|RTS|1769549646016|IX13573709-0-84B0|Financial index option.|Index|BBG0022MT2D4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 12000|//blp/mktdata/buid/RTS/IX13573709-0-84B0|//blp/mktdata/bsid/1769549646016
@@ -764,7 +764,7 @@ Lukoil Futures OptOct11C 22000|LKOV1C 22000|RTS|1769549645980|IX13573709-0-8898|
 Lukoil Futures OptOct11C 22500|LKOV1C 22500|RTS|1769549654928|IX13573709-0-88CA|Financial index option.|Index|BBG0022MT333||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 22500|//blp/mktdata/buid/RTS/IX13573709-0-88CA|//blp/mktdata/bsid/1769549654928
 Lukoil Futures OptOct11C 23000|LKOV1C 23000|RTS|1769549645983|IX13573709-0-88FC|Financial index option.|Index|BBG0022MT342||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 23000|//blp/mktdata/buid/RTS/IX13573709-0-88FC|//blp/mktdata/bsid/1769549645983
 Lukoil Futures OptOct11C 23500|LKOV1C 23500|RTS|1769549645929|IX13573709-0-892E|Financial index option.|Index|BBG0022MT351||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 23500|//blp/mktdata/buid/RTS/IX13573709-0-892E|//blp/mktdata/bsid/1769549645929
-Lukoil Futures OptOct11C 24000|LKOV1C 24000|||IX13573709-0-8960|Financial index option.|Index|BBG00245WCP0||14134|14134|0||39558|||
+Lukoil Futures OptOct11C 24000|LKOV1C 24000|RTS|1769550338624|IX13573709-0-8960|Financial index option.|Index|BBG00245WCP0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 24000|//blp/mktdata/buid/RTS/IX13573709-0-8960|//blp/mktdata/bsid/1769550338624
 Lukoil Futures OptOct11C 25000|LKOV1C 25000|||IX13573709-0-89C4|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptOct11C 26000|LKOV1C 26000|||IX13573709-0-8A28|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptOct11C 27000|LKOV1C 27000|||IX13573709-0-8A8C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -1001,7 +1001,7 @@ ROSN Future Opt   Dec11C 12000|ROSZ1C 12000|||IX13572705-0-84B0|Financial index 
 ROSN Future Opt   Dec11C 13000|ROSZ1C 13000|||IX13572705-0-8514|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11C 14000|ROSZ1C 14000|||IX13572705-0-8578|Financial index option.|Index|BBG0024D15B7||14134|14134|0||39558|||
 ROSN Future Opt   Dec11C 15000|ROSZ1C 15000|||IX13572705-0-85DC|Financial index option.|Index|BBG0024D15D5||14134|14134|0||39558|||
-ROSN Future Opt   Dec11C 16000|ROSZ1C 16000|||IX13572705-0-8640|Financial index option.|Index|BBG00240P3N1||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C 16000|ROSZ1C 16000|RTS|1769550456858|IX13572705-0-8640|Financial index option.|Index|BBG00240P3N1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/ROSZ1C 16000|//blp/mktdata/buid/RTS/IX13572705-0-8640|//blp/mktdata/bsid/1769550456858
 ROSN Future Opt   Dec11C 16500|ROSZ1C 16500|RTS|1769550490319|IX13572705-0-8672|Financial index option.|Index|BBG0022MVD38||14134|14134|0||39558|//blp/mktdata/bsym/RTS/ROSZ1C 16500|//blp/mktdata/buid/RTS/IX13572705-0-8672|//blp/mktdata/bsid/1769550490319
 ROSN Future Opt   Dec11C 17000|ROSZ1C 17000|RTS|1769550464867|IX13572705-0-86A4|Financial index option.|Index|BBG0022MVD47||14134|14134|0||39558|//blp/mktdata/bsym/RTS/ROSZ1C 17000|//blp/mktdata/buid/RTS/IX13572705-0-86A4|//blp/mktdata/bsid/1769550464867
 ROSN Future Opt   Dec11C 17500|ROSZ1C 17500|RTS|1769550464868|IX13572705-0-86D6|Financial index option.|Index|BBG0022MVD56||14134|14134|0||39558|//blp/mktdata/bsym/RTS/ROSZ1C 17500|//blp/mktdata/buid/RTS/IX13572705-0-86D6|//blp/mktdata/bsid/1769550464868
