@@ -1,5 +1,5 @@
-#Data Generated At: Mon Sep 26 06:42:24 EDT 2011
-#Data Records=451
+#Data Generated At: Tue Sep 27 06:41:49 EDT 2011
+#Data Records=461
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Oct11|AEAV1|LIF|609909399562|IX13594998-0|Financial index future.|Index|BBG0022V97S9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAV1|//blp/mktdata/buid/LIF/IX13594998-0|//blp/mktdata/bsid/609909399562
@@ -11,8 +11,10 @@ AEX Dividend IndexDec12|AXDZ2|NA|468167773296|IX10319406-0|Financial index futur
 AEX Dividend IndexDec13|AXDZ3|NA|468167773297|IX10319410-0|Financial index future.|Index|BBG000ZP4B97||27269|27270|0||39605|//blp/mktdata/bsym/NA/AXDZ3|//blp/mktdata/buid/NA/IX10319410-0|//blp/mktdata/bsid/468167773297
 AEX Dividend IndexDec14|AXDZ4|NA|468167773298|IX10319414-0|Financial index future.|Index|BBG000ZP4BD2||27269|27270|0||39605|//blp/mktdata/bsym/NA/AXDZ4|//blp/mktdata/buid/NA/IX10319414-0|//blp/mktdata/bsid/468167773298
 AK STEEL CEBO     Dec11|AKSZ1|US|399452593036|IX12214797-0|Financial index future.|Index|BBG001KJN3R2||14009|0|0||39495|//blp/mktdata/bsym/US/AKSZ1|//blp/mktdata/buid/US/IX12214797-0|//blp/mktdata/bsid/399452593036
+AK STEEL CEBO     Dec12|AKSZ2|||IX13660597-0|Financial index future.|Index|BBG0024FWZZ6||14009|0|0||39495|||
 ARVINMERITOR CEBO Dec11|ARDZ1|US|399452604482|IX12215845-0|Financial index future.|Index|BBG001KKR6Z9||14009|0|0||39495|//blp/mktdata/bsym/US/ARDZ1|//blp/mktdata/buid/US/IX12215845-0|//blp/mktdata/bsid/399452604482
 American Axle CEBODec11|AXCZ1|US|399452604486|IX12217893-0|Financial index future.|Index|BBG001KKR723||14009|0|0||39495|//blp/mktdata/bsym/US/AXCZ1|//blp/mktdata/buid/US/IX12217893-0|//blp/mktdata/bsid/399452604486
+American Axle CEBODec12|AXCZ2|||IX13660601-0|Financial index future.|Index|BBG0024FXQS3||14009|0|0||39495|||
 BSE BankEx Future Dec11|JUOZ1|IB|1404478248983|IX13580038-0|Financial index future.|Index|BBG0022Q4RJ1||44426|44426|0||0|//blp/mktdata/bsym/IB/JUOZ1|//blp/mktdata/buid/IB/IX13580038-0|//blp/mktdata/bsid/1404478248983
 BSE BankEx Future Nov11|JUOX1|IB|1404477561506|IX13347493-0|Financial index future.|Index|BBG001Z9LCN4||44426|44426|0||0|//blp/mktdata/bsym/IB/JUOX1|//blp/mktdata/buid/IB/IX13347493-0|//blp/mktdata/bsid/1404477561506
 BSE BankEx Future Oct11|JUOV1|IB|1404476953235|IX13153414-0|Financial index future.|Index|BBG001WS72W3||44426|44426|0||0|//blp/mktdata/bsym/IB/JUOV1|//blp/mktdata/buid/IB/IX13153414-0|//blp/mktdata/bsid/1404476953235
@@ -25,6 +27,7 @@ BSE Teck Future   Oct11|JUPV1|IB|1404476953237|IX13153422-0|Financial index futu
 Bank of Amer Cebo Dec11|BACZ1|US|399453382566|IX12613161-0|Financial index future.|Index|BBG001NMCZM8||14009|0|0||39495|//blp/mktdata/bsym/US/BACZ1|//blp/mktdata/buid/US/IX12613161-0|//blp/mktdata/bsid/399453382566
 Bank of Amer Cebo Dec12|BACZ2|US|399453382567|IX12613165-0|Financial index future.|Index|BBG001NMCZP5||14009|0|0||39495|//blp/mktdata/bsym/US/BACZ2|//blp/mktdata/buid/US/IX12613165-0|//blp/mktdata/bsid/399453382567
 Bank of Amer Cebo Dec13|BACZ3|US|399453390659|IX12619042-0|Financial index future.|Index|BBG001NNC8P3||14009|0|0||39495|//blp/mktdata/bsym/US/BACZ3|//blp/mktdata/buid/US/IX12619042-0|//blp/mktdata/bsid/399453390659
+Bank of Amer Cebo Dec14|BACZ4|||IX13660645-0|Financial index future.|Index|BBG0024G46G0||14009|0|0||39495|||
 Brent ( BINDEX)   Dec11|BCPZ1|ICE|1172550025529|IX13582490-0|Financial index future.|Index|BBG0022QPKK1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCPZ1|//blp/mktdata/buid/ICE/IX13582490-0|//blp/mktdata/bsid/1172550025529
 Brent ( BINDEX)   Nov11|BCPX1|ICE|1172549469751|IX13379336-0|Financial index future.|Index|BBG00203F0X5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCPX1|//blp/mktdata/buid/ICE/IX13379336-0|//blp/mktdata/bsid/1172549469751
 Brent Cr Aft1Min  Dec11|BCEZ1|ICE|1172549469749|IX13379324-0|Financial index future.|Index|BBG00203F0R2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCEZ1|//blp/mktdata/buid/ICE/IX13379324-0|//blp/mktdata/bsid/1172549469749
@@ -61,6 +64,7 @@ CSI 300 IDX FUTUR Oct11|IFBV1|CFF|7460381641429|IX13402399-0|Financial index fut
 Citigroup Cebo    Dec11|CIDZ1|US|399453382564|IX12612509-0|Financial index future.|Index|BBG001NMC8W7||14009|0|0||39495|//blp/mktdata/bsym/US/CIDZ1|//blp/mktdata/buid/US/IX12612509-0|//blp/mktdata/bsid/399453382564
 Citigroup Cebo    Dec12|CIDZ2|US|399453382565|IX12612633-0|Financial index future.|Index|BBG001NMCYH7||14009|0|0||39495|//blp/mktdata/bsym/US/CIDZ2|//blp/mktdata/buid/US/IX12612633-0|//blp/mktdata/bsid/399453382565
 Citigroup Cebo    Dec13|CIDZ3|US|399453390657|IX12619038-0|Financial index future.|Index|BBG001NNC8F4||14009|0|0||39495|//blp/mktdata/bsym/US/CIDZ3|//blp/mktdata/buid/US/IX12619038-0|//blp/mktdata/bsid/399453390657
+Citigroup Cebo    Dec14|CIDZ4|||IX13660653-0|Financial index future.|Index|BBG0024G5Z39||14009|0|0||39495|||
 Credit IN EVT S3  Dec12|CCDZ2|eCME|2078766093472|IX4421341-0|Financial index future.|Index|BBG000WCQWP1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDZ2|//blp/mktdata/buid/eCME/IX4421341-0|//blp/mktdata/bsid/2078766093472
 Credit IN EVT S3  Jun12|CCDM2|eCME|2078766093471|IX4419501-0|Financial index future.|Index|BBG000WCQWG1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDM2|//blp/mktdata/buid/eCME/IX4419501-0|//blp/mktdata/bsid/2078766093471
 Crude ME Sour1Min Dec11|MECZ1|ICE|1172549805701|IX13481548-0|Financial index future.|Index|BBG0021L8T14||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECZ1|//blp/mktdata/buid/ICE/IX13481548-0|//blp/mktdata/bsid/1172549805701
@@ -135,11 +139,14 @@ Gazprom Stock Fut Sep12|PZAU2|||IX13572953-0|Financial index future.|Index|BBG00
 Goldman Sach Cebo Dec11|SGAZ1|US|399453382569|IX12613185-0|Financial index future.|Index|BBG001NMD133||14009|0|0||39495|//blp/mktdata/bsym/US/SGAZ1|//blp/mktdata/buid/US/IX12613185-0|//blp/mktdata/bsid/399453382569
 Goldman Sach Cebo Dec12|SGAZ2|US|399453382570|IX12613189-0|Financial index future.|Index|BBG001NMD1N1||14009|0|0||39495|//blp/mktdata/bsym/US/SGAZ2|//blp/mktdata/buid/US/IX12613189-0|//blp/mktdata/bsid/399453382570
 Goldman Sach Cebo Dec13|SGAZ3|US|399453390658|IX12619046-0|Financial index future.|Index|BBG001NNC971||14009|0|0||39495|//blp/mktdata/bsym/US/SGAZ3|//blp/mktdata/buid/US/IX12619046-0|//blp/mktdata/bsid/399453390658
+Goldman Sach Cebo Dec14|SGAZ4|||IX13660661-0|Financial index future.|Index|BBG0024G6NF2||14009|0|0||39495|||
 Hovnanian CEBO    Dec11|HOCZ1|US|399452604490|IX12217919-0|Financial index future.|Index|BBG001KKSNH1||14009|0|0||39495|//blp/mktdata/bsym/US/HOCZ1|//blp/mktdata/buid/US/IX12217919-0|//blp/mktdata/bsid/399452604490
+Hovnanian CEBO    Dec12|HOCZ2|||IX13660605-0|Financial index future.|Index|BBG0024FY107||14009|0|0||39495|||
 Huntsman Corp CEBODec11|HUCZ1|US|399452604494|IX12227008-0|Financial index future.|Index|BBG001KKSP40||14009|0|0||39495|//blp/mktdata/bsym/US/HUCZ1|//blp/mktdata/buid/US/IX12227008-0|//blp/mktdata/bsid/399452604494
 JPMorgan Cebo     Dec11|JPDZ1|US|399453382560|IX12612045-0|Financial index future.|Index|BBG001NMB028||14009|0|0||39495|//blp/mktdata/bsym/US/JPDZ1|//blp/mktdata/buid/US/IX12612045-0|//blp/mktdata/bsid/399453382560
 JPMorgan Cebo     Dec12|JPDZ2|US|399453382561|IX12612049-0|Financial index future.|Index|BBG001NMB091||14009|0|0||39495|//blp/mktdata/bsym/US/JPDZ2|//blp/mktdata/buid/US/IX12612049-0|//blp/mktdata/bsid/399453382561
 JPMorgan Cebo     Dec13|JPDZ3|US|399453390663|IX12619022-0|Financial index future.|Index|BBG001NNB8K9||14009|0|0||39495|//blp/mktdata/bsym/US/JPDZ3|//blp/mktdata/buid/US/IX12619022-0|//blp/mktdata/bsid/399453390663
+JPMorgan Cebo     Dec14|JPDZ4|||IX13660649-0|Financial index future.|Index|BBG0024G52Y8||14009|0|0||39495|||
 LS GasOil Sing1MinFeb12|QSSG2|ICE|1172550013339|IX13579890-0|Financial index future.|Index|BBG0022Q49B9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSSG2|//blp/mktdata/buid/ICE/IX13579890-0|//blp/mktdata/bsid/1172550013339
 LS GasOil Sing1MinJan12|QSSF2|ICE|1172550013338|IX13579882-0|Financial index future.|Index|BBG0022Q48C0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSSF2|//blp/mktdata/buid/ICE/IX13579882-0|//blp/mktdata/bsid/1172550013338
 LS GasOil Sing1MinMar12|QSSH2|ICE|1172550013340|IX13579894-0|Financial index future.|Index|BBG0022Q49K9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSSH2|//blp/mktdata/buid/ICE/IX13579894-0|//blp/mktdata/bsid/1172550013340
@@ -148,6 +155,7 @@ Lukoil future opt Jun12|LKOM2|||IX12943170-0|Financial index future.|Index|BBG00
 Lukoil future opt Mar12|LKOH2|||IX12291863-0|Financial index future.|Index|BBG001KQZWM4||14134|14134|0||39558|||
 Lukoil future opt Sep12|LKOU2|||IX13572925-0|Financial index future.|Index|BBG0022MD4N6||14134|14134|0||39558|||
 MBIA Inc CEBO     Dec11|MBDZ1|US|399452604503|IX12230453-0|Financial index future.|Index|BBG001KKTT41||14009|0|0||39495|//blp/mktdata/bsym/US/MBDZ1|//blp/mktdata/buid/US/IX12230453-0|//blp/mktdata/bsid/399452604503
+MBIA Inc CEBO     Dec12|MBDZ2|||IX13660609-0|Financial index future.|Index|BBG0024FYL76||14009|0|0||39495|||
 MSCI Asia Apex 50 Dec11|APEZ1|SGX|889080625847|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEZ1|//blp/mktdata/buid/SGX/IX13051841-0|//blp/mktdata/bsid/889080625847
 MSCI Asia Apex 50 Dec11|APEZ1|SGX|889080625847|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEZ1|//blp/mktdata/buid/SGX/IX13051841-0|//blp/mktdata/bsid/889080625847
 MSCI Asia Apex 50 Dec11|APEZ1|cSGX|10037360966327|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEZ1|//blp/mktdata/buid/cSGX/IX13051841-0|//blp/mktdata/bsid/10037360966327
@@ -305,6 +313,7 @@ MTS OJSC Future   Sep12|MTSU2|||IX13572937-0|Financial index future.|Index|BBG00
 Morgan Stan Cebo  Dec11|MSYZ1|US|399453384278|IX12613261-0|Financial index future.|Index|BBG001NMD3Z4||14009|0|0||39495|//blp/mktdata/bsym/US/MSYZ1|//blp/mktdata/buid/US/IX12613261-0|//blp/mktdata/bsid/399453384278
 Morgan Stan Cebo  Dec12|MSYZ2|US|399453387446|IX12613265-0|Financial index future.|Index|BBG001NMD464||14009|0|0||39495|//blp/mktdata/bsym/US/MSYZ2|//blp/mktdata/buid/US/IX12613265-0|//blp/mktdata/bsid/399453387446
 Morgan Stan Cebo  Dec13|MSYZ3|US|399453390836|IX12619058-0|Financial index future.|Index|BBG001NNCB12||14009|0|0||39495|//blp/mktdata/bsym/US/MSYZ3|//blp/mktdata/buid/US/IX12619058-0|//blp/mktdata/bsid/399453390836
+Morgan Stan Cebo  Dec14|MSYZ4|||IX13660665-0|Financial index future.|Index|BBG0024G75H8||14009|0|0||39495|||
 NAME|ID_BB_SEC_NUM_DES|FEED_SOURCE|ID_BB_SEC_NUM_SRC|ID_BB_UNIQUE|SECURITY_TYP|MARKET_SECTOR_DES|ID_BB_GLOBAL|COMPOSITE_ID_BB_GLOBAL|FEED_EID1|FEED_EID2|FEED_EID3|FEED_EID4|FEED_DELAYED_EID1|Subscription String 1|Subscription String 2|Subscription String 3
 NIKKEI DIVIDEND   Dec11|MNDZ1|SGX|889075328360|IX10497173-0|Financial index future.|Index|BBG000T6Z3V5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/MNDZ1|//blp/mktdata/buid/SGX/IX10497173-0|//blp/mktdata/bsid/889075328360
 NIKKEI DIVIDEND   Dec11|MNDZ1|SGX|889075328360|IX10497173-0|Financial index future.|Index|BBG000T6Z3V5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/MNDZ1|//blp/mktdata/buid/SGX/IX10497173-0|//blp/mktdata/bsid/889075328360
@@ -418,6 +427,7 @@ Severstal Futures Jun12|SVLM2|||IX12943158-0|Financial index future.|Index|BBG00
 Severstal Futures Mar12|SVLH2|||IX12292219-0|Financial index future.|Index|BBG001KQZZ29||14134|14134|0||39558|||
 Severstal Futures Sep12|SVLU2|||IX13572949-0|Financial index future.|Index|BBG0022MD4W6||14134|14134|0||39558|||
 Smithfield CEBO   Dec11|SDCZ1|US|399452604506|IX12230465-0|Financial index future.|Index|BBG001KKVH08||14009|0|0||39495|//blp/mktdata/bsym/US/SDCZ1|//blp/mktdata/buid/US/IX12230465-0|//blp/mktdata/bsid/399452604506
+Smithfield CEBO   Dec12|SDCZ2|||IX13660641-0|Financial index future.|Index|BBG0024FZ204||14009|0|0||39495|||
 Tatneft Futures   Dec11|TNTZ1|||IX11684347-0|Financial index future.|Index|BBG001BJVJG0||14134|14134|0||39558|||
 Tatneft Futures   Jun12|TNTM2|||IX12943174-0|Financial index future.|Index|BBG001R22J90||14134|14134|0||39558|||
 Tatneft Futures   Sep12|TNTU2|||IX13572945-0|Financial index future.|Index|BBG0022MD4V7||14134|14134|0||39558|||

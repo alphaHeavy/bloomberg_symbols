@@ -1,5 +1,5 @@
-#Data Generated At: Mon Sep 26 06:42:24 EDT 2011
-#Data Records=16408
+#Data Generated At: Tue Sep 27 06:41:48 EDT 2011
+#Data Records=16418
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -2754,6 +2754,7 @@ Citi FTSE BRIC 50|CGEIQQ9 Index|CGDO||EI09CGEIQQ9|Equity Index|Index|BBG001Z68M1
 Citi FTSE/Xinhua China 2|CGEIQQC Index|CGDO||EI09CGEIQQC|Equity Index|Index|BBG001Z51JZ6|||||||//blp/mktdata/bsym/CGDO/CGEIQQC Index|//blp/mktdata/buid/CGDO/EI09CGEIQQC|
 Citi GEMs High Div Baske|CGDOGEMD Index|CGDO||EI09CGDOGEMD|Equity Index|Index|BBG0022FRLP6|||||31088||//blp/mktdata/bsym/CGDO/CGDOGEMD Index|//blp/mktdata/buid/CGDO/EI09CGDOGEMD|
 Citi Global Ag Chems|CGDOGLAG Index|CGDO||EI09CGDOGLAG|Equity Index|Index|BBG0021R3CC1|||||31088||//blp/mktdata/bsym/CGDO/CGDOGLAG Index|//blp/mktdata/buid/CGDO/EI09CGDOGLAG|
+Citi Global Div Titans|CGDODIVT Index|CGDO||EI09CGDODIVT|Equity Index|Index|BBG0024FNFT7|||||31088||//blp/mktdata/bsym/CGDO/CGDODIVT Index|//blp/mktdata/buid/CGDO/EI09CGDODIVT|
 Citi Global Inflatn-Link|CGEIEGIL Index|CGDO||EI09CGEIEGIL|Equity Index|Index|BBG001Z696C9|||||||//blp/mktdata/bsym/CGDO/CGEIEGIL Index|//blp/mktdata/buid/CGDO/EI09CGEIEGIL|
 Citi Global Inflatn-Link|CGEIUS5 Index|CGDO||EI09CGEIUS5|Equity Index|Index|BBG001Z696D8|||||||//blp/mktdata/bsym/CGDO/CGEIUS5 Index|//blp/mktdata/buid/CGDO/EI09CGEIUS5|
 Citi Global Select Div 1|CGESDGP Index|CGDO||EI09CGESDGP|Equity Index|Index|BBG001Z69817|||||||//blp/mktdata/bsym/CGDO/CGESDGP Index|//blp/mktdata/buid/CGDO/EI09CGESDGP|
@@ -3025,6 +3026,7 @@ Custom DBUTIL Basket|DBCGTUTP Index|DBAB|4681530025906|EI09DBCGTUTP|Equity Index
 Custom European Retail|CGDOERT1 Index|CGDO||EI09CGDOERT1|Equity Index|Index|BBG001N9S8V0|||||31088||//blp/mktdata/bsym/CGDO/CGDOERT1 Index|//blp/mktdata/buid/CGDO/EI09CGDOERT1|
 Custom Food Retailers|CGDOFRET Index|CGDO||EI09CGDOFRET|Equity Index|Index|BBG001QHWH26|||||31088||//blp/mktdata/bsym/CGDO/CGDOFRET Index|//blp/mktdata/buid/CGDO/EI09CGDOFRET|
 Custom India 1 Basket|DBCGID1G Index|DBAB|4681527362787|EI09DBCGID1G|Equity Index|Index|BBG000T227V1|||||14835||//blp/mktdata/bsym/DBAB/DBCGID1G Index|//blp/mktdata/buid/DBAB/EI09DBCGID1G|//blp/mktdata/bsid/4681527362787
+Custom India A|DBCGIBAG Index|DBAB|4681527821948|EI09DBCGIBAG|Equity Index|Index|BBG000WTFDV1|||||14835||//blp/mktdata/bsym/DBAB/DBCGIBAG Index|//blp/mktdata/buid/DBAB/EI09DBCGIBAG|//blp/mktdata/bsid/4681527821948
 Custom Japan Basket|CGDOJAPN Index|CGDO||EI09CGDOJAPN|Equity Index|Index|BBG001LLSRT6|||||31088||//blp/mktdata/bsym/CGDO/CGDOJAPN Index|//blp/mktdata/buid/CGDO/EI09CGDOJAPN|
 Custom Large Cap Picks|CGDOJPLC Index|CGDO||EI09CGDOJPLC|Equity Index|Index|BBG001XSTY03|||||31088||//blp/mktdata/bsym/CGDO/CGDOJPLC Index|//blp/mktdata/buid/CGDO/EI09CGDOJPLC|
 Custom Long Utilities|UBSLUTIL Index|WDRL|2495396551380|EI09UBSLUTIL|Equity Index|Index|BBG001K8P5P1|||||||//blp/mktdata/bsym/WDRL/UBSLUTIL Index|//blp/mktdata/buid/WDRL/EI09UBSLUTIL|//blp/mktdata/bsid/2495396551380
@@ -4984,10 +4986,12 @@ GS Bespoke Basket|GSAV0429 Index|GOLD|3384441345943|EI09GSAV0429|Equity Index|In
 GS Bespoke Basket|GSAZPROJ Index|GOLD|3384449435396|EI09GSAZPROJ|Equity Index|Index|BBG000Z4QT19|||||31596||//blp/mktdata/bsym/GOLD/GSAZPROJ Index|//blp/mktdata/buid/GOLD/EI09GSAZPROJ|//blp/mktdata/bsid/3384449435396
 GS Bespoke Basket|GSBA2901 Index|GOLD|3384449383166|EI09GSBA2901|Equity Index|Index|BBG000Z48W58|||||||//blp/mktdata/bsym/GOLD/GSBA2901 Index|//blp/mktdata/buid/GOLD/EI09GSBA2901|//blp/mktdata/bsid/3384449383166
 GS Bespoke Basket|GSBAEMEA Index|GOLD||EI09GSBAEMEA|Equity Index|Index|BBG001YTNDN7|||||33368||//blp/mktdata/bsym/GOLD/GSBAEMEA Index|//blp/mktdata/buid/GOLD/EI09GSBAEMEA|
+GS Bespoke Basket|GSBALUXG Index|GOLD||EI09GSBALUXG|Equity Index|Index|BBG0024FPRG3|||||33368||//blp/mktdata/bsym/GOLD/GSBALUXG Index|//blp/mktdata/buid/GOLD/EI09GSBALUXG|
 GS Bespoke Basket|GSBBMB7P Index|GOLD|3384452450937|EI09GSBBMB7P|Equity Index|Index|BBG0015VTK43|||||32744||//blp/mktdata/bsym/GOLD/GSBBMB7P Index|//blp/mktdata/buid/GOLD/EI09GSBBMB7P|//blp/mktdata/bsid/3384452450937
 GS Bespoke Basket|GSBCBETA Index|GOLD||EI09GSBCBETA|Equity Index|Index|BBG002484W08|||||33368||//blp/mktdata/bsym/GOLD/GSBCBETA Index|//blp/mktdata/buid/GOLD/EI09GSBCBETA|
 GS Bespoke Basket|GSBK1207 Index|GOLD|3384441345942|EI09GSBK1207|Equity Index|Index|BBG000X11BK2|||||||//blp/mktdata/bsym/GOLD/GSBK1207 Index|//blp/mktdata/buid/GOLD/EI09GSBK1207|//blp/mktdata/bsid/3384441345942
 GS Bespoke Basket|GSECGLS Index|GOLD||EI09GSECGLS|Equity Index|Index|BBG00204H3D7|||||||//blp/mktdata/bsym/GOLD/GSECGLS Index|//blp/mktdata/buid/GOLD/EI09GSECGLS|
+GS Bespoke Basket|GSECHDD1 Index|GOLD||EI09GSECHDD1|Equity Index|Index|BBG0024FNBK5|||||33368||//blp/mktdata/bsym/GOLD/GSECHDD1 Index|//blp/mktdata/buid/GOLD/EI09GSECHDD1|
 GS Bespoke Basket|GSECMCXX Index|GOLD||EI09GSECMCXX|Equity Index|Index|BBG0021GYQM9|||||||//blp/mktdata/bsym/GOLD/GSECMCXX Index|//blp/mktdata/buid/GOLD/EI09GSECMCXX|
 GS Bespoke Basket|GSECMDEX Index|GOLD||EI09GSECMDEX|Equity Index|Index|BBG00212D479|||||33368||//blp/mktdata/bsym/GOLD/GSECMDEX Index|//blp/mktdata/buid/GOLD/EI09GSECMDEX|
 GS Bespoke Basket|GSECQEXP Index|GOLD||EI09GSECQEXP|Equity Index|Index|BBG0022Q9HN3|||||33368||//blp/mktdata/bsym/GOLD/GSECQEXP Index|//blp/mktdata/buid/GOLD/EI09GSECQEXP|
@@ -5003,6 +5007,8 @@ GS Bespoke Basket|GSIKTECH Index|GOLD||EI09GSIKTECH|Equity Index|Index|BBG00218T
 GS Bespoke Basket|GSJV0909 Index|GOLD||EI09GSJV0909|Equity Index|Index|BBG00227XQY6|||||33368||//blp/mktdata/bsym/GOLD/GSJV0909 Index|//blp/mktdata/buid/GOLD/EI09GSJV0909|
 GS Bespoke Basket|GSNBEUR2 Index|GOLD||EI09GSNBEUR2|Equity Index|Index|BBG001YN1K12|||||||//blp/mktdata/bsym/GOLD/GSNBEUR2 Index|//blp/mktdata/buid/GOLD/EI09GSNBEUR2|
 GS Bespoke Basket|GSNMSWEN Index|GOLD||EI09GSNMSWEN|Equity Index|Index|BBG0021XRQC1|||||33368||//blp/mktdata/bsym/GOLD/GSNMSWEN Index|//blp/mktdata/buid/GOLD/EI09GSNMSWEN|
+GS Bespoke Basket|GSSTHDDY Index|GOLD||EI09GSSTHDDY|Equity Index|Index|BBG0024F5154|||||33368||//blp/mktdata/bsym/GOLD/GSSTHDDY Index|//blp/mktdata/buid/GOLD/EI09GSSTHDDY|
+GS Bespoke Basket|GSTBBRIX Index|GOLD||EI09GSTBBRIX|Equity Index|Index|BBG0024F8XZ8|||||33368||//blp/mktdata/bsym/GOLD/GSTBBRIX Index|//blp/mktdata/buid/GOLD/EI09GSTBBRIX|
 GS Bespoke Basket|GSTBCACX Index|GOLD||EI09GSTBCACX|Equity Index|Index|BBG0021QW395|||||33368||//blp/mktdata/bsym/GOLD/GSTBCACX Index|//blp/mktdata/buid/GOLD/EI09GSTBCACX|
 GS Bespoke Basket|GSTBDOMX Index|GOLD||EI09GSTBDOMX|Equity Index|Index|BBG0021L5P97|||||33368||//blp/mktdata/bsym/GOLD/GSTBDOMX Index|//blp/mktdata/buid/GOLD/EI09GSTBDOMX|
 GS Bespoke Basket|GSTBMCXX Index|GOLD||EI09GSTBMCXX|Equity Index|Index|BBG0021K3YG4|||||33368||//blp/mktdata/bsym/GOLD/GSTBMCXX Index|//blp/mktdata/buid/GOLD/EI09GSTBMCXX|
@@ -5837,6 +5843,10 @@ KBW BANK INDEX|BKX Index|DJI|622770579436|EI09BKX|Equity Index|Index|BBG000MYR7P
 KBW BANKS QTR INDEX|BKXQ Index|DJI|622770579436|EI09BKXQ|Equity Index|Index|BBG000WCF206||14224|||||//blp/mktdata/bsym/DJI/BKXQ Index|//blp/mktdata/buid/DJI/EI09BKXQ|//blp/mktdata/bsid/622770579436
 KBW CAPITAL MARKETS INDX|KSX Index|DJI|622770642106|EI09KSX|Equity Index|Index|BBG000V13N35||14224|||||//blp/mktdata/bsym/DJI/KSX Index|//blp/mktdata/buid/DJI/EI09KSX|//blp/mktdata/bsid/622770642106
 KBW EU LCG Bank|KEBI Index|DJI|622772699550|EI09KEBI|Equity Index|Index|BBG000WJY2X4||14224|||||//blp/mktdata/bsym/DJI/KEBI Index|//blp/mktdata/buid/DJI/EI09KEBI|//blp/mktdata/bsid/622772699550
+KBW EU MD&SM bnk|KMBI Index|DJI|622772699554|EI09KMBI|Equity Index|Index|BBG000WJY3V4||14224|||||//blp/mktdata/bsym/DJI/KMBI Index|//blp/mktdata/buid/DJI/EI09KMBI|//blp/mktdata/bsid/622772699554
+KBW EU Misc Finl|KMFI Index|DJI|622772699543|EI09KMFI|Equity Index|Index|BBG000WJY503||14224|||||//blp/mktdata/bsym/DJI/KMFI Index|//blp/mktdata/buid/DJI/EI09KMFI|//blp/mktdata/bsid/622772699543
+KBW EUInsurance|KEII Index|DJI|622772699547|EI09KEII|Equity Index|Index|BBG000WJY488||14224|||||//blp/mktdata/bsym/DJI/KEII Index|//blp/mktdata/buid/DJI/EI09KEII|//blp/mktdata/bsid/622772699547
+KBW Emg EU Finl|KEEI Index|DJI|622772699546|EI09KEEI|Equity Index|Index|BBG000WJY5D9||14224|||||//blp/mktdata/bsym/DJI/KEEI Index|//blp/mktdata/buid/DJI/EI09KEEI|//blp/mktdata/bsid/622772699546
 KBW FinDivYield|KDX Index|DJI|622789048816|EI09KDX|Equity Index|Index|BBG00182QW32||14224|||||//blp/mktdata/bsym/DJI/KDX Index|//blp/mktdata/buid/DJI/EI09KDX|//blp/mktdata/bsid/622789048816
 KBW Glbl Finl|KGX Index|DJI|622772701803|EI09KGX|Equity Index|Index|BBG000WJY7B7||14224|||||//blp/mktdata/bsym/DJI/KGX Index|//blp/mktdata/buid/DJI/EI09KGX|//blp/mktdata/bsid/622772701803
 KBW INSURANCE INDEX|KIX Index|DJI|622770633931|EI09KIX|Equity Index|Index|BBG000THV3J9||14224|||||//blp/mktdata/bsym/DJI/KIX Index|//blp/mktdata/buid/DJI/EI09KIX|//blp/mktdata/bsid/622770633931
