@@ -1,5 +1,5 @@
-#Data Generated At: Tue Sep 27 06:42:01 EDT 2011
-#Data Records=6280
+#Data Generated At: Wed Sep 28 06:42:06 EDT 2011
+#Data Records=6283
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -2640,7 +2640,6 @@ IGP-M INDEX   FUT Jun12|PXM2|eBMF|2074491129156|IX12808749-0|Physical index futu
 IGP-M INDEX   FUT Mar12|PXH2|eBMF|2074489642873|IX12136121-0|Physical index future.|Index|BBG001JZPKM3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/PXH2|//blp/mktdata/buid/eBMF/IX12136121-0|//blp/mktdata/bsid/2074489642873
 IGP-M INDEX   FUT May12|PXK2|eBMF|2074490638145|IX12622410-0|Physical index future.|Index|BBG001NNL9K6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/PXK2|//blp/mktdata/buid/eBMF/IX12622410-0|//blp/mktdata/bsid/2074490638145
 IGP-M INDEX   FUT Nov11|PXX1|eBMF|2074488011690|IX11352394-0|Physical index future.|Index|BBG001854T09||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/PXX1|//blp/mktdata/buid/eBMF/IX11352394-0|//blp/mktdata/bsid/2074488011690
-IGP-M INDEX   FUT Oct11|PXV1|eBMF|2074477214043|IX7817775-0|Physical index future.|Index|BBG000X7G278||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/PXV1|//blp/mktdata/buid/eBMF/IX7817775-0|//blp/mktdata/bsid/2074477214043
 IGP-M INDEX   FUT Oct12|PXV2|eBMF|2074477214044|IX7817779-0|Physical index future.|Index|BBG000X7G2D1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/PXV2|//blp/mktdata/buid/eBMF/IX7817779-0|//blp/mktdata/bsid/2074477214044
 IGP-M INDEX   FUT Sep12|PXU2|eBMF|2074492846851|IX13442842-0|Physical index future.|Index|BBG002180V34||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/PXU2|//blp/mktdata/buid/eBMF/IX13442842-0|//blp/mktdata/bsid/2074492846851
 IGP-M MINI IX FUT Apr12|QFJ2|eBMF|2074490215260|IX12426741-0|Physical index future.|Index|BBG001LT1ZX5||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/QFJ2|//blp/mktdata/buid/eBMF/IX12426741-0|//blp/mktdata/bsid/2074490215260
@@ -2654,6 +2653,7 @@ IGP-M MINI IX FUT Mar12|QFH2|eBMF|2074489669060|IX12143179-0|Physical index futu
 IGP-M MINI IX FUT May12|QFK2|eBMF|2074490638146|IX12622430-0|Physical index future.|Index|BBG001NNL9N3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/QFK2|//blp/mktdata/buid/eBMF/IX12622430-0|//blp/mktdata/bsid/2074490638146
 IGP-M MINI IX FUT Nov11|QFX1|eBMF|2074488011692|IX11352398-0|Physical index future.|Index|BBG001854T18||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/QFX1|//blp/mktdata/buid/eBMF/IX11352398-0|//blp/mktdata/bsid/2074488011692
 IGP-M MINI IX FUT Oct11|QFV1|eBMF|2074487670840|IX11187256-0|Physical index future.|Index|BBG0016VGH89||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/QFV1|//blp/mktdata/buid/eBMF/IX11187256-0|//blp/mktdata/bsid/2074487670840
+IGP-M MINI IX FUT Oct12|QFV2|eBMF|2074493435842|IX13668144-0|Physical index future.|Index|BBG0024LG060||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/QFV2|//blp/mktdata/buid/eBMF/IX13668144-0|//blp/mktdata/bsid/2074493435842
 IGP-M MINI IX FUT Sep12|QFU2|eBMF|2074492880095|IX13452323-0|Physical index future.|Index|BBG0021CCVL2||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/QFU2|//blp/mktdata/buid/eBMF/IX13452323-0|//blp/mktdata/bsid/2074492880095
 INDUSTRIAL IX FUT Dec11|INZ1|SAFE|1705120314362|IX13627317-0|Physical index future.|Index|BBG00164X7M6||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/INZ1|//blp/mktdata/buid/SAFE/IX13627317-0|//blp/mktdata/bsid/1705120314362
 INDUSTRIAL IX FUT Dec12|INZ2|SAFE|1705125958582|IX13582438-0|Physical index future.|Index|BBG0022QPK49||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/INZ2|//blp/mktdata/buid/SAFE/IX13582438-0|//blp/mktdata/bsid/1705125958582
@@ -6104,6 +6104,7 @@ VDAX-NEW SUB IND  Dec12|V1Z2|DBVI|21495033336|IX12038246-0|Physical index future
 VDAX-NEW SUB IND  Jun12|V1M2|DBVI|21498954699|IX13627365-0|Physical index future.|Index|BBG00244SVB1||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V1M2|//blp/mktdata/buid/DBVI/IX13627365-0|//blp/mktdata/bsid/21498954699
 VDAX-NEW SUB IND  Mar12|V1H2|DBVI|21498954719|IX13627361-0|Physical index future.|Index|BBG00244STG1||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V1H2|//blp/mktdata/buid/DBVI/IX13627361-0|//blp/mktdata/bsid/21498954719
 VDAX-NEW SUB IND  Oct11|V1V1|DBVI|21497852626|IX13278646-0|Physical index future.|Index|BBG001YHKJ62||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V1V1|//blp/mktdata/buid/DBVI/IX13278646-0|//blp/mktdata/bsid/21497852626
+VDAX-NEW SUB IND  Sep12|V1U2|DBVI|21499062451|IX13666605-0|Physical index future.|Index|BBG0024L3JR0||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V1U2|//blp/mktdata/buid/DBVI/IX13666605-0|//blp/mktdata/bsid/21499062451
 VINX30 IND FUTURE Dec11|VZZ1|SS|450995534054|IX13594942-0|Physical index future.|Index|BBG0022V96R2||29839|29839|0||40086|//blp/mktdata/bsym/SS/VZZ1|//blp/mktdata/buid/SS/IX13594942-0|//blp/mktdata/bsid/450995534054
 VINX30 IND FUTURE Nov11|VZX1|SS|450995014413|IX13405583-0|Physical index future.|Index|BBG0020BB1D1||29839|29839|0||40086|//blp/mktdata/bsym/SS/VZX1|//blp/mktdata/buid/SS/IX13405583-0|//blp/mktdata/bsid/450995014413
 VINX30 IND FUTURE Oct11|VZV1|SS|450994220834|IX13168995-0|Physical index future.|Index|BBG001WWF433||29839|29839|0||40086|//blp/mktdata/bsym/SS/VZV1|//blp/mktdata/buid/SS/IX13168995-0|//blp/mktdata/bsid/450994220834
@@ -6117,6 +6118,7 @@ VSMI SUB INDEX    Jun12|V3M2|DBVI|21498954777|IX13627381-0|Physical index future
 VSMI SUB INDEX    Mar12|V3H2|DBVI|21498954776|IX13627377-0|Physical index future.|Index|BBG00244T5W4||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V3H2|//blp/mktdata/buid/DBVI/IX13627377-0|//blp/mktdata/bsid/21498954776
 VSMI SUB INDEX    Nov11|V3X1|DBVI|21498954786|IX13627373-0|Physical index future.|Index|BBG00244T313||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V3X1|//blp/mktdata/buid/DBVI/IX13627373-0|//blp/mktdata/bsid/21498954786
 VSMI SUB INDEX    Oct11|V3V1|DBVI|21497852817|IX13278654-0|Physical index future.|Index|BBG001YHKLJ3||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V3V1|//blp/mktdata/buid/DBVI/IX13278654-0|//blp/mktdata/bsid/21497852817
+VSMI SUB INDEX    Sep12|V3U2|DBVI|21499062477|IX13666613-0|Physical index future.|Index|BBG0024L3KG9||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V3U2|//blp/mktdata/buid/DBVI/IX13666613-0|//blp/mktdata/bsid/21499062477
 VSTOXX Mini Futur Apr12|FVSJ2|EUX|279196286043|IX13386617-0|Physical index future.|Index|BBG0020543C9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSJ2|//blp/mktdata/buid/EUX/IX13386617-0|//blp/mktdata/bsid/279196286043
 VSTOXX Mini Futur Dec11|FVSZ1|EUX|279194265103|IX12591137-0|Physical index future.|Index|BBG001NGZXS5||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSZ1|//blp/mktdata/buid/EUX/IX12591137-0|//blp/mktdata/bsid/279194265103
 VSTOXX Mini Futur Feb12|FVSG2|EUX|279195019372|IX12953277-0|Physical index future.|Index|BBG001R3JHJ3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSG2|//blp/mktdata/buid/EUX/IX12953277-0|//blp/mktdata/bsid/279195019372
@@ -6131,6 +6133,7 @@ VSTOXX SUB INDEX  Jun12|V2M2|DBVI|21497852765|IX13278686-0|Physical index future
 VSTOXX SUB INDEX  Mar12|V2H2|DBVI|21497852764|IX13278682-0|Physical index future.|Index|BBG001YHW1S4||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2H2|//blp/mktdata/buid/DBVI/IX13278682-0|//blp/mktdata/bsid/21497852764
 VSTOXX SUB INDEX  Nov11|V2X1|||IX13588774-0|Physical index future.|Index|BBG0022TBW51||27808|0|0||39612|||
 VSTOXX SUB INDEX  Oct11|V2V1|DBVI|21497852627|IX13278650-0|Physical index future.|Index|BBG001YHKKT4||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2V1|//blp/mktdata/buid/DBVI/IX13278650-0|//blp/mktdata/bsid/21497852627
+VSTOXX SUB INDEX  Sep12|V2U2|DBVI|21499062476|IX13666593-0|Physical index future.|Index|BBG0024L3FQ9||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2U2|//blp/mktdata/buid/DBVI/IX13666593-0|//blp/mktdata/bsid/21499062476
 Vancouver Month C Aug12|CARQ2|CME|614204125296|IX13519274-0|Physical index future.|Index|BBG0021W8ZD3||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARQ2|//blp/mktdata/buid/CME/IX13519274-0|//blp/mktdata/bsid/614204125296
 Vancouver Month C Jul12|CARN2|CME|614203424742|IX13310909-0|Physical index future.|Index|BBG001YR76Y2||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARN2|//blp/mktdata/buid/CME/IX13310909-0|//blp/mktdata/bsid/614203424742
 Vancouver Month C Jun12|CARM2|CME|614202787330|IX13094822-0|Physical index future.|Index|BBG001VKYXR9||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARM2|//blp/mktdata/buid/CME/IX13094822-0|//blp/mktdata/bsid/614202787330
