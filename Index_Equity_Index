@@ -1,5 +1,5 @@
-#Data Generated At: Wed Sep 28 06:41:55 EDT 2011
-#Data Records=16490
+#Data Generated At: Thu Sep 29 06:42:03 EDT 2011
+#Data Records=16493
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50DMA|CGDOUD5D Index|CGDO||EI09CGDOUD5D|Equity Index|Index|BBG001Y6ZCM7|||||||//blp/mktdata/bsym/CGDO/CGDOUD5D Index|//blp/mktdata/buid/CGDO/EI09CGDOUD5D|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1527,6 +1527,8 @@ BI Gl Sml Auto Pts - Com|BIAUTPSS Index|||EI09BIAUTPSS|Equity Index|Index|BBG001
 BI Gl Wrd Cons SemiCd PB|BICPWCGV Index|||EI09BICPWCGV|Equity Index|Index|BBG0019RFYP0|||||||||
 BI Glb Fertilizers PB|BIFERTGV Index|||EI09BIFERTGV|Equity Index|Index|BBG001CBDMD2|||||||||
 BI Global Ad Ag Val|BIADAGGV Index|||EI09BIADAGGV|Equity Index|Index|BBG001CBF1H2|||||||||
+BI Global Lg Inv Mgt C|BIGLINVC Index|||EI09BIGLINVC|Equity Index|Index|BBG0024NFRW9|||||||||
+BI Global Lg Inv Mgt P|BIGLINVP Index|||EI09BIGLINVP|Equity Index|Index|BBG0024NK7X6|||||||||
 BI Indian Airlines|BIAIRINV Index|||EI09BIAIRINV|Equity Index|Index|BBG001LM4PB3|||||||||
 BI Internet Comp|BIINETGC Index|||EI09BIINETGC|Equity Index|Index|BBG00196XM90|||||||||
 BI JP Large Pharma P Bus|BIJPLGPH Index|||EI09BIJPLGPH|Equity Index|Index|BBG0019JYH29|||||||||
@@ -3493,6 +3495,7 @@ EFP : RIOB|CGEFRIOB Index|CGDO||EI09CGEFRIOB|Equity Index|Index|BBG001BW3NG3||||
 EFP : TOP40|CGEFTOP Index|CGDO||EI09CGEFTOP|Equity Index|Index|BBG001BW3N91|||||31088||//blp/mktdata/bsym/CGDO/CGEFTOP Index|//blp/mktdata/buid/CGDO/EI09CGEFTOP|
 EFP : WIG20|CGEFWIG Index|CGDO||EI09CGEFWIG|Equity Index|Index|BBG001BW3NF4|||||31088||//blp/mktdata/bsym/CGDO/CGEFWIG Index|//blp/mktdata/buid/CGDO/EI09CGEFWIG|
 EGX 100 INDEX|EGX100 Index|EC|1120998297995|EI09EGX100|Equity Index|Index|BBG000VZKMV2||14178|14178|||39578|//blp/mktdata/bsym/EC/EGX100 Index|//blp/mktdata/buid/EC/EI09EGX100|//blp/mktdata/bsid/1120998297995
+EGX 20 INDEX|EGX20 Index|EC||EI09EGX20|Equity Index|Index|BBG0024L0G62||14178|14178|||39578|//blp/mktdata/bsym/EC/EGX20 Index|//blp/mktdata/buid/EC/EI09EGX20|
 EGX 30 INDEX|EGX30 Index|EC|1120986803194|EI09EGX30|Equity Index|Index|BBG000XKSDV5||14178|14178|||39578|//blp/mktdata/bsym/EC/EGX30 Index|//blp/mktdata/buid/EC/EI09EGX30|//blp/mktdata/bsid/1120986803194
 EGX 30 Index|CASE Index|EC|1120986803194|EI09CASE|Equity Index|Index|BBG000PRFQY1||14178|14178|||39578|//blp/mktdata/bsym/EC/CASE Index|//blp/mktdata/buid/EC/EI09CASE|//blp/mktdata/bsid/1120986803194
 EGX 70 INDEX|EGX70 Index|EC|1120995817939|EI09EGX70|Equity Index|Index|BBG000XKRLX6||14178|14178|||39578|//blp/mktdata/bsym/EC/EGX70 Index|//blp/mktdata/buid/EC/EI09EGX70|//blp/mktdata/bsid/1120995817939
@@ -3668,7 +3671,6 @@ European Basket 2|CGDOEUB2 Index|CGDO||EI09CGDOEUB2|Equity Index|Index|BBG000ZHB
 European Bespoke|GSLESHEU Index|GOLD|3384452515458|EI09GSLESHEU|Equity Index|Index|BBG00162MYY0|||||||//blp/mktdata/bsym/GOLD/GSLESHEU Index|//blp/mktdata/buid/GOLD/EI09GSLESHEU|//blp/mktdata/bsid/3384452515458
 European Demographics|HTERDEMO Index|CSUK|5987205761070|EI09HTERDEMO|Equity Index|Index|BBG001N9DK30|||||31521||//blp/mktdata/bsym/CSUK/HTERDEMO Index|//blp/mktdata/buid/CSUK/EI09HTERDEMO|//blp/mktdata/bsid/5987205761070
 European DivYield B0718|GSEBDY30 Index|GOLD|3384452167116|EI09GSEBDY30|Equity Index|Index|BBG0014V05D8|||||||//blp/mktdata/bsym/GOLD/GSEBDY30 Index|//blp/mktdata/buid/GOLD/EI09GSEBDY30|//blp/mktdata/bsid/3384452167116
-European Equity Shorts|MSBPGEES Index|MSXP|5201224024602|EI09MSBPGEES|Equity Index|Index|BBG0017C2HF7|||||||//blp/mktdata/bsym/MSXP/MSBPGEES Index|//blp/mktdata/buid/MSXP/EI09MSBPGEES|//blp/mktdata/bsid/5201224024602
 European Industrials|MSBPJAEI Index|MSBP||EI09MSBPJAEI|Equity Index|Index|BBG001S58KZ4|||||||//blp/mktdata/bsym/MSBP/MSBPJAEI Index|//blp/mktdata/buid/MSBP/EI09MSBPJAEI|
 European Insurers|CGDOEINS Index|CGDO||EI09CGDOEINS|Equity Index|Index|BBG0015MH8F1|||||31088||//blp/mktdata/bsym/CGDO/CGDOEINS Index|//blp/mktdata/buid/CGDO/EI09CGDOEINS|
 European M&A Theme Baske|DBCGMXCP Index|DBAB|4681532602115|EI09DBCGMXCP|Equity Index|Index|BBG0015YW3Q7|||||14835||//blp/mktdata/bsym/DBAB/DBCGMXCP Index|//blp/mktdata/buid/DBAB/EI09DBCGMXCP|//blp/mktdata/bsid/4681532602115
@@ -6639,40 +6641,40 @@ MSCI ACWI /INFO TCH|MXWD0IT Index|MXRT|5570574998961|EI09MXWD0IT|Equity Index|In
 MSCI ACWI /MATERIAL|MXWD0MT Index|MXRT|5570574998962|EI09MXWD0MT|Equity Index|Index|BBG000RSKCG2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MT Index|//blp/mktdata/buid/MXRT/EI09MXWD0MT|//blp/mktdata/bsid/5570574998962
 MSCI ACWI /TEL SV|MXWD0TC Index|MXRT|5570574998963|EI09MXWD0TC|Equity Index|Index|BBG000RSKD16||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TC Index|//blp/mktdata/buid/MXRT/EI09MXWD0TC|//blp/mktdata/bsid/5570574998963
 MSCI ACWI /UTILITY|MXWD0UT Index|MXRT|5570574998964|EI09MXWD0UT|Equity Index|Index|BBG000RSKFB0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0UT Index|//blp/mktdata/buid/MXRT/EI09MXWD0UT|//blp/mktdata/bsid/5570574998964
-MSCI ACWI Aeros&Defense|MXWD0AD Index|MXRT||EI09MXWD0AD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AD Index|//blp/mktdata/buid/MXRT/EI09MXWD0AD|
-MSCI ACWI Air Freigt&Log|MXWD0AF Index|MXRT||EI09MXWD0AF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AF Index|//blp/mktdata/buid/MXRT/EI09MXWD0AF|
-MSCI ACWI Airlines|MXWD0AL Index|MXRT||EI09MXWD0AL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AL Index|//blp/mktdata/buid/MXRT/EI09MXWD0AL|
-MSCI ACWI Auto Component|MXWD0AP Index|MXRT||EI09MXWD0AP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AP Index|//blp/mktdata/buid/MXRT/EI09MXWD0AP|
-MSCI ACWI Automobiles|MXWD0AU Index|MXRT||EI09MXWD0AU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AU Index|//blp/mktdata/buid/MXRT/EI09MXWD0AU|
-MSCI ACWI Beverages|MXWD0BV Index|MXRT||EI09MXWD0BV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0BV Index|//blp/mktdata/buid/MXRT/EI09MXWD0BV|
-MSCI ACWI Building Prod|MXWD0BP Index|MXRT||EI09MXWD0BP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0BP Index|//blp/mktdata/buid/MXRT/EI09MXWD0BP|
-MSCI ACWI Capital Mkts|MXWD0CK Index|MXRT||EI09MXWD0CK|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CK Index|//blp/mktdata/buid/MXRT/EI09MXWD0CK|
-MSCI ACWI Comm Svs & Sup|MXWD0CO Index|MXRT||EI09MXWD0CO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CO Index|//blp/mktdata/buid/MXRT/EI09MXWD0CO|
-MSCI ACWI Commercial Bnk|MXWD0CB Index|MXRT||EI09MXWD0CB|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CB Index|//blp/mktdata/buid/MXRT/EI09MXWD0CB|
-MSCI ACWI Communicat Eq|MXWD0CQ Index|MXRT||EI09MXWD0CQ|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CQ Index|//blp/mktdata/buid/MXRT/EI09MXWD0CQ|
-MSCI ACWI Comput&Periph|MXWD0PC Index|MXRT||EI09MXWD0PC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0PC Index|//blp/mktdata/buid/MXRT/EI09MXWD0PC|
-MSCI ACWI Cons Finance|MXWD0CF Index|MXRT||EI09MXWD0CF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CF Index|//blp/mktdata/buid/MXRT/EI09MXWD0CF|
-MSCI ACWI Const & Engin|MXWD0CE Index|MXRT||EI09MXWD0CE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CE Index|//blp/mktdata/buid/MXRT/EI09MXWD0CE|
-MSCI ACWI Const Material|MXWD0CJ Index|MXRT||EI09MXWD0CJ|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CJ Index|//blp/mktdata/buid/MXRT/EI09MXWD0CJ|
-MSCI ACWI Cont & Packag|MXWD0CP Index|MXRT||EI09MXWD0CP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CP Index|//blp/mktdata/buid/MXRT/EI09MXWD0CP|
-MSCI ACWI Distributors|MXWD0DT Index|MXRT||EI09MXWD0DT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DT Index|//blp/mktdata/buid/MXRT/EI09MXWD0DT|
-MSCI ACWI Diver Cons Sv|MXWD0DC Index|MXRT||EI09MXWD0DC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DC Index|//blp/mktdata/buid/MXRT/EI09MXWD0DC|
-MSCI ACWI Diver Tele Svs|MXWD0DV Index|MXRT||EI09MXWD0DV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DV Index|//blp/mktdata/buid/MXRT/EI09MXWD0DV|
-MSCI ACWI Divers Fin Sv|MXWD0DS Index|MXRT||EI09MXWD0DS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DS Index|//blp/mktdata/buid/MXRT/EI09MXWD0DS|
-MSCI ACWI Elect Eq Ins&C|MXWD0EI Index|MXRT||EI09MXWD0EI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0EI Index|//blp/mktdata/buid/MXRT/EI09MXWD0EI|
-MSCI ACWI Electric Util|MXWD0EU Index|MXRT||EI09MXWD0EU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0EU Index|//blp/mktdata/buid/MXRT/EI09MXWD0EU|
-MSCI ACWI Electrical Eq|MXWD0EL Index|MXRT||EI09MXWD0EL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0EL Index|//blp/mktdata/buid/MXRT/EI09MXWD0EL|
+MSCI ACWI Aeros&Defense|MXWD0AD Index|MXRT|5570596826066|EI09MXWD0AD|Equity Index|Index|BBG0024N2PH4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AD Index|//blp/mktdata/buid/MXRT/EI09MXWD0AD|//blp/mktdata/bsid/5570596826066
+MSCI ACWI Air Freigt&Log|MXWD0AF Index|MXRT|5570596826067|EI09MXWD0AF|Equity Index|Index|BBG0024N2PK0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AF Index|//blp/mktdata/buid/MXRT/EI09MXWD0AF|//blp/mktdata/bsid/5570596826067
+MSCI ACWI Airlines|MXWD0AL Index|MXRT|5570596826532|EI09MXWD0AL|Equity Index|Index|BBG0024N2PL9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AL Index|//blp/mktdata/buid/MXRT/EI09MXWD0AL|//blp/mktdata/bsid/5570596826532
+MSCI ACWI Auto Component|MXWD0AP Index|MXRT|5570596826523|EI09MXWD0AP|Equity Index|Index|BBG0024N2PM8||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AP Index|//blp/mktdata/buid/MXRT/EI09MXWD0AP|//blp/mktdata/bsid/5570596826523
+MSCI ACWI Automobiles|MXWD0AU Index|MXRT|5570596826085|EI09MXWD0AU|Equity Index|Index|BBG0024N2PN7||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0AU Index|//blp/mktdata/buid/MXRT/EI09MXWD0AU|//blp/mktdata/bsid/5570596826085
+MSCI ACWI Beverages|MXWD0BV Index|MXRT|5570596826069|EI09MXWD0BV|Equity Index|Index|BBG0024N2PP5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0BV Index|//blp/mktdata/buid/MXRT/EI09MXWD0BV|//blp/mktdata/bsid/5570596826069
+MSCI ACWI Building Prod|MXWD0BP Index|MXRT|5570596826070|EI09MXWD0BP|Equity Index|Index|BBG0024N2PQ4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0BP Index|//blp/mktdata/buid/MXRT/EI09MXWD0BP|//blp/mktdata/bsid/5570596826070
+MSCI ACWI Capital Mkts|MXWD0CK Index|MXRT|5570596826071|EI09MXWD0CK|Equity Index|Index|BBG0024N2PR3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CK Index|//blp/mktdata/buid/MXRT/EI09MXWD0CK|//blp/mktdata/bsid/5570596826071
+MSCI ACWI Comm Svs & Sup|MXWD0CO Index|MXRT|5570596826108|EI09MXWD0CO|Equity Index|Index|BBG0024N2PT1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CO Index|//blp/mktdata/buid/MXRT/EI09MXWD0CO|//blp/mktdata/bsid/5570596826108
+MSCI ACWI Commercial Bnk|MXWD0CB Index|MXRT|5570596826072|EI09MXWD0CB|Equity Index|Index|BBG0024N2PS2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CB Index|//blp/mktdata/buid/MXRT/EI09MXWD0CB|//blp/mktdata/bsid/5570596826072
+MSCI ACWI Communicat Eq|MXWD0CQ Index|MXRT|5570596826114|EI09MXWD0CQ|Equity Index|Index|BBG0024N2PV8||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CQ Index|//blp/mktdata/buid/MXRT/EI09MXWD0CQ|//blp/mktdata/bsid/5570596826114
+MSCI ACWI Comput&Periph|MXWD0PC Index|MXRT|5570596826082|EI09MXWD0PC|Equity Index|Index|BBG0024N2PW7||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0PC Index|//blp/mktdata/buid/MXRT/EI09MXWD0PC|//blp/mktdata/bsid/5570596826082
+MSCI ACWI Cons Finance|MXWD0CF Index|MXRT|5570596826073|EI09MXWD0CF|Equity Index|Index|BBG0024N2PZ4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CF Index|//blp/mktdata/buid/MXRT/EI09MXWD0CF|//blp/mktdata/bsid/5570596826073
+MSCI ACWI Const & Engin|MXWD0CE Index|MXRT|5570596826087|EI09MXWD0CE|Equity Index|Index|BBG0024N2PX6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CE Index|//blp/mktdata/buid/MXRT/EI09MXWD0CE|//blp/mktdata/bsid/5570596826087
+MSCI ACWI Const Material|MXWD0CJ Index|MXRT|5570596826074|EI09MXWD0CJ|Equity Index|Index|BBG0024N2PY5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CJ Index|//blp/mktdata/buid/MXRT/EI09MXWD0CJ|//blp/mktdata/bsid/5570596826074
+MSCI ACWI Cont & Packag|MXWD0CP Index|MXRT|5570596826075|EI09MXWD0CP|Equity Index|Index|BBG0024N2Q00||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0CP Index|//blp/mktdata/buid/MXRT/EI09MXWD0CP|//blp/mktdata/bsid/5570596826075
+MSCI ACWI Distributors|MXWD0DT Index|MXRT|5570596826076|EI09MXWD0DT|Equity Index|Index|BBG0024N2Q19||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DT Index|//blp/mktdata/buid/MXRT/EI09MXWD0DT|//blp/mktdata/bsid/5570596826076
+MSCI ACWI Diver Cons Sv|MXWD0DC Index|MXRT|5570596826533|EI09MXWD0DC|Equity Index|Index|BBG0024N2Q28||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DC Index|//blp/mktdata/buid/MXRT/EI09MXWD0DC|//blp/mktdata/bsid/5570596826533
+MSCI ACWI Diver Tele Svs|MXWD0DV Index|MXRT|5570596826092|EI09MXWD0DV|Equity Index|Index|BBG0024N2Q46||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DV Index|//blp/mktdata/buid/MXRT/EI09MXWD0DV|//blp/mktdata/bsid/5570596826092
+MSCI ACWI Divers Fin Sv|MXWD0DS Index|MXRT|5570596826095|EI09MXWD0DS|Equity Index|Index|BBG0024N2Q37||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0DS Index|//blp/mktdata/buid/MXRT/EI09MXWD0DS|//blp/mktdata/bsid/5570596826095
+MSCI ACWI Elect Eq Ins&C|MXWD0EI Index|MXRT|5570596826078|EI09MXWD0EI|Equity Index|Index|BBG0024N2Q73||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0EI Index|//blp/mktdata/buid/MXRT/EI09MXWD0EI|//blp/mktdata/bsid/5570596826078
+MSCI ACWI Electric Util|MXWD0EU Index|MXRT|5570596826081|EI09MXWD0EU|Equity Index|Index|BBG0024N2Q55||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0EU Index|//blp/mktdata/buid/MXRT/EI09MXWD0EU|//blp/mktdata/bsid/5570596826081
+MSCI ACWI Electrical Eq|MXWD0EL Index|MXRT|5570596826079|EI09MXWD0EL|Equity Index|Index|BBG0024N2Q64||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0EL Index|//blp/mktdata/buid/MXRT/EI09MXWD0EL|//blp/mktdata/bsid/5570596826079
 MSCI ACWI FM ex Japan|MXWDFMJ Index|MXRT|5570579228488|EI09MXWDFMJ|Equity Index|Index|BBG000WYSPJ3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWDFMJ Index|//blp/mktdata/buid/MXRT/EI09MXWDFMJ|//blp/mktdata/bsid/5570579228488
 MSCI ACWI FM ex USA|MXWDFMU Index|MXRT|5570579225411|EI09MXWDFMU|Equity Index|Index|BBG000WYSP49||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWDFMU Index|//blp/mktdata/buid/MXRT/EI09MXWDFMU|//blp/mktdata/bsid/5570579225411
 MSCI ACWI FRONTIER MKTS|MXWDFM Index|MXRT|5570579225401|EI09MXWDFM|Equity Index|Index|BBG000WYSNC5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWDFM Index|//blp/mktdata/buid/MXRT/EI09MXWDFM|//blp/mktdata/bsid/5570579225401
-MSCI ACWI Food & Stp Rtl|MXWD0FS Index|MXRT||EI09MXWD0FS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0FS Index|//blp/mktdata/buid/MXRT/EI09MXWD0FS|
-MSCI ACWI Food Products|MXWD0FP Index|MXRT||EI09MXWD0FP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0FP Index|//blp/mktdata/buid/MXRT/EI09MXWD0FP|
-MSCI ACWI Gas Utilities|MXWD0GU Index|MXRT||EI09MXWD0GU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0GU Index|//blp/mktdata/buid/MXRT/EI09MXWD0GU|
-MSCI ACWI HCare Eq & Sup|MXWD0HE Index|MXRT||EI09MXWD0HE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HE Index|//blp/mktdata/buid/MXRT/EI09MXWD0HE|
-MSCI ACWI HCare Tech|MXWD0HT Index|MXRT||EI09MXWD0HT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HT Index|//blp/mktdata/buid/MXRT/EI09MXWD0HT|
-MSCI ACWI Hhold Durables|MXWD0HD Index|MXRT||EI09MXWD0HD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HD Index|//blp/mktdata/buid/MXRT/EI09MXWD0HD|
-MSCI ACWI Household Prod|MXWD0HH Index|MXRT||EI09MXWD0HH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HH Index|//blp/mktdata/buid/MXRT/EI09MXWD0HH|
-MSCI ACWI Htl Rest & Lei|MXWD0HL Index|MXRT||EI09MXWD0HL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HL Index|//blp/mktdata/buid/MXRT/EI09MXWD0HL|
+MSCI ACWI Food & Stp Rtl|MXWD0FS Index|MXRT|5570596826077|EI09MXWD0FS|Equity Index|Index|BBG0024N2Q82||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0FS Index|//blp/mktdata/buid/MXRT/EI09MXWD0FS|//blp/mktdata/bsid/5570596826077
+MSCI ACWI Food Products|MXWD0FP Index|MXRT|5570596826111|EI09MXWD0FP|Equity Index|Index|BBG0024N2Q91||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0FP Index|//blp/mktdata/buid/MXRT/EI09MXWD0FP|//blp/mktdata/bsid/5570596826111
+MSCI ACWI Gas Utilities|MXWD0GU Index|MXRT|5570596826115|EI09MXWD0GU|Equity Index|Index|BBG0024N2QB8||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0GU Index|//blp/mktdata/buid/MXRT/EI09MXWD0GU|//blp/mktdata/bsid/5570596826115
+MSCI ACWI HCare Eq & Sup|MXWD0HE Index|MXRT|5570596826099|EI09MXWD0HE|Equity Index|Index|BBG0024N2QC7||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HE Index|//blp/mktdata/buid/MXRT/EI09MXWD0HE|//blp/mktdata/bsid/5570596826099
+MSCI ACWI HCare Tech|MXWD0HT Index|MXRT|5570596826103|EI09MXWD0HT|Equity Index|Index|BBG0024N2QD6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HT Index|//blp/mktdata/buid/MXRT/EI09MXWD0HT|//blp/mktdata/bsid/5570596826103
+MSCI ACWI Hhold Durables|MXWD0HD Index|MXRT|5570596826089|EI09MXWD0HD|Equity Index|Index|BBG0024N2QG3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HD Index|//blp/mktdata/buid/MXRT/EI09MXWD0HD|//blp/mktdata/bsid/5570596826089
+MSCI ACWI Household Prod|MXWD0HH Index|MXRT|5570596826080|EI09MXWD0HH|Equity Index|Index|BBG0024N2QJ0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HH Index|//blp/mktdata/buid/MXRT/EI09MXWD0HH|//blp/mktdata/bsid/5570596826080
+MSCI ACWI Htl Rest & Lei|MXWD0HL Index|MXRT|5570596826083|EI09MXWD0HL|Equity Index|Index|BBG0024N2QF4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0HL Index|//blp/mktdata/buid/MXRT/EI09MXWD0HL|//blp/mktdata/bsid/5570596826083
 MSCI ACWI ISLM LC|MIWDLC Index|MXRT|5570574999494|EI09MIWDLC|Equity Index|Index|BBG000WH64H3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIWDLC Index|//blp/mktdata/buid/MXRT/EI09MIWDLC|//blp/mktdata/bsid/5570574999494
 MSCI ACWI ISLM MC|MIWDMC Index|MXRT|5570574999495|EI09MIWDMC|Equity Index|Index|BBG000WH64R2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIWDMC Index|//blp/mktdata/buid/MXRT/EI09MIWDMC|//blp/mktdata/bsid/5570574999495
 MSCI ACWI ISLM xJP LC|MIWDJLC Index|MXRT|5570574999486|EI09MIWDJLC|Equity Index|Index|BBG000WH61H9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIWDJLC Index|//blp/mktdata/buid/MXRT/EI09MIWDJLC|//blp/mktdata/bsid/5570574999486
@@ -6684,38 +6686,38 @@ MSCI ACWI ISLM xUK|MIWDG Index|MXRT|5570574999488|EI09MIWDG|Equity Index|Index|B
 MSCI ACWI ISLM xUSA LC|MIWDULC Index|MXRT|5570574999492|EI09MIWDULC|Equity Index|Index|BBG000WH63F7||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIWDULC Index|//blp/mktdata/buid/MXRT/EI09MIWDULC|//blp/mktdata/bsid/5570574999492
 MSCI ACWI ISLM xUSA MC|MIWDUMC Index|MXRT|5570574999493|EI09MIWDUMC|Equity Index|Index|BBG000WH63S3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIWDUMC Index|//blp/mktdata/buid/MXRT/EI09MIWDUMC|//blp/mktdata/bsid/5570574999493
 MSCI ACWI ISLM xUSA|MIWDU Index|MXRT|5570574999491|EI09MIWDU|Equity Index|Index|BBG000WH62Y8||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIWDU Index|//blp/mktdata/buid/MXRT/EI09MIWDU|//blp/mktdata/bsid/5570574999491
-MSCI ACWI IT Services|MXWD0IF Index|MXRT||EI09MXWD0IF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IF Index|//blp/mktdata/buid/MXRT/EI09MXWD0IF|
-MSCI ACWI Ind PP&Eng Trd|MXWD0IP Index|MXRT||EI09MXWD0IP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IP Index|//blp/mktdata/buid/MXRT/EI09MXWD0IP|
-MSCI ACWI Industrial Con|MXWD0IC Index|MXRT||EI09MXWD0IC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IC Index|//blp/mktdata/buid/MXRT/EI09MXWD0IC|
-MSCI ACWI Inet & Catg Rt|MXWD0NC Index|MXRT||EI09MXWD0NC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0NC Index|//blp/mktdata/buid/MXRT/EI09MXWD0NC|
-MSCI ACWI Insurance|MXWD0IR Index|MXRT||EI09MXWD0IR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IR Index|//blp/mktdata/buid/MXRT/EI09MXWD0IR|
-MSCI ACWI Leisure Eq&Pro|MXWD0LE Index|MXRT||EI09MXWD0LE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0LE Index|//blp/mktdata/buid/MXRT/EI09MXWD0LE|
-MSCI ACWI Life Sci Tl&Sv|MXWD0LS Index|MXRT||EI09MXWD0LS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0LS Index|//blp/mktdata/buid/MXRT/EI09MXWD0LS|
+MSCI ACWI IT Services|MXWD0IF Index|MXRT|5570596826104|EI09MXWD0IF|Equity Index|Index|BBG0024N2QQ2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IF Index|//blp/mktdata/buid/MXRT/EI09MXWD0IF|//blp/mktdata/bsid/5570596826104
+MSCI ACWI Ind PP&Eng Trd|MXWD0IP Index|MXRT|5570596826086|EI09MXWD0IP|Equity Index|Index|BBG0024N2QL7||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IP Index|//blp/mktdata/buid/MXRT/EI09MXWD0IP|//blp/mktdata/bsid/5570596826086
+MSCI ACWI Industrial Con|MXWD0IC Index|MXRT|5570596826534|EI09MXWD0IC|Equity Index|Index|BBG0024N2QM6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IC Index|//blp/mktdata/buid/MXRT/EI09MXWD0IC|//blp/mktdata/bsid/5570596826534
+MSCI ACWI Inet & Catg Rt|MXWD0NC Index|MXRT|5570596826105|EI09MXWD0NC|Equity Index|Index|BBG0024N2QP3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0NC Index|//blp/mktdata/buid/MXRT/EI09MXWD0NC|//blp/mktdata/bsid/5570596826105
+MSCI ACWI Insurance|MXWD0IR Index|MXRT|5570596826524|EI09MXWD0IR|Equity Index|Index|BBG0024N2QN5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0IR Index|//blp/mktdata/buid/MXRT/EI09MXWD0IR|//blp/mktdata/bsid/5570596826524
+MSCI ACWI Leisure Eq&Pro|MXWD0LE Index|MXRT|5570596826084|EI09MXWD0LE|Equity Index|Index|BBG0024N2QR1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0LE Index|//blp/mktdata/buid/MXRT/EI09MXWD0LE|//blp/mktdata/bsid/5570596826084
+MSCI ACWI Life Sci Tl&Sv|MXWD0LS Index|MXRT|5570596826088|EI09MXWD0LS|Equity Index|Index|BBG0024N2QS0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0LS Index|//blp/mktdata/buid/MXRT/EI09MXWD0LS|//blp/mktdata/bsid/5570596826088
 MSCI ACWI MC Growth|MXWD00MG Index|MXRT|5570583378488|EI09MXWD00MG|Equity Index|Index|BBG000VKGQM1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD00MG Index|//blp/mktdata/buid/MXRT/EI09MXWD00MG|//blp/mktdata/bsid/5570583378488
-MSCI ACWI Machinery|MXWD0MA Index|MXRT||EI09MXWD0MA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MA Index|//blp/mktdata/buid/MXRT/EI09MXWD0MA|
-MSCI ACWI Marine|MXWD0MN Index|MXRT||EI09MXWD0MN|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MN Index|//blp/mktdata/buid/MXRT/EI09MXWD0MN|
-MSCI ACWI Media|MXWD0ME Index|MXRT||EI09MXWD0ME|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0ME Index|//blp/mktdata/buid/MXRT/EI09MXWD0ME|
+MSCI ACWI Machinery|MXWD0MA Index|MXRT|5570596826090|EI09MXWD0MA|Equity Index|Index|BBG0024N2QT9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MA Index|//blp/mktdata/buid/MXRT/EI09MXWD0MA|//blp/mktdata/bsid/5570596826090
+MSCI ACWI Marine|MXWD0MN Index|MXRT|5570596826091|EI09MXWD0MN|Equity Index|Index|BBG0024N2QV6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MN Index|//blp/mktdata/buid/MXRT/EI09MXWD0MN|//blp/mktdata/bsid/5570596826091
+MSCI ACWI Media|MXWD0ME Index|MXRT|5570596826113|EI09MXWD0ME|Equity Index|Index|BBG0024N2QW5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0ME Index|//blp/mktdata/buid/MXRT/EI09MXWD0ME|//blp/mktdata/bsid/5570596826113
 MSCI ACWI Metal & Mining|MXWD0MM Index|MXRT|5570593005008|EI09MXWD0MM|Equity Index|Index|BBG001JZT2T2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MM Index|//blp/mktdata/buid/MXRT/EI09MXWD0MM|//blp/mktdata/bsid/5570593005008
-MSCI ACWI Multi-Util|MXWD0MU Index|MXRT||EI09MXWD0MU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MU Index|//blp/mktdata/buid/MXRT/EI09MXWD0MU|
-MSCI ACWI Multiline Rtl|MXWD0MR Index|MXRT||EI09MXWD0MR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MR Index|//blp/mktdata/buid/MXRT/EI09MXWD0MR|
-MSCI ACWI Office Electr|MXWD0OE Index|MXRT||EI09MXWD0OE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0OE Index|//blp/mktdata/buid/MXRT/EI09MXWD0OE|
-MSCI ACWI Oil Gas&Cons F|MXWD0OG Index|MXRT||EI09MXWD0OG|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0OG Index|//blp/mktdata/buid/MXRT/EI09MXWD0OG|
-MSCI ACWI Paper&Forest P|MXWD0PF Index|MXRT||EI09MXWD0PF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0PF Index|//blp/mktdata/buid/MXRT/EI09MXWD0PF|
-MSCI ACWI Prof Services|MXWD0PS Index|MXRT||EI09MXWD0PS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0PS Index|//blp/mktdata/buid/MXRT/EI09MXWD0PS|
-MSCI ACWI R Est Inv Trts|MXWD0RI Index|MXRT||EI09MXWD0RI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0RI Index|//blp/mktdata/buid/MXRT/EI09MXWD0RI|
-MSCI ACWI R Est Mgmt&Dev|MXWD0RM Index|MXRT||EI09MXWD0RM|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0RM Index|//blp/mktdata/buid/MXRT/EI09MXWD0RM|
-MSCI ACWI Road & Rail|MXWD0RR Index|MXRT||EI09MXWD0RR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0RR Index|//blp/mktdata/buid/MXRT/EI09MXWD0RR|
+MSCI ACWI Multi-Util|MXWD0MU Index|MXRT|5570596826106|EI09MXWD0MU|Equity Index|Index|BBG0024N2QY3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MU Index|//blp/mktdata/buid/MXRT/EI09MXWD0MU|//blp/mktdata/bsid/5570596826106
+MSCI ACWI Multiline Rtl|MXWD0MR Index|MXRT|5570596826117|EI09MXWD0MR|Equity Index|Index|BBG0024N2QX4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0MR Index|//blp/mktdata/buid/MXRT/EI09MXWD0MR|//blp/mktdata/bsid/5570596826117
+MSCI ACWI Office Electr|MXWD0OE Index|MXRT|5570596826107|EI09MXWD0OE|Equity Index|Index|BBG0024N2QZ2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0OE Index|//blp/mktdata/buid/MXRT/EI09MXWD0OE|//blp/mktdata/bsid/5570596826107
+MSCI ACWI Oil Gas&Cons F|MXWD0OG Index|MXRT|5570596826093|EI09MXWD0OG|Equity Index|Index|BBG0024N2R08||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0OG Index|//blp/mktdata/buid/MXRT/EI09MXWD0OG|//blp/mktdata/bsid/5570596826093
+MSCI ACWI Paper&Forest P|MXWD0PF Index|MXRT|5570596826094|EI09MXWD0PF|Equity Index|Index|BBG0024N2R17||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0PF Index|//blp/mktdata/buid/MXRT/EI09MXWD0PF|//blp/mktdata/bsid/5570596826094
+MSCI ACWI Personal Prod|MXWD0PP Index|MXRT|5570596826097|EI09MXWD0PP|Equity Index|Index|BBG0024N2R26||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0PP Index|//blp/mktdata/buid/MXRT/EI09MXWD0PP|//blp/mktdata/bsid/5570596826097
+MSCI ACWI Prof Services|MXWD0PS Index|MXRT|5570596826096|EI09MXWD0PS|Equity Index|Index|BBG0024N2R35||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0PS Index|//blp/mktdata/buid/MXRT/EI09MXWD0PS|//blp/mktdata/bsid/5570596826096
+MSCI ACWI R Est Inv Trts|MXWD0RI Index|MXRT|5570596826535|EI09MXWD0RI|Equity Index|Index|BBG0024N2R44||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0RI Index|//blp/mktdata/buid/MXRT/EI09MXWD0RI|//blp/mktdata/bsid/5570596826535
+MSCI ACWI R Est Mgmt&Dev|MXWD0RM Index|MXRT|5570596826525|EI09MXWD0RM|Equity Index|Index|BBG0024N2R53||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0RM Index|//blp/mktdata/buid/MXRT/EI09MXWD0RM|//blp/mktdata/bsid/5570596826525
+MSCI ACWI Road & Rail|MXWD0RR Index|MXRT|5570596826112|EI09MXWD0RR|Equity Index|Index|BBG0024N2R62||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0RR Index|//blp/mktdata/buid/MXRT/EI09MXWD0RR|//blp/mktdata/bsid/5570596826112
 MSCI ACWI SC Growth|MXWD00SG Index|MXRT|5570583378457|EI09MXWD00SG|Equity Index|Index|BBG000VKG1W5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD00SG Index|//blp/mktdata/buid/MXRT/EI09MXWD00SG|//blp/mktdata/bsid/5570583378457
-MSCI ACWI Semicond Eq&Pr|MXWD0SP Index|MXRT||EI09MXWD0SP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0SP Index|//blp/mktdata/buid/MXRT/EI09MXWD0SP|
-MSCI ACWI Software|MXWD0SO Index|MXRT||EI09MXWD0SO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0SO Index|//blp/mktdata/buid/MXRT/EI09MXWD0SO|
-MSCI ACWI Specialty Rtl|MXWD0SR Index|MXRT||EI09MXWD0SR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0SR Index|//blp/mktdata/buid/MXRT/EI09MXWD0SR|
-MSCI ACWI Text Appl & LG|MXWD0TA Index|MXRT||EI09MXWD0TA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TA Index|//blp/mktdata/buid/MXRT/EI09MXWD0TA|
-MSCI ACWI Thrift&Mtge Fi|MXWD0TM Index|MXRT||EI09MXWD0TM|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TM Index|//blp/mktdata/buid/MXRT/EI09MXWD0TM|
-MSCI ACWI Tobacco|MXWD0TB Index|MXRT||EI09MXWD0TB|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TB Index|//blp/mktdata/buid/MXRT/EI09MXWD0TB|
-MSCI ACWI Trad Co & Dist|MXWD0TD Index|MXRT||EI09MXWD0TD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TD Index|//blp/mktdata/buid/MXRT/EI09MXWD0TD|
-MSCI ACWI Transp Infrast|MXWD0TI Index|MXRT||EI09MXWD0TI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TI Index|//blp/mktdata/buid/MXRT/EI09MXWD0TI|
-MSCI ACWI Water Util|MXWD0WU Index|MXRT||EI09MXWD0WU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0WU Index|//blp/mktdata/buid/MXRT/EI09MXWD0WU|
-MSCI ACWI Wless Tele Svs|MXWD0WT Index|MXRT||EI09MXWD0WT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0WT Index|//blp/mktdata/buid/MXRT/EI09MXWD0WT|
+MSCI ACWI Software|MXWD0SO Index|MXRT|5570596826109|EI09MXWD0SO|Equity Index|Index|BBG0024N2R71||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0SO Index|//blp/mktdata/buid/MXRT/EI09MXWD0SO|//blp/mktdata/bsid/5570596826109
+MSCI ACWI Specialty Rtl|MXWD0SR Index|MXRT|5570596826098|EI09MXWD0SR|Equity Index|Index|BBG0024N2R80||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0SR Index|//blp/mktdata/buid/MXRT/EI09MXWD0SR|//blp/mktdata/bsid/5570596826098
+MSCI ACWI Text Appl & LG|MXWD0TA Index|MXRT|5570596826100|EI09MXWD0TA|Equity Index|Index|BBG0024N2R99||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TA Index|//blp/mktdata/buid/MXRT/EI09MXWD0TA|//blp/mktdata/bsid/5570596826100
+MSCI ACWI Thrift&Mtge Fi|MXWD0TM Index|MXRT|5570596826102|EI09MXWD0TM|Equity Index|Index|BBG0024N2RB6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TM Index|//blp/mktdata/buid/MXRT/EI09MXWD0TM|//blp/mktdata/bsid/5570596826102
+MSCI ACWI Tobacco|MXWD0TB Index|MXRT|5570596826101|EI09MXWD0TB|Equity Index|Index|BBG0024N2RC5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TB Index|//blp/mktdata/buid/MXRT/EI09MXWD0TB|//blp/mktdata/bsid/5570596826101
+MSCI ACWI Trad Co & Dist|MXWD0TD Index|MXRT|5570596826116|EI09MXWD0TD|Equity Index|Index|BBG0024N2RD4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TD Index|//blp/mktdata/buid/MXRT/EI09MXWD0TD|//blp/mktdata/bsid/5570596826116
+MSCI ACWI Transp Infrast|MXWD0TI Index|MXRT|5570596826118|EI09MXWD0TI|Equity Index|Index|BBG0024N2RF2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0TI Index|//blp/mktdata/buid/MXRT/EI09MXWD0TI|//blp/mktdata/bsid/5570596826118
+MSCI ACWI Water Util|MXWD0WU Index|MXRT|5570596826110|EI09MXWD0WU|Equity Index|Index|BBG0024N2RG1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0WU Index|//blp/mktdata/buid/MXRT/EI09MXWD0WU|//blp/mktdata/bsid/5570596826110
+MSCI ACWI Wless Tele Svs|MXWD0WT Index|MXRT|5570596826068|EI09MXWD0WT|Equity Index|Index|BBG0024N2RH0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWD0WT Index|//blp/mktdata/buid/MXRT/EI09MXWD0WT|//blp/mktdata/bsid/5570596826068
 MSCI ACWI ex JP GROWTH|MXWDJ00G Index|MXRT|5570574999333|EI09MXWDJ00G|Equity Index|Index|BBG000T3T3H5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWDJ00G Index|//blp/mktdata/buid/MXRT/EI09MXWDJ00G|//blp/mktdata/bsid/5570574999333
 MSCI ACWI ex JP MC Grwth|MXWDJ0MG Index|MXRT|5570583464162|EI09MXWDJ0MG|Equity Index|Index|BBG000VPWH42||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWDJ0MG Index|//blp/mktdata/buid/MXRT/EI09MXWDJ0MG|//blp/mktdata/bsid/5570583464162
 MSCI ACWI ex JP VALUE|MXWDJ00V Index|MXRT|5570574999334|EI09MXWDJ00V|Equity Index|Index|BBG000T3T3R4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXWDJ00V Index|//blp/mktdata/buid/MXRT/EI09MXWDJ00V|//blp/mktdata/bsid/5570574999334
@@ -10369,6 +10371,7 @@ NMRAFISC|NMRAFISC Index|NMDP|1447414576334|EI09NMRAFISC|Equity Index|Index|BBG00
 NMRAFOOD|NMRAFOOD Index|NMDP|1447424455756|EI09NMRAFOOD|Equity Index|Index|BBG001K3LTT0|||||37029||//blp/mktdata/bsym/NMDP/NMRAFOOD Index|//blp/mktdata/buid/NMDP/EI09NMRAFOOD|//blp/mktdata/bsid/1447424455756
 NMRAFORT|NMRAFORT Index|NMDP|1447419059287|EI09NMRAFORT|Equity Index|Index|BBG000Z3YJ14|||||37029||//blp/mktdata/bsym/NMDP/NMRAFORT Index|//blp/mktdata/buid/NMDP/EI09NMRAFORT|//blp/mktdata/bsid/1447419059287
 NMRAFTS1|NMRAFTS1 Index|NMDP|1447424455750|EI09NMRAFTS1|Equity Index|Index|BBG001K3LTP4|||||37029||//blp/mktdata/bsym/NMDP/NMRAFTS1 Index|//blp/mktdata/buid/NMDP/EI09NMRAFTS1|//blp/mktdata/bsid/1447424455750
+NMRAGDST|NMRAGDST Index|NMDP|1447428221573|EI09NMRAGDST|Equity Index|Index|BBG0024N09C7|||||37029||//blp/mktdata/bsym/NMDP/NMRAGDST Index|//blp/mktdata/buid/NMDP/EI09NMRAGDST|//blp/mktdata/bsid/1447428221573
 NMRAGERT|NMRAGERT Index|NMDP|1447419061187|EI09NMRAGERT|Equity Index|Index|BBG000Z3YJF9|||||37029||//blp/mktdata/bsym/NMDP/NMRAGERT Index|//blp/mktdata/buid/NMDP/EI09NMRAGERT|//blp/mktdata/bsid/1447419061187
 NMRAGEUD|NMRAGEUD Index|NMDP|1447420240558|EI09NMRAGEUD|Equity Index|Index|BBG000ZH3JV4|||||37029||//blp/mktdata/bsym/NMDP/NMRAGEUD Index|//blp/mktdata/buid/NMDP/EI09NMRAGEUD|//blp/mktdata/bsid/1447420240558
 NMRAGL10|NMRAGL10 Index|NMDP|1447418426498|EI09NMRAGL10|Equity Index|Index|BBG000Z2HLH3|||||37029||//blp/mktdata/bsym/NMDP/NMRAGL10 Index|//blp/mktdata/buid/NMDP/EI09NMRAGL10|//blp/mktdata/bsid/1447418426498
@@ -16065,7 +16068,7 @@ UBS Consumers EUR|UBSSCONE Index|WDRL|2495399217128|EI09UBSSCONE|Equity Index|In
 UBS Euro Pharma|UBSSPHAR Index|WDRL||EI09UBSSPHAR|Equity Index|Index|BBG0021R92S0|||||||//blp/mktdata/bsym/WDRL/UBSSPHAR Index|//blp/mktdata/buid/WDRL/EI09UBSSPHAR|
 UBS Europe Grey Black|UBEUTROU Index|WDRL|2495399916360|EI09UBEUTROU|Equity Index|Index|BBG0022KMCL4|||||||//blp/mktdata/bsym/WDRL/UBEUTROU Index|//blp/mktdata/buid/WDRL/EI09UBEUTROU|//blp/mktdata/bsid/2495399916360
 UBS Europe High Beta|UBTEUHBT Index|WDRL|2495399842671|EI09UBTEUHBT|Equity Index|Index|BBG0022648V3|||||||//blp/mktdata/bsym/WDRL/UBTEUHBT Index|//blp/mktdata/buid/WDRL/EI09UBTEUHBT|//blp/mktdata/bsid/2495399842671
-UBS Europe Luxury Basket|UBTEULUX Index|WDRL||EI09UBTEULUX|Equity Index|Index|BBG0024KY428|||||||//blp/mktdata/bsym/WDRL/UBTEULUX Index|//blp/mktdata/buid/WDRL/EI09UBTEULUX|
+UBS Europe Luxury Basket|UBTEULUX Index|WDRL|2495400241900|EI09UBTEULUX|Equity Index|Index|BBG0024KY428|||||||//blp/mktdata/bsym/WDRL/UBTEULUX Index|//blp/mktdata/buid/WDRL/EI09UBTEULUX|//blp/mktdata/bsid/2495400241900
 UBS Grey Sky Bottom Pick|UBSRGSBP Index|WDRL|2495399407768|EI09UBSRGSBP|Equity Index|Index|BBG00204M2F1|||||||//blp/mktdata/bsym/WDRL/UBSRGSBP Index|//blp/mktdata/buid/WDRL/EI09UBSRGSBP|//blp/mktdata/bsid/2495399407768
 UBS Grey Sky Top Picks|UBSRGSTP Index|WDRL|2495399407769|EI09UBSRGSTP|Equity Index|Index|BBG00204MPN1|||||||//blp/mktdata/bsym/WDRL/UBSRGSTP Index|//blp/mktdata/buid/WDRL/EI09UBSRGSTP|//blp/mktdata/bsid/2495399407769
 UBS Oil M&A|UBSSOILM Index|WDRL|2495399247950|EI09UBSSOILM|Equity Index|Index|BBG001Z8QDQ6|||||||//blp/mktdata/bsym/WDRL/UBSSOILM Index|//blp/mktdata/buid/WDRL/EI09UBSSOILM|//blp/mktdata/bsid/2495399247950
