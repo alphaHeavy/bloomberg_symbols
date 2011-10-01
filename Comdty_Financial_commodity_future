@@ -1,5 +1,5 @@
-#Data Generated At: Thu Sep 29 06:12:41 EDT 2011
-#Data Records=6220
+#Data Generated At: Fri Sep 30 06:12:33 EDT 2011
+#Data Records=6199
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -940,9 +940,7 @@
 5 YEAR SWAP FUTR  Sep11|S5U1|eCME|2078785278124|IX12477890-0|Financial commodity future.|Comdty|BBG001M2YML9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5U1|//blp/mktdata/buid/eCME/IX12477890-0|//blp/mktdata/bsid/2078785278124
 5 YR KOREA TB FUT Dec11|KRZ1|KOFX|1748073815732|IX12940322-0|Financial commodity future.|Comdty|BBG001R1LWL8||14074|14074|0||39524|//blp/mktdata/bsym/KOFX/KRZ1|//blp/mktdata/buid/KOFX/IX12940322-0|//blp/mktdata/bsid/1748073815732
 5 YR KOREA TB FUT Mar12|KRH2|KOFX|1748075799295|IX13619534-0|Financial commodity future.|Comdty|BBG0024222S9||14074|14074|0||39524|//blp/mktdata/bsym/KOFX/KRH2|//blp/mktdata/buid/KOFX/IX13619534-0|//blp/mktdata/bsid/1748075799295
-5% Danish MB Fix  Sep11|VMAU1|COPE|532597943436|IX12842582-0|Financial commodity future.|Comdty|BBG001QL68M4||39827|0|0||40171|//blp/mktdata/bsym/COPE/VMAU1|//blp/mktdata/buid/COPE/IX12842582-0|//blp/mktdata/bsid/532597943436
 5% Danish MBF     Dec11|VMBZ1|COPE|532600025336|IX13606157-0|Financial commodity future.|Comdty|BBG0023YW056||39827|0|0||40171|//blp/mktdata/bsym/COPE/VMBZ1|//blp/mktdata/buid/COPE/IX13606157-0|//blp/mktdata/bsid/532600025336
-5% Danish MBF     Sep11|VMBU1|COPE|532597943435|IX12842578-0|Financial commodity future.|Comdty|BBG001QL68C5||39827|0|0||40171|//blp/mktdata/bsym/COPE/VMBU1|//blp/mktdata/buid/COPE/IX12842578-0|//blp/mktdata/bsid/532597943435
 5-YEAR MGS FUTURE Dec11|MGZ1|MDX4|1773840897180|IX11691512-0|Financial commodity future.|Comdty|BBG001BN1SP4||32298|32298|0||39665|//blp/mktdata/bsym/MDX4/MGZ1|//blp/mktdata/buid/MDX4/IX11691512-0|//blp/mktdata/bsid/1773840897180
 5-YEAR MGS FUTURE Jun12|MGM2|MDX4|1773843631329|IX12950257-0|Financial commodity future.|Comdty|BBG001R3CVD5||32298|32298|0||39665|//blp/mktdata/bsym/MDX4/MGM2|//blp/mktdata/buid/MDX4/IX12950257-0|//blp/mktdata/bsid/1773843631329
 5-YEAR MGS FUTURE Mar12|MGH2|MDX4|1773842245317|IX12319522-0|Financial commodity future.|Comdty|BBG001KTCZ64||32298|32298|0||39665|//blp/mktdata/bsym/MDX4/MGH2|//blp/mktdata/buid/MDX4/IX12319522-0|//blp/mktdata/bsid/1773842245317
@@ -1012,12 +1010,6 @@
 5YR OTR TREASURY  Oct11|Z5V1|cCBT|9977230966104|IX12814470-0|Financial commodity future.|Comdty|BBG001QGBVR3||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5V1|//blp/mktdata/buid/cCBT/IX12814470-0|//blp/mktdata/bsid/9977230966104
 5YR OTR TREASURY  Oct11|Z5V1|eCBT|2113145847128|IX12814470-0|Financial commodity future.|Comdty|BBG001QGBVR3||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5V1|//blp/mktdata/buid/eCBT/IX12814470-0|//blp/mktdata/bsid/2113145847128
 5YR OTR TREASURY  Oct11|Z5V1|eCBT|2113145847128|IX12814470-0|Financial commodity future.|Comdty|BBG001QGBVR3||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5V1|//blp/mktdata/buid/eCBT/IX12814470-0|//blp/mktdata/bsid/2113145847128
-5YR OTR TREASURY  Sep11|Z5U1|CBT|575547555162|IX12814466-0|Financial commodity future.|Comdty|BBG001QGBVQ4||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5U1|//blp/mktdata/buid/CBT/IX12814466-0|//blp/mktdata/bsid/575547555162
-5YR OTR TREASURY  Sep11|Z5U1|CBT|575547555162|IX12814466-0|Financial commodity future.|Comdty|BBG001QGBVQ4||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5U1|//blp/mktdata/buid/CBT/IX12814466-0|//blp/mktdata/bsid/575547555162
-5YR OTR TREASURY  Sep11|Z5U1|cCBT|9977230966106|IX12814466-0|Financial commodity future.|Comdty|BBG001QGBVQ4||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5U1|//blp/mktdata/buid/cCBT/IX12814466-0|//blp/mktdata/bsid/9977230966106
-5YR OTR TREASURY  Sep11|Z5U1|cCBT|9977230966106|IX12814466-0|Financial commodity future.|Comdty|BBG001QGBVQ4||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5U1|//blp/mktdata/buid/cCBT/IX12814466-0|//blp/mktdata/bsid/9977230966106
-5YR OTR TREASURY  Sep11|Z5U1|eCBT|2113145847130|IX12814466-0|Financial commodity future.|Comdty|BBG001QGBVQ4||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5U1|//blp/mktdata/buid/eCBT/IX12814466-0|//blp/mktdata/bsid/2113145847130
-5YR OTR TREASURY  Sep11|Z5U1|eCBT|2113145847130|IX12814466-0|Financial commodity future.|Comdty|BBG001QGBVQ4||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5U1|//blp/mktdata/buid/eCBT/IX12814466-0|//blp/mktdata/bsid/2113145847130
 5YR SWAP FUT AON  Dec11|QDZ1|||IX12296120-0|Financial commodity future.|Comdty|BBG001KR2KH0||14001|14001|0||39489|||
 5YR SWAP FUT AON  Dec11|QDZ1|||IX12296120-0|Financial commodity future.|Comdty|BBG001KR2KH0||14001|14001|0||39489|||
 5YR SWAP FUT AON  Jun12|QDM2|||IX13612825-0|Financial commodity future.|Comdty|BBG002405D88||14001|14001|0||39489|||
@@ -1913,23 +1905,23 @@ CAN 5YR BOND FUT  Dec11|XQZ1|MSE|485341123908|IX11729532-0|Financial commodity f
 CAN 5YR BOND FUT  Jun12|XQM2|MSE|485341123917|IX13001670-0|Financial commodity future.|Comdty|BBG001RZ3GP4||14055|14142|0||39513|//blp/mktdata/bsym/MSE/XQM2|//blp/mktdata/buid/MSE/IX13001670-0|//blp/mktdata/bsid/485341123917
 CAN 5YR BOND FUT  Mar12|XQH2|MSE|485352252895|IX12367491-0|Financial commodity future.|Comdty|BBG001LK0K86||14055|14142|0||39513|//blp/mktdata/bsym/MSE/XQH2|//blp/mktdata/buid/MSE/IX12367491-0|//blp/mktdata/bsid/485352252895
 CAN 5YR BOND FUT  Sep12|XQU2|MSE|485341123909|IX13631449-0|Financial commodity future.|Comdty|BBG002459474||14055|14142|0||39513|//blp/mktdata/bsym/MSE/XQU2|//blp/mktdata/buid/MSE/IX13631449-0|//blp/mktdata/bsid/485341123909
-CME 3Mo Euribor   Dec11|IEBZ1|||IX13675045-0|Financial commodity future.|Comdty|BBG0024N79K1||14002|14002|0||39490|||
-CME 3Mo Euribor   Dec12|IEBZ2|||IX13675069-0|Financial commodity future.|Comdty|BBG0024N79R4||14002|14002|0||39490|||
-CME 3Mo Euribor   Dec13|IEBZ3|||IX13675085-0|Financial commodity future.|Comdty|BBG0024N79W8||14002|14002|0||39490|||
-CME 3Mo Euribor   Dec14|IEBZ4|||IX13675101-0|Financial commodity future.|Comdty|BBG0024N7B26||14002|14002|0||39490|||
-CME 3Mo Euribor   Feb12|IEBG2|||IX13675053-0|Financial commodity future.|Comdty|BBG0024N79M9||14002|14002|0||39490|||
-CME 3Mo Euribor   Jan12|IEBF2|||IX13675049-0|Financial commodity future.|Comdty|BBG0024N79L0||14002|14002|0||39490|||
-CME 3Mo Euribor   Jun12|IEBM2|||IX13675061-0|Financial commodity future.|Comdty|BBG0024N79P6||14002|14002|0||39490|||
-CME 3Mo Euribor   Jun13|IEBM3|||IX13675077-0|Financial commodity future.|Comdty|BBG0024N79T2||14002|14002|0||39490|||
-CME 3Mo Euribor   Jun14|IEBM4|||IX13675093-0|Financial commodity future.|Comdty|BBG0024N79Y6||14002|14002|0||39490|||
-CME 3Mo Euribor   Mar12|IEBH2|||IX13675057-0|Financial commodity future.|Comdty|BBG0024N79N8||14002|14002|0||39490|||
-CME 3Mo Euribor   Mar13|IEBH3|||IX13675073-0|Financial commodity future.|Comdty|BBG0024N79S3||14002|14002|0||39490|||
-CME 3Mo Euribor   Mar14|IEBH4|||IX13675089-0|Financial commodity future.|Comdty|BBG0024N79X7||14002|14002|0||39490|||
-CME 3Mo Euribor   Nov11|IEBX1|||IX13675041-0|Financial commodity future.|Comdty|BBG0024N79H5||14002|14002|0||39490|||
-CME 3Mo Euribor   Oct11|IEBV1|||IX13592662-0|Financial commodity future.|Comdty|BBG0024NHC96||14002|14002|0||39490|||
-CME 3Mo Euribor   Sep12|IEBU2|||IX13675065-0|Financial commodity future.|Comdty|BBG0024N79Q5||14002|14002|0||39490|||
-CME 3Mo Euribor   Sep13|IEBU3|||IX13675081-0|Financial commodity future.|Comdty|BBG0024N79V9||14002|14002|0||39490|||
-CME 3Mo Euribor   Sep14|IEBU4|||IX13675097-0|Financial commodity future.|Comdty|BBG0024N79Z5||14002|14002|0||39490|||
+CME 3Mo Euribor   Dec11|IEBZ1|eCME|2078788437022|IX13675045-0|Financial commodity future.|Comdty|BBG0024N79K1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBZ1|//blp/mktdata/buid/eCME/IX13675045-0|//blp/mktdata/bsid/2078788437022
+CME 3Mo Euribor   Dec12|IEBZ2|eCME|2078788437029|IX13675069-0|Financial commodity future.|Comdty|BBG0024N79R4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBZ2|//blp/mktdata/buid/eCME/IX13675069-0|//blp/mktdata/bsid/2078788437029
+CME 3Mo Euribor   Dec13|IEBZ3|eCME|2078788437033|IX13675085-0|Financial commodity future.|Comdty|BBG0024N79W8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBZ3|//blp/mktdata/buid/eCME/IX13675085-0|//blp/mktdata/bsid/2078788437033
+CME 3Mo Euribor   Dec14|IEBZ4|eCME|2078788437037|IX13675101-0|Financial commodity future.|Comdty|BBG0024N7B26||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBZ4|//blp/mktdata/buid/eCME/IX13675101-0|//blp/mktdata/bsid/2078788437037
+CME 3Mo Euribor   Feb12|IEBG2|eCME|2078788437025|IX13675053-0|Financial commodity future.|Comdty|BBG0024N79M9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBG2|//blp/mktdata/buid/eCME/IX13675053-0|//blp/mktdata/bsid/2078788437025
+CME 3Mo Euribor   Jan12|IEBF2|eCME|2078788437024|IX13675049-0|Financial commodity future.|Comdty|BBG0024N79L0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBF2|//blp/mktdata/buid/eCME/IX13675049-0|//blp/mktdata/bsid/2078788437024
+CME 3Mo Euribor   Jun12|IEBM2|eCME|2078788437027|IX13675061-0|Financial commodity future.|Comdty|BBG0024N79P6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBM2|//blp/mktdata/buid/eCME/IX13675061-0|//blp/mktdata/bsid/2078788437027
+CME 3Mo Euribor   Jun13|IEBM3|eCME|2078788437031|IX13675077-0|Financial commodity future.|Comdty|BBG0024N79T2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBM3|//blp/mktdata/buid/eCME/IX13675077-0|//blp/mktdata/bsid/2078788437031
+CME 3Mo Euribor   Jun14|IEBM4|eCME|2078788437035|IX13675093-0|Financial commodity future.|Comdty|BBG0024N79Y6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBM4|//blp/mktdata/buid/eCME/IX13675093-0|//blp/mktdata/bsid/2078788437035
+CME 3Mo Euribor   Mar12|IEBH2|eCME|2078788437026|IX13675057-0|Financial commodity future.|Comdty|BBG0024N79N8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBH2|//blp/mktdata/buid/eCME/IX13675057-0|//blp/mktdata/bsid/2078788437026
+CME 3Mo Euribor   Mar13|IEBH3|eCME|2078788437030|IX13675073-0|Financial commodity future.|Comdty|BBG0024N79S3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBH3|//blp/mktdata/buid/eCME/IX13675073-0|//blp/mktdata/bsid/2078788437030
+CME 3Mo Euribor   Mar14|IEBH4|eCME|2078788437034|IX13675089-0|Financial commodity future.|Comdty|BBG0024N79X7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBH4|//blp/mktdata/buid/eCME/IX13675089-0|//blp/mktdata/bsid/2078788437034
+CME 3Mo Euribor   Nov11|IEBX1|eCME|2078788437020|IX13675041-0|Financial commodity future.|Comdty|BBG0024N79H5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBX1|//blp/mktdata/buid/eCME/IX13675041-0|//blp/mktdata/bsid/2078788437020
+CME 3Mo Euribor   Oct11|IEBV1|eCME|2078788437017|IX13592662-0|Financial commodity future.|Comdty|BBG0024NHC96||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBV1|//blp/mktdata/buid/eCME/IX13592662-0|//blp/mktdata/bsid/2078788437017
+CME 3Mo Euribor   Sep12|IEBU2|eCME|2078788437028|IX13675065-0|Financial commodity future.|Comdty|BBG0024N79Q5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBU2|//blp/mktdata/buid/eCME/IX13675065-0|//blp/mktdata/bsid/2078788437028
+CME 3Mo Euribor   Sep13|IEBU3|eCME|2078788437032|IX13675081-0|Financial commodity future.|Comdty|BBG0024N79V9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBU3|//blp/mktdata/buid/eCME/IX13675081-0|//blp/mktdata/bsid/2078788437032
+CME 3Mo Euribor   Sep14|IEBU4|eCME|2078788437036|IX13675097-0|Financial commodity future.|Comdty|BBG0024N79Z5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBU4|//blp/mktdata/buid/eCME/IX13675097-0|//blp/mktdata/bsid/2078788437036
 CUPOM CAMBIAL FT  Apr12|XPJ2|||IX4103392-0|Financial commodity future.|Comdty|BBG000W6YJW6||14098|14098|0||39537|||
 CUPOM CAMBIAL FT  Apr13|XPJ3|||IX4103404-0|Financial commodity future.|Comdty|BBG000W6YKT7||14098|14098|0||39537|||
 CUPOM CAMBIAL FT  Apr14|XPJ4|||IX4194986-0|Financial commodity future.|Comdty|BBG000W9N357||14098|14098|0||39537|||
@@ -2209,13 +2201,9 @@ DME WTI Oman Fut  Nov12|QWAX2|DME|2405183258572|IX4295146-0|Financial commodity 
 DME WTI Oman Fut  Oct12|QWAV2|DME|2405183258571|IX4295142-0|Financial commodity future.|Comdty|BBG000WBYP60||31164|31164|0||39656|//blp/mktdata/bsym/DME/QWAV2|//blp/mktdata/buid/DME/IX4295142-0|//blp/mktdata/bsid/2405183258571
 DME WTI Oman Fut  Sep12|QWAU2|DME|2405183258568|IX4295126-0|Financial commodity future.|Comdty|BBG000WBYMZ5||31164|31164|0||39656|//blp/mktdata/bsym/DME/QWAU2|//blp/mktdata/buid/DME/IX4295126-0|//blp/mktdata/bsid/2405183258568
 Danish MB 0% 3YFixDec11|YMAZ1|||IX13538837-0|Financial commodity future.|Comdty|BBG00227YHW7||39827|0|0||40171|||
-Danish MB 0% 3YFixSep11|YMAU1|COPE|532597941658|IX12842574-0|Financial commodity future.|Comdty|BBG001QL6844||39827|0|0||40171|//blp/mktdata/bsym/COPE/YMAU1|//blp/mktdata/buid/COPE/IX12842574-0|//blp/mktdata/bsid/532597941658
-Danish MB Fixing  Dec11|DMAZ1|||IX13674585-0|Financial commodity future.|Comdty|BBG0024N44X1||39827|0|0||40171|||
-Danish MB Fixing  Sep11|DMAU1|COPE|532597941605|IX12842594-0|Financial commodity future.|Comdty|BBG001QL68Z0||39827|0|0||40171|//blp/mktdata/bsym/COPE/DMAU1|//blp/mktdata/buid/COPE/IX12842594-0|//blp/mktdata/bsid/532597941605
+Danish MB Fixing  Dec11|DMAZ1|COPE|532600193529|IX13674585-0|Financial commodity future.|Comdty|BBG0024N44X1||39827|0|0||40171|//blp/mktdata/bsym/COPE/DMAZ1|//blp/mktdata/buid/COPE/IX13674585-0|//blp/mktdata/bsid/532600193529
 Danish MB Future  Dec11|DMBZ1|||IX13606161-0|Financial commodity future.|Comdty|BBG0022T9R19||39827|0|0||40171|||
-Danish MB Future  Sep11|DMBU1|COPE|532597941659|IX12842586-0|Financial commodity future.|Comdty|BBG001QL68W3||39827|0|0||40171|//blp/mktdata/bsym/COPE/DMBU1|//blp/mktdata/buid/COPE/IX12842586-0|//blp/mktdata/bsid/532597941659
 Danish MBF 0% 3Y  Dec11|YMBZ1|COPE|532599785085|IX13617442-0|Financial commodity future.|Comdty|BBG00241KQW3||39827|0|0||40171|//blp/mktdata/bsym/COPE/YMBZ1|//blp/mktdata/buid/COPE/IX13617442-0|//blp/mktdata/bsid/532599785085
-Danish MBF 0% 3Y  Sep11|YMBU1|COPE|532596493155|IX12831669-0|Financial commodity future.|Comdty|BBG001QJJLG3||39827|0|0||40171|//blp/mktdata/bsym/COPE/YMBU1|//blp/mktdata/buid/COPE/IX12831669-0|//blp/mktdata/bsid/532596493155
 E Diesl v I Gsoil Apr12|MUDJ2|eNYM|2117440381564|IX12654967-0|Financial commodity future.|Comdty|BBG001P099X4||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MUDJ2|//blp/mktdata/buid/eNYM/IX12654967-0|//blp/mktdata/bsid/2117440381564
 E Diesl v I Gsoil Apr13|MUDJ3|eNYM|2117440381576|IX12655015-0|Financial commodity future.|Comdty|BBG001P09B96||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MUDJ3|//blp/mktdata/buid/eNYM/IX12655015-0|//blp/mktdata/bsid/2117440381576
 E Diesl v I Gsoil Apr14|MUDJ4|eNYM|2117440381588|IX12655063-0|Financial commodity future.|Comdty|BBG001P09BP8||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MUDJ4|//blp/mktdata/buid/eNYM/IX12655063-0|//blp/mktdata/bsid/2117440381588
@@ -3551,7 +3539,6 @@ GPL Base Quarter  Jan12|TQEF2|EEE|1765247526168|IX10216841-0|Financial commodity
 GPL Base Quarter  Jan13|TQEF3|EEE|1765252587409|IX12433726-0|Financial commodity future.|Comdty|BBG001LV7CT0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TQEF3|//blp/mktdata/buid/EEE/IX12433726-0|//blp/mktdata/bsid/1765252587409
 GPL Base Quarter  Jul12|TQEN2|EEE|1765250036294|IX11194149-0|Financial commodity future.|Comdty|BBG0016WJBL2||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TQEN2|//blp/mktdata/buid/EEE/IX11194149-0|//blp/mktdata/bsid/1765250036294
 GPL Base Quarter  Jul13|TQEN3|||IX13674637-0|Financial commodity future.|Comdty|BBG0024N4586||26852|26852|0||39597|||
-GPL Base Quarter  Oct11|TQEV1|EEE|1765245906599|IX9893537-0|Financial commodity future.|Comdty|BBG000Z179Z3||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TQEV1|//blp/mktdata/buid/EEE/IX9893537-0|//blp/mktdata/bsid/1765245906599
 GPL Base Quarter  Oct12|TQEV2|EEE|1765251160055|IX11768248-0|Financial commodity future.|Comdty|BBG001CN5CM7||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TQEV2|//blp/mktdata/buid/EEE/IX11768248-0|//blp/mktdata/bsid/1765251160055
 GPL Base Year     Jan12|TYEF2|EEE|1765233441825|IX4464453-0|Financial commodity future.|Comdty|BBG000WDX5S7||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TYEF2|//blp/mktdata/buid/EEE/IX4464453-0|//blp/mktdata/bsid/1765233441825
 GPL Base Year     Jan13|TYEF3|EEE|1765233441826|IX4464457-0|Financial commodity future.|Comdty|BBG000WDX5Y0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TYEF3|//blp/mktdata/buid/EEE/IX4464457-0|//blp/mktdata/bsid/1765233441826
@@ -3963,6 +3950,7 @@ LME HG AliTAPO No Aug14|LAWQ4|LME|661435432372|IX8869344-0|Financial commodity f
 LME HG AliTAPO No Aug16|LAWQ6|LME|661446946020|IX12833137-0|Financial commodity future.|Comdty|BBG001QK3BT5||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWQ6|//blp/mktdata/buid/LME/IX12833137-0|//blp/mktdata/bsid/661446946020
 LME HG AliTAPO No Dec14|LAWZ4|LME|661437891148|IX9541064-0|Financial commodity future.|Comdty|BBG000Y3FBW9||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWZ4|//blp/mktdata/buid/LME/IX9541064-0|//blp/mktdata/bsid/661437891148
 LME HG AliTAPO No Dec15|LAWZ5|LME|661443447385|IX11201446-0|Financial commodity future.|Comdty|BBG0016XG8F7||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWZ5|//blp/mktdata/buid/LME/IX11201446-0|//blp/mktdata/bsid/661443447385
+LME HG AliTAPO No Dec16|LAWZ6|||IX13682172-0|Financial commodity future.|Comdty|BBG0024QXFD9||14059|0|0||14197|||
 LME HG AliTAPO No Feb16|LAWG6|LME|661444186983|IX11550865-0|Financial commodity future.|Comdty|BBG0019Q1XG9||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWG6|//blp/mktdata/buid/LME/IX11550865-0|//blp/mktdata/bsid/661444186983
 LME HG AliTAPO No Jan15|LAWF5|LME|661438437422|IX9644533-0|Financial commodity future.|Comdty|BBG000Y6BJR5||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWF5|//blp/mktdata/buid/LME/IX9644533-0|//blp/mktdata/bsid/661438437422
 LME HG AliTAPO No Jul15|LAWN5|LME|661441314092|IX10317441-0|Financial commodity future.|Comdty|BBG000ZNWBR1||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWN5|//blp/mktdata/buid/LME/IX10317441-0|//blp/mktdata/bsid/661441314092
@@ -4016,6 +4004,7 @@ LME HG AliTAPO NotSep13|LAWU3|LME|661434423501|IX8447747-0|Financial commodity f
 LME Lead TAPO Not Apr12|LTWJ2|LME|661445035652|IX11969740-0|Financial commodity future.|Comdty|BBG001FDXLP2||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWJ2|//blp/mktdata/buid/LME/IX11969740-0|//blp/mktdata/bsid/661445035652
 LME Lead TAPO Not Aug12|LTWQ2|LME|661446930002|IX12822895-0|Financial commodity future.|Comdty|BBG001QJ0756||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWQ2|//blp/mktdata/buid/LME/IX12822895-0|//blp/mktdata/bsid/661446930002
 LME Lead TAPO Not Dec11|LTWZ1|LME|661443447388|IX11201402-0|Financial commodity future.|Comdty|BBG0016XG812||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWZ1|//blp/mktdata/buid/LME/IX11201402-0|//blp/mktdata/bsid/661443447388
+LME Lead TAPO Not Dec12|LTWZ2|||IX13682224-0|Financial commodity future.|Comdty|BBG0024QXFS3||14059|0|0||14197|||
 LME Lead TAPO Not Feb12|LTWG2|LME|661444186985|IX11550805-0|Financial commodity future.|Comdty|BBG0019Q1WW3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWG2|//blp/mktdata/buid/LME/IX11550805-0|//blp/mktdata/bsid/661444186985
 LME Lead TAPO Not Jan12|LTWF2|LME|661443796182|IX11364755-0|Financial commodity future.|Comdty|BBG001891JC3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWF2|//blp/mktdata/buid/LME/IX11364755-0|//blp/mktdata/bsid/661443796182
 LME Lead TAPO Not Jul12|LTWN2|LME|661446428478|IX12637468-0|Financial commodity future.|Comdty|BBG001NVKS45||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWN2|//blp/mktdata/buid/LME/IX12637468-0|//blp/mktdata/bsid/661446428478
@@ -4405,16 +4394,14 @@ LME Steel Billet  Oct11|LMEV1|||IX10529135-0|Financial commodity future.|Comdty|
 LME Steel Billet  Oct12|LMEV2|||IX12930013-0|Financial commodity future.|Comdty|BBG001R067X9||33561|0|0||33562|||
 LME Steel Billet  Sep12|LMEU2|||IX12743805-0|Financial commodity future.|Comdty|BBG001PJC497||33561|0|0||33562|||
 LONG GILT FUTURE  Dec11|G Z1|LIF|609906382281|IX12433794-0|Financial commodity future.|Comdty|BBG001LV7DP2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/G Z1|//blp/mktdata/buid/LIF/IX12433794-0|//blp/mktdata/bsid/609906382281
-LONG GILT FUTURE  Jun12|G M2|||IX13674541-0|Financial commodity future.|Comdty|BBG0024N44L4||27267|27268|0||40559|||
+LONG GILT FUTURE  Jun12|G M2|LIF|609909609252|IX13674541-0|Financial commodity future.|Comdty|BBG0024N44L4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/G M2|//blp/mktdata/buid/LIF/IX13674541-0|//blp/mktdata/bsid/609909609252
 LONG GILT FUTURE  Mar12|G H2|LIF|609907730117|IX13045530-0|Financial commodity future.|Comdty|BBG001V718M4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/G H2|//blp/mktdata/buid/LIF/IX13045530-0|//blp/mktdata/bsid/609907730117
-LONG GILT FUTURE  Sep11|G U1|LIF|609904964549|IX11773781-0|Financial commodity future.|Comdty|BBG001CPN486||27267|27268|0||40559|//blp/mktdata/bsym/LIF/G U1|//blp/mktdata/buid/LIF/IX11773781-0|//blp/mktdata/bsid/609904964549
 LT INTERBANK DEP  Apr12|DPJ2|eBMF|2074490280667|IX12456719-0|Financial commodity future.|Comdty|BBG001LZ6K96||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/DPJ2|//blp/mktdata/buid/eBMF/IX12456719-0|//blp/mktdata/bsid/2074490280667
 LT INTERBANK DEP  Jan12|DPF2|eBMF|2074488826574|IX11783126-0|Financial commodity future.|Comdty|BBG001CSL7T2||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/DPF2|//blp/mktdata/buid/eBMF/IX11783126-0|//blp/mktdata/bsid/2074488826574
 LT INTERBANK DEP  Jul12|DPN2|eBMF|2074491612631|IX13068806-0|Financial commodity future.|Comdty|BBG001VDDZB0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/DPN2|//blp/mktdata/buid/eBMF/IX13068806-0|//blp/mktdata/bsid/2074491612631
 LT INTERBANK DEP  Oct11|DPV1|eBMF|2074487699793|IX11216827-0|Financial commodity future.|Comdty|BBG0016YZ5W1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/DPV1|//blp/mktdata/buid/eBMF/IX11216827-0|//blp/mktdata/bsid/2074487699793
 MEDIUM GILT FUTUR Dec11|WXZ1|LIF|609906382280|IX12433790-0|Financial commodity future.|Comdty|BBG001LV7DN4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/WXZ1|//blp/mktdata/buid/LIF/IX12433790-0|//blp/mktdata/bsid/609906382280
-MEDIUM GILT FUTUR Mar12|WXH2|||IX13674537-0|Financial commodity future.|Comdty|BBG0024N44K5||27267|27268|0||40559|||
-MEDIUM GILT FUTUR Sep11|WXU1|LIF|609904964548|IX11773777-0|Financial commodity future.|Comdty|BBG001CPN477||27267|27268|0||40559|//blp/mktdata/bsym/LIF/WXU1|//blp/mktdata/buid/LIF/IX11773777-0|//blp/mktdata/bsid/609904964548
+MEDIUM GILT FUTUR Mar12|WXH2|LIF|609909604854|IX13674537-0|Financial commodity future.|Comdty|BBG0024N44K5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/WXH2|//blp/mktdata/buid/LIF/IX13674537-0|//blp/mktdata/bsid/609909604854
 MEXICAN CETES     Apr12|GMJ2|MDX|1743778098691|IX12584910-0|Financial commodity future.|Comdty|BBG001NFH7V0||14153|0|0||39567|//blp/mktdata/bsym/MDX/GMJ2|//blp/mktdata/buid/MDX/IX12584910-0|//blp/mktdata/bsid/1743778098691
 MEXICAN CETES     Aug12|GMQ2|MDX|1743780118945|IX13379996-0|Financial commodity future.|Comdty|BBG00203JL38||14153|0|0||39567|//blp/mktdata/bsym/MDX/GMQ2|//blp/mktdata/buid/MDX/IX13379996-0|//blp/mktdata/bsid/1743780118945
 MEXICAN CETES     Dec11|GMZ1|MDX|1743757073285|IX2025782-0|Financial commodity future.|Comdty|BBG000S02HR9||14153|0|0||39567|//blp/mktdata/bsym/MDX/GMZ1|//blp/mktdata/buid/MDX/IX2025782-0|//blp/mktdata/bsid/1743757073285
@@ -4591,9 +4578,6 @@ Menthol Flake Fut Sep11|YUPU1|MCI|1864038790906|IX13253623-0|Financial commodity
 Mid Term Euro-BTP Dec11|MFBZ1|EUX|279196586322|IX13042986-0|Financial commodity future.|Comdty|BBG0021J9WX6||14066|14111|0||39521|//blp/mktdata/bsym/EUX/MFBZ1|//blp/mktdata/buid/EUX/IX13042986-0|//blp/mktdata/bsid/279196586322
 Mid Term Euro-BTP Jun12|MFBM2|EUX|279196586329|IX13468625-0|Financial commodity future.|Comdty|BBG0021H73K0||14066|14111|0||39521|//blp/mktdata/bsym/EUX/MFBM2|//blp/mktdata/buid/EUX/IX13468625-0|//blp/mktdata/bsid/279196586329
 Mid Term Euro-BTP Mar12|MFBH2|EUX|279196586328|IX13468621-0|Financial commodity future.|Comdty|BBG0021H73H4||14066|14111|0||39521|//blp/mktdata/bsym/EUX/MFBH2|//blp/mktdata/buid/EUX/IX13468621-0|//blp/mktdata/bsid/279196586328
-Mild Steel Future Dec11|XHLZ1|MCI|1864039909966|IX13619518-0|Financial commodity future.|Comdty|BBG002422290||27910|36595|0||39619|//blp/mktdata/bsym/MCI/XHLZ1|//blp/mktdata/buid/MCI/IX13619518-0|//blp/mktdata/bsid/1864039909966
-Mild Steel FuturesNov11|XHLX1|MCI|1864039268827|IX13402395-0|Financial commodity future.|Comdty|BBG0020B48C5||27910|36595|0||39619|//blp/mktdata/bsym/MCI/XHLX1|//blp/mktdata/buid/MCI/IX13402395-0|//blp/mktdata/bsid/1864039268827
-Mild Steel FuturesOct11|XHLV1|MCI|1864038678571|IX13196629-0|Financial commodity future.|Comdty|BBG001XVY353||27910|36595|0||39619|//blp/mktdata/bsym/MCI/XHLV1|//blp/mktdata/buid/MCI/IX13196629-0|//blp/mktdata/bsid/1864038678571
 MosPrime          Dec11|MPAZ1|RTS|1769540597874|IX9848144-0|Financial commodity future.|Comdty|BBG000YWMPG4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/MPAZ1|//blp/mktdata/buid/RTS/IX9848144-0|//blp/mktdata/bsid/1769540597874
 MosPrime          Dec12|MPAZ2|RTS|1769545923201|IX11684307-0|Financial commodity future.|Comdty|BBG001BJVJ34||14134|14134|0||39558|//blp/mktdata/bsym/RTS/MPAZ2|//blp/mktdata/buid/RTS/IX11684307-0|//blp/mktdata/bsid/1769545923201
 MosPrime          Jun12|MPAM2|RTS|1769543591409|IX10517245-0|Financial commodity future.|Comdty|BBG0011PXX92||14134|14134|0||39558|//blp/mktdata/bsym/RTS/MPAM2|//blp/mktdata/buid/RTS/IX10517245-0|//blp/mktdata/bsid/1769543591409
@@ -4634,14 +4618,12 @@ NCG Base Month Fu Jan12|XMEF2|EEE|1765253937704|IX13045538-0|Financial commodity
 NCG Base Month Fu Mar12|XMEH2|EEE|1765255258393|IX13463429-0|Financial commodity future.|Comdty|BBG0021F5K19||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEH2|//blp/mktdata/buid/EEE/IX13463429-0|//blp/mktdata/bsid/1765255258393
 NCG Base Month Fu Nov11|XMEX1|EEE|1765253018347|IX12628311-0|Financial commodity future.|Comdty|BBG001NQ0QN1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEX1|//blp/mktdata/buid/EEE/IX12628311-0|//blp/mktdata/bsid/1765253018347
 NCG Base Month Fu Oct11|XMEV1|EEE|1765252591298|IX12433610-0|Financial commodity future.|Comdty|BBG001LV7BY6||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEV1|//blp/mktdata/buid/EEE/IX12433610-0|//blp/mktdata/bsid/1765252591298
-NCG Base Month Fu Sep11|XMEU1|EEE|1765252065856|IX12152916-0|Financial commodity future.|Comdty|BBG001K3VPQ0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEU1|//blp/mktdata/buid/EEE/IX12152916-0|//blp/mktdata/bsid/1765252065856
 NCG Base Quarter  Apr12|XQEJ2|EEE|1765248904082|IX10582161-0|Financial commodity future.|Comdty|BBG0012C1T67||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEJ2|//blp/mktdata/buid/EEE/IX10582161-0|//blp/mktdata/bsid/1765248904082
 NCG Base Quarter  Apr13|XQEJ3|EEE|1765253937365|IX13045590-0|Financial commodity future.|Comdty|BBG001V71924||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEJ3|//blp/mktdata/buid/EEE/IX13045590-0|//blp/mktdata/bsid/1765253937365
 NCG Base Quarter  Jan12|XQEF2|EEE|1765247526167|IX10216837-0|Financial commodity future.|Comdty|BBG000ZDSJ19||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEF2|//blp/mktdata/buid/EEE/IX10216837-0|//blp/mktdata/bsid/1765247526167
 NCG Base Quarter  Jan13|XQEF3|EEE|1765252587404|IX12433718-0|Financial commodity future.|Comdty|BBG001LV7CR2||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEF3|//blp/mktdata/buid/EEE/IX12433718-0|//blp/mktdata/bsid/1765252587404
 NCG Base Quarter  Jul12|XQEN2|EEE|1765250036287|IX11194145-0|Financial commodity future.|Comdty|BBG0016WJBK3||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEN2|//blp/mktdata/buid/EEE/IX11194145-0|//blp/mktdata/bsid/1765250036287
 NCG Base Quarter  Jul13|XQEN3|||IX13674633-0|Financial commodity future.|Comdty|BBG0024N4577||26852|26852|0||39597|||
-NCG Base Quarter  Oct11|XQEV1|EEE|1765245906597|IX9893533-0|Financial commodity future.|Comdty|BBG000Z179R2||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEV1|//blp/mktdata/buid/EEE/IX9893533-0|//blp/mktdata/bsid/1765245906597
 NCG Base Quarter  Oct12|XQEV2|EEE|1765251160045|IX11768252-0|Financial commodity future.|Comdty|BBG001CN5CN6||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEV2|//blp/mktdata/buid/EEE/IX11768252-0|//blp/mktdata/bsid/1765251160045
 NCG Base Year     Jan12|XYEF2|EEE|1765233528225|IX4489101-0|Financial commodity future.|Comdty|BBG000VMK487||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XYEF2|//blp/mktdata/buid/EEE/IX4489101-0|//blp/mktdata/bsid/1765233528225
 NCG Base Year     Jan13|XYEF3|EEE|1765233528226|IX4489105-0|Financial commodity future.|Comdty|BBG000VMK4D1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XYEF3|//blp/mktdata/buid/EEE/IX4489105-0|//blp/mktdata/bsid/1765233528226
@@ -4740,10 +4722,10 @@ NORDPOOL EUA FUTS Mar13|FUAH3|NPE|14684510155651|IX10479914-0|Financial commodit
 NORDPOOL EUA FUTS Sep12|FUAU2|NPE|14684510155642|IX10479890-0|Financial commodity future.|Comdty|BBG0011D9TJ4||27805|27805|0||40170|//blp/mktdata/bsym/NPE/FUAU2|//blp/mktdata/buid/NPE/IX10479890-0|//blp/mktdata/bsid/14684510155642
 NOX Annual V 2011 Dec11|YQAZ1|eGEV|19142674402196|IX6161525-0|Financial commodity future.|Comdty|BBG000QQ9JN7||43448|43448|0||43449|//blp/mktdata/bsym/eGEV/YQAZ1|//blp/mktdata/buid/eGEV/IX6161525-0|//blp/mktdata/bsid/19142674402196
 NSE 91 Day T-bill Dec11|JJBZ1|NSE|1760958970209|IX13048377-0|Financial commodity future.|Comdty|BBG001V7N3R6||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBZ1|//blp/mktdata/buid/NSE/IX13048377-0|//blp/mktdata/bsid/1760958970209
+NSE 91 Day T-bill Jan12|JJBF2|NSE|1760960835130|IX13673321-0|Financial commodity future.|Comdty|BBG0024MYPR0||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBF2|//blp/mktdata/buid/NSE/IX13673321-0|//blp/mktdata/bsid/1760960835130
 NSE 91 Day T-bill Oct11|JJBV1|NSE|1760960221768|IX13437462-0|Financial commodity future.|Comdty|BBG00215QJ48||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBV1|//blp/mktdata/buid/NSE/IX13437462-0|//blp/mktdata/bsid/1760960221768
-NSE 91 Day T-bill Sep11|JJBU1|NSE|1760958970208|IX13048373-0|Financial commodity future.|Comdty|BBG001V7N3Q7||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBU1|//blp/mktdata/buid/NSE/IX13048373-0|//blp/mktdata/bsid/1760958970208
 NSE I/R Future    Dec11|JKZ1|NSE|1760958964282|IX13044138-0|Financial commodity future.|Comdty|BBG001V6MLG1||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JKZ1|//blp/mktdata/buid/NSE/IX13044138-0|//blp/mktdata/bsid/1760958964282
-NSE I/R Future    Sep11|JKU1|NSE|1760957612717|IX12432318-0|Financial commodity future.|Comdty|BBG001LV17P1||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JKU1|//blp/mktdata/buid/NSE/IX12432318-0|//blp/mktdata/bsid/1760957612717
+NSE I/R Future    Mar12|JKH2|NSE|1760960834031|IX13673229-0|Financial commodity future.|Comdty|BBG0024MYNM0||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JKH2|//blp/mktdata/buid/NSE/IX13673229-0|//blp/mktdata/bsid/1760960834031
 NY 1% v GC 3%     Apr12|VRAJ2|NYM|1614917813349|IX8736928-0|Financial commodity future.|Comdty|BBG000XTPX45||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VRAJ2|//blp/mktdata/buid/NYM/IX8736928-0|//blp/mktdata/bsid/1614917813349
 NY 1% v GC 3%     Apr13|VRAJ3|NYM|1614924113620|IX10322142-0|Financial commodity future.|Comdty|BBG000V0JFH2||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VRAJ3|//blp/mktdata/buid/NYM/IX10322142-0|//blp/mktdata/bsid/1614924113620
 NY 1% v GC 3%     Apr14|VRAJ4|NYM|1614929204196|IX12648557-0|Financial commodity future.|Comdty|BBG001NY3S48||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VRAJ4|//blp/mktdata/buid/NYM/IX12648557-0|//blp/mktdata/bsid/1614929204196
@@ -5391,9 +5373,6 @@ PHELIX PEAKLD F VASep14|FVDU4|||IX13366623-0|Financial commodity future.|Comdty|
 PHELIX PEAKLD F VASep15|FVDU5|||IX13366671-0|Financial commodity future.|Comdty|BBG001ZZ3613||26852|26852|0||39597|||
 PHELIX PEAKLD F VASep16|FVDU6|||IX13366719-0|Financial commodity future.|Comdty|BBG001ZZ36F8||26852|26852|0||39597|||
 PHELIX PEAKLD F VASep17|FVDU7|||IX13424702-0|Financial commodity future.|Comdty|BBG00212ZJM5||26852|26852|0||39597|||
-PLATINUM FUTURE   Dec11|PIWZ1|NDX|1855446894151|IX12432366-0|Financial commodity future.|Comdty|BBG001LV1888||27263|41925|0||39600|//blp/mktdata/bsym/NDX/PIWZ1|//blp/mktdata/buid/NDX/IX12432366-0|//blp/mktdata/bsid/1855446894151
-PLATINUM FUTURE   Mar12|PIWH2|NDX|1855448245930|IX13044210-0|Financial commodity future.|Comdty|BBG001V6MM60||27263|41925|0||39600|//blp/mktdata/bsym/NDX/PIWH2|//blp/mktdata/buid/NDX/IX13044210-0|//blp/mktdata/bsid/1855448245930
-PLATINUM FUTURE   Sep11|PIWU1|NDX|1855445478353|IX11772857-0|Financial commodity future.|Comdty|BBG001CPJVJ9||27263|41925|0||39600|//blp/mktdata/bsym/NDX/PIWU1|//blp/mktdata/buid/NDX/IX11772857-0|//blp/mktdata/bsid/1855445478353
 PMEX 100 TOLA GOL Dec11|LOAZ1|NCE|10355189569944|IX13384909-0|Financial commodity future.|Comdty|BBG00204RX77||36149|36149|0||0|//blp/mktdata/bsym/NCE/LOAZ1|//blp/mktdata/buid/NCE/IX13384909-0|//blp/mktdata/bsid/10355189569944
 PMEX 100 TOLA GOL Jan12|LOAF2|NCE|10355190273828|IX13628609-0|Financial commodity future.|Comdty|BBG00244XMK5||36149|36149|0||0|//blp/mktdata/bsym/NCE/LOAF2|//blp/mktdata/buid/NCE/IX13628609-0|//blp/mktdata/bsid/10355190273828
 PMEX 100 TOLA GOL Nov11|LOAX1|NCE|10355189021437|IX13196709-0|Financial commodity future.|Comdty|BBG001XVY530||36149|36149|0||0|//blp/mktdata/bsym/NCE/LOAX1|//blp/mktdata/buid/NCE/IX13196709-0|//blp/mktdata/bsid/10355189021437
@@ -5472,8 +5451,7 @@ SGD INTEREST RATE Sep13|SWU3|SGX|889082311326|IX13607345-0|Financial commodity f
 SGX GOVT BOND FUT Dec11|KBZ1|SGX|889080633404|IX13061382-0|Financial commodity future.|Comdty|BBG001VCH2L0||14017|14006|0||39499|//blp/mktdata/bsym/SGX/KBZ1|//blp/mktdata/buid/SGX/IX13061382-0|//blp/mktdata/bsid/889080633404
 SGX GOVT BOND FUT Sep11|KBU1|SGX|889079282310|IX12449922-0|Financial commodity future.|Comdty|BBG001LYRF15||14017|14006|0||39499|//blp/mktdata/bsym/SGX/KBU1|//blp/mktdata/buid/SGX/IX12449922-0|//blp/mktdata/bsid/889079282310
 SHORT GILT FUTURE Dec11|WBZ1|LIF|609906382279|IX12433646-0|Financial commodity future.|Comdty|BBG001LV7C74||27267|27268|0||40559|//blp/mktdata/bsym/LIF/WBZ1|//blp/mktdata/buid/LIF/IX12433646-0|//blp/mktdata/bsid/609906382279
-SHORT GILT FUTURE Mar12|WBH2|||IX13674545-0|Financial commodity future.|Comdty|BBG0024N44M3||27267|27268|0||40559|||
-SHORT GILT FUTURE Sep11|WBU1|LIF|609904964550|IX11773785-0|Financial commodity future.|Comdty|BBG001CPN495||27267|27268|0||40559|//blp/mktdata/bsym/LIF/WBU1|//blp/mktdata/buid/LIF/IX11773785-0|//blp/mktdata/bsid/609904964550
+SHORT GILT FUTURE Mar12|WBH2|LIF|609909604853|IX13674545-0|Financial commodity future.|Comdty|BBG0024N44M3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/WBH2|//blp/mktdata/buid/LIF/IX13674545-0|//blp/mktdata/bsid/609909604853
 SICOM GOLD        Dec36|LGRZ6|||IX10156374-0|Financial commodity future.|Comdty|BBG000YT3VH8||0|0|0|||||
 SMX Brent-Euro    Apr12|VCBJ2|SME|18223566960781|IX12289971-0|Financial commodity future.|Comdty|BBG001KQR043||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCBJ2|//blp/mktdata/buid/SME/IX12289971-0|//blp/mktdata/bsid/18223566960781
 SMX Brent-Euro    Aug12|VCBQ2|SME|18223568884129|IX13153378-0|Financial commodity future.|Comdty|BBG001WS72L5||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCBQ2|//blp/mktdata/buid/SME/IX13153378-0|//blp/mktdata/bsid/18223568884129
@@ -5694,6 +5672,7 @@ TAIFEX 10Y BOND   Dec11|GBZ1|FTX|1739482414746|IX12245154-0|Financial commodity 
 TAIFEX 10Y BOND   Jun12|GBM2|FTX|1739485670409|IX13571081-0|Financial commodity future.|Comdty|BBG0022LWZ49||14149|14149|0||39565|//blp/mktdata/bsym/FTX/GBM2|//blp/mktdata/buid/FTX/IX13571081-0|//blp/mktdata/bsid/1739485670409
 TAIFEX 10Y BOND   Mar12|GBH2|FTX|1739483827460|IX12897181-0|Financial commodity future.|Comdty|BBG001QWMTM6||14149|14149|0||39565|//blp/mktdata/bsym/FTX/GBH2|//blp/mktdata/buid/FTX/IX12897181-0|//blp/mktdata/bsid/1739483827460
 TFEX 3M BIBOR FUT Dec11|TORZ1|TEF|8774640334254|IX12950133-0|Financial commodity future.|Comdty|BBG001R3CSN1||29013|29013|0||39632|//blp/mktdata/bsym/TEF/TORZ1|//blp/mktdata/buid/TEF/IX12950133-0|//blp/mktdata/bsid/8774640334254
+TFEX 3M BIBOR FUT Mar12|TORH2|TEF|8774642449465|IX13677152-0|Financial commodity future.|Comdty|BBG0024NLMZ0||29013|29013|0||39632|//blp/mktdata/bsym/TEF/TORH2|//blp/mktdata/buid/TEF/IX13677152-0|//blp/mktdata/bsid/8774642449465
 Thai Hom Mali Ric Dec11|RITZ1|AFE|1859743490298|IX13153434-0|Financial commodity future.|Comdty|BBG001WS73B4||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITZ1|//blp/mktdata/buid/AFE/IX13153434-0|//blp/mktdata/bsid/1859743490298
 Thai Hom Mali Ric Jan12|RITF2|AFE|1859744220418|IX13369759-0|Financial commodity future.|Comdty|BBG001ZZHD40||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITF2|//blp/mktdata/buid/AFE/IX13369759-0|//blp/mktdata/bsid/1859744220418
 Thai Hom Mali Ric Nov11|RITX1|AFE|1859742975452|IX12940346-0|Financial commodity future.|Comdty|BBG001R1LWQ3||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITX1|//blp/mktdata/buid/AFE/IX12940346-0|//blp/mktdata/bsid/1859742975452

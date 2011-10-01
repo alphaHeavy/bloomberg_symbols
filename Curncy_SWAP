@@ -1,5 +1,5 @@
-#Data Generated At: Thu Sep 29 06:30:36 EDT 2011
-#Data Records=10581
+#Data Generated At: Fri Sep 30 06:30:18 EDT 2011
+#Data Records=10590
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -1601,6 +1601,10 @@ CAD SWAP/CMS   6Y||||IX13241453-0|SWAP|Curncy||||||||||
 CAD SWAP/CMS   7Y||||IX13241461-0|SWAP|Curncy||||||||||
 CAD SWAP/CMS   8Y||||IX13241457-0|SWAP|Curncy||||||||||
 CAD SWAP/CMS   9Y||||IX13241465-0|SWAP|Curncy||||||||||
+CADES 1.50%   Jul21 ASW||||IX13679304-0|SWAP|Curncy||||||||||
+CADES 1.85%   Jul17 ASW||||IX13679296-0|SWAP|Curncy||||||||||
+CADES 1.85%   Jul19 ASW||||IX13679300-0|SWAP|Curncy||||||||||
+CADES 3.15%   Jul13 ASW||||IX13679292-0|SWAP|Curncy||||||||||
 CCTS   0   07/01/16 ASW6||||IX9330237-0|SWAP|Curncy||||||||||
 CCTS  Float 12/01/14 ASW||||IX8232134-0|SWAP|Curncy||||||||||
 CCTS 3.220 11/01/12 ASW6||||IX7987838-0|SWAP|Curncy||||||||||
@@ -1918,6 +1922,7 @@ CLP-USD SWAP        6 MO||||IX9857026-0|SWAP|Curncy||||||||||
 CLP-USD SWAP        7 MO||||IX9857030-0|SWAP|Curncy||||||||||
 CLP-USD SWAP        8 MO||||IX9857034-0|SWAP|Curncy||||||||||
 CLP-USD SWAP        9 MO||||IX9857038-0|SWAP|Curncy||||||||||
+CNA  3.9%     Jul16 ASW||||IX13679308-0|SWAP|Curncy||||||||||
 CNH  SWAP V CHLR12M   2Y||||IX12798066-0|SWAP|Curncy||||||||||
 CNH  SWAP V CHLR12M   3Y||||IX12798070-0|SWAP|Curncy||||||||||
 CNH  SWAP V CHLR12M   4Y||||IX12798074-0|SWAP|Curncy||||||||||
@@ -4197,6 +4202,7 @@ EUR SWP GS MAR 13 MAR 14||||IX2681460-0|SWAP|Curncy||||||||||
 EUR SWP GS SEP 12 SEP 13||||IX2681452-0|SWAP|Curncy||||||||||
 EUR SWP GS SEP 13 SEP 14||||IX2681468-0|SWAP|Curncy||||||||||
 EUR TEC 5Y vs CMS 5Y||||IX1310262-0|SWAP|Curncy||||||||||
+EUR TII 0.75% Apr18 ASW||||IX13679284-0|SWAP|Curncy||||||||||
 EUR TII 1.25% Jul10 ASW||||IX3032505-0|SWAP|Curncy||||||||||
 EUR TII 2.25% Apr13 ASW||||IX5470001-0|SWAP|Curncy||||||||||
 EUR TII 4.00% Jan18 ASW6||||IX12571709-0|SWAP|Curncy||||||||||
@@ -4568,6 +4574,7 @@ FRF TII 1.0% Jul19 ASW||||IX9969622-0|SWAP|Curncy||||||||||
 FRF TII 1.1 Jul22  ASW||||IX12170871-0|SWAP|Curncy||||||||||
 FRF TII 1.1% Jul22 ASW||||IX10379208-0|SWAP|Curncy||||||||||
 FRF TII 1.1% Jul22 ASW||||IX10562688-0|SWAP|Curncy||||||||||
+FRF TII 1.3% Jul19 ASW||||IX13679280-0|SWAP|Curncy||||||||||
 FRF TII 1.3% Jul19 ASW||||IX9959753-0|SWAP|Curncy||||||||||
 FRF TII 1.3% Jul19 ASW||||IX9968438-0|SWAP|Curncy||||||||||
 FRF TII 1.6% Jul11 ASW||||IX3025335-0|SWAP|Curncy||||||||||
@@ -7685,6 +7692,7 @@ RAGB 5 1/2  01/15/10 ASW6||||IX4738008-0|SWAP|Curncy||||||||||
 RAGB 5 1/2  10/20/07 ASW6||||IX4737996-0|SWAP|Curncy||||||||||
 RAGB 5 1/4  01/04/11 ASW6||||IX4738012-0|SWAP|Curncy||||||||||
 RAGB 6 1/4  07/15/27 ASW6||||IX4738048-0|SWAP|Curncy||||||||||
+RESFER 2.45 Feb23   ASW||||IX13679320-0|SWAP|Curncy||||||||||
 RFBG 3 07/04/08 ASW6||||IX4748494-0|SWAP|Curncy||||||||||
 RFBG 4 3/8 7/4/19 ASW6||||IX7081919-0|SWAP|Curncy||||||||||
 RFBG 5 04/25/09 ASW6||||IX4748498-0|SWAP|Curncy||||||||||
@@ -8686,6 +8694,7 @@ TRL SWAP (vs 6M)    2 YR||||IX1958168-0|SWAP|Curncy||||||||||
 TRL SWAP (vs 6M)    3 YR||||IX1958172-0|SWAP|Curncy||||||||||
 TRL SWAP (vs 6M)   18 MO||||IX1958176-0|SWAP|Curncy||||||||||
 TRL SWAP (vs 6M)   30 MO||||IX1958180-0|SWAP|Curncy||||||||||
+TRNIM 2.731 09/2023 ASW||||IX13679416-0|SWAP|Curncy||||||||||
 TRY SWAP             O/N||||IX1959920-0|SWAP|Curncy||||||||||
 TRY SWAP             T/N||||IX1959924-0|SWAP|Curncy||||||||||
 TRY SWAP            1 WK||||IX1959916-0|SWAP|Curncy||||||||||
