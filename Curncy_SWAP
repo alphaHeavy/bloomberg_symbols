@@ -1,5 +1,5 @@
-#Data Generated At: Mon Oct 3 06:30:50 EDT 2011
-#Data Records=10856
+#Data Generated At: Tue Oct 4 06:31:26 EDT 2011
+#Data Records=10861
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -1313,6 +1313,7 @@ BTPS 4.25 01/07/14  ASW6||||IX13477496-0|SWAP|Curncy||||||||||
 BTPS 4.25 03/01/20 ASW6||||IX9636380-0|SWAP|Curncy||||||||||
 BTPS 4.25 09/01/19 ASW6||||IX9062543-0|SWAP|Curncy||||||||||
 BTPS 4.5  03/01/26  ASW6||||IX11152824-0|SWAP|Curncy||||||||||
+BTPS 4.75  09/15/16 ASW6||||IX13703671-0|SWAP|Curncy||||||||||
 BTPS 5     05/01/08 ASW6||||IX6577498-0|SWAP|Curncy||||||||||
 BTPS 5    09/01/40 ASW6||||IX9636392-0|SWAP|Curncy||||||||||
 BTPS 5   02/01/12 ASW6||||IX4740785-0|SWAP|Curncy||||||||||
@@ -7404,6 +7405,7 @@ OBL  4 1/4 02/15/08 ASW6||||IX4738400-0|SWAP|Curncy||||||||||
 OBL  4 3/4  04/13/12 ASW3||||IX4409714-0|SWAP|Curncy||||||||||
 OBL 0.000 02/26/16  ASW6||||IX11841901-0|SWAP|Curncy||||||||||
 OBL 1 3/4  10/09/15 ASW6||||IX11261090-0|SWAP|Curncy||||||||||
+OBL 1.25%  10/14/16 ASW6||||IX13703683-0|SWAP|Curncy||||||||||
 OBL 2 1/2 10/08/10   MM6||||IX9650093-0|SWAP|Curncy||||||||||
 OBL 2 1/2 10/08/10 ASW6||||IX4700558-0|SWAP|Curncy||||||||||
 OBL 2 1/2 10/10/14   MM6||||IX9650161-0|SWAP|Curncy||||||||||
@@ -7773,6 +7775,7 @@ RFBG 5 04/25/09 ASW6||||IX4748498-0|SWAP|Curncy||||||||||
 RFBG 6  04/25/08 ASW6||||IX4748490-0|SWAP|Curncy||||||||||
 RFGB  6   04/25/08  ASW6||||IX6463792-0|SWAP|Curncy||||||||||
 RFGB 1.750 04/15/16 ASW6||||IX11106556-0|SWAP|Curncy||||||||||
+RFGB 1.875 04/15/16 ASW6||||IX13703687-0|SWAP|Curncy||||||||||
 RFGB 2 3/4  09/15/10 ASW6||||IX4701450-0|SWAP|Curncy||||||||||
 RFGB 2 3/4 09/15/10  MM6||||IX9662351-0|SWAP|Curncy||||||||||
 RFGB 2 3/4 09/15/10 ASW6||||IX9635360-0|SWAP|Curncy||||||||||
@@ -9157,8 +9160,10 @@ UKT   8.75 08/25/17 ASW6||||IX9872364-0|SWAP|Curncy||||||||||
 UKT   9.00 07/12/11 ASW6||||IX9872308-0|SWAP|Curncy||||||||||
 UKT   9.00 08/06/12 ASW6||||IX9872324-0|SWAP|Curncy||||||||||
 UKT  12.00 12/12/17 ASW6||||IX9872368-0|SWAP|Curncy||||||||||
+UKT 1.75 01/22/2017 ASW6||||IX13703691-0|SWAP|Curncy||||||||||
 UKT 2.00 01/22/2016 ASW6||||IX11489948-0|SWAP|Curncy||||||||||
 UKT 3.75 09/07/2020 ASW6||||IX11497385-0|SWAP|Curncy||||||||||
+UKT 3.75 09/07/2021 ASW6||||IX13703707-0|SWAP|Curncy||||||||||
 UKT 3.75 9/07/19 ASW6||||IX12881475-0|SWAP|Curncy||||||||||
 UKT 3.75 9/07/20 ASW6||||IX12881499-0|SWAP|Curncy||||||||||
 UKT 4.25 12/07/2040 ASW6||||IX11497389-0|SWAP|Curncy||||||||||

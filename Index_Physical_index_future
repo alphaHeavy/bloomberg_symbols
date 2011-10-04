@@ -1,5 +1,5 @@
-#Data Generated At: Mon Oct 3 06:42:22 EDT 2011
-#Data Records=6280
+#Data Generated At: Tue Oct 4 06:43:25 EDT 2011
+#Data Records=6349
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -114,6 +114,7 @@ ATLANTA CDD IX FT Oct13|AMV3|eCME|2078783053985|IX11395470-0|Physical index futu
 ATLANTA CDD IX FT Sep11|AMU1|eCME|2078774738596|IX8916072-0|Physical index future.|Index|BBG000QQYPD6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMU1|//blp/mktdata/buid/eCME/IX8916072-0|//blp/mktdata/bsid/2078774738596
 ATLANTA CDD IX FT Sep12|AMU2|eCME|2078777138662|IX9556109-0|Physical index future.|Index|BBG000Y3R933||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMU2|//blp/mktdata/buid/eCME/IX9556109-0|//blp/mktdata/bsid/2078777138662
 ATLANTA CDD IX FT Sep13|AMU3|eCME|2078782702034|IX11238194-0|Physical index future.|Index|BBG001722985||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMU3|//blp/mktdata/buid/eCME/IX11238194-0|//blp/mktdata/bsid/2078782702034
+ATLANTA CDD IX FT Sep14|AMU4|eCME|2078788484558|IX13705623-0|Physical index future.|Index|BBG0024WVN14||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMU4|//blp/mktdata/buid/eCME/IX13705623-0|//blp/mktdata/bsid/2078788484558
 ATLANTA HDD IX FT Apr12|APJ2|eCME|2078774738591|IX8916024-0|Physical index future.|Index|BBG000QQNBK1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/APJ2|//blp/mktdata/buid/eCME/IX8916024-0|//blp/mktdata/bsid/2078774738591
 ATLANTA HDD IX FT Apr13|APJ3|eCME|2078780607203|IX10329241-0|Physical index future.|Index|BBG000ZQWCJ1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/APJ3|//blp/mktdata/buid/eCME/IX10329241-0|//blp/mktdata/bsid/2078780607203
 ATLANTA HDD IX FT Apr14|APJ4|eCME|2078769026810|IX12663003-0|Physical index future.|Index|BBG001P11JR5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/APJ4|//blp/mktdata/buid/eCME/IX12663003-0|//blp/mktdata/bsid/2078769026810
@@ -177,6 +178,7 @@ BALTIMORE CDD IX  Oct13|B7V3|eCME|2078783053995|IX11395638-0|Physical index futu
 BALTIMORE CDD IX  Sep11|B7U1|eCME|2078774836163|IX9012335-0|Physical index future.|Index|BBG000TX9VF1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B7U1|//blp/mktdata/buid/eCME/IX9012335-0|//blp/mktdata/bsid/2078774836163
 BALTIMORE CDD IX  Sep12|B7U2|eCME|2078777138663|IX9556141-0|Physical index future.|Index|BBG000SCLFZ7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B7U2|//blp/mktdata/buid/eCME/IX9556141-0|//blp/mktdata/bsid/2078777138663
 BALTIMORE CDD IX  Sep13|B7U3|eCME|2078782702035|IX11238326-0|Physical index future.|Index|BBG0017229W8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B7U3|//blp/mktdata/buid/eCME/IX11238326-0|//blp/mktdata/bsid/2078782702035
+BALTIMORE CDD IX  Sep14|B7U4|eCME|2078788484543|IX13705783-0|Physical index future.|Index|BBG0024WVP00||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B7U4|//blp/mktdata/buid/eCME/IX13705783-0|//blp/mktdata/bsid/2078788484543
 BALTIMORE HDD IX  Apr12|B4J2|eCME|2078774836137|IX9012291-0|Physical index future.|Index|BBG000TX2930||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B4J2|//blp/mktdata/buid/eCME/IX9012291-0|//blp/mktdata/bsid/2078774836137
 BALTIMORE HDD IX  Apr13|B4J3|eCME|2078780607198|IX10329613-0|Physical index future.|Index|BBG000ZQXGK9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B4J3|//blp/mktdata/buid/eCME/IX10329613-0|//blp/mktdata/bsid/2078780607198
 BALTIMORE HDD IX  Apr14|B4J4|eCME|2078785686347|IX12663183-0|Physical index future.|Index|BBG001P11KW6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B4J4|//blp/mktdata/buid/eCME/IX12663183-0|//blp/mktdata/bsid/2078785686347
@@ -287,6 +289,7 @@ BOSTON CDD IX FUT Oct13|AOV3|eCME|2078783053988|IX11395598-0|Physical index futu
 BOSTON CDD IX FUT Sep11|AOU1|eCME|2078774819126|IX9005951-0|Physical index future.|Index|BBG000TQ9RC8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AOU1|//blp/mktdata/buid/eCME/IX9005951-0|//blp/mktdata/bsid/2078774819126
 BOSTON CDD IX FUT Sep12|AOU2|eCME|2078777138657|IX9556065-0|Physical index future.|Index|BBG000SGQN40||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AOU2|//blp/mktdata/buid/eCME/IX9556065-0|//blp/mktdata/bsid/2078777138657
 BOSTON CDD IX FUT Sep13|AOU3|eCME|2078782702054|IX11238290-0|Physical index future.|Index|BBG0017229Q5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AOU3|//blp/mktdata/buid/eCME/IX11238290-0|//blp/mktdata/bsid/2078782702054
+BOSTON CDD IX FUT Sep14|AOU4|eCME|2078788484546|IX13705763-0|Physical index future.|Index|BBG0024WVNV1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AOU4|//blp/mktdata/buid/eCME/IX13705763-0|//blp/mktdata/bsid/2078788484546
 BOSTON HDD IX FUT Apr12|AKJ2|eCME|2078774813296|IX9006019-0|Physical index future.|Index|BBG000TQBZ28||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKJ2|//blp/mktdata/buid/eCME/IX9006019-0|//blp/mktdata/bsid/2078774813296
 BOSTON HDD IX FUT Apr13|AKJ3|eCME|2078780607227|IX10329193-0|Physical index future.|Index|BBG000ZQV8Q3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKJ3|//blp/mktdata/buid/eCME/IX10329193-0|//blp/mktdata/bsid/2078780607227
 BOSTON HDD IX FUT Apr14|AKJ4|eCME|2078785686353|IX12663151-0|Physical index future.|Index|BBG001P11KM7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKJ4|//blp/mktdata/buid/eCME/IX12663151-0|//blp/mktdata/bsid/2078785686353
@@ -309,6 +312,7 @@ BOSTON HDD IX FUT Oct11|AKV1|eCME|2078774819132|IX9005999-0|Physical index futur
 BOSTON HDD IX FUT Oct12|AKV2|eCME|2078777686044|IX9653825-0|Physical index future.|Index|BBG000Y6PMX6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKV2|//blp/mktdata/buid/eCME/IX9653825-0|//blp/mktdata/bsid/2078777686044
 BOSTON HDD IX FUT Oct13|AKV3|eCME|2078783053992|IX11395602-0|Physical index future.|Index|BBG0018HN8R9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKV3|//blp/mktdata/buid/eCME/IX11395602-0|//blp/mktdata/bsid/2078783053992
 BOSTON SEASON CDD Sep11|I8U1|||IX11238378-0|Physical index future.|Index|BBG001722BB6||14002|14002|0||39490|||
+BOSTON SEASON CDD Sep12|I8U2|||IX13705815-0|Physical index future.|Index|BBG0024WVP82||14002|14002|0||39490|||
 BOSTON SEASON HDD Mar12|H8H2|eCME|2078785274040|IX12478130-0|Physical index future.|Index|BBG001M2YN28||14002|14002|0||39490|//blp/mktdata/bsym/eCME/H8H2|//blp/mktdata/buid/eCME/IX12478130-0|//blp/mktdata/bsid/2078785274040
 BOSTON SNOWFALL   Apr12|MNJ2|eCME|2078785686348|IX12663351-0|Physical index future.|Index|BBG001P11LH1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNJ2|//blp/mktdata/buid/eCME/IX12663351-0|//blp/mktdata/bsid/2078785686348
 BOSTON SNOWFALL   Dec12|MNZ2|eCME|2078778575097|IX9914618-0|Physical index future.|Index|BBG000Z23SW6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNZ2|//blp/mktdata/buid/eCME/IX9914618-0|//blp/mktdata/bsid/2078778575097
@@ -716,6 +720,7 @@ CDD, JAX Airport  Jul12|JXAN2|CME|614203356185|IX13282202-0|Physical index futur
 CDD, JAX Airport  Jun12|JXAM2|CME|614202791357|IX13094750-0|Physical index future.|Index|BBG001VKYXM4||14002|14002|0||39490|//blp/mktdata/bsym/CME/JXAM2|//blp/mktdata/buid/CME/IX13094750-0|//blp/mktdata/bsid/614202791357
 CDD, JAX Airport  Oct11|JXAV1|CME|614199209556|IX11395726-0|Physical index future.|Index|BBG0018HN9H8||14002|14002|0||39490|//blp/mktdata/bsym/CME/JXAV1|//blp/mktdata/buid/CME/IX11395726-0|//blp/mktdata/bsid/614199209556
 CDD, JAX Airport  Sep11|JXAU1|CME|614198860915|IX11238406-0|Physical index future.|Index|BBG001722BK6||14002|14002|0||39490|//blp/mktdata/bsym/CME/JXAU1|//blp/mktdata/buid/CME/IX11238406-0|//blp/mktdata/bsid/614198860915
+CDD, JAX Airport  Sep12|JXAU2|||IX13705827-0|Physical index future.|Index|BBG0024WVPC7||14002|14002|0||39490|||
 CDD, L Rock Adams Oct11|LRAV1|||IX11395730-0|Physical index future.|Index|BBG0018HN9J6||14002|14002|0||39490|||
 CDD, L Rock Adams Sep11|LRAU1|||IX11238410-0|Physical index future.|Index|BBG001722BL5||14002|14002|0||39490|||
 CDD, LA USC Campu Oct11|LADV1|||IX11395734-0|Physical index future.|Index|BBG0018HN9K4||14002|14002|0||39490|||
@@ -726,6 +731,7 @@ CDD, Ral-Dur Air  Jul12|RDAN2|||IX13282206-0|Physical index future.|Index|BBG001
 CDD, Ral-Dur Air  Jun12|RDAM2|||IX13094754-0|Physical index future.|Index|BBG001VKYXN3||14002|14002|0||39490|||
 CDD, Ral-Dur Air  Oct11|RDAV1|||IX11395738-0|Physical index future.|Index|BBG0018HN9L3||14002|14002|0||39490|||
 CDD, Ral-Dur Air  Sep11|RDAU1|||IX11238418-0|Physical index future.|Index|BBG001722BN3||14002|14002|0||39490|||
+CDD, Ral-Dur Air  Sep12|RDAU2|||IX13705831-0|Physical index future.|Index|BBG0024WVPD6||14002|14002|0||39490|||
 CDD, Wa Reagan Ai Oct11|WRAV1|||IX11395742-0|Physical index future.|Index|BBG0018HN9M2||14002|14002|0||39490|||
 CDD, Wa Reagan Ai Sep11|WRAU1|||IX11238422-0|Physical index future.|Index|BBG001722BP1||14002|14002|0||39490|||
 CECE Div Point FutDec11|CECZ1|AV|133164755957|IX12320012-0|Physical index future.|Index|BBG001KTJTT6||14114|14114|0||39545|//blp/mktdata/bsym/AV/CECZ1|//blp/mktdata/buid/AV/IX12320012-0|//blp/mktdata/bsid/133164755957
@@ -778,6 +784,7 @@ CHICAGO CDD IX FT Oct13|CKV3|eCME|2078783054014|IX11395482-0|Physical index futu
 CHICAGO CDD IX FT Sep11|CKU1|eCME|2078774730674|IX8916160-0|Physical index future.|Index|BBG000QR83M2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKU1|//blp/mktdata/buid/eCME/IX8916160-0|//blp/mktdata/bsid/2078774730674
 CHICAGO CDD IX FT Sep12|CKU2|eCME|2078777139919|IX9556113-0|Physical index future.|Index|BBG000Y3R9H8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKU2|//blp/mktdata/buid/eCME/IX9556113-0|//blp/mktdata/bsid/2078777139919
 CHICAGO CDD IX FT Sep13|CKU3|eCME|2078782702140|IX11238198-0|Physical index future.|Index|BBG001722994||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKU3|//blp/mktdata/buid/eCME/IX11238198-0|//blp/mktdata/bsid/2078782702140
+CHICAGO CDD IX FT Sep14|CKU4|eCME|2078788484570|IX13705627-0|Physical index future.|Index|BBG0024WVN23||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKU4|//blp/mktdata/buid/eCME/IX13705627-0|//blp/mktdata/bsid/2078788484570
 CHICAGO HDD IX FT Apr12|CQJ2|eCME|2078774730685|IX8916252-0|Physical index future.|Index|BBG000QRZL15||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQJ2|//blp/mktdata/buid/eCME/IX8916252-0|//blp/mktdata/bsid/2078774730685
 CHICAGO HDD IX FT Apr13|CQJ3|eCME|2078780607197|IX10329249-0|Physical index future.|Index|BBG000ZQWCL8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQJ3|//blp/mktdata/buid/eCME/IX10329249-0|//blp/mktdata/bsid/2078780607197
 CHICAGO HDD IX FT Apr14|CQJ4|eCME|2078785686346|IX12663031-0|Physical index future.|Index|BBG001P11JV0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQJ4|//blp/mktdata/buid/eCME/IX12663031-0|//blp/mktdata/bsid/2078785686346
@@ -824,6 +831,7 @@ CINCINN CDD IX FT Oct13|CSV3|eCME|2078773432244|IX11395502-0|Physical index futu
 CINCINN CDD IX FT Sep11|CSU1|eCME|2078774730715|IX8916344-0|Physical index future.|Index|BBG000QSC5H6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CSU1|//blp/mktdata/buid/eCME/IX8916344-0|//blp/mktdata/bsid/2078774730715
 CINCINN CDD IX FT Sep12|CSU2|eCME|2078777138671|IX9556117-0|Physical index future.|Index|BBG000Y3R9Y9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CSU2|//blp/mktdata/buid/eCME/IX9556117-0|//blp/mktdata/bsid/2078777138671
 CINCINN CDD IX FT Sep13|CSU3|eCME|2078773432243|IX11238202-0|Physical index future.|Index|BBG0017229B1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CSU3|//blp/mktdata/buid/eCME/IX11238202-0|//blp/mktdata/bsid/2078773432243
+CINCINN CDD IX FT Sep14|CSU4|eCME|2078788484573|IX13705631-0|Physical index future.|Index|BBG0024WVN32||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CSU4|//blp/mktdata/buid/eCME/IX13705631-0|//blp/mktdata/bsid/2078788484573
 CINCINN HDD IX FT Apr12|CJJ2|eCME|2078774738606|IX8916300-0|Physical index future.|Index|BBG000QS7190||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJJ2|//blp/mktdata/buid/eCME/IX8916300-0|//blp/mktdata/bsid/2078774738606
 CINCINN HDD IX FT Apr13|CJJ3|eCME|2078780607708|IX10329237-0|Physical index future.|Index|BBG000SRKLD6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJJ3|//blp/mktdata/buid/eCME/IX10329237-0|//blp/mktdata/bsid/2078780607708
 CINCINN HDD IX FT Apr14|CJJ4|eCME|2078785686360|IX12663035-0|Physical index future.|Index|BBG001P11JW9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJJ4|//blp/mktdata/buid/eCME/IX12663035-0|//blp/mktdata/bsid/2078785686360
@@ -919,6 +927,7 @@ COLORADO CDD IX   Oct13|CDCV3|eCME|2078783061649|IX11395642-0|Physical index fut
 COLORADO CDD IX   Sep11|CDCU1|CME|614191022596|IX9012399-0|Physical index future.|Index|BBG000TXH6Z5||14002|14002|0||39490|//blp/mktdata/bsym/CME/CDCU1|//blp/mktdata/buid/CME/IX9012399-0|//blp/mktdata/bsid/614191022596
 COLORADO CDD IX   Sep12|CDCU2|eCME|2078777139910|IX9555993-0|Physical index future.|Index|BBG000Y3QXM0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDCU2|//blp/mktdata/buid/eCME/IX9555993-0|//blp/mktdata/bsid/2078777139910
 COLORADO CDD IX   Sep13|CDCU3|eCME|2078782710860|IX11238330-0|Physical index future.|Index|BBG0017229X7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDCU3|//blp/mktdata/buid/eCME/IX11238330-0|//blp/mktdata/bsid/2078782710860
+COLORADO CDD IX   Sep14|CDCU4|||IX13705787-0|Physical index future.|Index|BBG0024WVP19||14002|14002|0||39490|||
 COMPA Sibiu       Dec11|CMPZ1|||IX11789215-0|Physical index future.|Index|BBG001CTR9R2||33996|33996|0||40099|||
 COMPA Sibiu       Jun12|CMPM2|||IX13063710-0|Physical index future.|Index|BBG001VD98Q9||33996|33996|0||40099|||
 COMPA Sibiu       Mar12|CMPH2|||IX12452307-0|Physical index future.|Index|BBG001LZ2BY2||33996|33996|0||40099|||
@@ -956,13 +965,17 @@ Chicago APR Strip Jun12|CJAM2|eCME|2078786635331|IX13094686-0|Physical index fut
 Chicago APR Strip May12|CJAK2|eCME|2078786195709|IX12862776-0|Physical index future.|Index|BBG001QQHJG4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJAK2|//blp/mktdata/buid/eCME/IX12862776-0|//blp/mktdata/bsid/2078786195709
 Chicago APR Strip Oct11|CJAV1|eCME|2078783183935|IX11456671-0|Physical index future.|Index|BBG0018YY6H5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJAV1|//blp/mktdata/buid/eCME/IX11456671-0|//blp/mktdata/bsid/2078783183935
 Chicago APR Strip Sep11|CJAU1|eCME|2078783183934|IX11456667-0|Physical index future.|Index|BBG0018YY6G6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJAU1|//blp/mktdata/buid/eCME/IX11456667-0|//blp/mktdata/bsid/2078783183934
+Chicago APR Strip Sep12|CJAU2|||IX13706007-0|Physical index future.|Index|BBG0024WVPZ2||14002|14002|0||39490|||
 Chicago AUG Strip Oct11|CQAV1|eCME|2078783507543|IX11642429-0|Physical index future.|Index|BBG001B58K28||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQAV1|//blp/mktdata/buid/eCME/IX11642429-0|//blp/mktdata/bsid/2078783507543
 Chicago AUG Strip Sep11|CQAU1|eCME|2078783507542|IX11642425-0|Physical index future.|Index|BBG001B58J21||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CQAU1|//blp/mktdata/buid/eCME/IX11642425-0|//blp/mktdata/bsid/2078783507542
+Chicago AUG Strip Sep12|CQAU2|||IX13706067-0|Physical index future.|Index|BBG0024WVQ99||14002|14002|0||39490|||
 Chicago JULY Stri Aug12|CNAQ2|eCME|2078787935756|IX13500419-0|Physical index future.|Index|BBG0021RGPV7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CNAQ2|//blp/mktdata/buid/eCME/IX13500419-0|//blp/mktdata/bsid/2078787935756
+Chicago JULY Stri Sep12|CNAU2|||IX13706063-0|Physical index future.|Index|BBG0024WVQ80||14002|14002|0||39490|||
 Chicago JULY StripOct11|CNAV1|eCME|2078783501137|IX11642365-0|Physical index future.|Index|BBG001B58068||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CNAV1|//blp/mktdata/buid/eCME/IX11642365-0|//blp/mktdata/bsid/2078783501137
 Chicago JULY StripSep11|CNAU1|eCME|2078783501136|IX11642361-0|Physical index future.|Index|BBG001B58059||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CNAU1|//blp/mktdata/buid/eCME/IX11642361-0|//blp/mktdata/bsid/2078783501136
 Chicago JUNE Stri Aug12|CMAQ2|eCME|2078787935755|IX13500415-0|Physical index future.|Index|BBG0021RGPT0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CMAQ2|//blp/mktdata/buid/eCME/IX13500415-0|//blp/mktdata/bsid/2078787935755
 Chicago JUNE Stri Jul12|CMAN2|eCME|2078787197402|IX13282310-0|Physical index future.|Index|BBG001YHSNC8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CMAN2|//blp/mktdata/buid/eCME/IX13282310-0|//blp/mktdata/bsid/2078787197402
+Chicago JUNE Stri Sep12|CMAU2|||IX13706059-0|Physical index future.|Index|BBG0024WVQ71||14002|14002|0||39490|||
 Chicago JUNE StripOct11|CMAV1|eCME|2078783501134|IX11641133-0|Physical index future.|Index|BBG001B59PC5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CMAV1|//blp/mktdata/buid/eCME/IX11641133-0|//blp/mktdata/bsid/2078783501134
 Chicago JUNE StripSep11|CMAU1|eCME|2078783501133|IX11641129-0|Physical index future.|Index|BBG001B59PB6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CMAU1|//blp/mktdata/buid/eCME/IX11641129-0|//blp/mktdata/bsid/2078783501133
 Chicago MAR Strip Apr12|CHAJ2|eCME|2078785689942|IX12663119-0|Physical index future.|Index|BBG001P11KC8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CHAJ2|//blp/mktdata/buid/eCME/IX12663119-0|//blp/mktdata/bsid/2078785689942
@@ -972,14 +985,17 @@ Chicago MAR Strip Jun12|CHAM2|eCME|2078786635308|IX13094498-0|Physical index fut
 Chicago MAR Strip May12|CHAK2|eCME|2078786195693|IX12862744-0|Physical index future.|Index|BBG001QQHJ65||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CHAK2|//blp/mktdata/buid/eCME/IX12862744-0|//blp/mktdata/bsid/2078786195693
 Chicago MAR Strip Oct11|CHAV1|eCME|2078783149355|IX11448950-0|Physical index future.|Index|BBG0018X79M5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CHAV1|//blp/mktdata/buid/eCME/IX11448950-0|//blp/mktdata/bsid/2078783149355
 Chicago MAR Strip Sep11|CHAU1|eCME|2078783149354|IX11448946-0|Physical index future.|Index|BBG0018X79L6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CHAU1|//blp/mktdata/buid/eCME/IX11448946-0|//blp/mktdata/bsid/2078783149354
+Chicago MAR Strip Sep12|CHAU2|||IX13705747-0|Physical index future.|Index|BBG0024WVNQ7||14002|14002|0||39490|||
 Chicago MAY Strip Aug12|CKBQ2|eCME|2078787935754|IX13500283-0|Physical index future.|Index|BBG0021RGPK9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKBQ2|//blp/mktdata/buid/eCME/IX13500283-0|//blp/mktdata/bsid/2078787935754
 Chicago MAY Strip Jul12|CKBN2|eCME|2078787197401|IX13282174-0|Physical index future.|Index|BBG001YHSN56||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKBN2|//blp/mktdata/buid/eCME/IX13282174-0|//blp/mktdata/bsid/2078787197401
 Chicago MAY Strip Jun12|CKBM2|eCME|2078786635333|IX13094690-0|Physical index future.|Index|BBG001VKYXJ8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKBM2|//blp/mktdata/buid/eCME/IX13094690-0|//blp/mktdata/bsid/2078786635333
 Chicago MAY Strip Oct11|CKBV1|eCME|2078783184504|IX11456715-0|Physical index future.|Index|BBG0018YY7B9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKBV1|//blp/mktdata/buid/eCME/IX11456715-0|//blp/mktdata/bsid/2078783184504
 Chicago MAY Strip Sep11|CKBU1|eCME|2078783184503|IX11456711-0|Physical index future.|Index|BBG0018YY792||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CKBU1|//blp/mktdata/buid/eCME/IX11456711-0|//blp/mktdata/bsid/2078783184503
+Chicago MAY Strip Sep12|CKBU2|||IX13706011-0|Physical index future.|Index|BBG0024WVQ08||14002|14002|0||39490|||
 Chicago Rainfall  Dec11|CJRZ1|eCME|2078786635324|IX13094602-0|Physical index future.|Index|BBG001VKYX71||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJRZ1|//blp/mktdata/buid/eCME/IX13094602-0|//blp/mktdata/bsid/2078786635324
 Chicago Rainfall  Feb12|CJRG2|eCME|2078787935746|IX13500195-0|Physical index future.|Index|BBG0021RGP92||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJRG2|//blp/mktdata/buid/eCME/IX13500195-0|//blp/mktdata/bsid/2078787935746
 Chicago Rainfall  Jan12|CJRF2|eCME|2078787197393|IX13282086-0|Physical index future.|Index|BBG001YHSMW8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJRF2|//blp/mktdata/buid/eCME/IX13282086-0|//blp/mktdata/bsid/2078787197393
+Chicago Rainfall  Mar12|CJRH2|||IX13705923-0|Physical index future.|Index|BBG0024WVPR1||14002|14002|0||39490|||
 Chicago Rainfall  Nov11|CJRX1|eCME|2078786195702|IX12862856-0|Physical index future.|Index|BBG001QQHK17||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJRX1|//blp/mktdata/buid/eCME/IX12862856-0|//blp/mktdata/bsid/2078786195702
 Chicago Rainfall  Oct11|CJRV1|eCME|2078783035347|IX11365003-0|Physical index future.|Index|BBG0018G9735||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJRV1|//blp/mktdata/buid/eCME/IX11365003-0|//blp/mktdata/bsid/2078783035347
 Chicago Rainfall  Sep11|CJRU1|eCME|2078783035346|IX11364999-0|Physical index future.|Index|BBG0018G9726||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CJRU1|//blp/mktdata/buid/eCME/IX11364999-0|//blp/mktdata/bsid/2078783035346
@@ -1039,6 +1055,7 @@ DALLAS CDD IX FUT Oct13|DFV3|eCME|2078783054001|IX11395534-0|Physical index futu
 DALLAS CDD IX FUT Sep11|DFU1|eCME|2078774738629|IX8916616-0|Physical index future.|Index|BBG000QSH3S4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFU1|//blp/mktdata/buid/eCME/IX8916616-0|//blp/mktdata/bsid/2078774738629
 DALLAS CDD IX FUT Sep12|DFU2|eCME|2078777138675|IX9556121-0|Physical index future.|Index|BBG000Y3RB56||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFU2|//blp/mktdata/buid/eCME/IX9556121-0|//blp/mktdata/bsid/2078777138675
 DALLAS CDD IX FUT Sep13|DFU3|eCME|2078782702074|IX11238210-0|Physical index future.|Index|BBG0017229D9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFU3|//blp/mktdata/buid/eCME/IX11238210-0|//blp/mktdata/bsid/2078782702074
+DALLAS CDD IX FUT Sep14|DFU4|eCME|2078788484575|IX13705639-0|Physical index future.|Index|BBG0024WVN50||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFU4|//blp/mktdata/buid/eCME/IX13705639-0|//blp/mktdata/bsid/2078788484575
 DALLAS HDD IX FUT Apr12|DDJ2|eCME|2078774730745|IX8916572-0|Physical index future.|Index|BBG000QSG831||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DDJ2|//blp/mktdata/buid/eCME/IX8916572-0|//blp/mktdata/bsid/2078774730745
 DALLAS HDD IX FUT Apr13|DDJ3|eCME|2078780607213|IX10329245-0|Physical index future.|Index|BBG000SRKLZ2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DDJ3|//blp/mktdata/buid/eCME/IX10329245-0|//blp/mktdata/bsid/2078780607213
 DALLAS HDD IX FUT Apr14|DDJ4|eCME|2078785686382|IX12663067-0|Physical index future.|Index|BBG001P11K01||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DDJ4|//blp/mktdata/buid/eCME/IX12663067-0|//blp/mktdata/bsid/2078785686382
@@ -1061,6 +1078,7 @@ DALLAS HDD IX FUT Oct11|DDV1|eCME|2078774738623|IX8916552-0|Physical index futur
 DALLAS HDD IX FUT Oct12|DDV2|eCME|2078777686047|IX9653845-0|Physical index future.|Index|BBG000Y6PQ21||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DDV2|//blp/mktdata/buid/eCME/IX9653845-0|//blp/mktdata/bsid/2078777686047
 DALLAS HDD IX FUT Oct13|DDV3|eCME|2078783054000|IX11395530-0|Physical index future.|Index|BBG0018HN871||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DDV3|//blp/mktdata/buid/eCME/IX11395530-0|//blp/mktdata/bsid/2078783054000
 DALLAS SEASON CDD Sep11|I2U1|eCME|2078782702047|IX11238262-0|Physical index future.|Index|BBG0017229H5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/I2U1|//blp/mktdata/buid/eCME/IX11238262-0|//blp/mktdata/bsid/2078782702047
+DALLAS SEASON CDD Sep12|I2U2|eCME|2078788484556|IX13705811-0|Physical index future.|Index|BBG0024WVP73||14002|14002|0||39490|//blp/mktdata/bsym/eCME/I2U2|//blp/mktdata/buid/eCME/IX13705811-0|//blp/mktdata/bsid/2078788484556
 DALLAS SEASON HDD Mar12|H2H2|eCME|2078785274036|IX12478070-0|Physical index future.|Index|BBG001M2YMT1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/H2H2|//blp/mktdata/buid/eCME/IX12478070-0|//blp/mktdata/bsid/2078785274036
 DAX INDEX FUTURE  Dec11|GXZ1|EUX|279193678334|IX12343324-0|Physical index future.|Index|BBG001KY1NX2||14066|14111|0||39521|//blp/mktdata/bsym/EUX/GXZ1|//blp/mktdata/buid/EUX/IX12343324-0|//blp/mktdata/bsid/279193678334
 DAX INDEX FUTURE  Jun12|GXM2|EUX|279196840805|IX13593866-0|Physical index future.|Index|BBG0022V8NN0||14066|14111|0||39521|//blp/mktdata/bsym/EUX/GXM2|//blp/mktdata/buid/EUX/IX13593866-0|//blp/mktdata/bsid/279196840805
@@ -1091,6 +1109,7 @@ DES MOINES CDD FT Oct13|MKV3|eCME|2078783053989|IX11395582-0|Physical index futu
 DES MOINES CDD FT Sep11|MKU1|eCME|2078774819098|IX9005723-0|Physical index future.|Index|BBG000TPQM14||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MKU1|//blp/mktdata/buid/eCME/IX9005723-0|//blp/mktdata/bsid/2078774819098
 DES MOINES CDD FT Sep12|MKU2|eCME|2078777138668|IX9556133-0|Physical index future.|Index|BBG000Y3RC72||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MKU2|//blp/mktdata/buid/eCME/IX9556133-0|//blp/mktdata/bsid/2078777138668
 DES MOINES CDD FT Sep13|MKU3|eCME|2078782702059|IX11238282-0|Physical index future.|Index|BBG0017229N8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MKU3|//blp/mktdata/buid/eCME/IX11238282-0|//blp/mktdata/bsid/2078782702059
+DES MOINES CDD FT Sep14|MKU4|eCME|2078788484550|IX13705755-0|Physical index future.|Index|BBG0024WVNS5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MKU4|//blp/mktdata/buid/eCME/IX13705755-0|//blp/mktdata/bsid/2078788484550
 DES MOINES HDD FT Apr12|MWJ2|eCME|2078774819105|IX9005795-0|Physical index future.|Index|BBG000TPRKW3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MWJ2|//blp/mktdata/buid/eCME/IX9005795-0|//blp/mktdata/bsid/2078774819105
 DES MOINES HDD FT Apr13|MWJ3|eCME|2078780607224|IX10329269-0|Physical index future.|Index|BBG000SRKP29||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MWJ3|//blp/mktdata/buid/eCME/IX10329269-0|//blp/mktdata/bsid/2078780607224
 DES MOINES HDD FT Apr14|MWJ4|eCME|2078785686365|IX12663135-0|Physical index future.|Index|BBG001P11KH3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MWJ4|//blp/mktdata/buid/eCME/IX12663135-0|//blp/mktdata/bsid/2078785686365
@@ -1141,6 +1160,7 @@ DETROIT CDD IX    Oct13|B9V3|eCME|2078783053991|IX11395546-0|Physical index futu
 DETROIT CDD IX    Sep11|B9U1|eCME|2078774835946|IX9012103-0|Physical index future.|Index|BBG000RXFKR7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B9U1|//blp/mktdata/buid/eCME/IX9012103-0|//blp/mktdata/bsid/2078774835946
 DETROIT CDD IX    Sep12|B9U2|eCME|2078777138669|IX9556149-0|Physical index future.|Index|BBG000SCLGV9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B9U2|//blp/mktdata/buid/eCME/IX9556149-0|//blp/mktdata/bsid/2078777138669
 DETROIT CDD IX    Sep13|B9U3|eCME|2078782702036|IX11238254-0|Physical index future.|Index|BBG0017229F7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B9U3|//blp/mktdata/buid/eCME/IX11238254-0|//blp/mktdata/bsid/2078782702036
+DETROIT CDD IX    Sep14|B9U4|eCME|2078788484551|IX13705683-0|Physical index future.|Index|BBG0024WVN69||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B9U4|//blp/mktdata/buid/eCME/IX13705683-0|//blp/mktdata/bsid/2078788484551
 DETROIT SSN CDD   Sep11|C9U1|eCME|2078782702056|IX11238402-0|Physical index future.|Index|BBG001722BJ8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/C9U1|//blp/mktdata/buid/eCME/IX11238402-0|//blp/mktdata/bsid/2078782702056
 DETROIT SSN HDD   Mar12|DSSH2|eCME|2078785308114|IX12486767-0|Physical index future.|Index|BBG001M4V535||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DSSH2|//blp/mktdata/buid/eCME/IX12486767-0|//blp/mktdata/bsid/2078785308114
 DJ AIG Agri Sub I Dec11|FCDZ1|EUX|279192441207|IX11741494-0|Physical index future.|Index|BBG001CGJBF7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FCDZ1|//blp/mktdata/buid/EUX/IX11741494-0|//blp/mktdata/bsid/279192441207
@@ -1291,15 +1311,19 @@ Dallas APR Strip  Jun12|WJAM2|eCME|2078786633621|IX13094466-0|Physical index fut
 Dallas APR Strip  May12|WJAK2|eCME|2078786191728|IX12862724-0|Physical index future.|Index|BBG001QQHHL2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJAK2|//blp/mktdata/buid/eCME/IX12862724-0|//blp/mktdata/bsid/2078786191728
 Dallas APR Strip  Oct11|WJAV1|eCME|2078783789381|IX11780850-0|Physical index future.|Index|BBG001CSK2Z7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJAV1|//blp/mktdata/buid/eCME/IX11780850-0|//blp/mktdata/bsid/2078783789381
 Dallas APR Strip  Sep11|WJAU1|eCME|2078783789380|IX11780846-0|Physical index future.|Index|BBG001CSK2Y8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJAU1|//blp/mktdata/buid/eCME/IX11780846-0|//blp/mktdata/bsid/2078783789380
+Dallas APR Strip  Sep12|WJAU2|eCME|2078788484554|IX13705691-0|Physical index future.|Index|BBG0024WVN87||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJAU2|//blp/mktdata/buid/eCME/IX13705691-0|//blp/mktdata/bsid/2078788484554
 Dallas AUG Strip  Oct11|WQAV1|eCME|2078783813133|IX11787495-0|Physical index future.|Index|BBG001CTPVB2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WQAV1|//blp/mktdata/buid/eCME/IX11787495-0|//blp/mktdata/bsid/2078783813133
 Dallas AUG Strip  Sep11|WQAU1|eCME|2078783813132|IX11787491-0|Physical index future.|Index|BBG001CTPPY0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WQAU1|//blp/mktdata/buid/eCME/IX11787491-0|//blp/mktdata/bsid/2078783813132
+Dallas AUG Strip  Sep12|WQAU2|||IX13705707-0|Physical index future.|Index|BBG0024WVND1||14002|14002|0||39490|||
 Dallas JUL Strip  Aug12|WNAQ2|eCME|2078787935733|IX13499983-0|Physical index future.|Index|BBG0021RGN33||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WNAQ2|//blp/mktdata/buid/eCME/IX13499983-0|//blp/mktdata/bsid/2078787935733
 Dallas JUL Strip  Oct11|WNAV1|eCME|2078783794151|IX11782086-0|Physical index future.|Index|BBG001CSKB96||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WNAV1|//blp/mktdata/buid/eCME/IX11782086-0|//blp/mktdata/bsid/2078783794151
 Dallas JUL Strip  Sep11|WNAU1|eCME|2078783794150|IX11782082-0|Physical index future.|Index|BBG001CSKB87||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WNAU1|//blp/mktdata/buid/eCME/IX11782082-0|//blp/mktdata/bsid/2078783794150
+Dallas JUL Strip  Sep12|WNAU2|||IX13705703-0|Physical index future.|Index|BBG0024WVNC2||14002|14002|0||39490|||
 Dallas JULY Strip Aug12|WMAQ2|eCME|2078787935732|IX13499979-0|Physical index future.|Index|BBG0021RGN24||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WMAQ2|//blp/mktdata/buid/eCME/IX13499979-0|//blp/mktdata/bsid/2078787935732
 Dallas JULY Strip Jul12|WMAN2|eCME|2078787197337|IX13281946-0|Physical index future.|Index|BBG001YHSLS5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WMAN2|//blp/mktdata/buid/eCME/IX13281946-0|//blp/mktdata/bsid/2078787197337
 Dallas JULY Strip Oct11|WMAV1|eCME|2078783789390|IX11780966-0|Physical index future.|Index|BBG001CSK5X2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WMAV1|//blp/mktdata/buid/eCME/IX11780966-0|//blp/mktdata/bsid/2078783789390
 Dallas JULY Strip Sep11|WMAU1|eCME|2078783789389|IX11780962-0|Physical index future.|Index|BBG001CSK5W3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WMAU1|//blp/mktdata/buid/eCME/IX11780962-0|//blp/mktdata/bsid/2078783789389
+Dallas JULY Strip Sep12|WMAU2|||IX13705699-0|Physical index future.|Index|BBG0024WVNB3||14002|14002|0||39490|||
 Dallas MAR Strip  Apr12|WHAJ2|eCME|2078785689941|IX12663091-0|Physical index future.|Index|BBG001P11K47||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WHAJ2|//blp/mktdata/buid/eCME/IX12663091-0|//blp/mktdata/bsid/2078785689941
 Dallas MAR Strip  Aug12|WHAQ2|eCME|2078787935730|IX13499967-0|Physical index future.|Index|BBG0021RGMZ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WHAQ2|//blp/mktdata/buid/eCME/IX13499967-0|//blp/mktdata/bsid/2078787935730
 Dallas MAR Strip  Jul12|WHAN2|eCME|2078787197335|IX13281934-0|Physical index future.|Index|BBG001YHSLP8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WHAN2|//blp/mktdata/buid/eCME/IX13281934-0|//blp/mktdata/bsid/2078787197335
@@ -1307,14 +1331,17 @@ Dallas MAR Strip  Jun12|WHAM2|eCME|2078786635268|IX13094462-0|Physical index fut
 Dallas MAR Strip  May12|WHAK2|eCME|2078786195691|IX12862720-0|Physical index future.|Index|BBG001QQHHD1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WHAK2|//blp/mktdata/buid/eCME/IX12862720-0|//blp/mktdata/bsid/2078786195691
 Dallas MAR Strip  Oct11|WHAV1|eCME|2078783789375|IX11780770-0|Physical index future.|Index|BBG001CSK072||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WHAV1|//blp/mktdata/buid/eCME/IX11780770-0|//blp/mktdata/bsid/2078783789375
 Dallas MAR Strip  Sep11|WHAU1|eCME|2078783789374|IX11780766-0|Physical index future.|Index|BBG001CSK063||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WHAU1|//blp/mktdata/buid/eCME/IX11780766-0|//blp/mktdata/bsid/2078783789374
+Dallas MAR Strip  Sep12|WHAU2|||IX13705687-0|Physical index future.|Index|BBG0024WVN78||14002|14002|0||39490|||
 Dallas MAY Strip  Aug12|WKAQ2|eCME|2078787935731|IX13499975-0|Physical index future.|Index|BBG0021RGN15||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WKAQ2|//blp/mktdata/buid/eCME/IX13499975-0|//blp/mktdata/bsid/2078787935731
 Dallas MAY Strip  Jul12|WKAN2|eCME|2078787197336|IX13281942-0|Physical index future.|Index|BBG001YHSLR6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WKAN2|//blp/mktdata/buid/eCME/IX13281942-0|//blp/mktdata/bsid/2078787197336
 Dallas MAY Strip  Jun12|WKAM2|eCME|2078786635269|IX13094470-0|Physical index future.|Index|BBG001VKYW73||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WKAM2|//blp/mktdata/buid/eCME/IX13094470-0|//blp/mktdata/bsid/2078786635269
 Dallas MAY Strip  Oct11|WKAV1|eCME|2078783789386|IX11780922-0|Physical index future.|Index|BBG001CSK4R2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WKAV1|//blp/mktdata/buid/eCME/IX11780922-0|//blp/mktdata/bsid/2078783789386
 Dallas MAY Strip  Sep11|WKAU1|eCME|2078783789385|IX11780918-0|Physical index future.|Index|BBG001CSK4Q3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WKAU1|//blp/mktdata/buid/eCME/IX11780918-0|//blp/mktdata/bsid/2078783789385
+Dallas MAY Strip  Sep12|WKAU2|||IX13705695-0|Physical index future.|Index|BBG0024WVN96||14002|14002|0||39490|||
 Dallas Rainfall   Dec11|WJRZ1|eCME|2078786635325|IX13094566-0|Physical index future.|Index|BBG001VKYWY3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJRZ1|//blp/mktdata/buid/eCME/IX13094566-0|//blp/mktdata/bsid/2078786635325
 Dallas Rainfall   Feb12|WJRG2|eCME|2078787935747|IX13500115-0|Physical index future.|Index|BBG0021RGNZ8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJRG2|//blp/mktdata/buid/eCME/IX13500115-0|//blp/mktdata/bsid/2078787935747
 Dallas Rainfall   Jan12|WJRF2|eCME|2078787197394|IX13282050-0|Physical index future.|Index|BBG001YHSMK1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJRF2|//blp/mktdata/buid/eCME/IX13282050-0|//blp/mktdata/bsid/2078787197394
+Dallas Rainfall   Mar12|WJRH2|||IX13705915-0|Physical index future.|Index|BBG0024WVPP3||14002|14002|0||39490|||
 Dallas Rainfall   Nov11|WJRX1|eCME|2078786195703|IX12862820-0|Physical index future.|Index|BBG001QQHJR2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJRX1|//blp/mktdata/buid/eCME/IX12862820-0|//blp/mktdata/bsid/2078786195703
 Dallas Rainfall   Oct11|WJRV1|eCME|2078783035355|IX11380525-0|Physical index future.|Index|BBG0018GDGB1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJRV1|//blp/mktdata/buid/eCME/IX11380525-0|//blp/mktdata/bsid/2078783035355
 Dallas Rainfall   Sep11|WJRU1|eCME|2078783035354|IX11380521-0|Physical index future.|Index|BBG0018GDG94||14002|14002|0||39490|//blp/mktdata/bsym/eCME/WJRU1|//blp/mktdata/buid/eCME/IX11380521-0|//blp/mktdata/bsid/2078783035354
@@ -1324,8 +1351,10 @@ Des Moines MAR St Aug12|MHBQ2|eCME|2078787937310|IX13500027-0|Physical index fut
 Des Moines MAR St Jul12|MHBN2|eCME|2078787215191|IX13281962-0|Physical index future.|Index|BBG001YHSLX9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MHBN2|//blp/mktdata/buid/eCME/IX13281962-0|//blp/mktdata/bsid/2078787215191
 Des Moines MAR St Jun12|MHBM2|eCME|2078786660169|IX13094486-0|Physical index future.|Index|BBG001VKYWC7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MHBM2|//blp/mktdata/buid/eCME/IX13094486-0|//blp/mktdata/bsid/2078786660169
 Des Moines MAR St May12|MHBK2|eCME|2078786200816|IX12862736-0|Physical index future.|Index|BBG001QQHJ47||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MHBK2|//blp/mktdata/buid/eCME/IX12862736-0|//blp/mktdata/bsid/2078786200816
+Des Moines MAR St Sep12|MHBU2|||IX13705731-0|Physical index future.|Index|BBG0024WVNL2||14002|14002|0||39490|||
 Des Moines MAR StpOct11|MHBV1|eCME|2078783836385|IX11816985-0|Physical index future.|Index|BBG001CVVLK2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MHBV1|//blp/mktdata/buid/eCME/IX11816985-0|//blp/mktdata/bsid/2078783836385
 Des Moines MAR StpSep11|MHBU1|eCME|2078783836384|IX11816981-0|Physical index future.|Index|BBG001CVVLJ4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MHBU1|//blp/mktdata/buid/eCME/IX11816981-0|//blp/mktdata/bsid/2078783836384
+Des Moines MAY St Sep12|MKAU2|||IX13706023-0|Physical index future.|Index|BBG0024WVQ17||14002|14002|0||39490|||
 Des Moines MAY StpAug12|MKAQ2|eCME|2078787963582|IX13517062-0|Physical index future.|Index|BBG0021VPKN8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MKAQ2|//blp/mktdata/buid/eCME/IX13517062-0|//blp/mktdata/bsid/2078787963582
 Des Moines MAY StpJul12|MKAN2|eCME|2078787963581|IX13517058-0|Physical index future.|Index|BBG0021VPKM9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MKAN2|//blp/mktdata/buid/eCME/IX13517058-0|//blp/mktdata/bsid/2078787963581
 Des Moines MAY StpJun12|MKAM2|eCME|2078787963580|IX13517054-0|Physical index future.|Index|BBG0021VPKL0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MKAM2|//blp/mktdata/buid/eCME/IX13517054-0|//blp/mktdata/bsid/2078787963580
@@ -1334,6 +1363,7 @@ Des Moines MAY StpSep11|MKAU1|eCME|2078787963578|IX13517038-0|Physical index fut
 DesMoines Rainfal Dec11|MJRZ1|eCME|2078786635327|IX13094626-0|Physical index future.|Index|BBG001VKYX99||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MJRZ1|//blp/mktdata/buid/eCME/IX13094626-0|//blp/mktdata/bsid/2078786635327
 DesMoines Rainfal Feb12|MJRG2|eCME|2078787935749|IX13500219-0|Physical index future.|Index|BBG0021RGPC8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MJRG2|//blp/mktdata/buid/eCME/IX13500219-0|//blp/mktdata/bsid/2078787935749
 DesMoines Rainfal Jan12|MJRF2|eCME|2078787197396|IX13282110-0|Physical index future.|Index|BBG001YHSMY6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MJRF2|//blp/mktdata/buid/eCME/IX13282110-0|//blp/mktdata/bsid/2078787197396
+DesMoines Rainfal Mar12|MJRH2|||IX13705947-0|Physical index future.|Index|BBG0024WVPT9||14002|14002|0||39490|||
 DesMoines Rainfal Nov11|MJRX1|eCME|2078786195705|IX12862896-0|Physical index future.|Index|BBG001QQHK35||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MJRX1|//blp/mktdata/buid/eCME/IX12862896-0|//blp/mktdata/bsid/2078786195705
 DesMoines RainfallOct11|MJRV1|eCME|2078783040007|IX11383433-0|Physical index future.|Index|BBG0018DSBT4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MJRV1|//blp/mktdata/buid/eCME/IX11383433-0|//blp/mktdata/bsid/2078783040007
 DesMoines RainfallSep11|MJRU1|eCME|2078783040006|IX11383429-0|Physical index future.|Index|BBG0018DSBS5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MJRU1|//blp/mktdata/buid/eCME/IX11383429-0|//blp/mktdata/bsid/2078783040006
@@ -1361,6 +1391,7 @@ Detroit HHD Index Oct13|DHDV3|eCME|2078783061647|IX11395462-0|Physical index fut
 Detroit Rainfall  Dec11|VJRZ1|eCME|2078786635328|IX13094638-0|Physical index future.|Index|BBG001VKYXB6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VJRZ1|//blp/mktdata/buid/eCME/IX13094638-0|//blp/mktdata/bsid/2078786635328
 Detroit Rainfall  Feb12|VJRG2|eCME|2078787935750|IX13500231-0|Physical index future.|Index|BBG0021RGPD7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VJRG2|//blp/mktdata/buid/eCME/IX13500231-0|//blp/mktdata/bsid/2078787935750
 Detroit Rainfall  Jan12|VJRF2|eCME|2078787197397|IX13282122-0|Physical index future.|Index|BBG001YHSMZ5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VJRF2|//blp/mktdata/buid/eCME/IX13282122-0|//blp/mktdata/bsid/2078787197397
+Detroit Rainfall  Mar12|VJRH2|||IX13705959-0|Physical index future.|Index|BBG0024WVPV6||14002|14002|0||39490|||
 Detroit Rainfall  Nov11|VJRX1|eCME|2078786195706|IX12862908-0|Physical index future.|Index|BBG001QQHK44||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VJRX1|//blp/mktdata/buid/eCME/IX12862908-0|//blp/mktdata/bsid/2078786195706
 Detroit Rainfall  Oct11|VJRV1|eCME|2078783040015|IX11384381-0|Physical index future.|Index|BBG0018F13J7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VJRV1|//blp/mktdata/buid/eCME/IX11384381-0|//blp/mktdata/bsid/2078783040015
 Detroit Rainfall  Sep11|VJRU1|eCME|2078783040014|IX11384377-0|Physical index future.|Index|BBG0018F13H9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VJRU1|//blp/mktdata/buid/eCME/IX11384377-0|//blp/mktdata/bsid/2078783040014
@@ -2182,6 +2213,7 @@ HOUSTON CDD FUTUR Oct13|ERV3|eCME|2078783054005|IX11395610-0|Physical index futu
 HOUSTON CDD FUTUR Sep11|ERU1|eCME|2078774819144|IX9006111-0|Physical index future.|Index|BBG000TQH519||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ERU1|//blp/mktdata/buid/eCME/IX9006111-0|//blp/mktdata/bsid/2078774819144
 HOUSTON CDD FUTUR Sep12|ERU2|eCME|2078777138673|IX9556069-0|Physical index future.|Index|BBG000SGQNV0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ERU2|//blp/mktdata/buid/eCME/IX9556069-0|//blp/mktdata/bsid/2078777138673
 HOUSTON CDD FUTUR Sep13|ERU3|eCME|2078782702147|IX11238294-0|Physical index future.|Index|BBG0017229R4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ERU3|//blp/mktdata/buid/eCME/IX11238294-0|//blp/mktdata/bsid/2078782702147
+HOUSTON CDD FUTUR Sep14|ERU4|eCME|2078788484576|IX13705767-0|Physical index future.|Index|BBG0024WVNW0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ERU4|//blp/mktdata/buid/eCME/IX13705767-0|//blp/mktdata/bsid/2078788484576
 HOUSTON HDD FUTUR Apr12|DIJ2|eCME|2078774813320|IX9006067-0|Physical index future.|Index|BBG000TQD4H9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DIJ2|//blp/mktdata/buid/eCME/IX9006067-0|//blp/mktdata/bsid/2078774813320
 HOUSTON HDD FUTUR Apr13|DIJ3|eCME|2078780607222|IX10329197-0|Physical index future.|Index|BBG000ZQV8W6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DIJ3|//blp/mktdata/buid/eCME/IX10329197-0|//blp/mktdata/bsid/2078780607222
 HOUSTON HDD FUTUR Apr14|DIJ4|eCME|2078785686383|IX12663155-0|Physical index future.|Index|BBG001P11KN6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DIJ4|//blp/mktdata/buid/eCME/IX12663155-0|//blp/mktdata/bsid/2078785686383
@@ -2234,6 +2266,7 @@ Hiro Mo Avg Temp  May12|M7K2|eCME|2078786191730|IX12863072-0|Physical index futu
 Hiro Mo Avg Temp  Nov11|M7X1|eCME|2078783438563|IX11594540-0|Physical index future.|Index|BBG0019VM6G4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M7X1|//blp/mktdata/buid/eCME/IX11594540-0|//blp/mktdata/bsid/2078783438563
 Hiro Mo Avg Temp  Oct11|M7V1|eCME|2078783053998|IX11395962-0|Physical index future.|Index|BBG0018HN9R7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M7V1|//blp/mktdata/buid/eCME/IX11395962-0|//blp/mktdata/bsid/2078783053998
 Hiro Mo Avg Temp  Sep11|M7U1|eCME|2078782702058|IX11238490-0|Physical index future.|Index|BBG001722BX2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M7U1|//blp/mktdata/buid/eCME/IX11238490-0|//blp/mktdata/bsid/2078782702058
+Hiro Mo Avg Temp  Sep12|M7U2|eCME|2078788484544|IX13705875-0|Physical index future.|Index|BBG0024WVPF4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M7U2|//blp/mktdata/buid/eCME/IX13705875-0|//blp/mktdata/bsid/2078788484544
 Home Builder CEBO Sep12|BBRU2|||IX4490629-0|Physical index future.|Index|BBG000WFQ145||14009|0|0||39495|||
 Hovnanian Ent CEBOSep12|CKAU2|||IX4490429-0|Physical index future.|Index|BBG000WFPZT4||14009|0|0||39495|||
 Hurri- NE 10bn 10 Jun12|HNDM2|EUX|279187183040|IX9879183-0|Physical index future.|Index|BBG000Z0X539||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HNDM2|//blp/mktdata/buid/EUX/IX9879183-0|//blp/mktdata/bsid/279187183040
@@ -2316,6 +2349,7 @@ IBrX50 INDEX FUT  Dec11|LBZ1|eBMF|2074488461322|IX11585207-0|Physical index futu
 IBrX50 INDEX FUT  Feb12|LBG2|eBMF|2074489313407|IX11992147-0|Physical index future.|Index|BBG001HMGV40||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/LBG2|//blp/mktdata/buid/eBMF/IX11992147-0|//blp/mktdata/bsid/2074489313407
 IBrX50 INDEX FUT  Jun12|LBM2|eBMF|2074491208950|IX12855451-0|Physical index future.|Index|BBG001QMJC30||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/LBM2|//blp/mktdata/buid/eBMF/IX12855451-0|//blp/mktdata/bsid/2074491208950
 IBrX50 INDEX FUT  Oct11|LBV1|eBMF|2074487724115|IX11226396-0|Physical index future.|Index|BBG001712PM5||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/LBV1|//blp/mktdata/buid/eBMF/IX11226396-0|//blp/mktdata/bsid/2074487724115
+IBrX50 INDEX FUT  Oct12|LBV2|eBMF|2074493517256|IX13705807-0|Physical index future.|Index|BBG0024WVP64||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/LBV2|//blp/mktdata/buid/eBMF/IX13705807-0|//blp/mktdata/bsid/2074493517256
 ICE ASCI DIF Mont Apr16|DASJ6|ICE|1172545141415|IX11488736-0|Physical index future.|Index|BBG001962TY1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/DASJ6|//blp/mktdata/buid/ICE/IX11488736-0|//blp/mktdata/bsid/1172545141415
 ICE ASCI DIF Mont Aug16|DASQ6|ICE|1172545141419|IX11488720-0|Physical index future.|Index|BBG001962TT7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/DASQ6|//blp/mktdata/buid/ICE/IX11488720-0|//blp/mktdata/bsid/1172545141419
 ICE ASCI DIF Mont Dec16|DASZ6|ICE|1172545144403|IX11488704-0|Physical index future.|Index|BBG001962TP1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/DASZ6|//blp/mktdata/buid/ICE/IX11488704-0|//blp/mktdata/bsid/1172545144403
@@ -2770,9 +2804,11 @@ Jacksonville May  Jul12|LJBN2|eCME|2078788078696|IX13565248-0|Physical index fut
 Jacksonville May  Jun12|LJBM2|eCME|2078788078695|IX13565244-0|Physical index future.|Index|BBG0022J2TC2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJBM2|//blp/mktdata/buid/eCME/IX13565244-0|//blp/mktdata/bsid/2078788078695
 Jacksonville May  Oct11|LJBV1|||IX13565240-0|Physical index future.|Index|BBG0022J2TB3||14002|14002|0||39490|||
 Jacksonville May  Sep11|LJBU1|eCME|2078788078693|IX13565236-0|Physical index future.|Index|BBG0022J2PT2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJBU1|//blp/mktdata/buid/eCME/IX13565236-0|//blp/mktdata/bsid/2078788078693
+Jacksonville May  Sep12|LJBU2|||IX13706035-0|Physical index future.|Index|BBG0024WVQ44||14002|14002|0||39490|||
 Jacksonville Rain Dec11|LJRZ1|eCME|2078786635330|IX13094570-0|Physical index future.|Index|BBG001VKYWZ2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRZ1|//blp/mktdata/buid/eCME/IX13094570-0|//blp/mktdata/bsid/2078786635330
 Jacksonville Rain Feb12|LJRG2|eCME|2078787935752|IX13500119-0|Physical index future.|Index|BBG0021RGP01||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRG2|//blp/mktdata/buid/eCME/IX13500119-0|//blp/mktdata/bsid/2078787935752
 Jacksonville Rain Jan12|LJRF2|eCME|2078787197399|IX13282054-0|Physical index future.|Index|BBG001YHSML0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRF2|//blp/mktdata/buid/eCME/IX13282054-0|//blp/mktdata/bsid/2078787197399
+Jacksonville Rain Mar12|LJRH2|||IX13705919-0|Physical index future.|Index|BBG0024WVPQ2||14002|14002|0||39490|||
 Jacksonville Rain Nov11|LJRX1|eCME|2078786195708|IX12862824-0|Physical index future.|Index|BBG001QQHJS1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRX1|//blp/mktdata/buid/eCME/IX12862824-0|//blp/mktdata/bsid/2078786195708
 Jacksonville Rain Oct11|LJRV1|eCME|2078783114615|IX11428871-0|Physical index future.|Index|BBG0018QW880||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRV1|//blp/mktdata/buid/eCME/IX11428871-0|//blp/mktdata/bsid/2078783114615
 Jacksonville Rain Sep11|LJRU1|eCME|2078783114614|IX11428867-0|Physical index future.|Index|BBG0018QW871||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LJRU1|//blp/mktdata/buid/eCME/IX11428867-0|//blp/mktdata/bsid/2078783114614
@@ -2797,6 +2833,7 @@ KANSAS CITY CDD   Oct13|IQV3|eCME|2078783054008|IX11395682-0|Physical index futu
 KANSAS CITY CDD   Sep11|IQU1|eCME|2078774840994|IX9013067-0|Physical index future.|Index|BBG000TZ0CJ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IQU1|//blp/mktdata/buid/eCME/IX9013067-0|//blp/mktdata/bsid/2078774840994
 KANSAS CITY CDD   Sep12|IQU2|eCME|2078777138651|IX9556073-0|Physical index future.|Index|BBG000Y3R5M0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IQU2|//blp/mktdata/buid/eCME/IX9556073-0|//blp/mktdata/bsid/2078777138651
 KANSAS CITY CDD   Sep13|IQU3|eCME|2078782702071|IX11238342-0|Physical index future.|Index|BBG001722B08||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IQU3|//blp/mktdata/buid/eCME/IX11238342-0|//blp/mktdata/bsid/2078782702071
+KANSAS CITY CDD   Sep14|IQU4|eCME|2078788484577|IX13705803-0|Physical index future.|Index|BBG0024WVP55||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IQU4|//blp/mktdata/buid/eCME/IX13705803-0|//blp/mktdata/bsid/2078788484577
 KANSAS CITY HDD   Apr12|FOJ2|eCME|2078774840964|IX9013135-0|Physical index future.|Index|BBG000TZ1JN2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/FOJ2|//blp/mktdata/buid/eCME/IX9013135-0|//blp/mktdata/bsid/2078774840964
 KANSAS CITY HDD   Apr13|FOJ3|eCME|2078780612338|IX10329185-0|Physical index future.|Index|BBG000ZQV8J1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/FOJ3|//blp/mktdata/buid/eCME/IX10329185-0|//blp/mktdata/bsid/2078780612338
 KANSAS CITY HDD   Apr14|FOJ4|eCME|2078785686379|IX12663235-0|Physical index future.|Index|BBG001P11L90||14002|14002|0||39490|//blp/mktdata/bsym/eCME/FOJ4|//blp/mktdata/buid/eCME/IX12663235-0|//blp/mktdata/bsid/2078785686379
@@ -2857,6 +2894,7 @@ Kansas April Stri Aug12|KCCQ2|eCME|2078787935740|IX13500167-0|Physical index fut
 Kansas April Stri Jul12|KCCN2|eCME|2078787197379|IX13282062-0|Physical index future.|Index|BBG001YHSMP6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCCN2|//blp/mktdata/buid/eCME/IX13282062-0|//blp/mktdata/bsid/2078787197379
 Kansas April Stri Jun12|KCCM2|eCME|2078786635310|IX13094578-0|Physical index future.|Index|BBG001VKYX17||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCCM2|//blp/mktdata/buid/eCME/IX13094578-0|//blp/mktdata/bsid/2078786635310
 Kansas April Stri May12|KCCK2|eCME|2078786195696|IX12862832-0|Physical index future.|Index|BBG001QQHJV7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCCK2|//blp/mktdata/buid/eCME/IX12862832-0|//blp/mktdata/bsid/2078786195696
+Kansas April Stri Sep12|KCCU2|||IX13705883-0|Physical index future.|Index|BBG0024WVPH2||14002|14002|0||39490|||
 Kansas April StripOct11|KCCV1|eCME|2078785757080|IX12701109-0|Physical index future.|Index|BBG001P83669||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCCV1|//blp/mktdata/buid/eCME/IX12701109-0|//blp/mktdata/bsid/2078785757080
 Kansas April StripSep11|KCCU1|eCME|2078785757079|IX12701105-0|Physical index future.|Index|BBG001P83650||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCCU1|//blp/mktdata/buid/eCME/IX12701105-0|//blp/mktdata/bsid/2078785757079
 Kansas Aug Strip  Aug12|KCLQ2|eCME|2078787935744|IX13500183-0|Physical index future.|Index|BBG0021RGP65||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCLQ2|//blp/mktdata/buid/eCME/IX13500183-0|//blp/mktdata/bsid/2078787935744
@@ -2865,22 +2903,26 @@ Kansas Aug Strip  Jun12|KCLM2|eCME|2078786635314|IX13094594-0|Physical index fut
 Kansas Aug Strip  May12|KCLK2|eCME|2078786195700|IX12862848-0|Physical index future.|Index|BBG001QQHJZ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCLK2|//blp/mktdata/buid/eCME/IX12862848-0|//blp/mktdata/bsid/2078786195700
 Kansas Aug Strip  Oct11|KCLV1|eCME|2078785757104|IX12701393-0|Physical index future.|Index|BBG001P88263||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCLV1|//blp/mktdata/buid/eCME/IX12701393-0|//blp/mktdata/bsid/2078785757104
 Kansas Aug Strip  Sep11|KCLU1|eCME|2078785757103|IX12701389-0|Physical index future.|Index|BBG001P88254||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCLU1|//blp/mktdata/buid/eCME/IX12701389-0|//blp/mktdata/bsid/2078785757103
+Kansas Aug Strip  Sep12|KCLU2|||IX13705899-0|Physical index future.|Index|BBG0024WVPM6||14002|14002|0||39490|||
 Kansas July Strip Aug12|KCIQ2|eCME|2078787935743|IX13500179-0|Physical index future.|Index|BBG0021RGP56||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCIQ2|//blp/mktdata/buid/eCME/IX13500179-0|//blp/mktdata/bsid/2078787935743
 Kansas July Strip Jul12|KCIN2|eCME|2078787197382|IX13282074-0|Physical index future.|Index|BBG001YHSMS3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCIN2|//blp/mktdata/buid/eCME/IX13282074-0|//blp/mktdata/bsid/2078787197382
 Kansas July Strip Jun12|KCIM2|eCME|2078786635313|IX13094590-0|Physical index future.|Index|BBG001VKYX44||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCIM2|//blp/mktdata/buid/eCME/IX13094590-0|//blp/mktdata/bsid/2078786635313
 Kansas July Strip May12|KCIK2|eCME|2078786195699|IX12862844-0|Physical index future.|Index|BBG001QQHJY4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCIK2|//blp/mktdata/buid/eCME/IX12862844-0|//blp/mktdata/bsid/2078786195699
 Kansas July Strip Oct11|KCIV1|eCME|2078785757098|IX12701313-0|Physical index future.|Index|BBG001P87BR1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCIV1|//blp/mktdata/buid/eCME/IX12701313-0|//blp/mktdata/bsid/2078785757098
 Kansas July Strip Sep11|KCIU1|eCME|2078785757097|IX12701309-0|Physical index future.|Index|BBG001P87BQ2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCIU1|//blp/mktdata/buid/eCME/IX12701309-0|//blp/mktdata/bsid/2078785757097
+Kansas July Strip Sep12|KCIU2|||IX13705895-0|Physical index future.|Index|BBG0024WVPL7||14002|14002|0||39490|||
 Kansas June Strip Aug12|KCEQ2|||IX13500175-0|Physical index future.|Index|BBG0021RGP47||14002|14002|0||39490|||
 Kansas June Strip Jul12|KCEN2|||IX13282070-0|Physical index future.|Index|BBG001YHSMR4||14002|14002|0||39490|||
 Kansas June Strip Jun12|KCEM2|||IX13094586-0|Physical index future.|Index|BBG001VKYX35||14002|14002|0||39490|||
 Kansas June Strip May12|KCEK2|||IX12862840-0|Physical index future.|Index|BBG001QQHJX5||14002|14002|0||39490|||
 Kansas June Strip Oct11|KCEV1|||IX12701229-0|Physical index future.|Index|BBG001P86C72||14002|14002|0||39490|||
 Kansas June Strip Sep11|KCEU1|||IX12701225-0|Physical index future.|Index|BBG001P86C63||14002|14002|0||39490|||
+Kansas June Strip Sep12|KCEU2|||IX13705891-0|Physical index future.|Index|BBG0024WVPK8||14002|14002|0||39490|||
 Kansas March Stri Aug12|KCBQ2|eCME|2078787935739|IX13500163-0|Physical index future.|Index|BBG0021RGP10||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCBQ2|//blp/mktdata/buid/eCME/IX13500163-0|//blp/mktdata/bsid/2078787935739
 Kansas March Stri Jul12|KCBN2|eCME|2078787197378|IX13282058-0|Physical index future.|Index|BBG001YHSMN8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCBN2|//blp/mktdata/buid/eCME/IX13282058-0|//blp/mktdata/bsid/2078787197378
 Kansas March Stri Jun12|KCBM2|eCME|2078786635309|IX13094574-0|Physical index future.|Index|BBG001VKYX08||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCBM2|//blp/mktdata/buid/eCME/IX13094574-0|//blp/mktdata/bsid/2078786635309
 Kansas March Stri May12|KCBK2|eCME|2078786195695|IX12862828-0|Physical index future.|Index|BBG001QQHJT0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCBK2|//blp/mktdata/buid/eCME/IX12862828-0|//blp/mktdata/bsid/2078786195695
+Kansas March Stri Sep12|KCBU2|||IX13705879-0|Physical index future.|Index|BBG0024WVPG3||14002|14002|0||39490|||
 Kansas March StripOct11|KCBV1|eCME|2078785757074|IX12701033-0|Physical index future.|Index|BBG001P817S5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCBV1|//blp/mktdata/buid/eCME/IX12701033-0|//blp/mktdata/bsid/2078785757074
 Kansas March StripSep11|KCBU1|eCME|2078785757073|IX12701029-0|Physical index future.|Index|BBG001P817R6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCBU1|//blp/mktdata/buid/eCME/IX12701029-0|//blp/mktdata/bsid/2078785757073
 Kansas May Strip  Aug12|KCDQ2|eCME|2078787935741|IX13500171-0|Physical index future.|Index|BBG0021RGP38||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCDQ2|//blp/mktdata/buid/eCME/IX13500171-0|//blp/mktdata/bsid/2078787935741
@@ -2889,6 +2931,7 @@ Kansas May Strip  Jun12|KCDM2|eCME|2078786635311|IX13094582-0|Physical index fut
 Kansas May Strip  May12|KCDK2|eCME|2078786195697|IX12862836-0|Physical index future.|Index|BBG001QQHJW6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCDK2|//blp/mktdata/buid/eCME/IX12862836-0|//blp/mktdata/bsid/2078786195697
 Kansas May Strip  Oct11|KCDV1|eCME|2078785757086|IX12701173-0|Physical index future.|Index|BBG001P83MT9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCDV1|//blp/mktdata/buid/eCME/IX12701173-0|//blp/mktdata/bsid/2078785757086
 Kansas May Strip  Sep11|KCDU1|eCME|2078785757085|IX12701169-0|Physical index future.|Index|BBG001P83MR1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCDU1|//blp/mktdata/buid/eCME/IX12701169-0|//blp/mktdata/bsid/2078785757085
+Kansas May Strip  Sep12|KCDU2|||IX13705887-0|Physical index future.|Index|BBG0024WVPJ0||14002|14002|0||39490|||
 Kansas Rainfall   Apr12|KCRJ2|eCME|2078788093178|IX13565232-0|Physical index future.|Index|BBG0022J1NS9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCRJ2|//blp/mktdata/buid/eCME/IX13565232-0|//blp/mktdata/bsid/2078788093178
 Kansas Rainfall   Dec11|KCRZ1|eCME|2078788078701|IX13565220-0|Physical index future.|Index|BBG0022J1MZ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCRZ1|//blp/mktdata/buid/eCME/IX13565220-0|//blp/mktdata/bsid/2078788078701
 Kansas Rainfall   Mar12|KCRH2|eCME|2078788078702|IX13565228-0|Physical index future.|Index|BBG0022J1NR0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/KCRH2|//blp/mktdata/buid/eCME/IX13565228-0|//blp/mktdata/bsid/2078788078702
@@ -2901,6 +2944,7 @@ Kansas Sept Strip Jun12|KCOM2|||IX13094598-0|Physical index future.|Index|BBG001
 Kansas Sept Strip May12|KCOK2|||IX12862852-0|Physical index future.|Index|BBG001QQHK08||14002|14002|0||39490|||
 Kansas Sept Strip Oct11|KCOV1|||IX12701465-0|Physical index future.|Index|BBG001P88DH7||14002|14002|0||39490|||
 Kansas Sept Strip Sep11|KCOU1|||IX12701461-0|Physical index future.|Index|BBG001P88DG8||14002|14002|0||39490|||
+Kansas Sept Strip Sep12|KCOU2|||IX13705903-0|Physical index future.|Index|BBG0024WVPN5||14002|14002|0||39490|||
 L. VEGAS SESN CDD Sep11|I7U1|eCME|2078782702048|IX11238362-0|Physical index future.|Index|BBG001722B53||14002|14002|0||39490|//blp/mktdata/bsym/eCME/I7U1|//blp/mktdata/buid/eCME/IX11238362-0|//blp/mktdata/bsid/2078782702048
 L. VEGAS SESN HDD Mar12|H7H2|eCME|2078785274042|IX12478082-0|Physical index future.|Index|BBG001M2YMX6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/H7H2|//blp/mktdata/buid/eCME/IX12478082-0|//blp/mktdata/bsid/2078785274042
 L.A. APRIL Strip  Aug12|AJAQ2|CME|614204087798|IX13500003-0|Physical index future.|Index|BBG0021RGN42||14002|14002|0||39490|//blp/mktdata/bsym/CME/AJAQ2|//blp/mktdata/buid/CME/IX13500003-0|//blp/mktdata/bsid/614204087798
@@ -2909,15 +2953,19 @@ L.A. APRIL Strip  Jun12|AJAM2|CME|614202787334|IX13094474-0|Physical index futur
 L.A. APRIL Strip  May12|AJAK2|CME|614202347756|IX12862728-0|Physical index future.|Index|BBG001QQHHV1||14002|14002|0||39490|//blp/mktdata/bsym/CME/AJAK2|//blp/mktdata/buid/CME/IX12862728-0|//blp/mktdata/bsid/614202347756
 L.A. APRIL Strip  Oct11|AJAV1|CME|614199966960|IX11789423-0|Physical index future.|Index|BBG001CTRF89||14002|14002|0||39490|//blp/mktdata/bsym/CME/AJAV1|//blp/mktdata/buid/CME/IX11789423-0|//blp/mktdata/bsid/614199966960
 L.A. APRIL Strip  Sep11|AJAU1|CME|614199966959|IX11789419-0|Physical index future.|Index|BBG001CTRF70||14002|14002|0||39490|//blp/mktdata/bsym/CME/AJAU1|//blp/mktdata/buid/CME/IX11789419-0|//blp/mktdata/bsid/614199966959
+L.A. APRIL Strip  Sep12|AJAU2|||IX13705711-0|Physical index future.|Index|BBG0024WVNF9||14002|14002|0||39490|||
 L.A. AUGUST Strip Oct11|AQAV1|eCME|2078783814910|IX11789567-0|Physical index future.|Index|BBG001CTRLG7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AQAV1|//blp/mktdata/buid/eCME/IX11789567-0|//blp/mktdata/bsid/2078783814910
 L.A. AUGUST Strip Sep11|AQAU1|eCME|2078783814909|IX11789563-0|Physical index future.|Index|BBG001CTRKJ6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AQAU1|//blp/mktdata/buid/eCME/IX11789563-0|//blp/mktdata/bsid/2078783814909
+L.A. AUGUST Strip Sep12|AQAU2|||IX13705727-0|Physical index future.|Index|BBG0024WVNK3||14002|14002|0||39490|||
 L.A. JULY Strip   Jul12|ANAN2|eCME|2078787935737|IX13500015-0|Physical index future.|Index|BBG0021RGN79||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ANAN2|//blp/mktdata/buid/eCME/IX13500015-0|//blp/mktdata/bsid/2078787935737
 L.A. JULY Strip   Oct11|ANAV1|eCME|2078783814908|IX11789559-0|Physical index future.|Index|BBG001CTRKD2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ANAV1|//blp/mktdata/buid/eCME/IX11789559-0|//blp/mktdata/bsid/2078783814908
 L.A. JULY Strip   Sep11|ANAU1|eCME|2078783814907|IX11789555-0|Physical index future.|Index|BBG001CTRKC3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ANAU1|//blp/mktdata/buid/eCME/IX11789555-0|//blp/mktdata/bsid/2078783814907
+L.A. JULY Strip   Sep12|ANAU2|||IX13705723-0|Physical index future.|Index|BBG0024WVNJ5||14002|14002|0||39490|||
 L.A. JUNE Strip   Aug12|AMAQ2|eCME|2078787935736|IX13500011-0|Physical index future.|Index|BBG0021RGN60||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMAQ2|//blp/mktdata/buid/eCME/IX13500011-0|//blp/mktdata/bsid/2078787935736
 L.A. JUNE Strip   Jul12|AMAN2|eCME|2078787197340|IX13281958-0|Physical index future.|Index|BBG001YHSLW0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMAN2|//blp/mktdata/buid/eCME/IX13281958-0|//blp/mktdata/bsid/2078787197340
 L.A. JUNE Strip   Oct11|AMAV1|eCME|2078783814905|IX11789519-0|Physical index future.|Index|BBG001CTRJ63||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMAV1|//blp/mktdata/buid/eCME/IX11789519-0|//blp/mktdata/bsid/2078783814905
 L.A. JUNE Strip   Sep11|AMAU1|eCME|2078783814904|IX11789515-0|Physical index future.|Index|BBG001CTRJ54||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AMAU1|//blp/mktdata/buid/eCME/IX11789515-0|//blp/mktdata/bsid/2078783814904
+L.A. JUNE Strip   Sep12|AMAU2|||IX13705719-0|Physical index future.|Index|BBG0024WVNH7||14002|14002|0||39490|||
 L.A. MAR Strip    Oct11|AHAV1|eCME|2078783813724|IX11788167-0|Physical index future.|Index|BBG001CTR1X2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AHAV1|//blp/mktdata/buid/eCME/IX11788167-0|//blp/mktdata/bsid/2078783813724
 L.A. MAR Strip    Sep11|AHAU1|eCME|2078783813723|IX11788163-0|Physical index future.|Index|BBG001CTR1W3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AHAU1|//blp/mktdata/buid/eCME/IX11788163-0|//blp/mktdata/bsid/2078783813723
 L.A. MAY Strip    Aug12|AKAQ2|eCME|2078787935735|IX13500007-0|Physical index future.|Index|BBG0021RGN51||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKAQ2|//blp/mktdata/buid/eCME/IX13500007-0|//blp/mktdata/bsid/2078787935735
@@ -2925,9 +2973,11 @@ L.A. MAY Strip    Jul12|AKAN2|eCME|2078787197339|IX13281954-0|Physical index fut
 L.A. MAY Strip    Jun12|AKAM2|eCME|2078786635271|IX13094478-0|Physical index future.|Index|BBG001VKYW91||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKAM2|//blp/mktdata/buid/eCME/IX13094478-0|//blp/mktdata/bsid/2078786635271
 L.A. MAY Strip    Oct11|AKAV1|eCME|2078783814901|IX11789503-0|Physical index future.|Index|BBG001CTRHD9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKAV1|//blp/mktdata/buid/eCME/IX11789503-0|//blp/mktdata/bsid/2078783814901
 L.A. MAY Strip    Sep11|AKAU1|eCME|2078783814900|IX11789499-0|Physical index future.|Index|BBG001CTRHC0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AKAU1|//blp/mktdata/buid/eCME/IX11789499-0|//blp/mktdata/bsid/2078783814900
+L.A. MAY Strip    Sep12|AKAU2|||IX13705715-0|Physical index future.|Index|BBG0024WVNG8||14002|14002|0||39490|||
 L.A. Rainfall     Dec11|AJRZ1|eCME|2078786635326|IX13094614-0|Physical index future.|Index|BBG001VKYX80||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AJRZ1|//blp/mktdata/buid/eCME/IX13094614-0|//blp/mktdata/bsid/2078786635326
 L.A. Rainfall     Feb12|AJRG2|eCME|2078787935748|IX13500207-0|Physical index future.|Index|BBG0021RGPB9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AJRG2|//blp/mktdata/buid/eCME/IX13500207-0|//blp/mktdata/bsid/2078787935748
 L.A. Rainfall     Jan12|AJRF2|eCME|2078787197395|IX13282098-0|Physical index future.|Index|BBG001YHSMX7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AJRF2|//blp/mktdata/buid/eCME/IX13282098-0|//blp/mktdata/bsid/2078787197395
+L.A. Rainfall     Mar12|AJRH2|||IX13705935-0|Physical index future.|Index|BBG0024WVPS0||14002|14002|0||39490|||
 L.A. Rainfall     Nov11|AJRX1|eCME|2078786195704|IX12862884-0|Physical index future.|Index|BBG001QQHK26||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AJRX1|//blp/mktdata/buid/eCME/IX12862884-0|//blp/mktdata/bsid/2078786195704
 L.A. Rainfall     Oct11|AJRV1|eCME|2078783039999|IX11383177-0|Physical index future.|Index|BBG0018DNYQ2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AJRV1|//blp/mktdata/buid/eCME/IX11383177-0|//blp/mktdata/bsid/2078783039999
 L.A. Rainfall     Sep11|AJRU1|eCME|2078783039998|IX11383173-0|Physical index future.|Index|BBG0018DNYP3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AJRU1|//blp/mktdata/buid/eCME/IX11383173-0|//blp/mktdata/bsid/2078783039998
@@ -2953,6 +3003,7 @@ LA CDD Monthly IX Oct13|CDIV3|eCME|2078783061654|IX11395662-0|Physical index fut
 LA CDD Monthly IX Sep11|CDIU1|eCME|2078774870140|IX9012743-0|Physical index future.|Index|BBG000TY8WC1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDIU1|//blp/mktdata/buid/eCME/IX9012743-0|//blp/mktdata/bsid/2078774870140
 LA CDD Monthly IX Sep12|CDIU2|eCME|2078777139913|IX9556005-0|Physical index future.|Index|BBG000Y3QYQ4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDIU2|//blp/mktdata/buid/eCME/IX9556005-0|//blp/mktdata/bsid/2078777139913
 LA CDD Monthly IX Sep13|CDIU3|eCME|2078782710861|IX11238334-0|Physical index future.|Index|BBG0017229Y6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDIU3|//blp/mktdata/buid/eCME/IX11238334-0|//blp/mktdata/bsid/2078782710861
+LA CDD Monthly IX Sep14|CDIU4|||IX13705791-0|Physical index future.|Index|BBG0024WVP28||14002|14002|0||39490|||
 LAS VEGAS CDD FUT Apr12|LZJ2|eCME|2078774819117|IX9005895-0|Physical index future.|Index|BBG000TQ3DF2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LZJ2|//blp/mktdata/buid/eCME/IX9005895-0|//blp/mktdata/bsid/2078774819117
 LAS VEGAS CDD FUT Apr13|LZJ3|eCME|2078780607709|IX10329309-0|Physical index future.|Index|BBG000SRKW79||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LZJ3|//blp/mktdata/buid/eCME/IX10329309-0|//blp/mktdata/bsid/2078780607709
 LAS VEGAS CDD FUT Apr14|LZJ4|eCME|2078785686363|IX12663143-0|Physical index future.|Index|BBG001P11KK9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LZJ4|//blp/mktdata/buid/eCME/IX12663143-0|//blp/mktdata/bsid/2078785686363
@@ -2974,6 +3025,7 @@ LAS VEGAS CDD FUT Oct13|LZV3|eCME|2078783054018|IX11395594-0|Physical index futu
 LAS VEGAS CDD FUT Sep11|LZU1|eCME|2078774813295|IX9005887-0|Physical index future.|Index|BBG000TQ1ZF5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LZU1|//blp/mktdata/buid/eCME/IX9005887-0|//blp/mktdata/bsid/2078774813295
 LAS VEGAS CDD FUT Sep12|LZU2|eCME|2078777138664|IX9556137-0|Physical index future.|Index|BBG000Y3RCP2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LZU2|//blp/mktdata/buid/eCME/IX9556137-0|//blp/mktdata/bsid/2078777138664
 LAS VEGAS CDD FUT Sep13|LZU3|eCME|2078782702131|IX11238286-0|Physical index future.|Index|BBG0017229P6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LZU3|//blp/mktdata/buid/eCME/IX11238286-0|//blp/mktdata/bsid/2078782702131
+LAS VEGAS CDD FUT Sep14|LZU4|eCME|2078788484574|IX13705759-0|Physical index future.|Index|BBG0024WVNT4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LZU4|//blp/mktdata/buid/eCME/IX13705759-0|//blp/mktdata/bsid/2078788484574
 LAS VEGAS HDD FUT Apr12|LDJ2|eCME|2078774813293|IX9005843-0|Physical index future.|Index|BBG000TPRYS8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LDJ2|//blp/mktdata/buid/eCME/IX9005843-0|//blp/mktdata/bsid/2078774813293
 LAS VEGAS HDD FUT Apr13|LDJ3|eCME|2078780607700|IX10329273-0|Physical index future.|Index|BBG000SRKQ81||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LDJ3|//blp/mktdata/buid/eCME/IX10329273-0|//blp/mktdata/bsid/2078780607700
 LAS VEGAS HDD FUT Apr14|LDJ4|eCME|2078785686364|IX12663139-0|Physical index future.|Index|BBG001P11KJ1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LDJ4|//blp/mktdata/buid/eCME/IX12663139-0|//blp/mktdata/bsid/2078785686364
@@ -3045,6 +3097,7 @@ Little Rock CDD I Oct12|CDEV2|eCME|2078777686036|IX9653517-0|Physical index futu
 Little Rock CDD I Oct13|CDEV3|eCME|2078783061648|IX11395554-0|Physical index future.|Index|BBG0018HN8C5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDEV3|//blp/mktdata/buid/eCME/IX11395554-0|//blp/mktdata/bsid/2078783061648
 Little Rock CDD I Sep12|CDEU2|eCME|2078777139912|IX9556001-0|Physical index future.|Index|BBG000Y3QYH4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDEU2|//blp/mktdata/buid/eCME/IX9556001-0|//blp/mktdata/bsid/2078777139912
 Little Rock CDD I Sep13|CDEU3|eCME|2078782710859|IX11238266-0|Physical index future.|Index|BBG0017229J3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDEU3|//blp/mktdata/buid/eCME/IX11238266-0|//blp/mktdata/bsid/2078782710859
+Little Rock CDD I Sep14|CDEU4|||IX13705743-0|Physical index future.|Index|BBG0024WVNP8||14002|14002|0||39490|||
 Little Rock CDD IXApr12|CDEJ2|eCME|2078774869947|IX9012687-0|Physical index future.|Index|BBG000TBMNQ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDEJ2|//blp/mktdata/buid/eCME/IX9012687-0|//blp/mktdata/bsid/2078774869947
 Little Rock CDD IXJul12|CDEN2|eCME|2078774869958|IX9012699-0|Physical index future.|Index|BBG000TNH3R3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDEN2|//blp/mktdata/buid/eCME/IX9012699-0|//blp/mktdata/bsid/2078774869958
 Little Rock CDD IXJun12|CDEM2|eCME|2078774869957|IX9012695-0|Physical index future.|Index|BBG000TNH2Q6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDEM2|//blp/mktdata/buid/eCME/IX9012695-0|//blp/mktdata/bsid/2078774869957
@@ -3237,6 +3290,7 @@ MINNEAPOLIS CDD   Oct13|LRV3|eCME|2078774599856|IX11395618-0|Physical index futu
 MINNEAPOLIS CDD   Sep11|LRU1|eCME|2078774813335|IX9006223-0|Physical index future.|Index|BBG000TQSMY4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LRU1|//blp/mktdata/buid/eCME/IX9006223-0|//blp/mktdata/bsid/2078774813335
 MINNEAPOLIS CDD   Sep12|LRU2|eCME|2078777138661|IX9556077-0|Physical index future.|Index|BBG000Y3R611||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LRU2|//blp/mktdata/buid/eCME/IX9556077-0|//blp/mktdata/bsid/2078777138661
 MINNEAPOLIS CDD   Sep13|LRU3|eCME|2078782702141|IX11238298-0|Physical index future.|Index|BBG0017229S3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LRU3|//blp/mktdata/buid/eCME/IX11238298-0|//blp/mktdata/bsid/2078782702141
+MINNEAPOLIS CDD   Sep14|LRU4|eCME|2078788484571|IX13705771-0|Physical index future.|Index|BBG0024WVNX9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LRU4|//blp/mktdata/buid/eCME/IX13705771-0|//blp/mktdata/bsid/2078788484571
 MINNEAPOLIS HDD   Apr12|LMJ2|eCME|2078774813315|IX9006179-0|Physical index future.|Index|BBG000TQMFW7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LMJ2|//blp/mktdata/buid/eCME/IX9006179-0|//blp/mktdata/bsid/2078774813315
 MINNEAPOLIS HDD   Apr13|LMJ3|eCME|2078780607199|IX10329201-0|Physical index future.|Index|BBG000ZQWB85||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LMJ3|//blp/mktdata/buid/eCME/IX10329201-0|//blp/mktdata/bsid/2078780607199
 MINNEAPOLIS HDD   Apr14|LMJ4|eCME|2078785686372|IX12663163-0|Physical index future.|Index|BBG001P11KQ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LMJ4|//blp/mktdata/buid/eCME/IX12663163-0|//blp/mktdata/bsid/2078785686372
@@ -4097,6 +4151,7 @@ NEW YORK CDD FUT  Oct13|NAV3|eCME|2078783053987|IX11395518-0|Physical index futu
 NEW YORK CDD FUT  Sep11|NAU1|eCME|2078774738621|IX8916480-0|Physical index future.|Index|BBG000QSF3Z8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAU1|//blp/mktdata/buid/eCME/IX8916480-0|//blp/mktdata/bsid/2078774738621
 NEW YORK CDD FUT  Sep12|NAU2|eCME|2078777138674|IX9556089-0|Physical index future.|Index|BBG000Y3R773||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAU2|//blp/mktdata/buid/eCME/IX9556089-0|//blp/mktdata/bsid/2078777138674
 NEW YORK CDD FUT  Sep13|NAU3|eCME|2078782702039|IX11238206-0|Physical index future.|Index|BBG0017229C0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAU3|//blp/mktdata/buid/eCME/IX11238206-0|//blp/mktdata/bsid/2078782702039
+NEW YORK CDD FUT  Sep14|NAU4|eCME|2078788484566|IX13705635-0|Physical index future.|Index|BBG0024WVN41||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAU4|//blp/mktdata/buid/eCME/IX13705635-0|//blp/mktdata/bsid/2078788484566
 NEW YORK HDD FUT  Apr12|NFJ2|eCME|2078774730724|IX8916436-0|Physical index future.|Index|BBG000QSDW22||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NFJ2|//blp/mktdata/buid/eCME/IX8916436-0|//blp/mktdata/bsid/2078774730724
 NEW YORK HDD FUT  Apr13|NFJ3|eCME|2078780607229|IX10329257-0|Physical index future.|Index|BBG000SRKLQ2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NFJ3|//blp/mktdata/buid/eCME/IX10329257-0|//blp/mktdata/bsid/2078780607229
 NEW YORK HDD FUT  Apr14|NFJ4|eCME|2078785686359|IX12663051-0|Physical index future.|Index|BBG001P11JY7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NFJ4|//blp/mktdata/buid/eCME/IX12663051-0|//blp/mktdata/bsid/2078785686359
@@ -4449,9 +4504,11 @@ New York May Stp  Jul12|YJAN2|eCME|2078787983221|IX13519690-0|Physical index fut
 New York May Stp  Jun12|YJAM2|eCME|2078787983220|IX13519686-0|Physical index future.|Index|BBG0021WFYC9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJAM2|//blp/mktdata/buid/eCME/IX13519686-0|//blp/mktdata/bsid/2078787983220
 New York May Stp  Oct11|YJAV1|eCME|2078787983219|IX13519682-0|Physical index future.|Index|BBG0021WFHS9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJAV1|//blp/mktdata/buid/eCME/IX13519682-0|//blp/mktdata/bsid/2078787983219
 New York May Stp  Sep11|YJAU1|eCME|2078787983218|IX13519678-0|Physical index future.|Index|BBG0021WCZD8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJAU1|//blp/mktdata/buid/eCME/IX13519678-0|//blp/mktdata/bsid/2078787983218
+New York May Stp  Sep12|YJAU2|||IX13706031-0|Physical index future.|Index|BBG0024WVQ35||14002|14002|0||39490|||
 New York Rainfall Dec11|YJRZ1|eCME|2078786660173|IX13094662-0|Physical index future.|Index|BBG001VKYXD4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRZ1|//blp/mktdata/buid/eCME/IX13094662-0|//blp/mktdata/bsid/2078786660173
 New York Rainfall Feb12|YJRG2|eCME|2078787937316|IX13500255-0|Physical index future.|Index|BBG0021RGPG4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRG2|//blp/mktdata/buid/eCME/IX13500255-0|//blp/mktdata/bsid/2078787937316
 New York Rainfall Jan12|YJRF2|eCME|2078787215197|IX13282146-0|Physical index future.|Index|BBG001YHSN10||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRF2|//blp/mktdata/buid/eCME/IX13282146-0|//blp/mktdata/bsid/2078787215197
+New York Rainfall Mar12|YJRH2|||IX13705983-0|Physical index future.|Index|BBG0024WVPX4||14002|14002|0||39490|||
 New York Rainfall Nov11|YJRX1|eCME|2078786200821|IX12862932-0|Physical index future.|Index|BBG001QQHK62||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRX1|//blp/mktdata/buid/eCME/IX12862932-0|//blp/mktdata/bsid/2078786200821
 New York Rainfall Oct11|YJRV1|eCME|2078783049988|IX11385229-0|Physical index future.|Index|BBG0018FQ0N1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRV1|//blp/mktdata/buid/eCME/IX11385229-0|//blp/mktdata/bsid/2078783049988
 New York Rainfall Sep11|YJRU1|eCME|2078783049987|IX11385225-0|Physical index future.|Index|BBG0018FQ0M2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJRU1|//blp/mktdata/buid/eCME/IX11385225-0|//blp/mktdata/bsid/2078783049987
@@ -4623,6 +4680,7 @@ OSAKA MO AVG TEMP May12|M4K2|eCME|2078786191731|IX12863068-0|Physical index futu
 OSAKA MO AVG TEMP Nov11|M4X1|eCME|2078783438562|IX11594520-0|Physical index future.|Index|BBG0019VM6D7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M4X1|//blp/mktdata/buid/eCME/IX11594520-0|//blp/mktdata/bsid/2078783438562
 OSAKA MO AVG TEMP Oct11|M4V1|eCME|2078783053996|IX11395950-0|Physical index future.|Index|BBG0018HN9Q8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M4V1|//blp/mktdata/buid/eCME/IX11395950-0|//blp/mktdata/bsid/2078783053996
 OSAKA MO AVG TEMP Sep11|M4U1|eCME|2078782702049|IX11238394-0|Physical index future.|Index|BBG001722BG1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M4U1|//blp/mktdata/buid/eCME/IX11238394-0|//blp/mktdata/bsid/2078782702049
+OSAKA MO AVG TEMP Sep12|M4U2|eCME|2078788484547|IX13705823-0|Physical index future.|Index|BBG0024WVPB8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M4U2|//blp/mktdata/buid/eCME/IX13705823-0|//blp/mktdata/bsid/2078788484547
 OSLO-BIND MTH HDD Dec12|E8Z2|eCME|2078783833084|IX11817221-0|Physical index future.|Index|BBG001CVVMY5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E8Z2|//blp/mktdata/buid/eCME/IX11817221-0|//blp/mktdata/bsid/2078783833084
 OSLO-BIND MTH HDD Feb12|E8G2|eCME|2078784805990|IX12229388-0|Physical index future.|Index|BBG001KJLP77||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E8G2|//blp/mktdata/buid/eCME/IX12229388-0|//blp/mktdata/bsid/2078784805990
 OSLO-BIND MTH HDD Jan12|E8F2|eCME|2078784339863|IX12027564-0|Physical index future.|Index|BBG001HTZGZ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E8F2|//blp/mktdata/buid/eCME/IX12027564-0|//blp/mktdata/bsid/2078784339863
@@ -4670,6 +4728,7 @@ PHILA CDD IX FUT  Oct13|PNV3|CME|614199206071|IX11395558-0|Physical index future
 PHILA CDD IX FUT  Sep11|PNU1|CME|614190963758|IX8997179-0|Physical index future.|Index|BBG000T431K1||14002|14002|0||39490|//blp/mktdata/bsym/CME/PNU1|//blp/mktdata/buid/CME/IX8997179-0|//blp/mktdata/bsid/614190963758
 PHILA CDD IX FUT  Sep12|PNU2|CME|614190963762|IX8997199-0|Physical index future.|Index|BBG000T433V5||14002|14002|0||39490|//blp/mktdata/bsym/CME/PNU2|//blp/mktdata/buid/CME/IX8997199-0|//blp/mktdata/bsid/614190963762
 PHILA CDD IX FUT  Sep13|PNU3|CME|614198854166|IX11238270-0|Physical index future.|Index|BBG0017229K1||14002|14002|0||39490|//blp/mktdata/bsym/CME/PNU3|//blp/mktdata/buid/CME/IX11238270-0|//blp/mktdata/bsid/614198854166
+PHILA CDD IX FUT  Sep14|PNU4|CME|614204636633|IX13705735-0|Physical index future.|Index|BBG0024WVNM1||14002|14002|0||39490|//blp/mktdata/bsym/CME/PNU4|//blp/mktdata/buid/CME/IX13705735-0|//blp/mktdata/bsid/614204636633
 PHILA HDD IX FUT  Apr12|PHJ2|eCME|2078774811704|IX8997251-0|Physical index future.|Index|BBG000T43BN6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PHJ2|//blp/mktdata/buid/eCME/IX8997251-0|//blp/mktdata/bsid/2078774811704
 PHILA HDD IX FUT  Apr13|PHJ3|eCME|2078780607035|IX10329261-0|Physical index future.|Index|BBG000SRKMP1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PHJ3|//blp/mktdata/buid/eCME/IX10329261-0|//blp/mktdata/bsid/2078780607035
 PHILA HDD IX FUT  Apr14|PHJ4|eCME|2078785686361|IX12663107-0|Physical index future.|Index|BBG001P11K83||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PHJ4|//blp/mktdata/buid/eCME/IX12663107-0|//blp/mktdata/bsid/2078785686361
@@ -4728,6 +4787,7 @@ PORTLAND CDD FUT  Oct13|ODV3|eCME|2078783054013|IX11395570-0|Physical index futu
 PORTLAND CDD FUT  Sep11|ODU1|eCME|2078774818063|IX8997351-0|Physical index future.|Index|BBG000T45P62||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ODU1|//blp/mktdata/buid/eCME/IX8997351-0|//blp/mktdata/bsid/2078774818063
 PORTLAND CDD FUT  Sep12|ODU2|eCME|2078777138659|IX9556129-0|Physical index future.|Index|BBG000Y3RC18||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ODU2|//blp/mktdata/buid/eCME/IX9556129-0|//blp/mktdata/bsid/2078777138659
 PORTLAND CDD FUT  Sep13|ODU3|eCME|2078782702096|IX11238274-0|Physical index future.|Index|BBG0017229L0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ODU3|//blp/mktdata/buid/eCME/IX11238274-0|//blp/mktdata/bsid/2078782702096
+PORTLAND CDD FUT  Sep14|ODU4|eCME|2078788484567|IX13705739-0|Physical index future.|Index|BBG0024WVNN0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ODU4|//blp/mktdata/buid/eCME/IX13705739-0|//blp/mktdata/bsid/2078788484567
 PORTLAND HDD FUT  Apr12|OHJ2|eCME|2078774812211|IX8997307-0|Physical index future.|Index|BBG000T43QY1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/OHJ2|//blp/mktdata/buid/eCME/IX8997307-0|//blp/mktdata/bsid/2078774812211
 PORTLAND HDD FUT  Apr13|OHJ3|eCME|2078780607033|IX10329253-0|Physical index future.|Index|BBG000SRKMZ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/OHJ3|//blp/mktdata/buid/eCME/IX10329253-0|//blp/mktdata/bsid/2078780607033
 PORTLAND HDD FUT  Apr14|OHJ4|eCME|2078785686362|IX12663111-0|Physical index future.|Index|BBG001P11K92||14002|14002|0||39490|//blp/mktdata/bsym/eCME/OHJ4|//blp/mktdata/buid/eCME/IX12663111-0|//blp/mktdata/bsid/2078785686362
@@ -4762,9 +4822,11 @@ Portland MAY Stp  Jul12|PJAN2|eCME|2078787973285|IX13519434-0|Physical index fut
 Portland MAY Stp  Jun12|PJAM2|eCME|2078787973284|IX13519430-0|Physical index future.|Index|BBG0021W9174||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJAM2|//blp/mktdata/buid/eCME/IX13519430-0|//blp/mktdata/bsid/2078787973284
 Portland MAY Stp  Oct11|PJAV1|||IX13519442-0|Physical index future.|Index|BBG0021W91B9||14002|14002|0||39490|||
 Portland MAY Stp  Sep11|PJAU1|eCME|2078787973282|IX13519254-0|Physical index future.|Index|BBG0021W8Q34||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJAU1|//blp/mktdata/buid/eCME/IX13519254-0|//blp/mktdata/bsid/2078787973282
+Portland MAY Stp  Sep12|PJAU2|||IX13706027-0|Physical index future.|Index|BBG0024WVQ26||14002|14002|0||39490|||
 Portland Rainfall Dec11|PJRZ1|eCME|2078786635329|IX13094650-0|Physical index future.|Index|BBG001VKYXC5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJRZ1|//blp/mktdata/buid/eCME/IX13094650-0|//blp/mktdata/bsid/2078786635329
 Portland Rainfall Feb12|PJRG2|eCME|2078787935751|IX13500243-0|Physical index future.|Index|BBG0021RGPF5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJRG2|//blp/mktdata/buid/eCME/IX13500243-0|//blp/mktdata/bsid/2078787935751
 Portland Rainfall Jan12|PJRF2|eCME|2078787197398|IX13282134-0|Physical index future.|Index|BBG001YHSN01||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJRF2|//blp/mktdata/buid/eCME/IX13282134-0|//blp/mktdata/bsid/2078787197398
+Portland Rainfall Mar12|PJRH2|||IX13705971-0|Physical index future.|Index|BBG0024WVPW5||14002|14002|0||39490|||
 Portland Rainfall May12|PJRK2|eCME|2078787567908|IX13379732-0|Physical index future.|Index|BBG00203GYP9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJRK2|//blp/mktdata/buid/eCME/IX13379732-0|//blp/mktdata/bsid/2078787567908
 Portland Rainfall Nov11|PJRX1|eCME|2078786195707|IX12862920-0|Physical index future.|Index|BBG001QQHK53||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJRX1|//blp/mktdata/buid/eCME/IX12862920-0|//blp/mktdata/bsid/2078786195707
 Portland Rainfall Oct11|PJRV1|eCME|2078783042031|IX11384837-0|Physical index future.|Index|BBG0018F4Q21||14002|14002|0||39490|//blp/mktdata/bsym/eCME/PJRV1|//blp/mktdata/buid/eCME/IX11384837-0|//blp/mktdata/bsid/2078783042031
@@ -4915,9 +4977,11 @@ Raleigh May Strip Jul12|DFBN2|CME|614204230755|IX13565284-0|Physical index futur
 Raleigh May Strip Jun12|DFBM2|CME|614204230754|IX13565280-0|Physical index future.|Index|BBG0022J3007||14002|14002|0||39490|//blp/mktdata/bsym/CME/DFBM2|//blp/mktdata/buid/CME/IX13565280-0|//blp/mktdata/bsid/614204230754
 Raleigh May Strip Oct11|DFBV1|CME|614204230753|IX13565276-0|Physical index future.|Index|BBG0022J2ZW6||14002|14002|0||39490|//blp/mktdata/bsym/CME/DFBV1|//blp/mktdata/buid/CME/IX13565276-0|//blp/mktdata/bsid/614204230753
 Raleigh May Strip Sep11|DFBU1|CME|614204230752|IX13565272-0|Physical index future.|Index|BBG0022J2ZS1||14002|14002|0||39490|//blp/mktdata/bsym/CME/DFBU1|//blp/mktdata/buid/CME/IX13565272-0|//blp/mktdata/bsid/614204230752
+Raleigh May Strip Sep12|DFBU2|||IX13706039-0|Physical index future.|Index|BBG0024WVQ53||14002|14002|0||39490|||
 Raleigh Rainfall  Dec11|DFRZ1|eCME|2078786633633|IX13094674-0|Physical index future.|Index|BBG001VKYXF2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRZ1|//blp/mktdata/buid/eCME/IX13094674-0|//blp/mktdata/bsid/2078786633633
 Raleigh Rainfall  Feb12|DFRG2|eCME|2078787935150|IX13500267-0|Physical index future.|Index|BBG0021RGPH3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRG2|//blp/mktdata/buid/eCME/IX13500267-0|//blp/mktdata/bsid/2078787935150
 Raleigh Rainfall  Jan12|DFRF2|eCME|2078787193804|IX13282158-0|Physical index future.|Index|BBG001YHSN29||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRF2|//blp/mktdata/buid/eCME/IX13282158-0|//blp/mktdata/bsid/2078787193804
+Raleigh Rainfall  Mar12|DFRH2|eCME|2078788484555|IX13705995-0|Physical index future.|Index|BBG0024WVPY3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRH2|//blp/mktdata/buid/eCME/IX13705995-0|//blp/mktdata/bsid/2078788484555
 Raleigh Rainfall  Nov11|DFRX1|eCME|2078786191722|IX12862944-0|Physical index future.|Index|BBG001QQHK71||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRX1|//blp/mktdata/buid/eCME/IX12862944-0|//blp/mktdata/bsid/2078786191722
 Raleigh Rainfall  Oct11|DFRV1|eCME|2078783061669|IX11395994-0|Physical index future.|Index|BBG0018HNBN6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRV1|//blp/mktdata/buid/eCME/IX11395994-0|//blp/mktdata/bsid/2078783061669
 Raleigh Rainfall  Sep11|DFRU1|eCME|2078783061668|IX11395990-0|Physical index future.|Index|BBG0018HNBM7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/DFRU1|//blp/mktdata/buid/eCME/IX11395990-0|//blp/mktdata/bsid/2078783061668
@@ -5262,6 +5326,7 @@ SACRAMENTO CDD FT Oct13|MGV3|eCME|2078783054019|IX11395626-0|Physical index futu
 SACRAMENTO CDD FT Sep11|MGU1|eCME|2078774819165|IX9006327-0|Physical index future.|Index|BBG000TQV9T5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MGU1|//blp/mktdata/buid/eCME/IX9006327-0|//blp/mktdata/bsid/2078774819165
 SACRAMENTO CDD FT Sep12|MGU2|eCME|2078777139918|IX9556081-0|Physical index future.|Index|BBG000Y3R693||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MGU2|//blp/mktdata/buid/eCME/IX9556081-0|//blp/mktdata/bsid/2078777139918
 SACRAMENTO CDD FT Sep13|MGU3|eCME|2078782702103|IX11238302-0|Physical index future.|Index|BBG0017229T2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MGU3|//blp/mktdata/buid/eCME/IX11238302-0|//blp/mktdata/bsid/2078782702103
+SACRAMENTO CDD FT Sep14|MGU4|eCME|2078788484572|IX13705775-0|Physical index future.|Index|BBG0024WVNY8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MGU4|//blp/mktdata/buid/eCME/IX13705775-0|//blp/mktdata/bsid/2078788484572
 SACRAMENTO HDD FT Apr12|LSJ2|eCME|2078774813339|IX9006283-0|Physical index future.|Index|BBG000TQSW72||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LSJ2|//blp/mktdata/buid/eCME/IX9006283-0|//blp/mktdata/bsid/2078774813339
 SACRAMENTO HDD FT Apr13|LSJ3|eCME|2078780609056|IX10329209-0|Physical index future.|Index|BBG000ZQWBL0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LSJ3|//blp/mktdata/buid/eCME/IX10329209-0|//blp/mktdata/bsid/2078780609056
 SACRAMENTO HDD FT Apr14|LSJ4|eCME|2078785686366|IX12663171-0|Physical index future.|Index|BBG001P11KS1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/LSJ4|//blp/mktdata/buid/eCME/IX12663171-0|//blp/mktdata/bsid/2078785686366
@@ -5307,6 +5372,7 @@ SALT LKE CITY CDD Oct13|B8V3|eCME|2078783053993|IX11395630-0|Physical index futu
 SALT LKE CITY CDD Sep11|B8U1|eCME|2078774835975|IX9012219-0|Physical index future.|Index|BBG000TWDN84||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B8U1|//blp/mktdata/buid/eCME/IX9012219-0|//blp/mktdata/bsid/2078774835975
 SALT LKE CITY CDD Sep12|B8U2|eCME|2078777139842|IX9556145-0|Physical index future.|Index|BBG000SCLH38||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B8U2|//blp/mktdata/buid/eCME/IX9556145-0|//blp/mktdata/bsid/2078777139842
 SALT LKE CITY CDD Sep13|B8U3|eCME|2078782702044|IX11238322-0|Physical index future.|Index|BBG0017229V9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B8U3|//blp/mktdata/buid/eCME/IX11238322-0|//blp/mktdata/bsid/2078782702044
+SALT LKE CITY CDD Sep14|B8U4|eCME|2078788484545|IX13705779-0|Physical index future.|Index|BBG0024WVNZ7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B8U4|//blp/mktdata/buid/eCME/IX13705779-0|//blp/mktdata/bsid/2078788484545
 SALT LKE CITY HDD Apr12|B5J2|eCME|2078774835965|IX9012171-0|Physical index future.|Index|BBG000SBYFR4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B5J2|//blp/mktdata/buid/eCME/IX9012171-0|//blp/mktdata/bsid/2078774835965
 SALT LKE CITY HDD Apr13|B5J3|eCME|2078780607201|IX10329605-0|Physical index future.|Index|BBG000ZQXG65||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B5J3|//blp/mktdata/buid/eCME/IX10329605-0|//blp/mktdata/bsid/2078780607201
 SALT LKE CITY HDD Apr14|B5J4|eCME|2078785686340|IX12663095-0|Physical index future.|Index|BBG001P11K56||14002|14002|0||39490|//blp/mktdata/bsym/eCME/B5J4|//blp/mktdata/buid/eCME/IX12663095-0|//blp/mktdata/bsid/2078785686340
@@ -5771,6 +5837,7 @@ TOKYO MO AVG TEMP May12|M3K2|eCME|2078786191732|IX12863064-0|Physical index futu
 TOKYO MO AVG TEMP Nov11|M3X1|eCME|2078783446228|IX11594516-0|Physical index future.|Index|BBG0019VM6C8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M3X1|//blp/mktdata/buid/eCME/IX11594516-0|//blp/mktdata/bsid/2078783446228
 TOKYO MO AVG TEMP Oct11|M3V1|eCME|2078783053997|IX11395946-0|Physical index future.|Index|BBG0018HN9N1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M3V1|//blp/mktdata/buid/eCME/IX11395946-0|//blp/mktdata/bsid/2078783053997
 TOKYO MO AVG TEMP Sep11|M3U1|eCME|2078782702052|IX11238390-0|Physical index future.|Index|BBG001722BF2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M3U1|//blp/mktdata/buid/eCME/IX11238390-0|//blp/mktdata/bsid/2078782702052
+TOKYO MO AVG TEMP Sep12|M3U2|eCME|2078788484557|IX13705819-0|Physical index future.|Index|BBG0024WVP91||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M3U2|//blp/mktdata/buid/eCME/IX13705819-0|//blp/mktdata/bsid/2078788484557
 TOKYO SN AVG TEMP Mar12|M5H2|eCME|2078785274049|IX12478146-0|Physical index future.|Index|BBG001M2YN64||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M5H2|//blp/mktdata/buid/eCME/IX12478146-0|//blp/mktdata/bsid/2078785274049
 TOKYO SN AVG TEMP Sep11|M5U1|eCME|2078782702061|IX11238398-0|Physical index future.|Index|BBG001722BH0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/M5U1|//blp/mktdata/buid/eCME/IX11238398-0|//blp/mktdata/bsid/2078782702061
 TOPIX INDX FUTR   Dec11|TPZ1|JT|901961374359|IX11052586-0|Physical index future.|Index|BBG0015XQH85||14020|14020|0||39501|//blp/mktdata/bsym/JT/TPZ1|//blp/mktdata/buid/JT/IX11052586-0|//blp/mktdata/bsid/901961374359
@@ -5992,6 +6059,7 @@ TUCSON CDD IX FUT Oct13|TTV3|eCME|2078783054003|IX11395574-0|Physical index futu
 TUCSON CDD IX FUT Sep11|TTU1|eCME|2078774813325|IX9005607-0|Physical index future.|Index|BBG000TPLRF3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TTU1|//blp/mktdata/buid/eCME/IX9005607-0|//blp/mktdata/bsid/2078774813325
 TUCSON CDD IX FUT Sep12|TTU2|eCME|2078777138658|IX9556125-0|Physical index future.|Index|BBG000Y3RBG4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TTU2|//blp/mktdata/buid/eCME/IX9556125-0|//blp/mktdata/bsid/2078777138658
 TUCSON CDD IX FUT Sep13|TTU3|eCME|2078774075332|IX11238278-0|Physical index future.|Index|BBG0017229M9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TTU3|//blp/mktdata/buid/eCME/IX11238278-0|//blp/mktdata/bsid/2078774075332
+TUCSON CDD IX FUT Sep14|TTU4|eCME|2078788484568|IX13705751-0|Physical index future.|Index|BBG0024WVNR6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TTU4|//blp/mktdata/buid/eCME/IX13705751-0|//blp/mktdata/bsid/2078788484568
 TUCSON HDD IX FUT Apr12|TQJ2|eCME|2078774819091|IX9005679-0|Physical index future.|Index|BBG000TPQ8W1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TQJ2|//blp/mktdata/buid/eCME/IX9005679-0|//blp/mktdata/bsid/2078774819091
 TUCSON HDD IX FUT Apr13|TQJ3|eCME|2078780607212|IX10329265-0|Physical index future.|Index|BBG000SRKNT5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TQJ3|//blp/mktdata/buid/eCME/IX10329265-0|//blp/mktdata/bsid/2078780607212
 TUCSON HDD IX FUT Apr14|TQJ4|eCME|2078773092152|IX12663127-0|Physical index future.|Index|BBG001P11KF5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TQJ4|//blp/mktdata/buid/eCME/IX12663127-0|//blp/mktdata/bsid/2078773092152
@@ -6161,6 +6229,7 @@ Wash-1Reagan CDD  Oct13|CDRV3|eCME|2078783061656|IX11395670-0|Physical index fut
 Wash-1Reagan CDD  Sep11|CDRU1|eCME|2078774870600|IX9012883-0|Physical index future.|Index|BBG000TYV7Y6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDRU1|//blp/mktdata/buid/eCME/IX9012883-0|//blp/mktdata/bsid/2078774870600
 Wash-1Reagan CDD  Sep12|CDRU2|eCME|2078777139915|IX9556013-0|Physical index future.|Index|BBG000Y3QZF3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDRU2|//blp/mktdata/buid/eCME/IX9556013-0|//blp/mktdata/bsid/2078777139915
 Wash-1Reagan CDD  Sep13|CDRU3|eCME|2078782710862|IX11238338-0|Physical index future.|Index|BBG0017229Z5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDRU3|//blp/mktdata/buid/eCME/IX11238338-0|//blp/mktdata/bsid/2078782710862
+Wash-1Reagan CDD  Sep14|CDRU4|||IX13705795-0|Physical index future.|Index|BBG0024WVP37||14002|14002|0||39490|||
 Washington HDD    Apr12|HDWJ2|eCME|2078774870279|IX9012839-0|Physical index future.|Index|BBG000TYSKW3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDWJ2|//blp/mktdata/buid/eCME/IX9012839-0|//blp/mktdata/bsid/2078774870279
 Washington HDD    Apr13|HDWJ3|eCME|2078780611504|IX10329153-0|Physical index future.|Index|BBG000ZQV874||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDWJ3|//blp/mktdata/buid/eCME/IX10329153-0|//blp/mktdata/bsid/2078780611504
 Washington HDD    Apr14|HDWJ4|eCME|2078785698133|IX12663215-0|Physical index future.|Index|BBG001P11L45||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HDWJ4|//blp/mktdata/buid/eCME/IX12663215-0|//blp/mktdata/bsid/2078785698133
