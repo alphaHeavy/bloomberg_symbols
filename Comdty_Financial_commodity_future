@@ -1,4 +1,4 @@
-#Data Generated At: Wed Oct 5 06:12:45 EDT 2011
+#Data Generated At: Thu Oct 6 14:40:32 EDT 2011
 #Data Records=6210
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -938,7 +938,6 @@
 4yr RU FedBond FutDec11|RFRZ1|RTS|1769550241153|IX13468385-0|Financial commodity future.|Comdty|BBG0021GYXY1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFRZ1|//blp/mktdata/buid/RTS/IX13468385-0|//blp/mktdata/bsid/1769550241153
 5 YEAR SWAP FUTR  Jun13|S5M3|eCME|2078783842924|IX11825206-0|Financial commodity future.|Comdty|BBG001CXB552||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5M3|//blp/mktdata/buid/eCME/IX11825206-0|//blp/mktdata/bsid/2078783842924
 5 YEAR SWAP FUTR  Mar12|S5H2|eCME|2078788508015|IX13714272-0|Financial commodity future.|Comdty|BBG0024ZNZW5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5H2|//blp/mktdata/buid/eCME/IX13714272-0|//blp/mktdata/bsid/2078788508015
-5 YEAR SWAP FUTR  Sep11|S5U1|eCME|2078785278124|IX12477890-0|Financial commodity future.|Comdty|BBG001M2YML9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5U1|//blp/mktdata/buid/eCME/IX12477890-0|//blp/mktdata/bsid/2078785278124
 5 YR KOREA TB FUT Dec11|KRZ1|KOFX|1748073815732|IX12940322-0|Financial commodity future.|Comdty|BBG001R1LWL8||14074|14074|0||39524|//blp/mktdata/bsym/KOFX/KRZ1|//blp/mktdata/buid/KOFX/IX12940322-0|//blp/mktdata/bsid/1748073815732
 5 YR KOREA TB FUT Mar12|KRH2|KOFX|1748075799295|IX13619534-0|Financial commodity future.|Comdty|BBG0024222S9||14074|14074|0||39524|//blp/mktdata/bsym/KOFX/KRH2|//blp/mktdata/buid/KOFX/IX13619534-0|//blp/mktdata/bsid/1748075799295
 5% Danish MBF     Dec11|VMBZ1|COPE|532600025336|IX13606157-0|Financial commodity future.|Comdty|BBG0023YW056||39827|0|0||40171|//blp/mktdata/bsym/COPE/VMBZ1|//blp/mktdata/buid/COPE/IX13606157-0|//blp/mktdata/bsid/532600025336
@@ -1945,6 +1944,7 @@ CME 3Mo Euribor   Sep17|IEBU7|eCME|2078788482867|IX13703611-0|Financial commodit
 CME 3Mo Euribor   Sep18|IEBU8|eCME|2078788482871|IX13703627-0|Financial commodity future.|Comdty|BBG0024WCXY7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBU8|//blp/mktdata/buid/eCME/IX13703627-0|//blp/mktdata/bsid/2078788482871
 CME 3Mo Euribor   Sep19|IEBU9|eCME|2078788482875|IX13703643-0|Financial commodity future.|Comdty|BBG0024WCY48||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBU9|//blp/mktdata/buid/eCME/IX13703643-0|//blp/mktdata/bsid/2078788482875
 CME 3Mo Euribor   Sep20|IEBU0|eCME|2078788482879|IX13703659-0|Financial commodity future.|Comdty|BBG0024WCY84||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IEBU0|//blp/mktdata/buid/eCME/IX13703659-0|//blp/mktdata/bsid/2078788482879
+CME 3Mo Euribor   Sep21|IEBU1|||IX13721425-0|Financial commodity future.|Comdty|BBG00253HYW5||14002|14002|0||39490|||
 CUPOM CAMBIAL FT  Apr12|XPJ2|||IX4103392-0|Financial commodity future.|Comdty|BBG000W6YJW6||14098|14098|0||39537|||
 CUPOM CAMBIAL FT  Apr13|XPJ3|||IX4103404-0|Financial commodity future.|Comdty|BBG000W6YKT7||14098|14098|0||39537|||
 CUPOM CAMBIAL FT  Apr14|XPJ4|||IX4194986-0|Financial commodity future.|Comdty|BBG000W9N357||14098|14098|0||39537|||
@@ -5657,7 +5657,7 @@ Spot Next Repo Fu Jun12|SNTM2|TFX|2018656731514|IX12913867-0|Financial commodity
 Spot Next Repo Fu Mar12|SNTH2|TFX|2018655330805|IX12275237-0|Financial commodity future.|Comdty|BBG001KPR820||14070|14070|0||39522|//blp/mktdata/bsym/TFX/SNTH2|//blp/mktdata/buid/TFX/IX12275237-0|//blp/mktdata/bsid/2018655330805
 Spot Next Repo Fu May12|SNTK2|TFX|2018656393334|IX12757637-0|Financial commodity future.|Comdty|BBG001PM01Q0||14070|14070|0||39522|//blp/mktdata/bsym/TFX/SNTK2|//blp/mktdata/buid/TFX/IX12757637-0|//blp/mktdata/bsid/2018656393334
 Spot Next Repo Fu Nov11|SNTX1|TFX|2018653641675|IX11454215-0|Financial commodity future.|Comdty|BBG0018YT2J8||14070|14070|0||39522|//blp/mktdata/bsym/TFX/SNTX1|//blp/mktdata/buid/TFX/IX11454215-0|//blp/mktdata/bsid/2018653641675
-Spot Next Repo Fu Oct11|SNTV1|TFX|2018653151519|IX11223004-0|Financial commodity future.|Comdty|BBG00170V8F1||14070|14070|0||39522|//blp/mktdata/bsym/TFX/SNTV1|//blp/mktdata/buid/TFX/IX11223004-0|//blp/mktdata/bsid/2018653151519
+Spot Next Repo Fu Oct12|SNTV2|TFX|2018658998057|IX13719641-0|Financial commodity future.|Comdty|BBG0025386F5||14070|14070|0||39522|//blp/mktdata/bsym/TFX/SNTV2|//blp/mktdata/buid/TFX/IX13719641-0|//blp/mktdata/bsid/2018658998057
 Spot Next Repo Fu Sep12|SNTU2|TFX|2018658414264|IX13509281-0|Financial commodity future.|Comdty|BBG0021SQWF7||14070|14070|0||39522|//blp/mktdata/bsym/TFX/SNTU2|//blp/mktdata/buid/TFX/IX13509281-0|//blp/mktdata/bsid/2018658414264
 Sterling 2yr MidC Dec12|2LZ2|||IX9859878-0|Financial commodity future.|Comdty|BBG000YYT8K6||27267|27268|0||40559|||
 Sterling 2yr MidC Dec13|2LZ3|||IX11694364-0|Financial commodity future.|Comdty|BBG001BP1V81||27267|27268|0||40559|||
