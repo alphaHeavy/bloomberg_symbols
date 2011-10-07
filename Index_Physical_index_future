@@ -1,5 +1,5 @@
-#Data Generated At: Thu Oct 6 06:44:17 EDT 2011
-#Data Records=6292
+#Data Generated At: Fri Oct 7 06:45:37 EDT 2011
+#Data Records=6272
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -23,7 +23,6 @@ AMSTERDAM MTH CAT Jul12|L7N2|eCME|2078787272403|IX13310941-0|Physical index futu
 AMSTERDAM MTH CAT Jun12|L7M2|eCME|2078786633624|IX13094846-0|Physical index future.|Index|BBG001VKYXY1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L7M2|//blp/mktdata/buid/eCME/IX13094846-0|//blp/mktdata/bsid/2078786633624
 AMSTERDAM MTH CAT May12|L7K2|eCME|2078786217443|IX12882671-0|Physical index future.|Index|BBG001QT08V3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L7K2|//blp/mktdata/buid/eCME/IX12882671-0|//blp/mktdata/bsid/2078786217443
 AMSTERDAM MTH CAT Oct11|L7V1|eCME|2078783097121|IX11417253-0|Physical index future.|Index|BBG0018NSSS6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L7V1|//blp/mktdata/buid/eCME/IX11417253-0|//blp/mktdata/bsid/2078783097121
-AMSTERDAM MTH CAT Sep11|L7U1|eCME|2078782717246|IX11245407-0|Physical index future.|Index|BBG0017329X5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L7U1|//blp/mktdata/buid/eCME/IX11245407-0|//blp/mktdata/bsid/2078782717246
 AMSTERDAM MTH CAT Sep12|L7U2|eCME|2078788535307|IX13722289-0|Physical index future.|Index|BBG00253LF42||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L7U2|//blp/mktdata/buid/eCME/IX13722289-0|//blp/mktdata/bsid/2078788535307
 AMSTERDAM MTH HDD Apr12|J7J2|eCME|2078785728874|IX12685454-0|Physical index future.|Index|BBG001P63MF8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J7J2|//blp/mktdata/buid/eCME/IX12685454-0|//blp/mktdata/bsid/2078785728874
 AMSTERDAM MTH HDD Dec11|J7Z1|eCME|2078773004159|IX8147720-0|Physical index future.|Index|BBG000XFQ055||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J7Z1|//blp/mktdata/buid/eCME/IX8147720-0|//blp/mktdata/bsid/2078773004159
@@ -221,15 +220,13 @@ BANKSTOWN HDD     Aug12|BDTQ2|eCME|2078787973226|IX13519306-0|Physical index fut
 BANKSTOWN HDD     Jul12|BDTN2|eCME|2078787272672|IX13310921-0|Physical index future.|Index|BBG001YR7716||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BDTN2|//blp/mktdata/buid/eCME/IX13310921-0|//blp/mktdata/bsid/2078787272672
 BANKSTOWN HDD     Jun12|BDTM2|eCME|2078786635260|IX13094866-0|Physical index future.|Index|BBG001VKYY33||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BDTM2|//blp/mktdata/buid/eCME/IX13094866-0|//blp/mktdata/bsid/2078786635260
 BANKSTOWN HDD     May12|BDTK2|eCME|2078786222239|IX12882703-0|Physical index future.|Index|BBG001QT0932||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BDTK2|//blp/mktdata/buid/eCME/IX12882703-0|//blp/mktdata/bsid/2078786222239
-BANKSTOWN HDD     Sep11|BDTU1|eCME|2078782720288|IX11245343-0|Physical index future.|Index|BBG001732938||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BDTU1|//blp/mktdata/buid/eCME/IX11245343-0|//blp/mktdata/bsid/2078782720288
-BANKSTOWN HDD     Sep12|BDTU2|||IX13722253-0|Physical index future.|Index|BBG00253LDV7||14002|14002|0||39490|||
+BANKSTOWN HDD     Sep12|BDTU2|eCME|2078788540770|IX13722253-0|Physical index future.|Index|BBG00253LDV7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BDTU2|//blp/mktdata/buid/eCME/IX13722253-0|//blp/mktdata/bsid/2078788540770
 BARCELONA MTH CAT Apr12|Q6J2|eCME|2078785728869|IX12685422-0|Physical index future.|Index|BBG001P63M59||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6J2|//blp/mktdata/buid/eCME/IX12685422-0|//blp/mktdata/bsid/2078785728869
 BARCELONA MTH CAT Aug12|Q6Q2|eCME|2078787966703|IX13519298-0|Physical index future.|Index|BBG0021W8ZL4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6Q2|//blp/mktdata/buid/eCME/IX13519298-0|//blp/mktdata/bsid/2078787966703
 BARCELONA MTH CAT Jul12|Q6N2|eCME|2078787271219|IX13310953-0|Physical index future.|Index|BBG001YR7798||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6N2|//blp/mktdata/buid/eCME/IX13310953-0|//blp/mktdata/bsid/2078787271219
 BARCELONA MTH CAT Jun12|Q6M2|eCME|2078786633628|IX13094882-0|Physical index future.|Index|BBG001VKYY79||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6M2|//blp/mktdata/buid/eCME/IX13094882-0|//blp/mktdata/bsid/2078786633628
 BARCELONA MTH CAT May12|Q6K2|eCME|2078786217444|IX12882699-0|Physical index future.|Index|BBG001QT0923||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6K2|//blp/mktdata/buid/eCME/IX12882699-0|//blp/mktdata/bsid/2078786217444
 BARCELONA MTH CAT Oct11|Q6V1|eCME|2078783099672|IX11417229-0|Physical index future.|Index|BBG0018NSSL3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6V1|//blp/mktdata/buid/eCME/IX11417229-0|//blp/mktdata/bsid/2078783099672
-BARCELONA MTH CAT Sep11|Q6U1|eCME|2078782713750|IX11245367-0|Physical index future.|Index|BBG001732992||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6U1|//blp/mktdata/buid/eCME/IX11245367-0|//blp/mktdata/bsid/2078782713750
 BARCELONA MTH CAT Sep12|Q6U2|eCME|2078788535311|IX13722273-0|Physical index future.|Index|BBG00253LF06||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q6U2|//blp/mktdata/buid/eCME/IX13722273-0|//blp/mktdata/bsid/2078788535311
 BARCELONA MTH HDD Apr12|E6J2|eCME|2078785728883|IX12685434-0|Physical index future.|Index|BBG001P63M86||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E6J2|//blp/mktdata/buid/eCME/IX12685434-0|//blp/mktdata/bsid/2078785728883
 BARCELONA MTH HDD Dec11|E6Z1|eCME|2078773004151|IX8147672-0|Physical index future.|Index|BBG000XFPWZ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E6Z1|//blp/mktdata/buid/eCME/IX8147672-0|//blp/mktdata/bsid/2078773004151
@@ -251,7 +248,6 @@ BERLIN MONTH CAT  Jul12|L8N2|eCME|2078787272404|IX13310945-0|Physical index futu
 BERLIN MONTH CAT  Jun12|L8M2|eCME|2078786633632|IX13094858-0|Physical index future.|Index|BBG001VKYY15||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L8M2|//blp/mktdata/buid/eCME/IX13094858-0|//blp/mktdata/bsid/2078786633632
 BERLIN MONTH CAT  May12|L8K2|eCME|2078786217448|IX12882683-0|Physical index future.|Index|BBG001QT08Y0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L8K2|//blp/mktdata/buid/eCME/IX12882683-0|//blp/mktdata/bsid/2078786217448
 BERLIN MONTH CAT  Oct11|L8V1|eCME|2078783099671|IX11417209-0|Physical index future.|Index|BBG0018NSSF0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L8V1|//blp/mktdata/buid/eCME/IX11417209-0|//blp/mktdata/bsid/2078783099671
-BERLIN MONTH CAT  Sep11|L8U1|eCME|2078782713753|IX11245399-0|Physical index future.|Index|BBG0017329V7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L8U1|//blp/mktdata/buid/eCME/IX11245399-0|//blp/mktdata/bsid/2078782713753
 BERLIN MONTH CAT  Sep12|L8U2|eCME|2078788535309|IX13722281-0|Physical index future.|Index|BBG00253LF24||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L8U2|//blp/mktdata/buid/eCME/IX13722281-0|//blp/mktdata/bsid/2078788535309
 BERLIN MONTH HDD  Apr12|J8J2|eCME|2078785728875|IX12685450-0|Physical index future.|Index|BBG001P63MD0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J8J2|//blp/mktdata/buid/eCME/IX12685450-0|//blp/mktdata/bsid/2078785728875
 BERLIN MONTH HDD  Dec11|J8Z1|eCME|2078773004165|IX8147724-0|Physical index future.|Index|BBG000XFQ0J0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J8Z1|//blp/mktdata/buid/eCME/IX8147724-0|//blp/mktdata/bsid/2078773004165
@@ -348,8 +344,7 @@ BRISBANE HDD      Aug12|BBIQ2|eCME|2078787973227|IX13519302-0|Physical index fut
 BRISBANE HDD      Jul12|BBIN2|eCME|2078787272673|IX13310925-0|Physical index future.|Index|BBG001YR7725||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBIN2|//blp/mktdata/buid/eCME/IX13310925-0|//blp/mktdata/bsid/2078787272673
 BRISBANE HDD      Jun12|BBIM2|eCME|2078786635261|IX13094862-0|Physical index future.|Index|BBG001VKYY24||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBIM2|//blp/mktdata/buid/eCME/IX13094862-0|//blp/mktdata/bsid/2078786635261
 BRISBANE HDD      May12|BBIK2|eCME|2078786222240|IX12882707-0|Physical index future.|Index|BBG001QT0941||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBIK2|//blp/mktdata/buid/eCME/IX12882707-0|//blp/mktdata/bsid/2078786222240
-BRISBANE HDD      Sep11|BBIU1|eCME|2078782720289|IX11245347-0|Physical index future.|Index|BBG001732947||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBIU1|//blp/mktdata/buid/eCME/IX11245347-0|//blp/mktdata/bsid/2078782720289
-BRISBANE HDD      Sep12|BBIU2|||IX13722249-0|Physical index future.|Index|BBG00253LDT0||14002|14002|0||39490|||
+BRISBANE HDD      Sep12|BBIU2|eCME|2078788540771|IX13722249-0|Physical index future.|Index|BBG00253LDT0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBIU2|//blp/mktdata/buid/eCME/IX13722249-0|//blp/mktdata/bsid/2078788540771
 BSE 30 MINI INDEX Dec11|JADZ1|IB|1404478248984|IX13580046-0|Physical index future.|Index|BBG0022Q4RL8||44426|44426|0||0|//blp/mktdata/bsym/IB/JADZ1|//blp/mktdata/buid/IB/IX13580046-0|//blp/mktdata/bsid/1404478248984
 BSE 30 MINI INDEX Nov11|JADX1|IB|1404477561505|IX13347481-0|Physical index future.|Index|BBG001Z9LCD5||44426|44426|0||0|//blp/mktdata/bsym/IB/JADX1|//blp/mktdata/buid/IB/IX13347481-0|//blp/mktdata/bsid/1404477561505
 BSE 30 MINI INDEX Oct11|JADV1|IB|1404476952991|IX13153418-0|Physical index future.|Index|BBG001WS72Y1||44426|44426|0||0|//blp/mktdata/bsym/IB/JADV1|//blp/mktdata/buid/IB/IX13153418-0|//blp/mktdata/bsid/1404476952991
@@ -948,8 +943,7 @@ Calgary Month CAT Aug12|CALQ2|CME|614204125293|IX13519262-0|Physical index futur
 Calgary Month CAT Jul12|CALN2|CME|614203424739|IX13310901-0|Physical index future.|Index|BBG001YR76W4||14002|14002|0||39490|//blp/mktdata/bsym/CME/CALN2|//blp/mktdata/buid/CME/IX13310901-0|//blp/mktdata/bsid/614203424739
 Calgary Month CAT Jun12|CALM2|CME|614202787327|IX13094814-0|Physical index future.|Index|BBG001VKYXP1||14002|14002|0||39490|//blp/mktdata/bsym/CME/CALM2|//blp/mktdata/buid/CME/IX13094814-0|//blp/mktdata/bsid/614202787327
 Calgary Month CAT May12|CALK2|CME|614202374306|IX12882647-0|Physical index future.|Index|BBG001QT08N2||14002|14002|0||39490|//blp/mktdata/bsym/CME/CALK2|//blp/mktdata/buid/CME/IX12882647-0|//blp/mktdata/bsid/614202374306
-Calgary Month CAT Sep11|CALU1|CME|614198859864|IX11238426-0|Physical index future.|Index|BBG001722BQ0||14002|14002|0||39490|//blp/mktdata/bsym/CME/CALU1|//blp/mktdata/buid/CME/IX11238426-0|//blp/mktdata/bsid/614198859864
-Calgary Month CAT Sep12|CALU2|||IX13722301-0|Physical index future.|Index|BBG00253LF79||14002|14002|0||39490|||
+Calgary Month CAT Sep12|CALU2|CME|614204692837|IX13722301-0|Physical index future.|Index|BBG00253LF79||14002|14002|0||39490|//blp/mktdata/bsym/CME/CALU2|//blp/mktdata/buid/CME/IX13722301-0|//blp/mktdata/bsid/614204692837
 Carvill Max Binar Dec13|OAAZ3|CME|614197876964|IX11825214-0|Physical index future.|Index|BBG001CXB570||14002|14002|0||39490|//blp/mktdata/bsym/CME/OAAZ3|//blp/mktdata/buid/CME/IX11825214-0|//blp/mktdata/bsid/614197876964
 Carvill Max Non-B Dec13|HARZ3|CME|614200000050|IX11825218-0|Physical index future.|Index|BBG001CXB589||14002|14002|0||39490|//blp/mktdata/bsym/CME/HARZ3|//blp/mktdata/buid/CME/IX11825218-0|//blp/mktdata/bsid/614200000050
 Carvill Non-Binar Dec13|HACZ3|CME|614197876963|IX11825210-0|Physical index future.|Index|BBG001CXB561||14002|14002|0||39490|//blp/mktdata/bsym/CME/HACZ3|//blp/mktdata/buid/CME/IX11825210-0|//blp/mktdata/bsid/614197876963
@@ -1420,7 +1414,6 @@ ESSEN MONTHLY CAT Jul12|Q4N2|eCME|2078787271214|IX13310957-0|Physical index futu
 ESSEN MONTHLY CAT Jun12|Q4M2|eCME|2078786633627|IX13094878-0|Physical index future.|Index|BBG001VKYY60||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q4M2|//blp/mktdata/buid/eCME/IX13094878-0|//blp/mktdata/bsid/2078786633627
 ESSEN MONTHLY CAT May12|Q4K2|eCME|2078786217446|IX12882691-0|Physical index future.|Index|BBG001QT0905||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q4K2|//blp/mktdata/buid/eCME/IX12882691-0|//blp/mktdata/bsid/2078786217446
 ESSEN MONTHLY CAT Oct11|Q4V1|eCME|2078783097119|IX11417221-0|Physical index future.|Index|BBG0018NSSJ6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q4V1|//blp/mktdata/buid/eCME/IX11417221-0|//blp/mktdata/bsid/2078783097119
-ESSEN MONTHLY CAT Sep11|Q4U1|eCME|2078782717248|IX11245355-0|Physical index future.|Index|BBG001732965||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q4U1|//blp/mktdata/buid/eCME/IX11245355-0|//blp/mktdata/bsid/2078782717248
 ESSEN MONTHLY CAT Sep12|Q4U2|eCME|2078788535306|IX13722261-0|Physical index future.|Index|BBG00253LDX5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q4U2|//blp/mktdata/buid/eCME/IX13722261-0|//blp/mktdata/bsid/2078788535306
 ESSEN MONTHLY HDD Apr12|E4J2|eCME|2078785728868|IX12685426-0|Physical index future.|Index|BBG001P63M68||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E4J2|//blp/mktdata/buid/eCME/IX12685426-0|//blp/mktdata/bsid/2078785728868
 ESSEN MONTHLY HDD Dec11|E4Z1|eCME|2078773004141|IX8147612-0|Physical index future.|Index|BBG000XFPQK2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E4Z1|//blp/mktdata/buid/eCME/IX8147612-0|//blp/mktdata/bsid/2078773004141
@@ -1628,8 +1621,7 @@ Edmonton Month CA Aug12|CAEQ2|CME|614204125294|IX13519266-0|Physical index futur
 Edmonton Month CA Jul12|CAEN2|CME|614203424740|IX13310905-0|Physical index future.|Index|BBG001YR76X3||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAEN2|//blp/mktdata/buid/CME/IX13310905-0|//blp/mktdata/bsid/614203424740
 Edmonton Month CA Jun12|CAEM2|CME|614202787328|IX13094818-0|Physical index future.|Index|BBG001VKYXQ0||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAEM2|//blp/mktdata/buid/CME/IX13094818-0|//blp/mktdata/bsid/614202787328
 Edmonton Month CA May12|CAEK2|CME|614202374307|IX12882651-0|Physical index future.|Index|BBG001QT08P0||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAEK2|//blp/mktdata/buid/CME/IX12882651-0|//blp/mktdata/bsid/614202374307
-Edmonton Month CA Sep11|CAEU1|CME|614198859865|IX11238430-0|Physical index future.|Index|BBG001722BR9||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAEU1|//blp/mktdata/buid/CME/IX11238430-0|//blp/mktdata/bsid/614198859865
-Edmonton Month CA Sep12|CAEU2|||IX13722305-0|Physical index future.|Index|BBG00253LF88||14002|14002|0||39490|||
+Edmonton Month CA Sep12|CAEU2|CME|614204692838|IX13722305-0|Physical index future.|Index|BBG00253LF88||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAEU2|//blp/mktdata/buid/CME/IX13722305-0|//blp/mktdata/bsid/614204692838
 EstSeabrd 2nd $100Dec10|XYLZ0|CCX|2559814968130|IX9924169-0|Physical index future.|Index|BBG000Z2J7N5||30499|30499|0||40090|//blp/mktdata/bsym/CCX/XYLZ0|//blp/mktdata/buid/CCX/IX9924169-0|//blp/mktdata/bsid/2559814968130
 EstSeabrd 2nd $100Dec11|XYLZ1|CCX|2559815891252|IX10081106-0|Physical index future.|Index|BBG000Z5ZFV3||30499|30499|0||40090|//blp/mktdata/bsym/CCX/XYLZ1|//blp/mktdata/buid/CCX/IX10081106-0|//blp/mktdata/bsid/2559815891252
 FINANCIAL IDX NEW Dec11|KLZ1|SAFE|1705124155622|IX12953585-0|Physical index future.|Index|BBG001R3JJ27||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/KLZ1|//blp/mktdata/buid/SAFE/IX12953585-0|//blp/mktdata/bsid/1705124155622
@@ -3020,7 +3012,6 @@ LONDON MONTH CAT  Jul12|L5N2|eCME|2078787271213|IX13310933-0|Physical index futu
 LONDON MONTH CAT  Jun12|L5M2|eCME|2078786633634|IX13094874-0|Physical index future.|Index|BBG001VKYY51||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L5M2|//blp/mktdata/buid/eCME/IX13094874-0|//blp/mktdata/bsid/2078786633634
 LONDON MONTH CAT  May12|L5K2|eCME|2078786217440|IX12882667-0|Physical index future.|Index|BBG001QT08T6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L5K2|//blp/mktdata/buid/eCME/IX12882667-0|//blp/mktdata/bsid/2078786217440
 LONDON MONTH CAT  Oct11|L5V1|eCME|2078783097128|IX11417201-0|Physical index future.|Index|BBG0018NSSC3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L5V1|//blp/mktdata/buid/eCME/IX11417201-0|//blp/mktdata/bsid/2078783097128
-LONDON MONTH CAT  Sep11|L5U1|eCME|2078782713752|IX11245403-0|Physical index future.|Index|BBG0017329W6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L5U1|//blp/mktdata/buid/eCME/IX11245403-0|//blp/mktdata/bsid/2078782713752
 LONDON MONTH CAT  Sep12|L5U2|eCME|2078788535308|IX13722285-0|Physical index future.|Index|BBG00253LF33||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L5U2|//blp/mktdata/buid/eCME/IX13722285-0|//blp/mktdata/bsid/2078788535308
 LONDON MONTH HDD  Apr12|J5J2|eCME|2078785728881|IX12685478-0|Physical index future.|Index|BBG001P63MM0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J5J2|//blp/mktdata/buid/eCME/IX12685478-0|//blp/mktdata/bsid/2078785728881
 LONDON MONTH HDD  Dec11|J5Z1|eCME|2078773004162|IX8147716-0|Physical index future.|Index|BBG000XFQ019||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J5Z1|//blp/mktdata/buid/eCME/IX8147716-0|//blp/mktdata/bsid/2078773004162
@@ -3095,7 +3086,6 @@ MADRID MTHLY CAT  Jul12|Q5N2|eCME|2078787271220|IX13310949-0|Physical index futu
 MADRID MTHLY CAT  Jun12|Q5M2|eCME|2078786633626|IX13094886-0|Physical index future.|Index|BBG001VKYY88||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q5M2|//blp/mktdata/buid/eCME/IX13094886-0|//blp/mktdata/bsid/2078786633626
 MADRID MTHLY CAT  May12|Q5K2|eCME|2078786217447|IX12882687-0|Physical index future.|Index|BBG001QT08Z9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q5K2|//blp/mktdata/buid/eCME/IX12882687-0|//blp/mktdata/bsid/2078786217447
 MADRID MTHLY CAT  Oct11|Q5V1|eCME|2078783097120|IX11417225-0|Physical index future.|Index|BBG0018NSSK4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q5V1|//blp/mktdata/buid/eCME/IX11417225-0|//blp/mktdata/bsid/2078783097120
-MADRID MTHLY CAT  Sep11|Q5U1|eCME|2078782713751|IX11245359-0|Physical index future.|Index|BBG001732974||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q5U1|//blp/mktdata/buid/eCME/IX11245359-0|//blp/mktdata/bsid/2078782713751
 MADRID MTHLY CAT  Sep12|Q5U2|eCME|2078788535313|IX13722269-0|Physical index future.|Index|BBG00253LDZ3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q5U2|//blp/mktdata/buid/eCME/IX13722269-0|//blp/mktdata/bsid/2078788535313
 MDAX INDEX FUT    Dec11|MFZ1|EUX|279193678324|IX12343328-0|Physical index future.|Index|BBG001KY1NY1||14066|14111|0||39521|//blp/mktdata/bsym/EUX/MFZ1|//blp/mktdata/buid/EUX/IX12343328-0|//blp/mktdata/bsid/279193678324
 MDAX INDEX FUT    Jun12|MFM2|EUX|279196840815|IX13594138-0|Physical index future.|Index|BBG0022V8TR3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/MFM2|//blp/mktdata/buid/EUX/IX13594138-0|//blp/mktdata/bsid/279196840815
@@ -3112,8 +3102,7 @@ MELBOURNE HDD     Aug12|BBOQ2|eCME|2078787973228|IX13519314-0|Physical index fut
 MELBOURNE HDD     Jul12|BBON2|eCME|2078787272674|IX13310929-0|Physical index future.|Index|BBG001YR7734||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBON2|//blp/mktdata/buid/eCME/IX13310929-0|//blp/mktdata/bsid/2078787272674
 MELBOURNE HDD     Jun12|BBOM2|eCME|2078786635262|IX13094870-0|Physical index future.|Index|BBG001VKYY42||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBOM2|//blp/mktdata/buid/eCME/IX13094870-0|//blp/mktdata/bsid/2078786635262
 MELBOURNE HDD     May12|BBOK2|eCME|2078786222241|IX12882711-0|Physical index future.|Index|BBG001QT0950||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBOK2|//blp/mktdata/buid/eCME/IX12882711-0|//blp/mktdata/bsid/2078786222241
-MELBOURNE HDD     Sep11|BBOU1|eCME|2078782720290|IX11245351-0|Physical index future.|Index|BBG001732956||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBOU1|//blp/mktdata/buid/eCME/IX11245351-0|//blp/mktdata/bsid/2078782720290
-MELBOURNE HDD     Sep12|BBOU2|||IX13722257-0|Physical index future.|Index|BBG00253LDW6||14002|14002|0||39490|||
+MELBOURNE HDD     Sep12|BBOU2|eCME|2078788540772|IX13722257-0|Physical index future.|Index|BBG00253LDW6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBOU2|//blp/mktdata/buid/eCME/IX13722257-0|//blp/mktdata/bsid/2078788540772
 MERVAL IX FUT FBA Dec11|MCZ1|BCBA|1146775921051|IX11806319-0|Physical index future.|Index|BBG001CTTPD9||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCZ1|//blp/mktdata/buid/BCBA/IX11806319-0|//blp/mktdata/bsid/1146775921051
 MERVAL IX FUT FBA Jun12|MCM2|BCBA|1146778676649|IX13068826-0|Physical index future.|Index|BBG001VDDZH4||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCM2|//blp/mktdata/buid/BCBA/IX13068826-0|//blp/mktdata/bsid/1146778676649
 MERVAL IX FUT FBA Mar12|MCH2|BCBA|1146777323011|IX12456691-0|Physical index future.|Index|BBG001LZ6K23||14121|0|0||39550|//blp/mktdata/bsym/BCBA/MCH2|//blp/mktdata/buid/BCBA/IX12456691-0|//blp/mktdata/bsid/1146777323011
@@ -3925,7 +3914,6 @@ Moldova Financial Mar12|SFBH2|||IX12452295-0|Physical index future.|Index|BBG001
 Moldova Financial Nov11|SFBX1|||IX13481480-0|Physical index future.|Index|BBG0021L8SJ7||33996|33996|0||40099|||
 Moldova Financial Oct11|SFBV1|||IX13255879-0|Physical index future.|Index|BBG001YCX1M0||33996|33996|0||40099|||
 Moldova Financial Sep12|SFBU2|||IX13689665-0|Physical index future.|Index|BBG0024TVMQ6||33996|33996|0||40099|||
-Montreal Month CA Sep11|CAOU1|CME|614198862930|IX11238434-0|Physical index future.|Index|BBG001722BS8||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAOU1|//blp/mktdata/buid/CME/IX11238434-0|//blp/mktdata/bsid/614198862930
 Muntenia Financia Dec11|SFDZ1|||IX11789199-0|Physical index future.|Index|BBG001CTR9M7||33996|33996|0||40099|||
 Muntenia Financia Jun12|SFDM2|||IX13063690-0|Physical index future.|Index|BBG001VD98J7||33996|33996|0||40099|||
 Muntenia Financia Mar12|SFDH2|||IX12452287-0|Physical index future.|Index|BBG001LZ2BQ1||33996|33996|0||40099|||
@@ -4642,14 +4630,12 @@ Oltenia Financial Nov11|SFEX1|||IX13406095-0|Physical index future.|Index|BBG002
 Oltenia Financial Oct11|SFEV1|||IX13169607-0|Physical index future.|Index|BBG001WWF5S3||33996|33996|0||40099|||
 Oltenia Financial Sep12|SFEU2|||IX13594902-0|Physical index future.|Index|BBG0022V93H0||33996|33996|0||40099|||
 Oslo-Blindern CDD Oct11|CDPV1|eCME|2078783907675|IX11854668-0|Physical index future.|Index|BBG001D5FHB5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDPV1|//blp/mktdata/buid/eCME/IX11854668-0|//blp/mktdata/bsid/2078783907675
-Oslo-Blindern CDD Sep11|CDPU1|eCME|2078783907674|IX11854664-0|Physical index future.|Index|BBG001D5F5F7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CDPU1|//blp/mktdata/buid/eCME/IX11854664-0|//blp/mktdata/bsid/2078783907674
 PARIS MONTHLY CAT Apr12|L6J2|eCME|2078785728876|IX12685458-0|Physical index future.|Index|BBG001P63MG7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6J2|//blp/mktdata/buid/eCME/IX12685458-0|//blp/mktdata/bsid/2078785728876
 PARIS MONTHLY CAT Aug12|L6Q2|eCME|2078787966722|IX13519326-0|Physical index future.|Index|BBG0021W8ZT6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6Q2|//blp/mktdata/buid/eCME/IX13519326-0|//blp/mktdata/bsid/2078787966722
 PARIS MONTHLY CAT Jul12|L6N2|eCME|2078787271215|IX13310965-0|Physical index future.|Index|BBG001YR77D3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6N2|//blp/mktdata/buid/eCME/IX13310965-0|//blp/mktdata/bsid/2078787271215
 PARIS MONTHLY CAT Jun12|L6M2|eCME|2078786633630|IX13094854-0|Physical index future.|Index|BBG001VKYY06||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6M2|//blp/mktdata/buid/eCME/IX13094854-0|//blp/mktdata/bsid/2078786633630
 PARIS MONTHLY CAT May12|L6K2|eCME|2078786217441|IX12882679-0|Physical index future.|Index|BBG001QT08X1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6K2|//blp/mktdata/buid/eCME/IX12882679-0|//blp/mktdata/bsid/2078786217441
 PARIS MONTHLY CAT Oct11|L6V1|eCME|2078783099670|IX11417205-0|Physical index future.|Index|BBG0018NSSD2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6V1|//blp/mktdata/buid/eCME/IX11417205-0|//blp/mktdata/bsid/2078783099670
-PARIS MONTHLY CAT Sep11|L6U1|eCME|2078782717245|IX11245395-0|Physical index future.|Index|BBG0017329T0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6U1|//blp/mktdata/buid/eCME/IX11245395-0|//blp/mktdata/bsid/2078782717245
 PARIS MONTHLY CAT Sep12|L6U2|eCME|2078788535310|IX13722277-0|Physical index future.|Index|BBG00253LF15||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L6U2|//blp/mktdata/buid/eCME/IX13722277-0|//blp/mktdata/bsid/2078788535310
 PARIS MONTHLY HDD Apr12|J6J2|eCME|2078785728879|IX12685446-0|Physical index future.|Index|BBG001P63MC1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J6J2|//blp/mktdata/buid/eCME/IX12685446-0|//blp/mktdata/bsid/2078785728879
 PARIS MONTHLY HDD Dec11|J6Z1|eCME|2078773015703|IX8158171-0|Physical index future.|Index|BBG000XFR6S6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J6Z1|//blp/mktdata/buid/eCME/IX8158171-0|//blp/mktdata/bsid/2078773015703
@@ -4782,8 +4768,7 @@ Prague Mth CAT    Jul12|CPPN2|eCME|2078787272682|IX13310969-0|Physical index fut
 Prague Mth CAT    Jun12|CPPM2|eCME|2078786635337|IX13094894-0|Physical index future.|Index|BBG001VKYYF0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CPPM2|//blp/mktdata/buid/eCME/IX13094894-0|//blp/mktdata/bsid/2078786635337
 Prague Mth CAT    May12|CPPK2|eCME|2078786222248|IX12882715-0|Physical index future.|Index|BBG001QT0969||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CPPK2|//blp/mktdata/buid/eCME/IX12882715-0|//blp/mktdata/bsid/2078786222248
 Prague Mth CAT    Oct11|CPPV1|eCME|2078783099676|IX11417281-0|Physical index future.|Index|BBG0018NSSY9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CPPV1|//blp/mktdata/buid/eCME/IX11417281-0|//blp/mktdata/bsid/2078783099676
-Prague Mth CAT    Sep11|CPPU1|eCME|2078782717258|IX11245415-0|Physical index future.|Index|BBG0017329Z3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CPPU1|//blp/mktdata/buid/eCME/IX11245415-0|//blp/mktdata/bsid/2078782717258
-Prague Mth CAT    Sep12|CPPU2|||IX13722297-0|Physical index future.|Index|BBG00253LF60||14002|14002|0||39490|||
+Prague Mth CAT    Sep12|CPPU2|eCME|2078788540781|IX13722297-0|Physical index future.|Index|BBG00253LF60||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CPPU2|//blp/mktdata/buid/eCME/IX13722297-0|//blp/mktdata/bsid/2078788540781
 Prague Mth HDD    Dec13|HPRZ3|eCME|2078783859756|IX11831231-0|Physical index future.|Index|BBG001CYXSN6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HPRZ3|//blp/mktdata/buid/eCME/IX11831231-0|//blp/mktdata/bsid/2078783859756
 Prague Mth HDD    Jan12|HPRF2|eCME|2078784346298|IX12027552-0|Physical index future.|Index|BBG001HTZGW6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HPRF2|//blp/mktdata/buid/eCME/IX12027552-0|//blp/mktdata/bsid/2078784346298
 Prague Mth HDD    Mar12|HPRH2|eCME|2078785295517|IX12486779-0|Physical index future.|Index|BBG001M4V562||14002|14002|0||39490|//blp/mktdata/bsym/eCME/HPRH2|//blp/mktdata/buid/eCME/IX12486779-0|//blp/mktdata/bsid/2078785295517
@@ -4815,7 +4800,6 @@ ROME MONTHLY CAT  Jul12|Q7N2|eCME|2078787271212|IX13310961-0|Physical index futu
 ROME MONTHLY CAT  Jun12|Q7M2|eCME|2078786633625|IX13094890-0|Physical index future.|Index|BBG001VKYYD2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7M2|//blp/mktdata/buid/eCME/IX13094890-0|//blp/mktdata/bsid/2078786633625
 ROME MONTHLY CAT  May12|Q7K2|eCME|2078786217445|IX12882695-0|Physical index future.|Index|BBG001QT0914||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7K2|//blp/mktdata/buid/eCME/IX12882695-0|//blp/mktdata/bsid/2078786217445
 ROME MONTHLY CAT  Oct11|Q7V1|eCME|2078783099673|IX11417233-0|Physical index future.|Index|BBG0018NSSM2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7V1|//blp/mktdata/buid/eCME/IX11417233-0|//blp/mktdata/bsid/2078783099673
-ROME MONTHLY CAT  Sep11|Q7U1|eCME|2078782713749|IX11245363-0|Physical index future.|Index|BBG001732983||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7U1|//blp/mktdata/buid/eCME/IX11245363-0|//blp/mktdata/bsid/2078782713749
 ROME MONTHLY CAT  Sep12|Q7U2|eCME|2078788535312|IX13722265-0|Physical index future.|Index|BBG00253LDY4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/Q7U2|//blp/mktdata/buid/eCME/IX13722265-0|//blp/mktdata/bsid/2078788535312
 ROME MONTHLY HDD  Apr12|E7J2|eCME|2078785728878|IX12685438-0|Physical index future.|Index|BBG001P63M95||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E7J2|//blp/mktdata/buid/eCME/IX12685438-0|//blp/mktdata/bsid/2078785728878
 ROME MONTHLY HDD  Dec11|E7Z1|eCME|2078773015705|IX8158167-0|Physical index future.|Index|BBG000XFR6D2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/E7Z1|//blp/mktdata/buid/eCME/IX8158167-0|//blp/mktdata/bsid/2078773015705
@@ -5634,7 +5618,6 @@ STOCKHOLM MTH CAT Jul12|L9N2|eCME|2078787271211|IX13310937-0|Physical index futu
 STOCKHOLM MTH CAT Jun12|L9M2|eCME|2078786633629|IX13094850-0|Physical index future.|Index|BBG001VKYXZ0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L9M2|//blp/mktdata/buid/eCME/IX13094850-0|//blp/mktdata/bsid/2078786633629
 STOCKHOLM MTH CAT May12|L9K2|eCME|2078786217442|IX12882675-0|Physical index future.|Index|BBG001QT08W2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L9K2|//blp/mktdata/buid/eCME/IX12882675-0|//blp/mktdata/bsid/2078786217442
 STOCKHOLM MTH CAT Oct11|L9V1|eCME|2078783097134|IX11417213-0|Physical index future.|Index|BBG0018NSSG9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L9V1|//blp/mktdata/buid/eCME/IX11417213-0|//blp/mktdata/bsid/2078783097134
-STOCKHOLM MTH CAT Sep11|L9U1|eCME|2078782717247|IX11245411-0|Physical index future.|Index|BBG0017329Y4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L9U1|//blp/mktdata/buid/eCME/IX11245411-0|//blp/mktdata/bsid/2078782717247
 STOCKHOLM MTH CAT Sep12|L9U2|eCME|2078788535314|IX13722293-0|Physical index future.|Index|BBG00253LF51||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L9U2|//blp/mktdata/buid/eCME/IX13722293-0|//blp/mktdata/bsid/2078788535314
 STOCKHOLM MTH HDD Apr12|J9J2|eCME|2078785728872|IX12685406-0|Physical index future.|Index|BBG001P63M13||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J9J2|//blp/mktdata/buid/eCME/IX12685406-0|//blp/mktdata/bsid/2078785728872
 STOCKHOLM MTH HDD Dec11|J9Z1|eCME|2078773004163|IX8147728-0|Physical index future.|Index|BBG000XFQ117||14002|14002|0||39490|//blp/mktdata/bsym/eCME/J9Z1|//blp/mktdata/buid/eCME/IX8147728-0|//blp/mktdata/bsid/2078773004163
@@ -6031,8 +6014,7 @@ Toronto Month CAT Aug12|CATQ2|CME|614204125295|IX13519270-0|Physical index futur
 Toronto Month CAT Jul12|CATN2|CME|614203424741|IX13310913-0|Physical index future.|Index|BBG001YR76Z1||14002|14002|0||39490|//blp/mktdata/bsym/CME/CATN2|//blp/mktdata/buid/CME/IX13310913-0|//blp/mktdata/bsid/614203424741
 Toronto Month CAT Jun12|CATM2|CME|614202787329|IX13094826-0|Physical index future.|Index|BBG001VKYXS8||14002|14002|0||39490|//blp/mktdata/bsym/CME/CATM2|//blp/mktdata/buid/CME/IX13094826-0|//blp/mktdata/bsid/614202787329
 Toronto Month CAT May12|CATK2|CME|614202374308|IX12882655-0|Physical index future.|Index|BBG001QT08Q9||14002|14002|0||39490|//blp/mktdata/bsym/CME/CATK2|//blp/mktdata/buid/CME/IX12882655-0|//blp/mktdata/bsid/614202374308
-Toronto Month CAT Sep11|CATU1|CME|614198859866|IX11238438-0|Physical index future.|Index|BBG001722BT7||14002|14002|0||39490|//blp/mktdata/bsym/CME/CATU1|//blp/mktdata/buid/CME/IX11238438-0|//blp/mktdata/bsid/614198859866
-Toronto Month CAT Sep12|CATU2|||IX13722309-0|Physical index future.|Index|BBG00253LF97||14002|14002|0||39490|||
+Toronto Month CAT Sep12|CATU2|CME|614204692839|IX13722309-0|Physical index future.|Index|BBG00253LF97||14002|14002|0||39490|//blp/mktdata/bsym/CME/CATU2|//blp/mktdata/buid/CME/IX13722309-0|//blp/mktdata/bsid/614204692839
 Transilvania Fina Dec11|SFCZ1|SIB|7456082869476|IX11789247-0|Physical index future.|Index|BBG001CTRB06||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCZ1|//blp/mktdata/buid/SIB/IX11789247-0|//blp/mktdata/bsid/7456082869476
 Transilvania Fina Jun12|SFCM2|SIB|7456085636957|IX13063686-0|Physical index future.|Index|BBG001VD98H9||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCM2|//blp/mktdata/buid/SIB/IX13063686-0|//blp/mktdata/bsid/7456085636957
 Transilvania Fina Mar12|SFCH2|SIB|7456084302841|IX12452283-0|Physical index future.|Index|BBG001LZ2BN4||33996|33996|0||40099|//blp/mktdata/bsym/SIB/SFCH2|//blp/mktdata/buid/SIB/IX12452283-0|//blp/mktdata/bsid/7456084302841
@@ -6126,6 +6108,13 @@ VSMI SUB INDEX    Mar12|V3H2|DBVI|21498954776|IX13627377-0|Physical index future
 VSMI SUB INDEX    Nov11|V3X1|DBVI|21498954786|IX13627373-0|Physical index future.|Index|BBG00244T313||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V3X1|//blp/mktdata/buid/DBVI/IX13627373-0|//blp/mktdata/bsid/21498954786
 VSMI SUB INDEX    Oct11|V3V1|DBVI|21497852817|IX13278654-0|Physical index future.|Index|BBG001YHKLJ3||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V3V1|//blp/mktdata/buid/DBVI/IX13278654-0|//blp/mktdata/bsid/21497852817
 VSMI SUB INDEX    Sep12|V3U2|DBVI|21499062477|IX13666613-0|Physical index future.|Index|BBG0024L3KG9||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V3U2|//blp/mktdata/buid/DBVI/IX13666613-0|//blp/mktdata/bsid/21499062477
+VSTOXX INDEX      Dec11|V2Z1|DBVI|21489246241|IX9917879-0|Physical index future.|Index|BBG000Z24JZ2||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2Z1|//blp/mktdata/buid/DBVI/IX9917879-0|//blp/mktdata/bsid/21489246241
+VSTOXX INDEX      Dec12|V2Z2|DBVI|21494505806|IX11824086-0|Physical index future.|Index|BBG001CX9163||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2Z2|//blp/mktdata/buid/DBVI/IX11824086-0|//blp/mktdata/bsid/21494505806
+VSTOXX INDEX      Jun12|V2M2|DBVI|21497852765|IX13278686-0|Physical index future.|Index|BBG001YHL0Y1||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2M2|//blp/mktdata/buid/DBVI/IX13278686-0|//blp/mktdata/bsid/21497852765
+VSTOXX INDEX      Mar12|V2H2|DBVI|21497852764|IX13278682-0|Physical index future.|Index|BBG001YHW1S4||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2H2|//blp/mktdata/buid/DBVI/IX13278682-0|//blp/mktdata/bsid/21497852764
+VSTOXX INDEX      Nov11|V2X1|||IX13588774-0|Physical index future.|Index|BBG0022TBW51||27808|0|0||39612|||
+VSTOXX INDEX      Oct11|V2V1|DBVI|21497852627|IX13278650-0|Physical index future.|Index|BBG001YHKKT4||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2V1|//blp/mktdata/buid/DBVI/IX13278650-0|//blp/mktdata/bsid/21497852627
+VSTOXX INDEX      Sep12|V2U2|DBVI|21499062476|IX13666593-0|Physical index future.|Index|BBG0024L3FQ9||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2U2|//blp/mktdata/buid/DBVI/IX13666593-0|//blp/mktdata/bsid/21499062476
 VSTOXX Mini Futur Apr12|FVSJ2|EUX|279196286043|IX13386617-0|Physical index future.|Index|BBG0020543C9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSJ2|//blp/mktdata/buid/EUX/IX13386617-0|//blp/mktdata/bsid/279196286043
 VSTOXX Mini Futur Dec11|FVSZ1|EUX|279194265103|IX12591137-0|Physical index future.|Index|BBG001NGZXS5||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSZ1|//blp/mktdata/buid/EUX/IX12591137-0|//blp/mktdata/bsid/279194265103
 VSTOXX Mini Futur Feb12|FVSG2|EUX|279195019372|IX12953277-0|Physical index future.|Index|BBG001R3JHJ3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSG2|//blp/mktdata/buid/EUX/IX12953277-0|//blp/mktdata/bsid/279195019372
@@ -6134,19 +6123,11 @@ VSTOXX Mini Futur Mar12|FVSH2|EUX|279195738127|IX13198349-0|Physical index futur
 VSTOXX Mini Futur May12|FVSK2|EUX|279197002656|IX13630577-0|Physical index future.|Index|BBG002455SM8||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSK2|//blp/mktdata/buid/EUX/IX13630577-0|//blp/mktdata/bsid/279197002656
 VSTOXX Mini Futur Nov11|FVSX1|EUX|279193630955|IX12321964-0|Physical index future.|Index|BBG001KTLCN6||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSX1|//blp/mktdata/buid/EUX/IX12321964-0|//blp/mktdata/bsid/279193630955
 VSTOXX Mini Futur Oct11|FVSV1|EUX|279193162294|IX12097532-0|Physical index future.|Index|BBG001J5NQC9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FVSV1|//blp/mktdata/buid/EUX/IX12097532-0|//blp/mktdata/bsid/279193162294
-VSTOXX SUB INDEX  Dec11|V2Z1|DBVI|21489246241|IX9917879-0|Physical index future.|Index|BBG000Z24JZ2||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2Z1|//blp/mktdata/buid/DBVI/IX9917879-0|//blp/mktdata/bsid/21489246241
-VSTOXX SUB INDEX  Dec12|V2Z2|DBVI|21494505806|IX11824086-0|Physical index future.|Index|BBG001CX9163||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2Z2|//blp/mktdata/buid/DBVI/IX11824086-0|//blp/mktdata/bsid/21494505806
-VSTOXX SUB INDEX  Jun12|V2M2|DBVI|21497852765|IX13278686-0|Physical index future.|Index|BBG001YHL0Y1||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2M2|//blp/mktdata/buid/DBVI/IX13278686-0|//blp/mktdata/bsid/21497852765
-VSTOXX SUB INDEX  Mar12|V2H2|DBVI|21497852764|IX13278682-0|Physical index future.|Index|BBG001YHW1S4||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2H2|//blp/mktdata/buid/DBVI/IX13278682-0|//blp/mktdata/bsid/21497852764
-VSTOXX SUB INDEX  Nov11|V2X1|||IX13588774-0|Physical index future.|Index|BBG0022TBW51||27808|0|0||39612|||
-VSTOXX SUB INDEX  Oct11|V2V1|DBVI|21497852627|IX13278650-0|Physical index future.|Index|BBG001YHKKT4||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2V1|//blp/mktdata/buid/DBVI/IX13278650-0|//blp/mktdata/bsid/21497852627
-VSTOXX SUB INDEX  Sep12|V2U2|DBVI|21499062476|IX13666593-0|Physical index future.|Index|BBG0024L3FQ9||27808|0|0||39612|//blp/mktdata/bsym/DBVI/V2U2|//blp/mktdata/buid/DBVI/IX13666593-0|//blp/mktdata/bsid/21499062476
 Vancouver Month C Aug12|CARQ2|CME|614204125296|IX13519274-0|Physical index future.|Index|BBG0021W8ZD3||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARQ2|//blp/mktdata/buid/CME/IX13519274-0|//blp/mktdata/bsid/614204125296
 Vancouver Month C Jul12|CARN2|CME|614203424742|IX13310909-0|Physical index future.|Index|BBG001YR76Y2||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARN2|//blp/mktdata/buid/CME/IX13310909-0|//blp/mktdata/bsid/614203424742
 Vancouver Month C Jun12|CARM2|CME|614202787330|IX13094822-0|Physical index future.|Index|BBG001VKYXR9||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARM2|//blp/mktdata/buid/CME/IX13094822-0|//blp/mktdata/bsid/614202787330
 Vancouver Month C May12|CARK2|CME|614202374309|IX12882659-0|Physical index future.|Index|BBG001QT08R8||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARK2|//blp/mktdata/buid/CME/IX12882659-0|//blp/mktdata/bsid/614202374309
-Vancouver Month C Sep11|CARU1|CME|614198859867|IX11238442-0|Physical index future.|Index|BBG001722BV4||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARU1|//blp/mktdata/buid/CME/IX11238442-0|//blp/mktdata/bsid/614198859867
-Vancouver Month C Sep12|CARU2|||IX13722317-0|Physical index future.|Index|BBG00253LFC3||14002|14002|0||39490|||
+Vancouver Month C Sep12|CARU2|CME|614204692840|IX13722317-0|Physical index future.|Index|BBG00253LFC3||14002|14002|0||39490|//blp/mktdata/bsym/CME/CARU2|//blp/mktdata/buid/CME/IX13722317-0|//blp/mktdata/bsid/614204692840
 WIG20 INDEX FUT   Dec11|WIZ1|PW|1095236097765|IX11716630-0|Physical index future.|Index|BBG001BW94G9||14083|14083|0||39529|//blp/mktdata/bsym/PW/WIZ1|//blp/mktdata/buid/PW/IX11716630-0|//blp/mktdata/bsid/1095236097765
 WIG20 INDEX FUT   Jun12|WIM2|PW|1095238832422|IX12978003-0|Physical index future.|Index|BBG001R722T4||14083|14083|0||39529|//blp/mktdata/bsym/PW/WIM2|//blp/mktdata/buid/PW/IX12978003-0|//blp/mktdata/bsid/1095238832422
 WIG20 INDEX FUT   Mar12|WIH2|PW|1095237464555|IX12343188-0|Physical index future.|Index|BBG001KY1N80||14083|14083|0||39529|//blp/mktdata/bsym/PW/WIH2|//blp/mktdata/buid/PW/IX12343188-0|//blp/mktdata/bsid/1095237464555
@@ -6202,8 +6183,7 @@ Winnipeg Month CA Aug12|CAWQ2|CME|614204125297|IX13519278-0|Physical index futur
 Winnipeg Month CA Jul12|CAWN2|CME|614203424743|IX13310917-0|Physical index future.|Index|BBG001YR7707||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAWN2|//blp/mktdata/buid/CME/IX13310917-0|//blp/mktdata/bsid/614203424743
 Winnipeg Month CA Jun12|CAWM2|CME|614202787331|IX13094834-0|Physical index future.|Index|BBG001VKYXV4||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAWM2|//blp/mktdata/buid/CME/IX13094834-0|//blp/mktdata/bsid/614202787331
 Winnipeg Month CA May12|CAWK2|CME|614202374310|IX12882663-0|Physical index future.|Index|BBG001QT08S7||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAWK2|//blp/mktdata/buid/CME/IX12882663-0|//blp/mktdata/bsid/614202374310
-Winnipeg Month CA Sep11|CAWU1|CME|614198859868|IX11238446-0|Physical index future.|Index|BBG001722BW3||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAWU1|//blp/mktdata/buid/CME/IX11238446-0|//blp/mktdata/bsid/614198859868
-Winnipeg Month CA Sep12|CAWU2|||IX13722313-0|Physical index future.|Index|BBG00253LFB4||14002|14002|0||39490|||
+Winnipeg Month CA Sep12|CAWU2|CME|614204692841|IX13722313-0|Physical index future.|Index|BBG00253LFB4||14002|14002|0||39490|//blp/mktdata/bsym/CME/CAWU2|//blp/mktdata/buid/CME/IX13722313-0|//blp/mktdata/bsid/614204692841
 XAB Materials     Dec11|IXDZ1|eCME|2078787396480|IX13341954-0|Physical index future.|Index|BBG001Z6HNV2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IXDZ1|//blp/mktdata/buid/eCME/IX13341954-0|//blp/mktdata/bsid/2078787396480
 XAE Energy        Dec11|IXPZ1|eCME|2078787396477|IX13341931-0|Physical index future.|Index|BBG001Z6HNK4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IXPZ1|//blp/mktdata/buid/eCME/IX13341931-0|//blp/mktdata/bsid/2078787396477
 XAF Financial     Dec11|IXAZ1|eCME|2078787396478|IX13341938-0|Physical index future.|Index|BBG001Z6HNN1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/IXAZ1|//blp/mktdata/buid/eCME/IX13341938-0|//blp/mktdata/bsid/2078787396478
