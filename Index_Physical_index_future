@@ -1,5 +1,5 @@
-#Data Generated At: Sat Oct 8 06:32:37 EDT 2011
-#Data Records=6273
+#Data Generated At: Sun Oct 9 06:24:05 EDT 2011
+#Data Records=6271
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -4462,7 +4462,6 @@ Nikkei-TOCOM IndexMar12|TCCH2|cTCM|11166936423259|IX12578998-0|Physical index fu
 Nikkei-TOCOM IndexMar12|TCCH2|eTCM|11171231390555|IX12578998-0|Physical index future.|Index|BBG001NW0F43||14115|14115|0||39546|//blp/mktdata/bsym/eTCM/TCCH2|//blp/mktdata/buid/eTCM/IX12578998-0|//blp/mktdata/bsid/11171231390555
 Nikkei-TOCOM IndexMar12|TCCH2|eTCM|11171231390555|IX12578998-0|Physical index future.|Index|BBG001NW0F43||14115|14115|0||39546|//blp/mktdata/bsym/eTCM/TCCH2|//blp/mktdata/buid/eTCM/IX12578998-0|//blp/mktdata/bsid/11171231390555
 Non-Farm Payroll  Nov11|FARX1|||IX13737420-0|Physical index future.|Index|BBG0025847R3||14002|14002|0||39490|||
-Non-Farm Payroll  Oct11|FARV1|eCME|2078787937317|IX13500343-0|Physical index future.|Index|BBG0021RGPL8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/FARV1|//blp/mktdata/buid/eCME/IX13500343-0|//blp/mktdata/bsid/2078787937317
 Northeast 1st $10 Dec10|YXCZ0|CCX|2559815017238|IX9935866-0|Physical index future.|Index|BBG000Z2S247||30499|30499|0||40090|//blp/mktdata/bsym/CCX/YXCZ0|//blp/mktdata/buid/CCX/IX9935866-0|//blp/mktdata/bsid/2559815017238
 Northeast 1st $10 Dec11|YXCZ1|CCX|2559815895828|IX10083154-0|Physical index future.|Index|BBG000Z61KK9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/YXCZ1|//blp/mktdata/buid/CCX/IX10083154-0|//blp/mktdata/bsid/2559815895828
 Northeast 1st $100Dec10|YXLZ0|CCX|2559815214693|IX9963502-0|Physical index future.|Index|BBG000Z366F8||30499|30499|0||40090|//blp/mktdata/bsym/CCX/YXLZ0|//blp/mktdata/buid/CCX/IX9963502-0|//blp/mktdata/bsid/2559815214693
@@ -4821,7 +4820,6 @@ RTS Std Index Fut Dec11|RSSZ1|RTS|1769548654754|IX12943254-0|Physical index futu
 RTS Std Index Fut Mar12|RSSH2|RTS|1769550449367|IX13573093-0|Physical index future.|Index|BBG0022MD615||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RSSH2|//blp/mktdata/buid/RTS/IX13573093-0|//blp/mktdata/bsid/1769550449367
 RTS Volatility Fu Dec11|VSSZ1|RTS|1769550786900|IX13679316-0|Physical index future.|Index|BBG0024Q46C2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/VSSZ1|//blp/mktdata/buid/RTS/IX13679316-0|//blp/mktdata/bsid/1769550786900
 RTS Volatility Fu Nov11|VSSX1|RTS|1769550321700|IX13518814-0|Physical index future.|Index|BBG0021VSMJ6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/VSSX1|//blp/mktdata/buid/RTS/IX13518814-0|//blp/mktdata/bsid/1769550321700
-RTS Volatility Fu Oct11|VSSV1|RTS|1769549596744|IX13298556-0|Physical index future.|Index|BBG001YN3W23||14134|14134|0||39558|//blp/mktdata/bsym/RTS/VSSV1|//blp/mktdata/buid/RTS/IX13298556-0|//blp/mktdata/bsid/1769549596744
 RUS/NOMURA PRIME  Dec11|AZZ1|JO|566953921752|IX11052578-0|Physical index future.|Index|BBG0015XQH67||14021|14021|0||39502|//blp/mktdata/bsym/JO/AZZ1|//blp/mktdata/buid/JO/IX11052578-0|//blp/mktdata/bsid/566953921752
 RUS/NOMURA PRIME  Dec11|AZZ1|JO|566953921752|IX11052578-0|Physical index future.|Index|BBG0015XQH67||14021|14021|0||39502|//blp/mktdata/bsym/JO/AZZ1|//blp/mktdata/buid/JO/IX11052578-0|//blp/mktdata/bsid/566953921752
 RUS/NOMURA PRIME  Dec11|AZZ1|cJO|9998702103768|IX11052578-0|Physical index future.|Index|BBG0015XQH67||14021|14021|0||39502|//blp/mktdata/bsym/cJO/AZZ1|//blp/mktdata/buid/cJO/IX11052578-0|//blp/mktdata/bsid/9998702103768

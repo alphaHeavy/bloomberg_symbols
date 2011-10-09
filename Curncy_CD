@@ -1,4 +1,4 @@
-#Data Generated At: Sat Oct 8 06:18:53 EDT 2011
+#Data Generated At: Sun Oct 9 06:10:05 EDT 2011
 #Data Records=3207
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=CD
 AED CD              1 MO||||IX3400308-0|CD|Curncy|BBG0013LPPB2|||||||||
@@ -2020,7 +2020,7 @@ MXN CD Fiduciary 3M||SYDB|14383855285224|IX8504897-0|CD|Curncy|BBG0013LQMF4|||||
 MXN CD Fiduciary 6M||SFID|10900636808179|IX8504901-0|CD|Curncy|BBG0013LQMH2||||||||//blp/mktdata/buid/SFID/IX8504901-0|//blp/mktdata/bsid/10900636808179
 MXN CD Fiduciary 6M||SYDB|14383855285235|IX8504901-0|CD|Curncy|BBG0013LQMH2||||||||//blp/mktdata/buid/SYDB/IX8504901-0|//blp/mktdata/bsid/14383855285235
 MXN CD Fiduciary 9M||||IX8504905-0|CD|Curncy|BBG0013LQML7|||||||||
-MXN CD Fiduciary TN||SFID|10900636808151|IX8504877-0|CD|Curncy|BBG0013LQM00||||||||//blp/mktdata/buid/SFID/IX8504877-0|//blp/mktdata/bsid/10900636808151
+MXN CD Fiduciary TN||||IX8504877-0|CD|Curncy|BBG0013LQM00|||||||||
 MXN CD NEGOTIABLE   1 MO||||IX524492-0|CD|Curncy|BBG0013LNXQ1|||||||||
 MXN CD NEGOTIABLE   2 MO||||IX548890-0|CD|Curncy|BBG0013LPBG8|||||||||
 MXN CD NEGOTIABLE   3 MO||||IX524494-0|CD|Curncy|BBG0013LNXT8|||||||||
@@ -2763,7 +2763,6 @@ USD CD              2 MO||SMKT|1524713504896|IX400307-0|CD|Curncy|BBG0013LP4D7||
 USD CD              2 MO||UNCR|4531190612096|IX400307-0|CD|Curncy|BBG0013LP4D7||||||||//blp/mktdata/buid/UNCR/IX400307-0|//blp/mktdata/bsid/4531190612096
 USD CD              2 WK||||IX509730-0|CD|Curncy|BBG0013LP9J0|||||||||
 USD CD              2 YR||BCMI|6506881563667|IX812853-0|CD|Curncy|BBG0013LNXM5||||||||//blp/mktdata/buid/BCMI/IX812853-0|//blp/mktdata/bsid/6506881563667
-USD CD              3 MO||ANTS|9504762740945|IX400313-0|CD|Curncy|BBG0013LP4M7||||||||//blp/mktdata/buid/ANTS/IX400313-0|//blp/mktdata/bsid/9504762740945
 USD CD              3 MO||BCMI|6506875568337|IX400313-0|CD|Curncy|BBG0013LP4M7||||||||//blp/mktdata/buid/BCMI/IX400313-0|//blp/mktdata/bsid/6506875568337
 USD CD              3 MO||HLBL|4307852312785|IX400313-0|CD|Curncy|BBG0013LP4M7||||||||//blp/mktdata/buid/HLBL/IX400313-0|//blp/mktdata/bsid/4307852312785
 USD CD              3 MO||NABN|16531329237201|IX400313-0|CD|Curncy|BBG0013LP4M7||||||||//blp/mktdata/buid/NABN/IX400313-0|//blp/mktdata/bsid/16531329237201
@@ -2771,19 +2770,20 @@ USD CD              3 MO||NDL|11712375931089|IX400313-0|CD|Curncy|BBG0013LP4M7||
 USD CD              3 MO||SMKT|1524713504977|IX400313-0|CD|Curncy|BBG0013LP4M7||||||||//blp/mktdata/buid/SMKT/IX400313-0|//blp/mktdata/bsid/1524713504977
 USD CD              3 MO||UNCR|4531190612177|IX400313-0|CD|Curncy|BBG0013LP4M7||||||||//blp/mktdata/buid/UNCR/IX400313-0|//blp/mktdata/bsid/4531190612177
 USD CD              3 YR||BCMI|6506881563666|IX812855-0|CD|Curncy|BBG0013LNXJ9||||||||//blp/mktdata/buid/BCMI/IX812855-0|//blp/mktdata/bsid/6506881563666
+USD CD              4 MO||ANTS|9504762740946|IX400311-0|CD|Curncy|BBG0013LP4K9||||||||//blp/mktdata/buid/ANTS/IX400311-0|//blp/mktdata/bsid/9504762740946
 USD CD              4 MO||BCMI|6506875568338|IX400311-0|CD|Curncy|BBG0013LP4K9||||||||//blp/mktdata/buid/BCMI/IX400311-0|//blp/mktdata/bsid/6506875568338
 USD CD              4 MO||HLBL|4307852312786|IX400311-0|CD|Curncy|BBG0013LP4K9||||||||//blp/mktdata/buid/HLBL/IX400311-0|//blp/mktdata/bsid/4307852312786
 USD CD              4 MO||NABN|16531329237202|IX400311-0|CD|Curncy|BBG0013LP4K9||||||||//blp/mktdata/buid/NABN/IX400311-0|//blp/mktdata/bsid/16531329237202
 USD CD              4 MO||NDL|11712375931090|IX400311-0|CD|Curncy|BBG0013LP4K9||||||||//blp/mktdata/buid/NDL/IX400311-0|//blp/mktdata/bsid/11712375931090
 USD CD              4 MO||UNCR|4531190612178|IX400311-0|CD|Curncy|BBG0013LP4K9||||||||//blp/mktdata/buid/UNCR/IX400311-0|//blp/mktdata/bsid/4531190612178
 USD CD              4 YR||BCMI|6506881563665|IX812857-0|CD|Curncy|BBG0013LPG77||||||||//blp/mktdata/buid/BCMI/IX812857-0|//blp/mktdata/bsid/6506881563665
+USD CD              5 MO||ANTS|9504762740947|IX400317-0|CD|Curncy|BBG0013LP4R2||||||||//blp/mktdata/buid/ANTS/IX400317-0|//blp/mktdata/bsid/9504762740947
 USD CD              5 MO||BCMI|6506875568339|IX400317-0|CD|Curncy|BBG0013LP4R2||||||||//blp/mktdata/buid/BCMI/IX400317-0|//blp/mktdata/bsid/6506875568339
 USD CD              5 MO||HLBL|4307852312787|IX400317-0|CD|Curncy|BBG0013LP4R2||||||||//blp/mktdata/buid/HLBL/IX400317-0|//blp/mktdata/bsid/4307852312787
 USD CD              5 MO||NABN|16531329237203|IX400317-0|CD|Curncy|BBG0013LP4R2||||||||//blp/mktdata/buid/NABN/IX400317-0|//blp/mktdata/bsid/16531329237203
 USD CD              5 MO||NDL|11712375931091|IX400317-0|CD|Curncy|BBG0013LP4R2||||||||//blp/mktdata/buid/NDL/IX400317-0|//blp/mktdata/bsid/11712375931091
 USD CD              5 MO||UNCR|4531190612179|IX400317-0|CD|Curncy|BBG0013LP4R2||||||||//blp/mktdata/buid/UNCR/IX400317-0|//blp/mktdata/bsid/4531190612179
 USD CD              5 YR||BCMI|6506881563664|IX812859-0|CD|Curncy|BBG0013LPGC1||||||||//blp/mktdata/buid/BCMI/IX812859-0|//blp/mktdata/bsid/6506881563664
-USD CD              6 MO||ANTS|9504762740948|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/ANTS/IX400303-0|//blp/mktdata/bsid/9504762740948
 USD CD              6 MO||BCMI|6506875568340|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/BCMI/IX400303-0|//blp/mktdata/bsid/6506875568340
 USD CD              6 MO||CMPL|412316975316|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/CMPL/IX400303-0|//blp/mktdata/bsid/412316975316
 USD CD              6 MO||CMPN|416611942612|IX400303-0|CD|Curncy|BBG0013LP492||||||||//blp/mktdata/buid/CMPN/IX400303-0|//blp/mktdata/bsid/416611942612
