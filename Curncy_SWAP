@@ -1,5 +1,5 @@
-#Data Generated At: Mon Oct 10 06:31:42 EDT 2011
-#Data Records=11026
+#Data Generated At: Tue Oct 11 06:18:01 EDT 2011
+#Data Records=11221
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -60,16 +60,6 @@ ARS SWAP CER vs LIB 6 YR||||IX4112907-0|SWAP|Curncy||||||||||
 ARS SWAP CER vs LIB 7 YR||||IX4112911-0|SWAP|Curncy||||||||||
 ARS SWAP CER vs LIB 8 YR||||IX4112915-0|SWAP|Curncy||||||||||
 ARS SWAP CER vs LIB 9 YR||||IX4112919-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  1 MO||||IX4402957-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  1 YR||||IX3973772-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  2 MO||||IX4402961-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  2 YR||||IX3973776-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  3 YR||||IX3973780-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  4 YR||||IX4402953-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  6 MO||||IX3973768-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR  9 MO||||IX4301720-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR 15 MO||||IX4301724-0|SWAP|Curncy||||||||||
-ARS SWAP vs BADLAR 18 MO||||IX4301728-0|SWAP|Curncy||||||||||
 ARS SWAP vs BAIBAR  1 MO||||IX4402969-0|SWAP|Curncy||||||||||
 ARS SWAP vs BAIBAR  1 YR||||IX3975089-0|SWAP|Curncy||||||||||
 ARS SWAP vs BAIBAR  2 MO||||IX4402973-0|SWAP|Curncy||||||||||
@@ -370,10 +360,24 @@ AUD SWP 3M MAR 12 MAR 22||||IX11727236-0|SWAP|Curncy||||||||||
 AUD SWP 3M SEP 12 SEP 14||||IX11727188-0|SWAP|Curncy||||||||||
 AUD SWP 3M SEP 12 SEP 15||||IX11727208-0|SWAP|Curncy||||||||||
 AUST 4.85 03/15/26 ASW6||||IX9062559-0|SWAP|Curncy||||||||||
+B     01/05/12    ASW6||||IX13746610-0|SWAP|Curncy||||||||||
 B     01/12/12    ASW6||||IX12684158-0|SWAP|Curncy||||||||||
+B     01/19/12    ASW6||||IX13746618-0|SWAP|Curncy||||||||||
+B     01/26/12    ASW6||||IX13746626-0|SWAP|Curncy||||||||||
+B     02/02/12    ASW6||||IX13746630-0|SWAP|Curncy||||||||||
 B     02/09/12    ASW6||||IX12684154-0|SWAP|Curncy||||||||||
+B     02/16/12    ASW6||||IX13746634-0|SWAP|Curncy||||||||||
+B     02/23/12    ASW6||||IX13746642-0|SWAP|Curncy||||||||||
+B     03/01/12    ASW6||||IX13746646-0|SWAP|Curncy||||||||||
 B     03/08/12    ASW6||||IX12684150-0|SWAP|Curncy||||||||||
+B     03/15/12    ASW6||||IX13746666-0|SWAP|Curncy||||||||||
+B     03/22/12    ASW6||||IX13746674-0|SWAP|Curncy||||||||||
+B     03/29/12    ASW6||||IX13746794-0|SWAP|Curncy||||||||||
 B     04/05/12    ASW6||||IX12684134-0|SWAP|Curncy||||||||||
+B     04/12/12    ASW6||||IX13746802-0|SWAP|Curncy||||||||||
+B     05/31/12    ASW6||||IX13746810-0|SWAP|Curncy||||||||||
+B     06/28/12    ASW6||||IX13746818-0|SWAP|Curncy||||||||||
+B     06/28/12    ASW6||||IX13746822-0|SWAP|Curncy||||||||||
 B     06/30/11    ASW6||||IX12677665-0|SWAP|Curncy||||||||||
 B     07/07/11    ASW6||||IX12677669-0|SWAP|Curncy||||||||||
 B     07/14/11    ASW6||||IX12677673-0|SWAP|Curncy||||||||||
@@ -382,18 +386,27 @@ B     07/28/11    ASW6||||IX12677681-0|SWAP|Curncy||||||||||
 B     08/04/11    ASW6||||IX12677693-0|SWAP|Curncy||||||||||
 B     08/11/11    ASW6||||IX12683342-0|SWAP|Curncy||||||||||
 B     08/18/11    ASW6||||IX12683350-0|SWAP|Curncy||||||||||
+B     08/23/12    ASW6||||IX13746826-0|SWAP|Curncy||||||||||
 B     08/25/11    ASW6||||IX12683442-0|SWAP|Curncy||||||||||
 B     09/01/11    ASW6||||IX12683446-0|SWAP|Curncy||||||||||
 B     09/08/11    ASW6||||IX12683458-0|SWAP|Curncy||||||||||
 B     09/15/11    ASW6||||IX12683462-0|SWAP|Curncy||||||||||
+B     09/20/12    ASW6||||IX13746842-0|SWAP|Curncy||||||||||
 B     09/22/11    ASW6||||IX12683466-0|SWAP|Curncy||||||||||
 B     09/29/11    ASW6||||IX12683470-0|SWAP|Curncy||||||||||
 B     10/06/11    ASW6||||IX12683474-0|SWAP|Curncy||||||||||
 B     10/13/11    ASW6||||IX12683478-0|SWAP|Curncy||||||||||
+B     10/17/11    ASW6||||IX13747990-0|SWAP|Curncy||||||||||
 B     10/20/11    ASW6||||IX12684122-0|SWAP|Curncy||||||||||
 B     10/27/11    ASW6||||IX12684126-0|SWAP|Curncy||||||||||
+B     11/10/11    ASW6||||IX13746586-0|SWAP|Curncy||||||||||
 B     11/17/11    ASW6||||IX12684170-0|SWAP|Curncy||||||||||
+B     11/25/11    ASW6||||IX13746590-0|SWAP|Curncy||||||||||
+B     12/01/11    ASW6||||IX13746594-0|SWAP|Curncy||||||||||
+B     12/08/11    ASW6||||IX13746598-0|SWAP|Curncy||||||||||
 B     12/15/11    ASW6||||IX12684166-0|SWAP|Curncy||||||||||
+B     12/22/11    ASW6||||IX13746602-0|SWAP|Curncy||||||||||
+B     12/29/11    ASW6||||IX13746606-0|SWAP|Curncy||||||||||
 B   05/05/11   ASW6||||IX12677573-0|SWAP|Curncy||||||||||
 B   05/12/11   ASW6||||IX12677605-0|SWAP|Curncy||||||||||
 B   05/19/11   ASW6||||IX12677613-0|SWAP|Curncy||||||||||
@@ -3583,8 +3596,88 @@ EUR SO 30/2 FWD      15Y||||IX12614097-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      18M||||IX12614053-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      20Y||||IX12614021-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD      30Y||||IX13233307-0|SWAP|Curncy||||||||||
+EUR SO P 10/2         1Y||||IX13749358-0|SWAP|Curncy||||||||||
+EUR SO P 10/2         3M||||IX13748806-0|SWAP|Curncy||||||||||
+EUR SO P 10/2         6M||||IX13748922-0|SWAP|Curncy||||||||||
+EUR SO P 10/2        18M||||IX13749382-0|SWAP|Curncy||||||||||
+EUR SO P 10/2        2Y||||IX13749442-0|SWAP|Curncy||||||||||
+EUR SO P 10/2        3Y||||IX13749538-0|SWAP|Curncy||||||||||
+EUR SO P 10/2        9M||||IX13748978-0|SWAP|Curncy||||||||||
+EUR SO P 10/2       1M||||IX13748858-0|SWAP|Curncy||||||||||
 EUR SO P 10/2       1W||||IX13690429-0|SWAP|Curncy||||||||||
-EUR SO P 10/2       1W||||IX13690441-0|SWAP|Curncy||||||||||
+EUR SO P 10/2       2W||||IX13748418-0|SWAP|Curncy||||||||||
+EUR SO P 10/2   +25   1W||||IX13748390-0|SWAP|Curncy||||||||||
+EUR SO P 10/2   +25   3Y||||IX13749550-0|SWAP|Curncy||||||||||
+EUR SO P 10/2   +50   1W||||IX13748394-0|SWAP|Curncy||||||||||
+EUR SO P 10/2   +75   1W||||IX13748398-0|SWAP|Curncy||||||||||
+EUR SO P 10/2   -25   1M||||IX13748854-0|SWAP|Curncy||||||||||
+EUR SO P 10/2   -50   1M||||IX13748850-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100   1M||||IX13748906-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100   1W||||IX13748402-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100   1Y||||IX13749374-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100   2Y||||IX13749494-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100   3Y||||IX13749554-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100  18M||||IX13749406-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100  18M||||IX13749410-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100  2W||||IX13748434-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100  3M||||IX13748822-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100  6M||||IX13748966-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +100  9M||||IX13748998-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150   1W||||IX13748406-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150   1Y||||IX13749370-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150   2Y||||IX13749502-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150   3Y||||IX13749566-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150   6M||||IX13748970-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150  18M||||IX13749402-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150  1M||||IX13748910-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150  2W||||IX13748438-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150  3M||||IX13748830-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +150  9M||||IX13749002-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25    3M||||IX13748814-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25   18M||||IX13749390-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25   1M||||IX13748874-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25   1Y||||IX13749354-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25   2Y||||IX13749446-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25   6M||||IX13748926-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25   9M||||IX13748990-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +25  2W||||IX13748422-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   18M||||IX13749398-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   1M||||IX13748878-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   1Y||||IX13749362-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   2Y||||IX13749462-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   3M||||IX13748818-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   3Y||||IX13749546-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   6M||||IX13748930-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50   9M||||IX13748986-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +50  2W||||IX13748426-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75    3M||||IX13748826-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75   18M||||IX13749394-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75   1M||||IX13748890-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75   1Y||||IX13749366-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75   2Y||||IX13749490-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75   3Y||||IX13749558-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75   6M||||IX13748934-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75   9M||||IX13748994-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  +75  2W||||IX13748430-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -10   1Y||||IX13749350-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -10   2Y||||IX13749426-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -10   3Y||||IX13749542-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25    3M||||IX13748810-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25   18M||||IX13749386-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25   1Y||||IX13749334-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25   2Y||||IX13749414-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25   3Y||||IX13749534-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25   6M||||IX13748918-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25   9M||||IX13748982-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -25  2W||||IX13748414-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50    3M||||IX13748914-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50    9M||||IX13748974-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50   18M||||IX13749378-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50   1Y||||IX13749322-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50   2Y||||IX13749418-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50   3Y||||IX13749530-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50   6M||||IX13748834-0|SWAP|Curncy||||||||||
+EUR SO P 10/2  -50  2W||||IX13748410-0|SWAP|Curncy||||||||||
 EUR SO P 10/2 -25 1W||||IX13690425-0|SWAP|Curncy||||||||||
 EUR SO P 10/2 -50 1W||||IX13690421-0|SWAP|Curncy||||||||||
 EUR SO P 10/2 ATM     1M||||IX13711648-0|SWAP|Curncy||||||||||
@@ -3630,6 +3723,7 @@ EUR SO P 10/2 FWD    20Y||||IX13693213-0|SWAP|Curncy||||||||||
 EUR SO P 10/2 FWD    2W||||IX13693141-0|SWAP|Curncy||||||||||
 EUR SO P 10/2 FWD    30Y||||IX13693217-0|SWAP|Curncy||||||||||
 EUR SO P 30/10        1W||||IX13690453-0|SWAP|Curncy||||||||||
+EUR SO P 30/10 +25 1W||||IX13747118-0|SWAP|Curncy||||||||||
 EUR SO P 30/10 -25    1W||||IX13690449-0|SWAP|Curncy||||||||||
 EUR SO P 30/10 -50    1W||||IX13690445-0|SWAP|Curncy||||||||||
 EUR SO P 30/10 FWD    1M||||IX13693301-0|SWAP|Curncy||||||||||
@@ -3653,8 +3747,73 @@ EUR SO P 30/10 FWD   15Y||||IX13693361-0|SWAP|Curncy||||||||||
 EUR SO P 30/10 FWD   18M||||IX13693329-0|SWAP|Curncy||||||||||
 EUR SO P 30/10 FWD   20Y||||IX13693373-0|SWAP|Curncy||||||||||
 EUR SO P 30/10 FWD   30Y||||IX13693377-0|SWAP|Curncy||||||||||
+EUR SO P 30/2       1W||||IX13690441-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100 18M||||IX13749626-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100 1M||||IX13748954-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100 1Y||||IX13749598-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100 2W||||IX13748894-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100 3M||||IX13749430-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100 6M||||IX13749474-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100 9M||||IX13749526-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +100||||IX13748838-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 18M||||IX13749630-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 1M||||IX13748962-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 1W||||IX13748842-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 1Y||||IX13749594-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 2W||||IX13748898-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 3M|63||||SWAP|Curncy|||27748|0|0||0|||
+EUR SO P 30/2 +150 3M||||IX13749434-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 6M||||IX13749482-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +150 9M||||IX13749522-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 18M||||IX13749610-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 1M||||IX13748950-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 1W||||IX13746910-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 1W||||IX13748442-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 1Y||||IX13749578-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 2W||||IX13748870-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 3M||||IX13749346-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 6M||||IX13749466-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +25 9M||||IX13749510-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 18M||||IX13749618-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 1M||||IX13748946-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 1W||||IX13748446-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 1Y||||IX13749590-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 2W||||IX13748882-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 3M||||IX13749342-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 6M||||IX13749470-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +50 9M||||IX13749518-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 18M||||IX13749622-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 1M||||IX13748958-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 1W||||IX13748450-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 1Y||||IX13749586-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 2W||||IX13748886-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 3M||||IX13749422-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 6M||||IX13749478-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 +75 9M||||IX13749514-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -10 1Y||||IX13749570-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 -25     1W||||IX13690437-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25 18M||||IX13749602-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25 1M||||IX13748902-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25 1M||||IX13748942-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25 1Y||||IX13749574-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25 2W||||IX13748862-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25 6M||||IX13749458-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25 9M||||IX13749498-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -25||||IX13749330-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 -50     1W||||IX13690433-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -50 18M||||IX13749606-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -50 1Y||||IX13749562-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -50 2W||||IX13748846-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -50 3M||||IX13749326-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -50 6M||||IX13749450-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 -50 9M||||IX13749486-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 18M||||IX13749614-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 1M||||IX13748938-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 1Y||||IX13749582-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 2W||||IX13748866-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 3M||||IX13749338-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 6M||||IX13749454-0|SWAP|Curncy||||||||||
+EUR SO P 30/2 9M||||IX13749506-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 ATM     1M||||IX13711736-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 ATM     1W||||IX13690461-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 ATM     2W||||IX13711732-0|SWAP|Curncy||||||||||
@@ -7335,6 +7494,7 @@ NOK-USD SWAP        9 MO||||IX296032-0|SWAP|Curncy||||||||||
 NTLR 3 1/2 07/15/20 ASW6||||IX10080690-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD  1Y2Y||||IX13735131-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 1Y10Y||||IX13735163-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 1Y15Y||||IX13747078-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 1Y3Y||||IX13735135-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 1Y4Y||||IX13735139-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 1Y5Y||||IX13735143-0|SWAP|Curncy||||||||||
@@ -7343,6 +7503,7 @@ NZD IRS SWAP SPRD 1Y7Y||||IX13735151-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 1Y8Y||||IX13735155-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 1Y9Y||||IX13735159-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 2Y10Y||||IX13735191-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 2Y15Y||||IX13747074-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 2Y3Y||||IX13735167-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 2Y4Y||||IX13735171-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 2Y5Y||||IX13735175-0|SWAP|Curncy||||||||||
@@ -7351,6 +7512,7 @@ NZD IRS SWAP SPRD 2Y7Y||||IX13735183-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 2Y8Y||||IX13735187-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 2Y9Y||||IX13735195-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 3Y10Y||||IX13735223-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 3Y15Y||||IX13747082-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 3Y4Y||||IX13735199-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 3Y5Y||||IX13735207-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 3Y6Y||||IX13735203-0|SWAP|Curncy||||||||||
@@ -7358,26 +7520,32 @@ NZD IRS SWAP SPRD 3Y7Y||||IX13735211-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 3Y8Y||||IX13735215-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 3Y9Y||||IX13735219-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 4Y10Y||||IX13735247-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 4Y15Y||||IX13747090-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 4Y5Y||||IX13735227-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 4Y6Y||||IX13735231-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 4Y7Y||||IX13735239-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 4Y8Y||||IX13735235-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 4Y9Y||||IX13735243-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 5Y10Y||||IX13735267-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 5Y15Y||||IX13747086-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 5Y6Y||||IX13735251-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 5Y7Y||||IX13735255-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 5Y8Y||||IX13735259-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 5Y9Y||||IX13735263-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 6Y10Y||||IX13735283-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 6Y15Y||||IX13747094-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 6Y7Y||||IX13735275-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 6Y8Y||||IX13735271-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 6Y9Y||||IX13735279-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 7Y10Y||||IX13735291-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 7Y15Y||||IX13747102-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 7Y8Y||||IX13735287-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 7Y9Y||||IX13735295-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 8Y10Y||||IX13735303-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 8Y15Y||||IX13747098-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 8Y9Y||||IX13735299-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 9Y10Y||||IX13735307-0|SWAP|Curncy||||||||||
+NZD IRS SWAP SPRD 9Y15Y||||IX13747106-0|SWAP|Curncy||||||||||
 NZD SWAP            1 DY||||IX914061-0|SWAP|Curncy||||||||||
 NZD SWAP            1 WK||||IX914065-0|SWAP|Curncy||||||||||
 NZD SWAP            1 YR||||IX343925-0|SWAP|Curncy||||||||||
@@ -8520,6 +8688,26 @@ SWAP COP X IBR 8 YR||||IX11317348-0|SWAP|Curncy||||||||||
 SWAP COP X IBR 9 MTH||||IX11747636-0|SWAP|Curncy||||||||||
 SWAP COP x DTF 12 YR||||IX2928702-0|SWAP|Curncy||||||||||
 SWAP COP x DTF 15 YR||||IX2928706-0|SWAP|Curncy||||||||||
+T     05/15/14    ASW6||||IX13747026-0|SWAP|Curncy||||||||||
+T     05/31/13    ASW6||||IX13746902-0|SWAP|Curncy||||||||||
+T     05/31/16    ASW6||||IX13747054-0|SWAP|Curncy||||||||||
+T     06/15/14    ASW6||||IX13747034-0|SWAP|Curncy||||||||||
+T     06/30/13    ASW6||||IX13746906-0|SWAP|Curncy||||||||||
+T     06/30/16    ASW6||||IX13747058-0|SWAP|Curncy||||||||||
+T     06/30/18    ASW6||||IX13747122-0|SWAP|Curncy||||||||||
+T     07/15/14    ASW6||||IX13747038-0|SWAP|Curncy||||||||||
+T     07/31/13    ASW6||||IX13746914-0|SWAP|Curncy||||||||||
+T     07/31/16    ASW6||||IX13747062-0|SWAP|Curncy||||||||||
+T     07/31/18    ASW6||||IX13747954-0|SWAP|Curncy||||||||||
+T     08/15/14    ASW6||||IX13747042-0|SWAP|Curncy||||||||||
+T     08/31/13    ASW6||||IX13746926-0|SWAP|Curncy||||||||||
+T     08/31/16    ASW6||||IX13747066-0|SWAP|Curncy||||||||||
+T     08/31/18    ASW6||||IX13747958-0|SWAP|Curncy||||||||||
+T     09/15/14    ASW6||||IX13747046-0|SWAP|Curncy||||||||||
+T     09/30/13    ASW6||||IX13746938-0|SWAP|Curncy||||||||||
+T     09/30/16    ASW6||||IX13747070-0|SWAP|Curncy||||||||||
+T     09/30/18    ASW6||||IX13747962-0|SWAP|Curncy||||||||||
+T     10/15/14    ASW6||||IX13747050-0|SWAP|Curncy||||||||||
 T    4   07/31/11 ASW6||||IX12677685-0|SWAP|Curncy||||||||||
 T   0   01/31/13  ASW6||||IX12720062-0|SWAP|Curncy||||||||||
 T   0   02/28/13  ASW6||||IX12720090-0|SWAP|Curncy||||||||||
@@ -8658,10 +8846,13 @@ T   4    05/15/17   ASW6||||IX12720694-0|SWAP|Curncy||||||||||
 T   4    05/15/38   ASW6||||IX12722714-0|SWAP|Curncy||||||||||
 T   4    05/15/39   ASW6||||IX12722722-0|SWAP|Curncy||||||||||
 T   4    05/15/40   ASW6||||IX12722738-0|SWAP|Curncy||||||||||
+T   4    05/15/41   ASW6||||IX13747978-0|SWAP|Curncy||||||||||
 T   4    08/15/16   ASW6||||IX12720626-0|SWAP|Curncy||||||||||
 T   4    08/15/17   ASW6||||IX12720794-0|SWAP|Curncy||||||||||
 T   4    08/15/18   ASW6||||IX12722350-0|SWAP|Curncy||||||||||
 T   4    08/15/39   ASW6||||IX12722726-0|SWAP|Curncy||||||||||
+T   4    08/15/41   ASW6||||IX13747982-0|SWAP|Curncy||||||||||
+T   4    08/15/41   ASW6||||IX13747986-0|SWAP|Curncy||||||||||
 T   4    11/15/16   ASW6||||IX12720646-0|SWAP|Curncy||||||||||
 T   4    11/15/17   ASW6||||IX12720810-0|SWAP|Curncy||||||||||
 T   4    11/15/39   ASW6||||IX12722730-0|SWAP|Curncy||||||||||
@@ -8719,10 +8910,12 @@ T   8    02/15/19   ASW6||||IX12722366-0|SWAP|Curncy||||||||||
 T   8    02/15/20   ASW6||||IX12722390-0|SWAP|Curncy||||||||||
 T   8    05/15/20   ASW6||||IX12722398-0|SWAP|Curncy||||||||||
 T   8    05/15/21   ASW6||||IX12722430-0|SWAP|Curncy||||||||||
+T   8    05/15/21   ASW6||||IX13747974-0|SWAP|Curncy||||||||||
 T   8    08/15/17   ASW6||||IX12720766-0|SWAP|Curncy||||||||||
 T   8    08/15/19   ASW6||||IX12722378-0|SWAP|Curncy||||||||||
 T   8    08/15/20   ASW6||||IX12722406-0|SWAP|Curncy||||||||||
 T   8    08/15/21   ASW6||||IX12722434-0|SWAP|Curncy||||||||||
+T   8    08/15/21   ASW6||||IX13747970-0|SWAP|Curncy||||||||||
 T   8    11/15/21   ASW6||||IX12722438-0|SWAP|Curncy||||||||||
 T   9    05/15/18   ASW6||||IX12722342-0|SWAP|Curncy||||||||||
 T   9    11/15/18   ASW6||||IX12722358-0|SWAP|Curncy||||||||||
@@ -9625,6 +9818,8 @@ USD SO P 10/2 ATM    20Y||||IX13712092-0|SWAP|Curncy||||||||||
 USD SO P 10/2 ATM    30Y||||IX13712100-0|SWAP|Curncy||||||||||
 USD SO P 10/2 FWD     1W||||IX13690529-0|SWAP|Curncy||||||||||
 USD SO P 30/10        1W||||IX13690513-0|SWAP|Curncy||||||||||
+USD SO P 30/10 +25 1W||||IX13747110-0|SWAP|Curncy||||||||||
+USD SO P 30/10 +50 1W||||IX13747114-0|SWAP|Curncy||||||||||
 USD SO P 30/10 -25    1W||||IX13690509-0|SWAP|Curncy||||||||||
 USD SO P 30/10 -50    1W||||IX13690505-0|SWAP|Curncy||||||||||
 USD SO P 30/10 ATM    1M||||IX13711852-0|SWAP|Curncy||||||||||
