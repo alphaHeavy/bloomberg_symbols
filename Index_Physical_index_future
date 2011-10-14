@@ -1,5 +1,5 @@
-#Data Generated At: Thu Oct 13 06:44:37 EDT 2011
-#Data Records=6274
+#Data Generated At: Fri Oct 14 06:45:46 EDT 2011
+#Data Records=6272
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -1578,6 +1578,7 @@ EUROZONE HICP     Mar12|AAH2|eCME|2078784906409|IX12312919-0|Physical index futu
 EUROZONE HICP     May12|AAK2|eCME|2078785835853|IX12732871-0|Physical index future.|Index|BBG001PH6283||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AAK2|//blp/mktdata/buid/eCME/IX12732871-0|//blp/mktdata/bsid/2078785835853
 EUROZONE HICP     Nov11|AAX1|eCME|2078783200768|IX11466789-0|Physical index future.|Index|BBG001925NK5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AAX1|//blp/mktdata/buid/eCME/IX11466789-0|//blp/mktdata/bsid/2078783200768
 EUROZONE HICP     Oct11|AAV1|eCME|2078782801548|IX11293404-0|Physical index future.|Index|BBG0017DY2R0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AAV1|//blp/mktdata/buid/eCME/IX11293404-0|//blp/mktdata/bsid/2078782801548
+EUROZONE HICP     Oct12|AAV2|eCME|2078788632037|IX13774929-0|Physical index future.|Index|BBG0025KNVJ1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AAV2|//blp/mktdata/buid/eCME/IX13774929-0|//blp/mktdata/bsid/2078788632037
 EUROZONE HICP     Sep12|AAU2|eCME|2078788094617|IX13573989-0|Physical index future.|Index|BBG0022MJY81||14002|14002|0||39490|//blp/mktdata/bsym/eCME/AAU2|//blp/mktdata/buid/eCME/IX13573989-0|//blp/mktdata/bsid/2078788094617
 EastSeabr 1st $100Dec10|XXLZ0|CCX|2559814910847|IX9914134-0|Physical index future.|Index|BBG000Z23HY8||30499|30499|0||40090|//blp/mktdata/bsym/CCX/XXLZ0|//blp/mktdata/buid/CCX/IX9914134-0|//blp/mktdata/bsid/2559814910847
 EastSeabr 1st $100Dec11|XXLZ1|CCX|2559815891242|IX10081054-0|Physical index future.|Index|BBG000Z5ZC95||30499|30499|0||40090|//blp/mktdata/bsym/CCX/XXLZ1|//blp/mktdata/buid/CCX/IX10081054-0|//blp/mktdata/bsid/2559815891242
@@ -1947,22 +1948,19 @@ Gas Oil GOWAVE FU Mar12|IGWH2|ICE|1172532917133|IX7062802-0|Physical index futur
 Gas Oil GOWAVE FU May12|IGWK2|ICE|1172549949336|IX13556651-0|Physical index future.|Index|BBG0022FNDN0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWK2|//blp/mktdata/buid/ICE/IX13556651-0|//blp/mktdata/bsid/1172549949336
 Gas Oil GOWAVE FU Nov11|IGWX1|ICE|1172541745279|IX10158626-0|Physical index future.|Index|BBG000Z9LH46||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWX1|//blp/mktdata/buid/ICE/IX10158626-0|//blp/mktdata/bsid/1172541745279
 Gas Oil GOWAVE FU Nov12|IGWX2|ICE|1172546764934|IX12269496-0|Physical index future.|Index|BBG001KNQ3M5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWX2|//blp/mktdata/buid/ICE/IX12269496-0|//blp/mktdata/bsid/1172546764934
-Gas Oil GOWAVE FU Oct11|IGWV1|ICE|1172541371888|IX10052099-0|Physical index future.|Index|BBG000Z57PX0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWV1|//blp/mktdata/buid/ICE/IX10052099-0|//blp/mktdata/bsid/1172541371888
 Gas Oil GOWAVE FU Oct12|IGWV2|ICE|1172546298044|IX12050515-0|Physical index future.|Index|BBG001J06WK7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWV2|//blp/mktdata/buid/ICE/IX12050515-0|//blp/mktdata/bsid/1172546298044
 Gas Oil GOWAVE FU Sep12|IGWU2|ICE|1172545854823|IX11867834-0|Physical index future.|Index|BBG001D9DCF6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWU2|//blp/mktdata/buid/ICE/IX11867834-0|//blp/mktdata/bsid/1172545854823
 Gas Oil US MM     Jan12|QMIF2|ICE|1172550497655|IX13756575-0|Physical index future.|Index|BBG0025CCHZ4||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QMIF2|//blp/mktdata/buid/ICE/IX13756575-0|//blp/mktdata/bsid/1172550497655
 Gas Oil US MM     Nov11|QMIX1|ICE|1172549301339|IX13341463-0|Physical index future.|Index|BBG001Z6CBB5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QMIX1|//blp/mktdata/buid/ICE/IX13341463-0|//blp/mktdata/bsid/1172549301339
 GasOil Aft1Min    Dec11|OICZ1|ICE|1172549966315|IX13556659-0|Physical index future.|Index|BBG0022FNDV1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICZ1|//blp/mktdata/buid/ICE/IX13556659-0|//blp/mktdata/bsid/1172549966315
-GasOil Aft1Min    Jan12|OICF2|||IX13765212-0|Physical index future.|Index|BBG0025F46G1||30022|30022|0||40087|||
+GasOil Aft1Min    Jan12|OICF2|ICE|1172550529471|IX13765212-0|Physical index future.|Index|BBG0025F46G1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICF2|//blp/mktdata/buid/ICE/IX13765212-0|//blp/mktdata/bsid/1172550529471
 GasOil Aft1Min    Nov11|OICX1|ICE|1172549342899|IX13348913-0|Physical index future.|Index|BBG001ZB8LH1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICX1|//blp/mktdata/buid/ICE/IX13348913-0|//blp/mktdata/bsid/1172549342899
-GasOil Aft1Min    Oct11|OICV1|ICE|1172548693802|IX13140980-0|Physical index future.|Index|BBG001WNQSR2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICV1|//blp/mktdata/buid/ICE/IX13140980-0|//blp/mktdata/bsid/1172548693802
 GasOil Singpore M Dec11|QSIZ1|ICE|1172549919563|IX13543793-0|Physical index future.|Index|BBG002290VZ6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIZ1|//blp/mktdata/buid/ICE/IX13543793-0|//blp/mktdata/bsid/1172549919563
 GasOil Singpore M Jan12|QSIF2|ICE|1172550503367|IX13756571-0|Physical index future.|Index|BBG0025CCHY5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIF2|//blp/mktdata/buid/ICE/IX13756571-0|//blp/mktdata/bsid/1172550503367
 GasOil Singpore M Nov11|QSIX1|ICE|1172549301340|IX13341459-0|Physical index future.|Index|BBG001Z6CB98||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIX1|//blp/mktdata/buid/ICE/IX13341459-0|//blp/mktdata/bsid/1172549301340
 GasOil US1Min     Dec11|OIEZ1|ICE|1172549954869|IX13556663-0|Physical index future.|Index|BBG0022FNDX9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEZ1|//blp/mktdata/buid/ICE/IX13556663-0|//blp/mktdata/bsid/1172549954869
-GasOil US1Min     Jan12|OIEF2|||IX13765208-0|Physical index future.|Index|BBG0025F46F2||30022|30022|0||40087|||
+GasOil US1Min     Jan12|OIEF2|ICE|1172550514307|IX13765208-0|Physical index future.|Index|BBG0025F46F2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEF2|//blp/mktdata/buid/ICE/IX13765208-0|//blp/mktdata/bsid/1172550514307
 GasOil US1Min     Nov11|OIEX1|ICE|1172549327520|IX13348921-0|Physical index future.|Index|BBG001ZB8LK7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEX1|//blp/mktdata/buid/ICE/IX13348921-0|//blp/mktdata/bsid/1172549327520
-GasOil US1Min     Oct11|OIEV1|ICE|1172548691589|IX13140984-0|Physical index future.|Index|BBG001WNQSS1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEV1|//blp/mktdata/buid/ICE/IX13140984-0|//blp/mktdata/bsid/1172548691589
 General Motor CEBOSep12|BGCU2|||IX4490405-0|Physical index future.|Index|BBG000WFPXD6||14009|0|0||39495|||
 GulfCoast 2nd $10 Dec13|WGLZ3|CCX|2559817895126|IX10596025-0|Physical index future.|Index|BBG0012F7TC7||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WGLZ3|//blp/mktdata/buid/CCX/IX10596025-0|//blp/mktdata/bsid/2559817895126
 GulfCoast 2nd $10BDec10|WGLZ0|CCX|2559809767737|IX8355450-0|Physical index future.|Index|BBG000JJFTJ7||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WGLZ0|//blp/mktdata/buid/CCX/IX8355450-0|//blp/mktdata/bsid/2559809767737
@@ -3006,7 +3004,6 @@ LMEX METAL IX FUT Jun12|MZM2|LME|661447034636|IX12898701-0|Physical index future
 LMEX METAL IX FUT Mar12|MZH2|LME|661445625071|IX12262150-0|Physical index future.|Index|BBG001KLZ900||14059|0|0||14197|//blp/mktdata/bsym/LME/MZH2|//blp/mktdata/buid/LME/IX12262150-0|//blp/mktdata/bsid/661445625071
 LMEX METAL IX FUT May12|MZK2|LME|661446593780|IX12715601-0|Physical index future.|Index|BBG001PD4ZL6||14059|0|0||14197|//blp/mktdata/bsym/LME/MZK2|//blp/mktdata/buid/LME/IX12715601-0|//blp/mktdata/bsid/661446593780
 LMEX METAL IX FUT Nov11|MZX1|LME|661443929198|IX11442929-0|Physical index future.|Index|BBG0018VFY54||14059|0|0||14197|//blp/mktdata/bsym/LME/MZX1|//blp/mktdata/buid/LME/IX11442929-0|//blp/mktdata/bsid/661443929198
-LMEX METAL IX FUT Oct11|MZV1|LME|661443576971|IX11285783-0|Physical index future.|Index|BBG0017CJDX8||14059|0|0||14197|//blp/mktdata/bsym/LME/MZV1|//blp/mktdata/buid/LME/IX11285783-0|//blp/mktdata/bsid/661443576971
 LMEX METAL IX FUT Oct12|MZV2|LME|661449398914|IX13765200-0|Physical index future.|Index|BBG0025F46C5||14059|0|0||14197|//blp/mktdata/bsym/LME/MZV2|//blp/mktdata/buid/LME/IX13765200-0|//blp/mktdata/bsid/661449398914
 LMEX METAL IX FUT Sep12|MZU2|LME|661448883162|IX13572909-0|Physical index future.|Index|BBG0022MD4J1||14059|0|0||14197|//blp/mktdata/bsym/LME/MZU2|//blp/mktdata/buid/LME/IX13572909-0|//blp/mktdata/bsid/661448883162
 LONDON MONTH CAT  Apr12|L5J2|eCME|2078785728885|IX12685466-0|Physical index future.|Index|BBG001P63MJ4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/L5J2|//blp/mktdata/buid/eCME/IX12685466-0|//blp/mktdata/bsid/2078785728885
@@ -6198,6 +6195,7 @@ XAY Cons Discret  Dec11|IXYZ1|eCME|2078787396475|IX13341923-0|Physical index fut
 YEN DENOM NIKKEI  Dec11|NHZ1|eCME|2078773845366|IX8541354-0|Physical index future.|Index|BBG000XPBGK7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHZ1|//blp/mktdata/buid/eCME/IX8541354-0|//blp/mktdata/bsid/2078773845366
 YEN DENOM NIKKEI  Dec12|NHZ2|eCME|2078777989900|IX9835127-0|Physical index future.|Index|BBG000YT6N56||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHZ2|//blp/mktdata/buid/eCME/IX9835127-0|//blp/mktdata/bsid/2078777989900
 YEN DENOM NIKKEI  Dec13|NHZ3|eCME|2078783515140|IX11652186-0|Physical index future.|Index|BBG001B80R07||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHZ3|//blp/mktdata/buid/eCME/IX11652186-0|//blp/mktdata/bsid/2078783515140
+YEN DENOM NIKKEI  Feb12|NHG2|eCME|2078788632036|IX13774933-0|Physical index future.|Index|BBG0025KNVK9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHG2|//blp/mktdata/buid/eCME/IX13774933-0|//blp/mktdata/bsid/2078788632036
 YEN DENOM NIKKEI  Jan12|NHF2|eCME|2078787424052|IX13349388-0|Physical index future.|Index|BBG001ZBX4H1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHF2|//blp/mktdata/buid/eCME/IX13349388-0|//blp/mktdata/bsid/2078787424052
 YEN DENOM NIKKEI  Jun12|NHM2|eCME|2078774757879|IX8937911-0|Physical index future.|Index|BBG000S2L4W7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHM2|//blp/mktdata/buid/eCME/IX8937911-0|//blp/mktdata/bsid/2078774757879
 YEN DENOM NIKKEI  Jun13|NHM3|eCME|2078781013736|IX10513872-0|Physical index future.|Index|BBG0011PBG84||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHM3|//blp/mktdata/buid/eCME/IX10513872-0|//blp/mktdata/bsid/2078781013736
