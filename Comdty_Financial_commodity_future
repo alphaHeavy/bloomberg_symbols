@@ -1,5 +1,5 @@
-#Data Generated At: Fri Oct 14 06:15:09 EDT 2011
-#Data Records=6211
+#Data Generated At: Sat Oct 15 06:01:56 EDT 2011
+#Data Records=6213
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
 10 Y INT RATE SWP Dec11|XJZ1|||IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|||
@@ -3094,6 +3094,7 @@ Euro-BTP Future   Dec11|IKZ1|EUX|279193522495|IX12238877-0|Financial commodity f
 Euro-BTP Future   Jun12|IKM2|EUX|279196702142|IX13533176-0|Financial commodity future.|Comdty|BBG00226B8C6||14066|14111|0||39521|//blp/mktdata/bsym/EUX/IKM2|//blp/mktdata/buid/EUX/IX13533176-0|//blp/mktdata/bsid/279196702142
 Euro-BTP Future   Mar12|IKH2|EUX|279194951741|IX12898649-0|Financial commodity future.|Comdty|BBG001QWSMB7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/IKH2|//blp/mktdata/buid/EUX/IX12898649-0|//blp/mktdata/bsid/279194951741
 EuroYen 1 Yr Md C Dec11|0YZ1|||IX12916307-0|Financial commodity future.|Comdty|BBG001QZCY76||14002|14002|0||39490|||
+EuroYen 1 Yr Md C Jan12|0YF2|||IX13782768-0|Financial commodity future.|Comdty|BBG0025NPGG9||14002|14002|0||39490|||
 EuroYen 1 Yr Md C Mar12|0YH2|||IX13596718-0|Financial commodity future.|Comdty|BBG0022W08L1||14002|14002|0||39490|||
 EuroYen 1 Yr Md C Nov11|0YX1|||IX13358065-0|Financial commodity future.|Comdty|BBG001ZTVGP8||14002|14002|0||39490|||
 EuroYen 1 Yr Md C Oct11|0YV1|||IX13170839-0|Financial commodity future.|Comdty|BBG001WWJK60||14002|14002|0||39490|||
@@ -3841,6 +3842,7 @@ HUNGAR 1YR T-BILL Jun12|VWM2|BSE|1103828653321|IX12890332-0|Financial commodity 
 HUNGAR 1YR T-BILL Mar12|VWH2|BSE|1103827247859|IX12238873-0|Financial commodity future.|Comdty|BBG001KKMLM5||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWH2|//blp/mktdata/buid/BSE/IX12238873-0|//blp/mktdata/bsid/1103827247859
 HUNGAR 1YR T-BILL Sep12|VWU2|BSE|1103830489779|IX13564612-0|Financial commodity future.|Comdty|BBG0022HY8Z2||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWU2|//blp/mktdata/buid/BSE/IX13564612-0|//blp/mktdata/bsid/1103830489779
 HUNGARIAN 5Y BOND Dec11|HFZ1|BSE|1103830540022|IX13582478-0|Financial commodity future.|Comdty|BBG0022QPKG6||14116|14116|0||39547|//blp/mktdata/bsym/BSE/HFZ1|//blp/mktdata/buid/BSE/IX13582478-0|//blp/mktdata/bsid/1103830540022
+HUNGARIAN 5Y BOND Jan12|HFF2|||IX13781664-0|Financial commodity future.|Comdty|BBG0025NL5L1||14116|14116|0||39547|||
 HUNGARIAN 5Y BOND Nov11|HFX1|BSE|1103829985106|IX13379328-0|Financial commodity future.|Comdty|BBG00203F0S1||14116|14116|0||39547|//blp/mktdata/bsym/BSE/HFX1|//blp/mktdata/buid/BSE/IX13379328-0|//blp/mktdata/bsid/1103829985106
 HUNGARIAN 5Y BOND Oct11|HFV1|BSE|1103829241610|IX13154838-0|Financial commodity future.|Comdty|BBG001WSHD21||14116|14116|0||39547|//blp/mktdata/bsym/BSE/HFV1|//blp/mktdata/buid/BSE/IX13154838-0|//blp/mktdata/bsid/1103829241610
 ICE C.App Coal QtrApr12|UQCJ2|ICE|1172546668289|IX12203524-0|Financial commodity future.|Comdty|BBG001KFH7R8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/UQCJ2|//blp/mktdata/buid/ICE/IX12203524-0|//blp/mktdata/bsid/1172546668289
@@ -5687,8 +5689,8 @@ TFEX 3M BIBOR FUT Dec11|TORZ1|TEF|8774640334254|IX12950133-0|Financial commodity
 TFEX 3M BIBOR FUT Mar12|TORH2|TEF|8774642449465|IX13677152-0|Financial commodity future.|Comdty|BBG0024NLMZ0||29013|29013|0||39632|//blp/mktdata/bsym/TEF/TORH2|//blp/mktdata/buid/TEF/IX13677152-0|//blp/mktdata/bsid/8774642449465
 Thai Hom Mali Ric Dec11|RITZ1|AFE|1859743490298|IX13153434-0|Financial commodity future.|Comdty|BBG001WS73B4||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITZ1|//blp/mktdata/buid/AFE/IX13153434-0|//blp/mktdata/bsid/1859743490298
 Thai Hom Mali Ric Jan12|RITF2|AFE|1859744220418|IX13369759-0|Financial commodity future.|Comdty|BBG001ZZHD40||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITF2|//blp/mktdata/buid/AFE/IX13369759-0|//blp/mktdata/bsid/1859744220418
+Thai Hom Mali Ric Mar12|RITH2|AFE|1859745296928|IX13772237-0|Financial commodity future.|Comdty|BBG0025KDGM1||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITH2|//blp/mktdata/buid/AFE/IX13772237-0|//blp/mktdata/bsid/1859745296928
 Thai Hom Mali Ric Nov11|RITX1|AFE|1859742975452|IX12940346-0|Financial commodity future.|Comdty|BBG001R1LWQ3||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITX1|//blp/mktdata/buid/AFE/IX12940346-0|//blp/mktdata/bsid/1859742975452
-Thai Hom Mali Ric Oct11|RITV1|AFE|1859742572088|IX12742025-0|Financial commodity future.|Comdty|BBG001PJ5770||27800|27800|0||39608|//blp/mktdata/bsym/AFE/RITV1|//blp/mktdata/buid/AFE/IX12742025-0|//blp/mktdata/bsid/1859742572088
 Three Month EONIA Dec11|TMOZ1|LIF|609903632578|IX10876360-0|Financial commodity future.|Comdty|BBG0014VWP21||27267|27268|0||40559|//blp/mktdata/bsym/LIF/TMOZ1|//blp/mktdata/buid/LIF/IX10876360-0|//blp/mktdata/bsid/609903632578
 Three Month EONIA Dec12|TMOZ2|LIF|609904784061|IX11706613-0|Financial commodity future.|Comdty|BBG001BSLZK0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/TMOZ2|//blp/mktdata/buid/LIF/IX11706613-0|//blp/mktdata/bsid/609904784061
 Three Month EONIA Feb12|TMOG2|LIF|609908731106|IX13371587-0|Financial commodity future.|Comdty|BBG002004JN3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/TMOG2|//blp/mktdata/buid/LIF/IX13371587-0|//blp/mktdata/bsid/609908731106
