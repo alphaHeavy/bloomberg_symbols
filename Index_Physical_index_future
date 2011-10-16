@@ -1,5 +1,5 @@
-#Data Generated At: Sat Oct 15 06:31:39 EDT 2011
-#Data Records=6272
+#Data Generated At: Sun Oct 16 06:24:13 EDT 2011
+#Data Records=6268
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -383,15 +383,12 @@ Barclays US Ag    Sep12|LBAU2|CME|614204618266|IX13691081-0|Physical index futur
 Brent Cr Sing1Min Dec11|BCCZ1|ICE|1172549469909|IX13379316-0|Physical index future.|Index|BBG00203F0P4||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCCZ1|//blp/mktdata/buid/ICE/IX13379316-0|//blp/mktdata/bsid/1172549469909
 Brent Cr Sing1Min Feb12|BCCG2|||IX13781676-0|Physical index future.|Index|BBG0025NL5P7||30022|30022|0||40087|||
 Brent Cr Sing1Min Jan12|BCCF2|ICE|1172550025557|IX13582462-0|Physical index future.|Index|BBG0022QPKB1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCCF2|//blp/mktdata/buid/ICE/IX13582462-0|//blp/mktdata/bsid/1172550025557
-Brent Cr Sing1Min Nov11|BCCX1|ICE|1172548719263|IX13154850-0|Physical index future.|Index|BBG001WSHD76||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCCX1|//blp/mktdata/buid/ICE/IX13154850-0|//blp/mktdata/bsid/1172548719263
 Brent Crude MM    Dec11|BRCZ1|ICE|1172549469419|IX13379308-0|Physical index future.|Index|BBG00203F0M7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BRCZ1|//blp/mktdata/buid/ICE/IX13379308-0|//blp/mktdata/bsid/1172549469419
 Brent Crude MM    Feb12|BRCG2|||IX13781680-0|Physical index future.|Index|BBG0025NL5Q6||30022|30022|0||40087|||
 Brent Crude MM    Jan12|BRCF2|ICE|1172550025550|IX13582466-0|Physical index future.|Index|BBG0022QPKC0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BRCF2|//blp/mktdata/buid/ICE/IX13582466-0|//blp/mktdata/bsid/1172550025550
-Brent Crude MM    Nov11|BRCX1|ICE|1172548719259|IX13154846-0|Physical index future.|Index|BBG001WSHD49||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BRCX1|//blp/mktdata/buid/ICE/IX13154846-0|//blp/mktdata/bsid/1172548719259
 Brent Singapore M Dec11|BRSZ1|ICE|1172549469848|IX13379320-0|Physical index future.|Index|BBG00203F0Q3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BRSZ1|//blp/mktdata/buid/ICE/IX13379320-0|//blp/mktdata/bsid/1172549469848
 Brent Singapore M Feb12|BRSG2|||IX13781684-0|Physical index future.|Index|BBG0025NL5R5||30022|30022|0||40087|||
 Brent Singapore M Jan12|BRSF2|ICE|1172550025551|IX13582454-0|Physical index future.|Index|BBG0022QPK85||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BRSF2|//blp/mktdata/buid/ICE/IX13582454-0|//blp/mktdata/bsid/1172550025551
-Brent Singapore M Nov11|BRSX1|ICE|1172548719260|IX13154854-0|Physical index future.|Index|BBG001WSHD94||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BRSX1|//blp/mktdata/buid/ICE/IX13154854-0|//blp/mktdata/bsid/1172548719260
 CAC40 10 EURO FUT Dec11|CFZ1|EOP1|7718067021677|IX3537218-0|Physical index future.|Index|BBG000VYSJW3||27269|27270|0||39605|//blp/mktdata/bsym/EOP1/CFZ1|//blp/mktdata/buid/EOP1/IX3537218-0|//blp/mktdata/bsid/7718067021677
 CAC40 10 EURO FUT Dec12|CFZ2|EOP1|7718067021967|IX4953994-0|Physical index future.|Index|BBG000P3FSN2||27269|27270|0||39605|//blp/mktdata/bsym/EOP1/CFZ2|//blp/mktdata/buid/EOP1/IX4953994-0|//blp/mktdata/bsid/7718067021967
 CAC40 10 EURO FUT Dec13|CFZ3|EOP1|7718067021969|IX7653881-0|Physical index future.|Index|BBG000KD5NW7||27269|27270|0||39605|//blp/mktdata/bsym/EOP1/CFZ3|//blp/mktdata/buid/EOP1/IX7653881-0|//blp/mktdata/bsid/7718067021969
@@ -5570,8 +5567,7 @@ SPRING WHEAT IDX  May12|SBK2|eMGE|2095960179515|IX10262491-0|Physical index futu
 SPRING WHEAT IDX  May13|SBK3|eMGE|2095965280365|IX12548126-0|Physical index future.|Index|BBG001MN2214||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBK3|//blp/mktdata/buid/eMGE/IX12548126-0|//blp/mktdata/bsid/2095965280365
 SPRING WHEAT IDX  Nov11|SBX1|eMGE|2095957514925|IX9645973-0|Physical index future.|Index|BBG000Y6G484||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBX1|//blp/mktdata/buid/eMGE/IX9645973-0|//blp/mktdata/bsid/2095957514925
 SPRING WHEAT IDX  Nov12|SBX2|eMGE|2095962674929|IX11293400-0|Physical index future.|Index|BBG0017DY2P2||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBX2|//blp/mktdata/buid/eMGE/IX11293400-0|//blp/mktdata/bsid/2095962674929
-SPRING WHEAT IDX  Nov13|SBX3|||IX13782708-0|Physical index future.|Index|BBG0025NPG79||14010|14010|0||39496|||
-SPRING WHEAT IDX  Oct11|SBV1|eMGE|2095956980936|IX9546743-0|Physical index future.|Index|BBG000SZFTM7||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBV1|//blp/mktdata/buid/eMGE/IX9546743-0|//blp/mktdata/bsid/2095956980936
+SPRING WHEAT IDX  Nov13|SBX3|eMGE|2095968522015|IX13782708-0|Physical index future.|Index|BBG0025NPG79||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBX3|//blp/mktdata/buid/eMGE/IX13782708-0|//blp/mktdata/bsid/2095968522015
 SPRING WHEAT IDX  Oct12|SBV2|eMGE|2095962318621|IX11092278-0|Physical index future.|Index|BBG00162VT44||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBV2|//blp/mktdata/buid/eMGE/IX11092278-0|//blp/mktdata/bsid/2095962318621
 SPRING WHEAT IDX  Oct13|SBV3|eMGE|2095967963800|IX13573997-0|Physical index future.|Index|BBG0022MJYC6||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBV3|//blp/mktdata/buid/eMGE/IX13573997-0|//blp/mktdata/bsid/2095967963800
 SPRING WHEAT IDX  Sep12|SBU2|eMGE|2095961953875|IX10854412-0|Physical index future.|Index|BBG0014RW1N0||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBU2|//blp/mktdata/buid/eMGE/IX10854412-0|//blp/mktdata/bsid/2095961953875

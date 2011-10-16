@@ -1,5 +1,5 @@
-#Data Generated At: Sat Oct 15 06:31:26 EDT 2011
-#Data Records=3622
+#Data Generated At: Sun Oct 16 06:24:02 EDT 2011
+#Data Records=3362
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index option.
 Gulf Coast Cat SeaDec11C     1|HPAZ1C 1|||IX13479628-0-8020|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11C     2|HPAZ1C 2|||IX13479628-0-8040|Financial index option.|Index|||14002|14002|0||39490|||
@@ -104,7 +104,6 @@ Gulf Coast Cat SeaDec11C   100|HPAZ1C 100|||IX13479628-0-8C80|Financial index op
 Gulf Coast Cat SeaDec11C   101|HPAZ1C 101|||IX13479628-0-8CA0|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11C   102|HPAZ1C 102|||IX13479628-0-8CC0|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11C   103|HPAZ1C 103|||IX13479628-0-8CE0|Financial index option.|Index|||14002|14002|0||39490|||
-Gulf Coast Cat SeaDec11C   104|HPAZ1C 104|||IX13479628-0-8D00|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11P     1|HPAZ1P 1|||IX13479632-0-0020|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11P     2|HPAZ1P 2|||IX13479632-0-0040|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11P     3|HPAZ1P 3|||IX13479632-0-0060|Financial index option.|Index|||14002|14002|0||39490|||
@@ -208,7 +207,6 @@ Gulf Coast Cat SeaDec11P   100|HPAZ1P 100|||IX13479632-0-0C80|Financial index op
 Gulf Coast Cat SeaDec11P   101|HPAZ1P 101|||IX13479632-0-0CA0|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11P   102|HPAZ1P 102|||IX13479632-0-0CC0|Financial index option.|Index|||14002|14002|0||39490|||
 Gulf Coast Cat SeaDec11P   103|HPAZ1P 103|||IX13479632-0-0CE0|Financial index option.|Index|||14002|14002|0||39490|||
-Gulf Coast Cat SeaDec11P   104|HPAZ1P 104|||IX13479632-0-0D00|Financial index option.|Index|||14002|14002|0||39490|||
 Lukoil Futures OptDec11C  1000|LKOZ1C 1000|||IX13573757-0-8064|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C  2000|LKOZ1C 2000|||IX13573757-0-80C8|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C  3000|LKOZ1C 3000|||IX13573757-0-812C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -340,6 +338,7 @@ Lukoil Futures OptDec11C113000|LKOZ1C 113000|||IX13573757-0-AC24|Financial index
 Lukoil Futures OptDec11C114000|LKOZ1C 114000|||IX13573757-0-AC88|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C115000|LKOZ1C 115000|||IX13573757-0-ACEC|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11C116000|LKOZ1C 116000|||IX13573757-0-AD50|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11C117000|LKOZ1C 117000|||IX13573757-0-ADB4|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P  1000|LKOZ1P 1000|||IX12291871-0-0064|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P  2000|LKOZ1P 2000|||IX12291871-0-00C8|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P  3000|LKOZ1P 3000|||IX12291871-0-012C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -471,6 +470,7 @@ Lukoil Futures OptDec11P113000|LKOZ1P 113000|||IX12291871-0-2C24|Financial index
 Lukoil Futures OptDec11P114000|LKOZ1P 114000|||IX12291871-0-2C88|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P115000|LKOZ1P 115000|||IX12291871-0-2CEC|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptDec11P116000|LKOZ1P 116000|||IX12291871-0-2D50|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptDec11P117000|LKOZ1P 117000|||IX12291871-0-2DB4|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12C  1000|LKOH2C 1000|||IX13573693-0-8064|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12C  2000|LKOH2C 2000|||IX13573693-0-80C8|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12C  3000|LKOH2C 3000|||IX13573693-0-812C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -601,6 +601,7 @@ Lukoil Futures OptMar12C113000|LKOH2C 113000|||IX13573693-0-AC24|Financial index
 Lukoil Futures OptMar12C114000|LKOH2C 114000|||IX13573693-0-AC88|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12C115000|LKOH2C 115000|||IX13573693-0-ACEC|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12C116000|LKOH2C 116000|||IX13573693-0-AD50|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12C117000|LKOH2C 117000|||IX13573693-0-ADB4|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12P  1000|LKOH2P 1000|||IX12953249-0-0064|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12P  2000|LKOH2P 2000|||IX12953249-0-00C8|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12P  3000|LKOH2P 3000|||IX12953249-0-012C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -731,268 +732,7 @@ Lukoil Futures OptMar12P113000|LKOH2P 113000|||IX12953249-0-2C24|Financial index
 Lukoil Futures OptMar12P114000|LKOH2P 114000|||IX12953249-0-2C88|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12P115000|LKOH2P 115000|||IX12953249-0-2CEC|Financial index option.|Index|||14134|14134|0||39558|||
 Lukoil Futures OptMar12P116000|LKOH2P 116000|||IX12953249-0-2D50|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  1000|LKOV1C 1000|||IX13573709-0-8064|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  2000|LKOV1C 2000|||IX13573709-0-80C8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  3000|LKOV1C 3000|||IX13573709-0-812C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  4000|LKOV1C 4000|||IX13573709-0-8190|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  5000|LKOV1C 5000|||IX13573709-0-81F4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  6000|LKOV1C 6000|||IX13573709-0-8258|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  7000|LKOV1C 7000|||IX13573709-0-82BC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  8000|LKOV1C 8000|||IX13573709-0-8320|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  9000|LKOV1C 9000|||IX13573709-0-8384|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C  9500|LKOV1C 9500|RTS|1769550722482|IX13573709-0-83B6|Financial index option.|Index|BBG00253XWH8||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 9500|//blp/mktdata/buid/RTS/IX13573709-0-83B6|//blp/mktdata/bsid/1769550722482
-Lukoil Futures OptOct11C 10000|LKOV1C 10000|RTS|1769549763380|IX13573709-0-83E8|Financial index option.|Index|BBG0024CYZ45||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 10000|//blp/mktdata/buid/RTS/IX13573709-0-83E8|//blp/mktdata/bsid/1769549763380
-Lukoil Futures OptOct11C 10500|LKOV1C 10500|RTS|1769549761354|IX13573709-0-841A|Financial index option.|Index|BBG0024CYZ54||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 10500|//blp/mktdata/buid/RTS/IX13573709-0-841A|//blp/mktdata/bsid/1769549761354
-Lukoil Futures OptOct11C 11000|LKOV1C 11000|RTS|1769549686869|IX13573709-0-844C|Financial index option.|Index|BBG0022MT2B6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 11000|//blp/mktdata/buid/RTS/IX13573709-0-844C|//blp/mktdata/bsid/1769549686869
-Lukoil Futures OptOct11C 11500|LKOV1C 11500|RTS|1769549654621|IX13573709-0-847E|Financial index option.|Index|BBG0022MT2C5||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 11500|//blp/mktdata/buid/RTS/IX13573709-0-847E|//blp/mktdata/bsid/1769549654621
-Lukoil Futures OptOct11C 12000|LKOV1C 12000|RTS|1769549646016|IX13573709-0-84B0|Financial index option.|Index|BBG0022MT2D4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 12000|//blp/mktdata/buid/RTS/IX13573709-0-84B0|//blp/mktdata/bsid/1769549646016
-Lukoil Futures OptOct11C 12500|LKOV1C 12500|RTS|1769549645997|IX13573709-0-84E2|Financial index option.|Index|BBG0022MT2F2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 12500|//blp/mktdata/buid/RTS/IX13573709-0-84E2|//blp/mktdata/bsid/1769549645997
-Lukoil Futures OptOct11C 13000|LKOV1C 13000|RTS|1769549645971|IX13573709-0-8514|Financial index option.|Index|BBG0022MT2G1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 13000|//blp/mktdata/buid/RTS/IX13573709-0-8514|//blp/mktdata/bsid/1769549645971
-Lukoil Futures OptOct11C 13500|LKOV1C 13500|RTS|1769549652767|IX13573709-0-8546|Financial index option.|Index|BBG0022MT2H0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 13500|//blp/mktdata/buid/RTS/IX13573709-0-8546|//blp/mktdata/bsid/1769549652767
-Lukoil Futures OptOct11C 14000|LKOV1C 14000|RTS|1769549652780|IX13573709-0-8578|Financial index option.|Index|BBG0022MT2K6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 14000|//blp/mktdata/buid/RTS/IX13573709-0-8578|//blp/mktdata/bsid/1769549652780
-Lukoil Futures OptOct11C 14500|LKOV1C 14500|RTS|1769549646017|IX13573709-0-85AA|Financial index option.|Index|BBG0022MT2L5||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 14500|//blp/mktdata/buid/RTS/IX13573709-0-85AA|//blp/mktdata/bsid/1769549646017
-Lukoil Futures OptOct11C 15000|LKOV1C 15000|RTS|1769549645939|IX13573709-0-85DC|Financial index option.|Index|BBG0022MT2M4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 15000|//blp/mktdata/buid/RTS/IX13573709-0-85DC|//blp/mktdata/bsid/1769549645939
-Lukoil Futures OptOct11C 15500|LKOV1C 15500|RTS|1769549645950|IX13573709-0-860E|Financial index option.|Index|BBG0022MT2N3||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 15500|//blp/mktdata/buid/RTS/IX13573709-0-860E|//blp/mktdata/bsid/1769549645950
-Lukoil Futures OptOct11C 16000|LKOV1C 16000|RTS|1769549646018|IX13573709-0-8640|Financial index option.|Index|BBG0022MT2P1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 16000|//blp/mktdata/buid/RTS/IX13573709-0-8640|//blp/mktdata/bsid/1769549646018
-Lukoil Futures OptOct11C 16500|LKOV1C 16500|RTS|1769549645985|IX13573709-0-8672|Financial index option.|Index|BBG0022MT2Q0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 16500|//blp/mktdata/buid/RTS/IX13573709-0-8672|//blp/mktdata/bsid/1769549645985
-Lukoil Futures OptOct11C 17000|LKOV1C 17000|RTS|1769549645948|IX13573709-0-86A4|Financial index option.|Index|BBG0022MT2R9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 17000|//blp/mktdata/buid/RTS/IX13573709-0-86A4|//blp/mktdata/bsid/1769549645948
-Lukoil Futures OptOct11C 17500|LKOV1C 17500|RTS|1769549652776|IX13573709-0-86D6|Financial index option.|Index|BBG0022MT2S8||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 17500|//blp/mktdata/buid/RTS/IX13573709-0-86D6|//blp/mktdata/bsid/1769549652776
-Lukoil Futures OptOct11C 18000|LKOV1C 18000|RTS|1769549645999|IX13573709-0-8708|Financial index option.|Index|BBG0022MT2T7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 18000|//blp/mktdata/buid/RTS/IX13573709-0-8708|//blp/mktdata/bsid/1769549645999
-Lukoil Futures OptOct11C 18500|LKOV1C 18500|RTS|1769549645987|IX13573709-0-873A|Financial index option.|Index|BBG0022MT2V4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 18500|//blp/mktdata/buid/RTS/IX13573709-0-873A|//blp/mktdata/bsid/1769549645987
-Lukoil Futures OptOct11C 19000|LKOV1C 19000|RTS|1769549655142|IX13573709-0-876C|Financial index option.|Index|BBG0022MT2W3||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 19000|//blp/mktdata/buid/RTS/IX13573709-0-876C|//blp/mktdata/bsid/1769549655142
-Lukoil Futures OptOct11C 19500|LKOV1C 19500|RTS|1769549645979|IX13573709-0-879E|Financial index option.|Index|BBG0022MT2X2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 19500|//blp/mktdata/buid/RTS/IX13573709-0-879E|//blp/mktdata/bsid/1769549645979
-Lukoil Futures OptOct11C 20000|LKOV1C 20000|RTS|1769549646033|IX13573709-0-87D0|Financial index option.|Index|BBG0022MT2Y1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 20000|//blp/mktdata/buid/RTS/IX13573709-0-87D0|//blp/mktdata/bsid/1769549646033
-Lukoil Futures OptOct11C 20500|LKOV1C 20500|RTS|1769549646039|IX13573709-0-8802|Financial index option.|Index|BBG0022MT2Z0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 20500|//blp/mktdata/buid/RTS/IX13573709-0-8802|//blp/mktdata/bsid/1769549646039
-Lukoil Futures OptOct11C 21000|LKOV1C 21000|RTS|1769549652760|IX13573709-0-8834|Financial index option.|Index|BBG0022MT306||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 21000|//blp/mktdata/buid/RTS/IX13573709-0-8834|//blp/mktdata/bsid/1769549652760
-Lukoil Futures OptOct11C 21500|LKOV1C 21500|RTS|1769549645952|IX13573709-0-8866|Financial index option.|Index|BBG0022MT315||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 21500|//blp/mktdata/buid/RTS/IX13573709-0-8866|//blp/mktdata/bsid/1769549645952
-Lukoil Futures OptOct11C 22000|LKOV1C 22000|RTS|1769549645980|IX13573709-0-8898|Financial index option.|Index|BBG0022MT324||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 22000|//blp/mktdata/buid/RTS/IX13573709-0-8898|//blp/mktdata/bsid/1769549645980
-Lukoil Futures OptOct11C 22500|LKOV1C 22500|RTS|1769549654928|IX13573709-0-88CA|Financial index option.|Index|BBG0022MT333||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 22500|//blp/mktdata/buid/RTS/IX13573709-0-88CA|//blp/mktdata/bsid/1769549654928
-Lukoil Futures OptOct11C 23000|LKOV1C 23000|RTS|1769549645983|IX13573709-0-88FC|Financial index option.|Index|BBG0022MT342||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 23000|//blp/mktdata/buid/RTS/IX13573709-0-88FC|//blp/mktdata/bsid/1769549645983
-Lukoil Futures OptOct11C 23500|LKOV1C 23500|RTS|1769549645929|IX13573709-0-892E|Financial index option.|Index|BBG0022MT351||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 23500|//blp/mktdata/buid/RTS/IX13573709-0-892E|//blp/mktdata/bsid/1769549645929
-Lukoil Futures OptOct11C 24000|LKOV1C 24000|RTS|1769550338624|IX13573709-0-8960|Financial index option.|Index|BBG00245WCP0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1C 24000|//blp/mktdata/buid/RTS/IX13573709-0-8960|//blp/mktdata/bsid/1769550338624
-Lukoil Futures OptOct11C 25000|LKOV1C 25000|||IX13573709-0-89C4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 26000|LKOV1C 26000|||IX13573709-0-8A28|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 27000|LKOV1C 27000|||IX13573709-0-8A8C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 28000|LKOV1C 28000|||IX13573709-0-8AF0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 29000|LKOV1C 29000|||IX13573709-0-8B54|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 30000|LKOV1C 30000|||IX13573709-0-8BB8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 31000|LKOV1C 31000|||IX13573709-0-8C1C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 32000|LKOV1C 32000|||IX13573709-0-8C80|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 33000|LKOV1C 33000|||IX13573709-0-8CE4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 34000|LKOV1C 34000|||IX13573709-0-8D48|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 35000|LKOV1C 35000|||IX13573709-0-8DAC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 36000|LKOV1C 36000|||IX13573709-0-8E10|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 37000|LKOV1C 37000|||IX13573709-0-8E74|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 38000|LKOV1C 38000|||IX13573709-0-8ED8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 39000|LKOV1C 39000|||IX13573709-0-8F3C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 40000|LKOV1C 40000|||IX13573709-0-8FA0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 41000|LKOV1C 41000|||IX13573709-0-9004|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 42000|LKOV1C 42000|||IX13573709-0-9068|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 43000|LKOV1C 43000|||IX13573709-0-90CC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 44000|LKOV1C 44000|||IX13573709-0-9130|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 45000|LKOV1C 45000|||IX13573709-0-9194|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 46000|LKOV1C 46000|||IX13573709-0-91F8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 47000|LKOV1C 47000|||IX13573709-0-925C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 48000|LKOV1C 48000|||IX13573709-0-92C0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 49000|LKOV1C 49000|||IX13573709-0-9324|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 50000|LKOV1C 50000|||IX13573709-0-9388|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 51000|LKOV1C 51000|||IX13573709-0-93EC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 52000|LKOV1C 52000|||IX13573709-0-9450|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 53000|LKOV1C 53000|||IX13573709-0-94B4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 54000|LKOV1C 54000|||IX13573709-0-9518|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 55000|LKOV1C 55000|||IX13573709-0-957C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 56000|LKOV1C 56000|||IX13573709-0-95E0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 57000|LKOV1C 57000|||IX13573709-0-9644|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 58000|LKOV1C 58000|||IX13573709-0-96A8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 59000|LKOV1C 59000|||IX13573709-0-970C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 60000|LKOV1C 60000|||IX13573709-0-9770|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 61000|LKOV1C 61000|||IX13573709-0-97D4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 62000|LKOV1C 62000|||IX13573709-0-9838|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 63000|LKOV1C 63000|||IX13573709-0-989C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 64000|LKOV1C 64000|||IX13573709-0-9900|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 65000|LKOV1C 65000|||IX13573709-0-9964|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 66000|LKOV1C 66000|||IX13573709-0-99C8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 67000|LKOV1C 67000|||IX13573709-0-9A2C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 68000|LKOV1C 68000|||IX13573709-0-9A90|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 69000|LKOV1C 69000|||IX13573709-0-9AF4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 70000|LKOV1C 70000|||IX13573709-0-9B58|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 71000|LKOV1C 71000|||IX13573709-0-9BBC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 72000|LKOV1C 72000|||IX13573709-0-9C20|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 73000|LKOV1C 73000|||IX13573709-0-9C84|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 74000|LKOV1C 74000|||IX13573709-0-9CE8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 75000|LKOV1C 75000|||IX13573709-0-9D4C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 76000|LKOV1C 76000|||IX13573709-0-9DB0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 77000|LKOV1C 77000|||IX13573709-0-9E14|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 78000|LKOV1C 78000|||IX13573709-0-9E78|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 79000|LKOV1C 79000|||IX13573709-0-9EDC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 80000|LKOV1C 80000|||IX13573709-0-9F40|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 81000|LKOV1C 81000|||IX13573709-0-9FA4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 82000|LKOV1C 82000|||IX13573709-0-A008|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 83000|LKOV1C 83000|||IX13573709-0-A06C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 84000|LKOV1C 84000|||IX13573709-0-A0D0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 85000|LKOV1C 85000|||IX13573709-0-A134|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 86000|LKOV1C 86000|||IX13573709-0-A198|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 87000|LKOV1C 87000|||IX13573709-0-A1FC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 88000|LKOV1C 88000|||IX13573709-0-A260|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 89000|LKOV1C 89000|||IX13573709-0-A2C4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 90000|LKOV1C 90000|||IX13573709-0-A328|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 91000|LKOV1C 91000|||IX13573709-0-A38C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 92000|LKOV1C 92000|||IX13573709-0-A3F0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 93000|LKOV1C 93000|||IX13573709-0-A454|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 94000|LKOV1C 94000|||IX13573709-0-A4B8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 95000|LKOV1C 95000|||IX13573709-0-A51C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 96000|LKOV1C 96000|||IX13573709-0-A580|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 97000|LKOV1C 97000|||IX13573709-0-A5E4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 98000|LKOV1C 98000|||IX13573709-0-A648|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C 99000|LKOV1C 99000|||IX13573709-0-A6AC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C100000|LKOV1C 100000|||IX13573709-0-A710|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C101000|LKOV1C 101000|||IX13573709-0-A774|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C102000|LKOV1C 102000|||IX13573709-0-A7D8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C103000|LKOV1C 103000|||IX13573709-0-A83C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C104000|LKOV1C 104000|||IX13573709-0-A8A0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C105000|LKOV1C 105000|||IX13573709-0-A904|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C106000|LKOV1C 106000|||IX13573709-0-A968|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C107000|LKOV1C 107000|||IX13573709-0-A9CC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C108000|LKOV1C 108000|||IX13573709-0-AA30|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C109000|LKOV1C 109000|||IX13573709-0-AA94|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C110000|LKOV1C 110000|||IX13573709-0-AAF8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C111000|LKOV1C 111000|||IX13573709-0-AB5C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C112000|LKOV1C 112000|||IX13573709-0-ABC0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C113000|LKOV1C 113000|||IX13573709-0-AC24|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C114000|LKOV1C 114000|||IX13573709-0-AC88|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C115000|LKOV1C 115000|||IX13573709-0-ACEC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11C116000|LKOV1C 116000|||IX13573709-0-AD50|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  1000|LKOV1P 1000|||IX13154878-0-0064|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  2000|LKOV1P 2000|||IX13154878-0-00C8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  3000|LKOV1P 3000|||IX13154878-0-012C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  4000|LKOV1P 4000|||IX13154878-0-0190|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  5000|LKOV1P 5000|||IX13154878-0-01F4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  6000|LKOV1P 6000|||IX13154878-0-0258|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  7000|LKOV1P 7000|||IX13154878-0-02BC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  8000|LKOV1P 8000|||IX13154878-0-0320|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  9000|LKOV1P 9000|||IX13154878-0-0384|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P  9500|LKOV1P 9500|RTS|1769550722484|IX13154878-0-03B6|Financial index option.|Index|BBG00253XWK4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 9500|//blp/mktdata/buid/RTS/IX13154878-0-03B6|//blp/mktdata/bsid/1769550722484
-Lukoil Futures OptOct11P 10000|LKOV1P 10000|RTS|1769549761355|IX13154878-0-03E8|Financial index option.|Index|BBG0022MT360||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 10000|//blp/mktdata/buid/RTS/IX13154878-0-03E8|//blp/mktdata/bsid/1769549761355
-Lukoil Futures OptOct11P 10500|LKOV1P 10500|RTS|1769549761336|IX13154878-0-041A|Financial index option.|Index|BBG0022MT379||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 10500|//blp/mktdata/buid/RTS/IX13154878-0-041A|//blp/mktdata/bsid/1769549761336
-Lukoil Futures OptOct11P 11000|LKOV1P 11000|RTS|1769549686809|IX13154878-0-044C|Financial index option.|Index|BBG0022MT388||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 11000|//blp/mktdata/buid/RTS/IX13154878-0-044C|//blp/mktdata/bsid/1769549686809
-Lukoil Futures OptOct11P 11500|LKOV1P 11500|RTS|1769549645975|IX13154878-0-047E|Financial index option.|Index|BBG0022MT397||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 11500|//blp/mktdata/buid/RTS/IX13154878-0-047E|//blp/mktdata/bsid/1769549645975
-Lukoil Futures OptOct11P 12000|LKOV1P 12000|RTS|1769549646020|IX13154878-0-04B0|Financial index option.|Index|BBG0022MT3B4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 12000|//blp/mktdata/buid/RTS/IX13154878-0-04B0|//blp/mktdata/bsid/1769549646020
-Lukoil Futures OptOct11P 12500|LKOV1P 12500|RTS|1769549645957|IX13154878-0-04E2|Financial index option.|Index|BBG0022MT3C3||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 12500|//blp/mktdata/buid/RTS/IX13154878-0-04E2|//blp/mktdata/bsid/1769549645957
-Lukoil Futures OptOct11P 13000|LKOV1P 13000|RTS|1769549654125|IX13154878-0-0514|Financial index option.|Index|BBG0022MT3D2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 13000|//blp/mktdata/buid/RTS/IX13154878-0-0514|//blp/mktdata/bsid/1769549654125
-Lukoil Futures OptOct11P 13500|LKOV1P 13500|RTS|1769549645951|IX13154878-0-0546|Financial index option.|Index|BBG0022MT3F0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 13500|//blp/mktdata/buid/RTS/IX13154878-0-0546|//blp/mktdata/bsid/1769549645951
-Lukoil Futures OptOct11P 14000|LKOV1P 14000|RTS|1769549646004|IX13154878-0-0578|Financial index option.|Index|BBG0022MT3G9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 14000|//blp/mktdata/buid/RTS/IX13154878-0-0578|//blp/mktdata/bsid/1769549646004
-Lukoil Futures OptOct11P 14500|LKOV1P 14500|RTS|1769549645943|IX13154878-0-05AA|Financial index option.|Index|BBG0022MT3H8||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 14500|//blp/mktdata/buid/RTS/IX13154878-0-05AA|//blp/mktdata/bsid/1769549645943
-Lukoil Futures OptOct11P 15000|LKOV1P 15000|RTS|1769549652758|IX13154878-0-05DC|Financial index option.|Index|BBG0022MT3J6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 15000|//blp/mktdata/buid/RTS/IX13154878-0-05DC|//blp/mktdata/bsid/1769549652758
-Lukoil Futures OptOct11P 15500|LKOV1P 15500|RTS|1769549646015|IX13154878-0-060E|Financial index option.|Index|BBG0022MT3K4||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 15500|//blp/mktdata/buid/RTS/IX13154878-0-060E|//blp/mktdata/bsid/1769549646015
-Lukoil Futures OptOct11P 16000|LKOV1P 16000|RTS|1769549646045|IX13154878-0-0640|Financial index option.|Index|BBG0022MT3L3||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 16000|//blp/mktdata/buid/RTS/IX13154878-0-0640|//blp/mktdata/bsid/1769549646045
-Lukoil Futures OptOct11P 16500|LKOV1P 16500|RTS|1769549645932|IX13154878-0-0672|Financial index option.|Index|BBG0022MT3M2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 16500|//blp/mktdata/buid/RTS/IX13154878-0-0672|//blp/mktdata/bsid/1769549645932
-Lukoil Futures OptOct11P 17000|LKOV1P 17000|RTS|1769549652769|IX13154878-0-06A4|Financial index option.|Index|BBG0022MT3N1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 17000|//blp/mktdata/buid/RTS/IX13154878-0-06A4|//blp/mktdata/bsid/1769549652769
-Lukoil Futures OptOct11P 17500|LKOV1P 17500|RTS|1769549645978|IX13154878-0-06D6|Financial index option.|Index|BBG0022MT3P9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 17500|//blp/mktdata/buid/RTS/IX13154878-0-06D6|//blp/mktdata/bsid/1769549645978
-Lukoil Futures OptOct11P 18000|LKOV1P 18000|RTS|1769549652765|IX13154878-0-0708|Financial index option.|Index|BBG0022MT3Q8||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 18000|//blp/mktdata/buid/RTS/IX13154878-0-0708|//blp/mktdata/bsid/1769549652765
-Lukoil Futures OptOct11P 18500|LKOV1P 18500|RTS|1769549645956|IX13154878-0-073A|Financial index option.|Index|BBG0022MT3R7||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 18500|//blp/mktdata/buid/RTS/IX13154878-0-073A|//blp/mktdata/bsid/1769549645956
-Lukoil Futures OptOct11P 19000|LKOV1P 19000|RTS|1769549645934|IX13154878-0-076C|Financial index option.|Index|BBG0022MT3S6||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 19000|//blp/mktdata/buid/RTS/IX13154878-0-076C|//blp/mktdata/bsid/1769549645934
-Lukoil Futures OptOct11P 19500|LKOV1P 19500|RTS|1769549645981|IX13154878-0-079E|Financial index option.|Index|BBG0022MT3T5||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 19500|//blp/mktdata/buid/RTS/IX13154878-0-079E|//blp/mktdata/bsid/1769549645981
-Lukoil Futures OptOct11P 20000|LKOV1P 20000|RTS|1769549645947|IX13154878-0-07D0|Financial index option.|Index|BBG0022MT3V2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 20000|//blp/mktdata/buid/RTS/IX13154878-0-07D0|//blp/mktdata/bsid/1769549645947
-Lukoil Futures OptOct11P 20500|LKOV1P 20500|RTS|1769549654126|IX13154878-0-0802|Financial index option.|Index|BBG0022MT3W1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 20500|//blp/mktdata/buid/RTS/IX13154878-0-0802|//blp/mktdata/bsid/1769549654126
-Lukoil Futures OptOct11P 21000|LKOV1P 21000|RTS|1769549645928|IX13154878-0-0834|Financial index option.|Index|BBG0022MT3X0||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 21000|//blp/mktdata/buid/RTS/IX13154878-0-0834|//blp/mktdata/bsid/1769549645928
-Lukoil Futures OptOct11P 21500|LKOV1P 21500|RTS|1769549646034|IX13154878-0-0866|Financial index option.|Index|BBG0022MT3Y9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 21500|//blp/mktdata/buid/RTS/IX13154878-0-0866|//blp/mktdata/bsid/1769549646034
-Lukoil Futures OptOct11P 22000|LKOV1P 22000|RTS|1769549646009|IX13154878-0-0898|Financial index option.|Index|BBG0022MT3Z8||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 22000|//blp/mktdata/buid/RTS/IX13154878-0-0898|//blp/mktdata/bsid/1769549646009
-Lukoil Futures OptOct11P 22500|LKOV1P 22500|RTS|1769549652759|IX13154878-0-08CA|Financial index option.|Index|BBG0022MT404||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 22500|//blp/mktdata/buid/RTS/IX13154878-0-08CA|//blp/mktdata/bsid/1769549652759
-Lukoil Futures OptOct11P 23000|LKOV1P 23000|RTS|1769549645959|IX13154878-0-08FC|Financial index option.|Index|BBG0022MT413||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 23000|//blp/mktdata/buid/RTS/IX13154878-0-08FC|//blp/mktdata/bsid/1769549645959
-Lukoil Futures OptOct11P 23500|LKOV1P 23500|RTS|1769549645991|IX13154878-0-092E|Financial index option.|Index|BBG0022MT422||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 23500|//blp/mktdata/buid/RTS/IX13154878-0-092E|//blp/mktdata/bsid/1769549645991
-Lukoil Futures OptOct11P 24000|LKOV1P 24000|RTS|1769550344869|IX13154878-0-0960|Financial index option.|Index|BBG00245WCQ9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/LKOV1P 24000|//blp/mktdata/buid/RTS/IX13154878-0-0960|//blp/mktdata/bsid/1769550344869
-Lukoil Futures OptOct11P 25000|LKOV1P 25000|||IX13154878-0-09C4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 26000|LKOV1P 26000|||IX13154878-0-0A28|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 27000|LKOV1P 27000|||IX13154878-0-0A8C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 28000|LKOV1P 28000|||IX13154878-0-0AF0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 29000|LKOV1P 29000|||IX13154878-0-0B54|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 30000|LKOV1P 30000|||IX13154878-0-0BB8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 31000|LKOV1P 31000|||IX13154878-0-0C1C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 32000|LKOV1P 32000|||IX13154878-0-0C80|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 33000|LKOV1P 33000|||IX13154878-0-0CE4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 34000|LKOV1P 34000|||IX13154878-0-0D48|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 35000|LKOV1P 35000|||IX13154878-0-0DAC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 36000|LKOV1P 36000|||IX13154878-0-0E10|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 37000|LKOV1P 37000|||IX13154878-0-0E74|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 38000|LKOV1P 38000|||IX13154878-0-0ED8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 39000|LKOV1P 39000|||IX13154878-0-0F3C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 40000|LKOV1P 40000|||IX13154878-0-0FA0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 41000|LKOV1P 41000|||IX13154878-0-1004|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 42000|LKOV1P 42000|||IX13154878-0-1068|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 43000|LKOV1P 43000|||IX13154878-0-10CC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 44000|LKOV1P 44000|||IX13154878-0-1130|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 45000|LKOV1P 45000|||IX13154878-0-1194|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 46000|LKOV1P 46000|||IX13154878-0-11F8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 47000|LKOV1P 47000|||IX13154878-0-125C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 48000|LKOV1P 48000|||IX13154878-0-12C0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 49000|LKOV1P 49000|||IX13154878-0-1324|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 50000|LKOV1P 50000|||IX13154878-0-1388|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 51000|LKOV1P 51000|||IX13154878-0-13EC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 52000|LKOV1P 52000|||IX13154878-0-1450|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 53000|LKOV1P 53000|||IX13154878-0-14B4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 54000|LKOV1P 54000|||IX13154878-0-1518|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 55000|LKOV1P 55000|||IX13154878-0-157C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 56000|LKOV1P 56000|||IX13154878-0-15E0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 57000|LKOV1P 57000|||IX13154878-0-1644|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 58000|LKOV1P 58000|||IX13154878-0-16A8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 59000|LKOV1P 59000|||IX13154878-0-170C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 60000|LKOV1P 60000|||IX13154878-0-1770|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 61000|LKOV1P 61000|||IX13154878-0-17D4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 62000|LKOV1P 62000|||IX13154878-0-1838|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 63000|LKOV1P 63000|||IX13154878-0-189C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 64000|LKOV1P 64000|||IX13154878-0-1900|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 65000|LKOV1P 65000|||IX13154878-0-1964|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 66000|LKOV1P 66000|||IX13154878-0-19C8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 67000|LKOV1P 67000|||IX13154878-0-1A2C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 68000|LKOV1P 68000|||IX13154878-0-1A90|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 69000|LKOV1P 69000|||IX13154878-0-1AF4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 70000|LKOV1P 70000|||IX13154878-0-1B58|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 71000|LKOV1P 71000|||IX13154878-0-1BBC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 72000|LKOV1P 72000|||IX13154878-0-1C20|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 73000|LKOV1P 73000|||IX13154878-0-1C84|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 74000|LKOV1P 74000|||IX13154878-0-1CE8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 75000|LKOV1P 75000|||IX13154878-0-1D4C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 76000|LKOV1P 76000|||IX13154878-0-1DB0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 77000|LKOV1P 77000|||IX13154878-0-1E14|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 78000|LKOV1P 78000|||IX13154878-0-1E78|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 79000|LKOV1P 79000|||IX13154878-0-1EDC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 80000|LKOV1P 80000|||IX13154878-0-1F40|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 81000|LKOV1P 81000|||IX13154878-0-1FA4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 82000|LKOV1P 82000|||IX13154878-0-2008|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 83000|LKOV1P 83000|||IX13154878-0-206C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 84000|LKOV1P 84000|||IX13154878-0-20D0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 85000|LKOV1P 85000|||IX13154878-0-2134|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 86000|LKOV1P 86000|||IX13154878-0-2198|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 87000|LKOV1P 87000|||IX13154878-0-21FC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 88000|LKOV1P 88000|||IX13154878-0-2260|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 89000|LKOV1P 89000|||IX13154878-0-22C4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 90000|LKOV1P 90000|||IX13154878-0-2328|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 91000|LKOV1P 91000|||IX13154878-0-238C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 92000|LKOV1P 92000|||IX13154878-0-23F0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 93000|LKOV1P 93000|||IX13154878-0-2454|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 94000|LKOV1P 94000|||IX13154878-0-24B8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 95000|LKOV1P 95000|||IX13154878-0-251C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 96000|LKOV1P 96000|||IX13154878-0-2580|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 97000|LKOV1P 97000|||IX13154878-0-25E4|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 98000|LKOV1P 98000|||IX13154878-0-2648|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P 99000|LKOV1P 99000|||IX13154878-0-26AC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P100000|LKOV1P 100000|||IX13154878-0-2710|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P101000|LKOV1P 101000|||IX13154878-0-2774|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P102000|LKOV1P 102000|||IX13154878-0-27D8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P103000|LKOV1P 103000|||IX13154878-0-283C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P104000|LKOV1P 104000|||IX13154878-0-28A0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P105000|LKOV1P 105000|||IX13154878-0-2904|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P106000|LKOV1P 106000|||IX13154878-0-2968|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P107000|LKOV1P 107000|||IX13154878-0-29CC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P108000|LKOV1P 108000|||IX13154878-0-2A30|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P109000|LKOV1P 109000|||IX13154878-0-2A94|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P110000|LKOV1P 110000|||IX13154878-0-2AF8|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P111000|LKOV1P 111000|||IX13154878-0-2B5C|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P112000|LKOV1P 112000|||IX13154878-0-2BC0|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P113000|LKOV1P 113000|||IX13154878-0-2C24|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P114000|LKOV1P 114000|||IX13154878-0-2C88|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P115000|LKOV1P 115000|||IX13154878-0-2CEC|Financial index option.|Index|||14134|14134|0||39558|||
-Lukoil Futures OptOct11P116000|LKOV1P 116000|||IX13154878-0-2D50|Financial index option.|Index|||14134|14134|0||39558|||
+Lukoil Futures OptMar12P117000|LKOH2P 117000|||IX12953249-0-2DB4|Financial index option.|Index|||14134|14134|0||39558|||
 NAME|ID_BB_SEC_NUM_DES|FEED_SOURCE|ID_BB_SEC_NUM_SRC|ID_BB_UNIQUE|SECURITY_TYP|MARKET_SECTOR_DES|ID_BB_GLOBAL|COMPOSITE_ID_BB_GLOBAL|FEED_EID1|FEED_EID2|FEED_EID3|FEED_EID4|FEED_DELAYED_EID1|Subscription String 1|Subscription String 2|Subscription String 3
 ROSN Future Opt   Dec11C  1000|ROSZ1C 1000|||IX13572705-0-8064|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11C  2000|ROSZ1C 2000|||IX13572705-0-80C8|Financial index option.|Index|||14134|14134|0||39558|||
@@ -1130,6 +870,7 @@ ROSN Future Opt   Dec11C116000|ROSZ1C 116000|||IX13572705-0-AD50|Financial index
 ROSN Future Opt   Dec11C117000|ROSZ1C 117000|||IX13572705-0-ADB4|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11C118000|ROSZ1C 118000|||IX13572705-0-AE18|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11C119000|ROSZ1C 119000|||IX13572705-0-AE7C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11C120000|ROSZ1C 120000|||IX13572705-0-AEE0|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11P  1000|ROSZ1P 1000|||IX13572709-0-0064|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11P  2000|ROSZ1P 2000|||IX13572709-0-00C8|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11P  3000|ROSZ1P 3000|||IX13572709-0-012C|Financial index option.|Index|||14134|14134|0||39558|||
@@ -1266,6 +1007,7 @@ ROSN Future Opt   Dec11P116000|ROSZ1P 116000|||IX13572709-0-2D50|Financial index
 ROSN Future Opt   Dec11P117000|ROSZ1P 117000|||IX13572709-0-2DB4|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11P118000|ROSZ1P 118000|||IX13572709-0-2E18|Financial index option.|Index|||14134|14134|0||39558|||
 ROSN Future Opt   Dec11P119000|ROSZ1P 119000|||IX13572709-0-2E7C|Financial index option.|Index|||14134|14134|0||39558|||
+ROSN Future Opt   Dec11P120000|ROSZ1P 120000|||IX13572709-0-2EE0|Financial index option.|Index|||14134|14134|0||39558|||
 SX5E DIVIDEND OPT Dec11C    61|DEDZ1C 61|||IX10363918-0-87A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec11C    62|DEDZ1C 62|||IX10363918-0-87C0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec11C    63|DEDZ1C 63|||IX10363918-0-87E0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -1526,6 +1268,9 @@ SX5E DIVIDEND OPT Dec11P   187|DEDZ1P 187|||IX10363922-0-1760|Financial index op
 SX5E DIVIDEND OPT Dec11P   188|DEDZ1P 188|||IX10363922-0-1780|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec11P   189|DEDZ1P 189|||IX10363922-0-17A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec11P   190|DEDZ1P 190|||IX10363922-0-17C0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec12C    45|DEDZ2C 45|||IX10363926-0-85A0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec12C    46|DEDZ2C 46|||IX10363926-0-85C0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec12C    47|DEDZ2C 47|||IX10363926-0-85E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12C    48|DEDZ2C 48|||IX10363926-0-8600|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12C    49|DEDZ2C 49|||IX10363926-0-8620|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12C    50|DEDZ2C 50|||IX10363926-0-8640|Financial index option.|Index|||14066|14111|0||39521|||
@@ -1653,9 +1398,9 @@ SX5E DIVIDEND OPT Dec12C   171|DEDZ2C 171|||IX10363926-0-9560|Financial index op
 SX5E DIVIDEND OPT Dec12C   172|DEDZ2C 172|||IX10363926-0-9580|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12C   173|DEDZ2C 173|||IX10363926-0-95A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12C   174|DEDZ2C 174|||IX10363926-0-95C0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec12C   175|DEDZ2C 175|||IX10363926-0-95E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec12C   176|DEDZ2C 176|||IX10363926-0-9600|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec12C   177|DEDZ2C 177|||IX10363926-0-9620|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec12P    45|DEDZ2P 45|||IX10363930-0-05A0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec12P    46|DEDZ2P 46|||IX10363930-0-05C0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec12P    47|DEDZ2P 47|||IX10363930-0-05E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12P    48|DEDZ2P 48|||IX10363930-0-0600|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12P    49|DEDZ2P 49|||IX10363930-0-0620|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12P    50|DEDZ2P 50|||IX10363930-0-0640|Financial index option.|Index|||14066|14111|0||39521|||
@@ -1783,9 +1528,6 @@ SX5E DIVIDEND OPT Dec12P   171|DEDZ2P 171|||IX10363930-0-1560|Financial index op
 SX5E DIVIDEND OPT Dec12P   172|DEDZ2P 172|||IX10363930-0-1580|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12P   173|DEDZ2P 173|||IX10363930-0-15A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec12P   174|DEDZ2P 174|||IX10363930-0-15C0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec12P   175|DEDZ2P 175|||IX10363930-0-15E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec12P   176|DEDZ2P 176|||IX10363930-0-1600|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec12P   177|DEDZ2P 177|||IX10363930-0-1620|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    27|DEDZ3C 27|||IX10363934-0-8360|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    28|DEDZ3C 28|||IX10363934-0-8380|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13C    29|DEDZ3C 29|||IX10363934-0-83A0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2046,8 +1788,6 @@ SX5E DIVIDEND OPT Dec13P   153|DEDZ3P 153|||IX10363938-0-1320|Financial index op
 SX5E DIVIDEND OPT Dec13P   154|DEDZ3P 154|||IX10363938-0-1340|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P   155|DEDZ3P 155|||IX10363938-0-1360|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec13P   156|DEDZ3P 156|||IX10363938-0-1380|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec14C    22|DEDZ4C 22|||IX10363942-0-82C0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec14C    23|DEDZ4C 23|||IX10363942-0-82E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14C    24|DEDZ4C 24|||IX10363942-0-8300|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14C    25|DEDZ4C 25|||IX10363942-0-8320|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14C    26|DEDZ4C 26|||IX10363942-0-8340|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2176,8 +1916,8 @@ SX5E DIVIDEND OPT Dec14C   148|DEDZ4C 148|||IX10363942-0-9280|Financial index op
 SX5E DIVIDEND OPT Dec14C   149|DEDZ4C 149|||IX10363942-0-92A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14C   150|DEDZ4C 150|||IX10363942-0-92C0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14C   151|DEDZ4C 151|||IX10363942-0-92E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec14P    22|DEDZ4P 22|||IX10363946-0-02C0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec14P    23|DEDZ4P 23|||IX10363946-0-02E0|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec14C   152|DEDZ4C 152|||IX10363942-0-9300|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec14C   153|DEDZ4C 153|||IX10363942-0-9320|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14P    24|DEDZ4P 24|||IX10363946-0-0300|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14P    25|DEDZ4P 25|||IX10363946-0-0320|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14P    26|DEDZ4P 26|||IX10363946-0-0340|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2306,8 +2046,8 @@ SX5E DIVIDEND OPT Dec14P   148|DEDZ4P 148|||IX10363946-0-1280|Financial index op
 SX5E DIVIDEND OPT Dec14P   149|DEDZ4P 149|||IX10363946-0-12A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14P   150|DEDZ4P 150|||IX10363946-0-12C0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec14P   151|DEDZ4P 151|||IX10363946-0-12E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec15C    19|DEDZ5C 19|||IX10363950-0-8260|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec15C    20|DEDZ5C 20|||IX10363950-0-8280|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec14P   152|DEDZ4P 152|||IX10363946-0-1300|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec14P   153|DEDZ4P 153|||IX10363946-0-1320|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15C    21|DEDZ5C 21|||IX10363950-0-82A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15C    22|DEDZ5C 22|||IX10363950-0-82C0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15C    23|DEDZ5C 23|||IX10363950-0-82E0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2436,9 +2176,8 @@ SX5E DIVIDEND OPT Dec15C   145|DEDZ5C 145|||IX10363950-0-9220|Financial index op
 SX5E DIVIDEND OPT Dec15C   146|DEDZ5C 146|||IX10363950-0-9240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15C   147|DEDZ5C 147|||IX10363950-0-9260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15C   148|DEDZ5C 148|||IX10363950-0-9280|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec15C   149|DEDZ5C 149|||IX10363950-0-92A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15C   150|DEDZ5C 150|EUX|279191660693|IX10363950-0-92C0|Financial index option.|Index|BBG00182WHM7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ5C 150|//blp/mktdata/buid/EUX/IX10363950-0-92C0|//blp/mktdata/bsid/279191660693
-SX5E DIVIDEND OPT Dec15P    19|DEDZ5P 19|||IX10363954-0-0260|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec15P    20|DEDZ5P 20|||IX10363954-0-0280|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15P    21|DEDZ5P 21|||IX10363954-0-02A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15P    22|DEDZ5P 22|||IX10363954-0-02C0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15P    23|DEDZ5P 23|||IX10363954-0-02E0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2567,9 +2306,8 @@ SX5E DIVIDEND OPT Dec15P   145|DEDZ5P 145|||IX10363954-0-1220|Financial index op
 SX5E DIVIDEND OPT Dec15P   146|DEDZ5P 146|||IX10363954-0-1240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15P   147|DEDZ5P 147|||IX10363954-0-1260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15P   148|DEDZ5P 148|||IX10363954-0-1280|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec15P   149|DEDZ5P 149|||IX10363954-0-12A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec15P   150|DEDZ5P 150|EUX|279191660694|IX10363954-0-12C0|Financial index option.|Index|BBG00182WHN6||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ5P 150|//blp/mktdata/buid/EUX/IX10363954-0-12C0|//blp/mktdata/bsid/279191660694
-SX5E DIVIDEND OPT Dec16C    18|DEDZ6C 18|||IX10363958-0-8240|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec16C    19|DEDZ6C 19|||IX10363958-0-8260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16C    20|DEDZ6C 20|||IX10363958-0-8280|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16C    21|DEDZ6C 21|||IX10363958-0-82A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16C    22|DEDZ6C 22|||IX10363958-0-82C0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2698,10 +2436,10 @@ SX5E DIVIDEND OPT Dec16C   144|DEDZ6C 144|||IX10363958-0-9200|Financial index op
 SX5E DIVIDEND OPT Dec16C   145|DEDZ6C 145|||IX10363958-0-9220|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16C   146|DEDZ6C 146|||IX10363958-0-9240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16C   147|DEDZ6C 147|||IX10363958-0-9260|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec16C   148|DEDZ6C 148|||IX10363958-0-9280|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec16C   149|DEDZ6C 149|||IX10363958-0-92A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16C   150|DEDZ6C 150|EUX|279191269060|IX10363958-0-92C0|Financial index option.|Index|BBG0016NGZK3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ6C 150|//blp/mktdata/buid/EUX/IX10363958-0-92C0|//blp/mktdata/bsid/279191269060
 SX5E DIVIDEND OPT Dec16C   160|DEDZ6C 160|EUX|279193004905|IX10363958-0-9400|Financial index option.|Index|BBG001HRGRW7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ6C 160|//blp/mktdata/buid/EUX/IX10363958-0-9400|//blp/mktdata/bsid/279193004905
-SX5E DIVIDEND OPT Dec16P    18|DEDZ6P 18|||IX10363962-0-0240|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec16P    19|DEDZ6P 19|||IX10363962-0-0260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16P    20|DEDZ6P 20|||IX10363962-0-0280|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16P    21|DEDZ6P 21|||IX10363962-0-02A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16P    22|DEDZ6P 22|||IX10363962-0-02C0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2830,11 +2568,10 @@ SX5E DIVIDEND OPT Dec16P   144|DEDZ6P 144|||IX10363962-0-1200|Financial index op
 SX5E DIVIDEND OPT Dec16P   145|DEDZ6P 145|||IX10363962-0-1220|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16P   146|DEDZ6P 146|||IX10363962-0-1240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16P   147|DEDZ6P 147|||IX10363962-0-1260|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec16P   148|DEDZ6P 148|||IX10363962-0-1280|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec16P   149|DEDZ6P 149|||IX10363962-0-12A0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec16P   150|DEDZ6P 150|EUX|279191269244|IX10363962-0-12C0|Financial index option.|Index|BBG0016NGZL2||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ6P 150|//blp/mktdata/buid/EUX/IX10363962-0-12C0|//blp/mktdata/bsid/279191269244
 SX5E DIVIDEND OPT Dec16P   160|DEDZ6P 160|EUX|279193004904|IX10363962-0-1400|Financial index option.|Index|BBG001HRGRX6||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ6P 160|//blp/mktdata/buid/EUX/IX10363962-0-1400|//blp/mktdata/bsid/279193004904
-SX5E DIVIDEND OPT Dec17C    16|DEDZ7C 16|||IX10363966-0-8200|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec17C    17|DEDZ7C 17|||IX10363966-0-8220|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec17C    18|DEDZ7C 18|||IX10363966-0-8240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17C    19|DEDZ7C 19|||IX10363966-0-8260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17C    20|DEDZ7C 20|||IX10363966-0-8280|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17C    21|DEDZ7C 21|||IX10363966-0-82A0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -2962,11 +2699,11 @@ SX5E DIVIDEND OPT Dec17C   142|DEDZ7C 142|||IX10363966-0-91C0|Financial index op
 SX5E DIVIDEND OPT Dec17C   143|DEDZ7C 143|||IX10363966-0-91E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17C   144|DEDZ7C 144|||IX10363966-0-9200|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17C   145|DEDZ7C 145|||IX10363966-0-9220|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec17C   146|DEDZ7C 146|||IX10363966-0-9240|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec17C   147|DEDZ7C 147|||IX10363966-0-9260|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec17C   148|DEDZ7C 148|||IX10363966-0-9280|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17C   150|DEDZ7C 150|EUX|279190742122|IX10363966-0-92C0|Financial index option.|Index|BBG0014LZS06||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ7C 150|//blp/mktdata/buid/EUX/IX10363966-0-92C0|//blp/mktdata/bsid/279190742122
 SX5E DIVIDEND OPT Dec17C   160|DEDZ7C 160|EUX|279192989219|IX10363966-0-9400|Financial index option.|Index|BBG001HPF916||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ7C 160|//blp/mktdata/buid/EUX/IX10363966-0-9400|//blp/mktdata/bsid/279192989219
-SX5E DIVIDEND OPT Dec17P    16|DEDZ7P 16|||IX10363970-0-0200|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec17P    17|DEDZ7P 17|||IX10363970-0-0220|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec17P    18|DEDZ7P 18|||IX10363970-0-0240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17P    19|DEDZ7P 19|||IX10363970-0-0260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17P    20|DEDZ7P 20|||IX10363970-0-0280|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17P    21|DEDZ7P 21|||IX10363970-0-02A0|Financial index option.|Index|||14066|14111|0||39521|||
@@ -3094,10 +2831,11 @@ SX5E DIVIDEND OPT Dec17P   142|DEDZ7P 142|||IX10363970-0-11C0|Financial index op
 SX5E DIVIDEND OPT Dec17P   143|DEDZ7P 143|||IX10363970-0-11E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17P   144|DEDZ7P 144|||IX10363970-0-1200|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17P   145|DEDZ7P 145|||IX10363970-0-1220|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec17P   146|DEDZ7P 146|||IX10363970-0-1240|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec17P   147|DEDZ7P 147|||IX10363970-0-1260|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec17P   148|DEDZ7P 148|||IX10363970-0-1280|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec17P   150|DEDZ7P 150|EUX|279190742446|IX10363970-0-12C0|Financial index option.|Index|BBG0014LZS15||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ7P 150|//blp/mktdata/buid/EUX/IX10363970-0-12C0|//blp/mktdata/bsid/279190742446
 SX5E DIVIDEND OPT Dec17P   160|DEDZ7P 160|EUX|279192989196|IX10363970-0-1400|Financial index option.|Index|BBG001HPF925||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ7P 160|//blp/mktdata/buid/EUX/IX10363970-0-1400|//blp/mktdata/bsid/279192989196
-SX5E DIVIDEND OPT Dec18C    16|DEDZ8C 16|||IX10363974-0-8200|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec18C    17|DEDZ8C 17|||IX10363974-0-8220|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18C    18|DEDZ8C 18|||IX10363974-0-8240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18C    19|DEDZ8C 19|||IX10363974-0-8260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18C    20|DEDZ8C 20|||IX10363974-0-8280|Financial index option.|Index|||14066|14111|0||39521|||
@@ -3226,10 +2964,10 @@ SX5E DIVIDEND OPT Dec18C   142|DEDZ8C 142|||IX10363974-0-91C0|Financial index op
 SX5E DIVIDEND OPT Dec18C   143|DEDZ8C 143|||IX10363974-0-91E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18C   144|DEDZ8C 144|||IX10363974-0-9200|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18C   145|DEDZ8C 145|||IX10363974-0-9220|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec18C   146|DEDZ8C 146|||IX10363974-0-9240|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec18C   147|DEDZ8C 147|||IX10363974-0-9260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18C   150|DEDZ8C 150|EUX|279190732755|IX10363974-0-92C0|Financial index option.|Index|BBG0014KQY32||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ8C 150|//blp/mktdata/buid/EUX/IX10363974-0-92C0|//blp/mktdata/bsid/279190732755
 SX5E DIVIDEND OPT Dec18C   160|DEDZ8C 160|EUX|279192989273|IX10363974-0-9400|Financial index option.|Index|BBG001HPF934||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ8C 160|//blp/mktdata/buid/EUX/IX10363974-0-9400|//blp/mktdata/bsid/279192989273
-SX5E DIVIDEND OPT Dec18P    16|DEDZ8P 16|||IX10363978-0-0200|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec18P    17|DEDZ8P 17|||IX10363978-0-0220|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18P    18|DEDZ8P 18|||IX10363978-0-0240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18P    19|DEDZ8P 19|||IX10363978-0-0260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18P    20|DEDZ8P 20|||IX10363978-0-0280|Financial index option.|Index|||14066|14111|0||39521|||
@@ -3358,10 +3096,10 @@ SX5E DIVIDEND OPT Dec18P   142|DEDZ8P 142|||IX10363978-0-11C0|Financial index op
 SX5E DIVIDEND OPT Dec18P   143|DEDZ8P 143|||IX10363978-0-11E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18P   144|DEDZ8P 144|||IX10363978-0-1200|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18P   145|DEDZ8P 145|||IX10363978-0-1220|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec18P   146|DEDZ8P 146|||IX10363978-0-1240|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec18P   147|DEDZ8P 147|||IX10363978-0-1260|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec18P   150|DEDZ8P 150|EUX|279190732754|IX10363978-0-12C0|Financial index option.|Index|BBG0014KQY41||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ8P 150|//blp/mktdata/buid/EUX/IX10363978-0-12C0|//blp/mktdata/bsid/279190732754
 SX5E DIVIDEND OPT Dec18P   160|DEDZ8P 160|EUX|279192989274|IX10363978-0-1400|Financial index option.|Index|BBG001HPF943||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ8P 160|//blp/mktdata/buid/EUX/IX10363978-0-1400|//blp/mktdata/bsid/279192989274
-SX5E DIVIDEND OPT Dec19C    15|DEDZ9C 15|||IX10363982-0-81E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec19C    16|DEDZ9C 16|||IX10363982-0-8200|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19C    17|DEDZ9C 17|||IX10363982-0-8220|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19C    18|DEDZ9C 18|||IX10363982-0-8240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19C    19|DEDZ9C 19|||IX10363982-0-8260|Financial index option.|Index|||14066|14111|0||39521|||
@@ -3490,10 +3228,10 @@ SX5E DIVIDEND OPT Dec19C   141|DEDZ9C 141|||IX10363982-0-91A0|Financial index op
 SX5E DIVIDEND OPT Dec19C   142|DEDZ9C 142|||IX10363982-0-91C0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19C   143|DEDZ9C 143|||IX10363982-0-91E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19C   144|DEDZ9C 144|||IX10363982-0-9200|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec19C   145|DEDZ9C 145|||IX10363982-0-9220|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec19C   146|DEDZ9C 146|||IX10363982-0-9240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19C   150|DEDZ9C 150|EUX|279190721698|IX10363982-0-92C0|Financial index option.|Index|BBG0014JYJ75||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ9C 150|//blp/mktdata/buid/EUX/IX10363982-0-92C0|//blp/mktdata/bsid/279190721698
 SX5E DIVIDEND OPT Dec19C   160|DEDZ9C 160|EUX|279192989216|IX10363982-0-9400|Financial index option.|Index|BBG001HPF952||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ9C 160|//blp/mktdata/buid/EUX/IX10363982-0-9400|//blp/mktdata/bsid/279192989216
-SX5E DIVIDEND OPT Dec19P    15|DEDZ9P 15|||IX10363986-0-01E0|Financial index option.|Index|||14066|14111|0||39521|||
-SX5E DIVIDEND OPT Dec19P    16|DEDZ9P 16|||IX10363986-0-0200|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19P    17|DEDZ9P 17|||IX10363986-0-0220|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19P    18|DEDZ9P 18|||IX10363986-0-0240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19P    19|DEDZ9P 19|||IX10363986-0-0260|Financial index option.|Index|||14066|14111|0||39521|||
@@ -3622,5 +3360,7 @@ SX5E DIVIDEND OPT Dec19P   141|DEDZ9P 141|||IX10363986-0-11A0|Financial index op
 SX5E DIVIDEND OPT Dec19P   142|DEDZ9P 142|||IX10363986-0-11C0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19P   143|DEDZ9P 143|||IX10363986-0-11E0|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19P   144|DEDZ9P 144|||IX10363986-0-1200|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec19P   145|DEDZ9P 145|||IX10363986-0-1220|Financial index option.|Index|||14066|14111|0||39521|||
+SX5E DIVIDEND OPT Dec19P   146|DEDZ9P 146|||IX10363986-0-1240|Financial index option.|Index|||14066|14111|0||39521|||
 SX5E DIVIDEND OPT Dec19P   150|DEDZ9P 150|EUX|279190721700|IX10363986-0-12C0|Financial index option.|Index|BBG0014JYJ84||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ9P 150|//blp/mktdata/buid/EUX/IX10363986-0-12C0|//blp/mktdata/bsid/279190721700
 SX5E DIVIDEND OPT Dec19P   160|DEDZ9P 160|EUX|279192989195|IX10363986-0-1400|Financial index option.|Index|BBG001HPF961||14066|14111|0||39521|//blp/mktdata/bsym/EUX/DEDZ9P 160|//blp/mktdata/buid/EUX/IX10363986-0-1400|//blp/mktdata/bsid/279192989195
