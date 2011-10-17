@@ -1,4 +1,4 @@
-#Data Generated At: Sun Oct 16 06:24:02 EDT 2011
+#Data Generated At: Mon Oct 17 06:42:25 EDT 2011
 #Data Records=460
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
@@ -29,9 +29,9 @@ Bank of Amer Cebo Dec12|BACZ2|US|399453382567|IX12613165-0|Financial index futur
 Bank of Amer Cebo Dec13|BACZ3|US|399453390659|IX12619042-0|Financial index future.|Index|BBG001NNC8P3||14009|0|0||39495|//blp/mktdata/bsym/US/BACZ3|//blp/mktdata/buid/US/IX12619042-0|//blp/mktdata/bsid/399453390659
 Bank of Amer Cebo Dec14|BACZ4|US|399456173067|IX13660645-0|Financial index future.|Index|BBG0024G46G0||14009|0|0||39495|//blp/mktdata/bsym/US/BACZ4|//blp/mktdata/buid/US/IX13660645-0|//blp/mktdata/bsid/399456173067
 Brent ( BINDEX)   Dec11|BCPZ1|ICE|1172550025529|IX13582490-0|Financial index future.|Index|BBG0022QPKK1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCPZ1|//blp/mktdata/buid/ICE/IX13582490-0|//blp/mktdata/bsid/1172550025529
-Brent ( BINDEX)   Jan12|BCPF2|||IX13781712-0|Financial index future.|Index|BBG0025NL5W9||30022|30022|0||40087|||
+Brent ( BINDEX)   Jan12|BCPF2|ICE|1172550553897|IX13781712-0|Financial index future.|Index|BBG0025NL5W9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCPF2|//blp/mktdata/buid/ICE/IX13781712-0|//blp/mktdata/bsid/1172550553897
 Brent Cr Aft1Min  Dec11|BCEZ1|ICE|1172549469749|IX13379324-0|Financial index future.|Index|BBG00203F0R2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCEZ1|//blp/mktdata/buid/ICE/IX13379324-0|//blp/mktdata/bsid/1172549469749
-Brent Cr Aft1Min  Feb12|BCEG2|||IX13781688-0|Financial index future.|Index|BBG0025NL5T3||30022|30022|0||40087|||
+Brent Cr Aft1Min  Feb12|BCEG2|ICE|1172550553893|IX13781688-0|Financial index future.|Index|BBG0025NL5T3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCEG2|//blp/mktdata/buid/ICE/IX13781688-0|//blp/mktdata/bsid/1172550553893
 Brent Cr Aft1Min  Jan12|BCEF2|ICE|1172550025526|IX13582442-0|Financial index future.|Index|BBG0022QPK58||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCEF2|//blp/mktdata/buid/ICE/IX13582442-0|//blp/mktdata/bsid/1172550025526
 Brent Future BWAV Dec11|BCWZ1|ICE|1172526551055|IX4048536-0|Financial index future.|Index|BBG000W5K0J9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWZ1|//blp/mktdata/buid/ICE/IX4048536-0|//blp/mktdata/bsid/1172526551055
 Brent Future BWAV Dec12|BCWZ2|ICE|1172526551067|IX4048584-0|Financial index future.|Index|BBG000W5K1H9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWZ2|//blp/mktdata/buid/ICE/IX4048584-0|//blp/mktdata/bsid/1172526551067
@@ -69,7 +69,7 @@ Credit IN EVT S3  Jun12|CCDM2|eCME|2078766093471|IX4419501-0|Financial index fut
 Crude ME Sour1Min Dec11|MECZ1|ICE|1172549805701|IX13481548-0|Financial index future.|Index|BBG0021L8T14||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECZ1|//blp/mktdata/buid/ICE/IX13481548-0|//blp/mktdata/bsid/1172549805701
 Crude ME Sour1Min Jan12|MECF2|ICE|1172550367321|IX13689873-0|Financial index future.|Index|BBG0024TVZH7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECF2|//blp/mktdata/buid/ICE/IX13689873-0|//blp/mktdata/bsid/1172550367321
 Crude WTI Sing1Mi Dec11|WACZ1|ICE|1172550025520|IX13582486-0|Financial index future.|Index|BBG0022QPKJ3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACZ1|//blp/mktdata/buid/ICE/IX13582486-0|//blp/mktdata/bsid/1172550025520
-Crude WTI Sing1Mi Jan12|WACF2|||IX13781708-0|Financial index future.|Index|BBG0025NL5V0||30022|30022|0||40087|||
+Crude WTI Sing1Mi Jan12|WACF2|ICE|1172550553891|IX13781708-0|Financial index future.|Index|BBG0025NL5V0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACF2|//blp/mktdata/buid/ICE/IX13781708-0|//blp/mktdata/bsid/1172550553891
 DJ Sustainability Dec11|DJSZ1|CCX|2559819936996|IX11707249-0|Financial index future.|Index|BBG001BSYHX2||30499|30499|0||40090|//blp/mktdata/bsym/CCX/DJSZ1|//blp/mktdata/buid/CCX/IX11707249-0|//blp/mktdata/bsid/2559819936996
 DJ Sustainability Jun12|DJSM2|CCX|2559822673847|IX12964670-0|Financial index future.|Index|BBG001R5LS38||30499|30499|0||40090|//blp/mktdata/bsym/CCX/DJSM2|//blp/mktdata/buid/CCX/IX12964670-0|//blp/mktdata/bsid/2559822673847
 DJ Sustainability Mar12|DJSH2|CCX|2559821307740|IX12333709-0|Financial index future.|Index|BBG001KWZBW6||30499|30499|0||40090|//blp/mktdata/bsym/CCX/DJSH2|//blp/mktdata/buid/CCX/IX12333709-0|//blp/mktdata/bsid/2559821307740
