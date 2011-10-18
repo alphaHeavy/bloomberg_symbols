@@ -1,5 +1,5 @@
-#Data Generated At: Mon Oct 17 06:42:24 EDT 2011
-#Data Records=16631
+#Data Generated At: Tue Oct 18 06:45:04 EDT 2011
+#Data Records=16676
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -3110,6 +3110,7 @@ DAXGlbl AgriBus Perf USD|DXAG Index|GT|1554782883083|EI09DXAG|Equity Index|Index
 DAX|CGESDAX Index|CGDO||EI09CGESDAX|Equity Index|Index|BBG001M4G6C0||46707|||||//blp/mktdata/bsym/CGDO/CGESDAX Index|//blp/mktdata/buid/CGDO/EI09CGESDAX|
 DAX|CGXXDAX Index|CGDO||EI09CGXXDAX|Equity Index|Index|BBG001YTWQF7||46707|||||//blp/mktdata/bsym/CGDO/CGXXDAX Index|//blp/mktdata/buid/CGDO/EI09CGXXDAX|
 DB 2827 Basket|DBCG2827 Index|DBAB|4681526527216|EI09DBCG2827|Equity Index|Index|BBG000T20V22|||||14835||//blp/mktdata/bsym/DBAB/DBCG2827 Index|//blp/mktdata/buid/DBAB/EI09DBCG2827|//blp/mktdata/bsid/4681526527216
+DB BB Biotech Hedge|DBCTBIOP Index|DBAB|4681538847489|EI09DBCTBIOP|Equity Index|Index|BBG0025QH824|||||14835||//blp/mktdata/bsym/DBAB/DBCTBIOP Index|//blp/mktdata/buid/DBAB/EI09DBCTBIOP|//blp/mktdata/bsid/4681538847489
 DB Beat Down Yield Tact|DBCTBDYP Index|DBAB|4681536257019|EI09DBCTBDYP|Equity Index|Index|BBG001Q8XWN9|||||14835||//blp/mktdata/bsym/DBAB/DBCTBDYP Index|//blp/mktdata/buid/DBAB/EI09DBCTBDYP|//blp/mktdata/bsid/4681536257019
 DB CAC40 EX BORROW BAN T|DBCTCACX Index|DBAB|4681537759813|EI09DBCTCACX|Equity Index|Index|BBG002051YX1|||||14835||//blp/mktdata/bsym/DBAB/DBCTCACX Index|//blp/mktdata/buid/DBAB/EI09DBCTCACX|//blp/mktdata/bsid/4681537759813
 DB Comp Long Growth Aug1|DBQCLGRQ Index|DBAB|4681537353257|EI09DBQCLGRQ|Equity Index|Index|BBG001YF32Y1|||||14835||//blp/mktdata/bsym/DBAB/DBQCLGRQ Index|//blp/mktdata/buid/DBAB/EI09DBQCLGRQ|//blp/mktdata/bsid/4681537353257
@@ -3769,6 +3770,7 @@ Europe Grey Black|UBEUTROU Index|WDRL|2495399916360|EI09UBEUTROU|Equity Index|In
 Europe High Beta 2|UBTEUHB2 Index|WDRL|2495400456412|EI09UBTEUHB2|Equity Index|Index|BBG0025K1YD5||46707|||||//blp/mktdata/bsym/WDRL/UBTEUHB2 Index|//blp/mktdata/buid/WDRL/EI09UBTEUHB2|//blp/mktdata/bsid/2495400456412
 Europe High Beta|UBTEUHBT Index|WDRL|2495399842671|EI09UBTEUHBT|Equity Index|Index|BBG0022648V3||46707|||||//blp/mktdata/bsym/WDRL/UBTEUHBT Index|//blp/mktdata/buid/WDRL/EI09UBTEUHBT|//blp/mktdata/bsid/2495399842671
 Europe Luxury Basket|UBEULUXL Index|WDRL|2495400288279|EI09UBEULUXL|Equity Index|Index|BBG0024T4T63||46707|||||//blp/mktdata/bsym/WDRL/UBEULUXL Index|//blp/mktdata/buid/WDRL/EI09UBEULUXL|//blp/mktdata/bsid/2495400288279
+Europe Market Rally Bsk|CGDORALY Index|CGDO||EI09CGDORALY|Equity Index|Index|BBG0025QGXD8|||||31088||//blp/mktdata/bsym/CGDO/CGDORALY Index|//blp/mktdata/buid/CGDO/EI09CGDORALY|
 Europe OverwriteSlct PR|MSPIEOEP Index|MSXP|5201221740819|EI09MSPIEOEP|Equity Index|Index|BBG000ZN2Q82|||||27700||//blp/mktdata/bsym/MSXP/MSPIEOEP Index|//blp/mktdata/buid/MSXP/EI09MSPIEOEP|//blp/mktdata/bsid/5201221740819
 Europe P. E. North vs So|NMRANPLS Index|NMDP|1447425943503|EI09NMRANPLS|Equity Index|Index|BBG001QHYP53|||||37029||//blp/mktdata/bsym/NMDP/NMRANPLS Index|//blp/mktdata/buid/NMDP/EI09NMRANPLS|//blp/mktdata/bsid/1447425943503
 European 13|GSGGMLSR Index|GOLD|3384452858401|EI09GSGGMLSR|Equity Index|Index|BBG0017CJLW1|||||31557||//blp/mktdata/bsym/GOLD/GSGGMLSR Index|//blp/mktdata/buid/GOLD/EI09GSGGMLSR|//blp/mktdata/bsid/3384452858401
@@ -5138,7 +5140,7 @@ GS Bespoke Basket|GSTBPEMX Index|GOLD||EI09GSTBPEMX|Equity Index|Index|BBG0021TY
 GS Bespoke Basket|GSTBSCX1 Index|GOLD||EI09GSTBSCX1|Equity Index|Index|BBG00228GF77|||||33368||//blp/mktdata/bsym/GOLD/GSTBSCX1 Index|//blp/mktdata/buid/GOLD/EI09GSTBSCX1|
 GS Bespoke Basket|GSTBSCXX Index|GOLD||EI09GSTBSCXX|Equity Index|Index|BBG0022D55K5||46707|||||//blp/mktdata/bsym/GOLD/GSTBSCXX Index|//blp/mktdata/buid/GOLD/EI09GSTBSCXX|
 GS Bespoke Basket|GSTBSX7G Index|GOLD||EI09GSTBSX7G|Equity Index|Index|BBG0024QHZ61|||||33368||//blp/mktdata/bsym/GOLD/GSTBSX7G Index|//blp/mktdata/buid/GOLD/EI09GSTBSX7G|
-GS Bespoke Basket|GSTBSX7X Index|GOLD||EI09GSTBSX7X|Equity Index|Index|BBG00204WHJ3|||||33368||//blp/mktdata/bsym/GOLD/GSTBSX7X Index|//blp/mktdata/buid/GOLD/EI09GSTBSX7X|
+GS Bespoke Basket|GSTBSX7X Index|GOLD|3384458726781|EI09GSTBSX7X|Equity Index|Index|BBG00204WHJ3|||||33368||//blp/mktdata/bsym/GOLD/GSTBSX7X Index|//blp/mktdata/buid/GOLD/EI09GSTBSX7X|//blp/mktdata/bsid/3384458726781
 GS Bespoke Basket|GSTBSXXX Index|GOLD||EI09GSTBSXXX|Equity Index|Index|BBG00204W2Q8|||||33368||//blp/mktdata/bsym/GOLD/GSTBSXXX Index|//blp/mktdata/buid/GOLD/EI09GSTBSXXX|
 GS Bespoke Basket|GSUTSX7X Index|GOLD||EI09GSUTSX7X|Equity Index|Index|BBG00256SFF6||46707|||||//blp/mktdata/bsym/GOLD/GSUTSX7X Index|//blp/mktdata/buid/GOLD/EI09GSUTSX7X|
 GS Bespoke Basket|GSX00TST Index|GOLD||EI09GSX00TST|Equity Index|Index|BBG00256QJM2|||||33368||//blp/mktdata/bsym/GOLD/GSX00TST Index|//blp/mktdata/buid/GOLD/EI09GSX00TST|
@@ -5178,17 +5180,58 @@ GS EM Consumer Titan Hdg|GSEMCOHG Index|GOLD||EI09GSEMCOHG|Equity Index|Index|BB
 GS EM Sustainability Ind|GSSUSTEM Index|GOLD|3384453586791|EI09GSSUSTEM|Equity Index|Index|BBG001B91Z97||46707|||||//blp/mktdata/bsym/GOLD/GSSUSTEM Index|//blp/mktdata/buid/GOLD/EI09GSSUSTEM|//blp/mktdata/bsid/3384453586791
 GS EU Analyst Exact Fact|GSX0NANL Index|GOLD|3384458650958|EI09GSX0NANL|Equity Index|Index|BBG00259M041|||||33368||//blp/mktdata/bsym/GOLD/GSX0NANL Index|//blp/mktdata/buid/GOLD/EI09GSX0NANL|//blp/mktdata/bsid/3384458650958
 GS EU Analyst Factor Bas|GSX0LANL Index|GOLD|3384458682153|EI09GSX0LANL|Equity Index|Index|BBG0025JNKW3|||||33368||//blp/mktdata/bsym/GOLD/GSX0LANL Index|//blp/mktdata/buid/GOLD/EI09GSX0LANL|//blp/mktdata/bsid/3384458682153
+GS EU Analyst Factor Bas|GSX0SANL Index|GOLD|3384458726615|EI09GSX0SANL|Equity Index|Index|BBG0025RK1R6|||||33368||//blp/mktdata/bsym/GOLD/GSX0SANL Index|//blp/mktdata/buid/GOLD/EI09GSX0SANL|//blp/mktdata/bsid/3384458726615
+GS EU Automobiles & Comp|GSX0LAUT Index|GOLD|3384458728377|EI09GSX0LAUT|Equity Index|Index|BBG0025RS517|||||33368||//blp/mktdata/bsym/GOLD/GSX0LAUT Index|//blp/mktdata/buid/GOLD/EI09GSX0LAUT|//blp/mktdata/bsid/3384458728377
+GS EU Automobiles & Comp|GSX0NAUT Index|GOLD|3384458728379|EI09GSX0NAUT|Equity Index|Index|BBG0025RS508|||||33368||//blp/mktdata/bsym/GOLD/GSX0NAUT Index|//blp/mktdata/buid/GOLD/EI09GSX0NAUT|//blp/mktdata/bsid/3384458728379
+GS EU Automobiles & Comp|GSX0SAUT Index|GOLD|3384458728366|EI09GSX0SAUT|Equity Index|Index|BBG0025RS526|||||33368||//blp/mktdata/bsym/GOLD/GSX0SAUT Index|//blp/mktdata/buid/GOLD/EI09GSX0SAUT|//blp/mktdata/bsid/3384458728366
+GS EU Banks Exact Factor|GSX0NBAN Index|GOLD|3384458728364|EI09GSX0NBAN|Equity Index|Index|BBG0025RS535|||||33368||//blp/mktdata/bsym/GOLD/GSX0NBAN Index|//blp/mktdata/buid/GOLD/EI09GSX0NBAN|//blp/mktdata/bsid/3384458728364
+GS EU Banks Factor Baske|GSX0LBAN Index|GOLD|3384458728372|EI09GSX0LBAN|Equity Index|Index|BBG0025RS544|||||33368||//blp/mktdata/bsym/GOLD/GSX0LBAN Index|//blp/mktdata/buid/GOLD/EI09GSX0LBAN|//blp/mktdata/bsid/3384458728372
+GS EU Banks Factor Baske|GSX0SBAN Index|GOLD|3384458728369|EI09GSX0SBAN|Equity Index|Index|BBG0025RS553|||||33368||//blp/mktdata/bsym/GOLD/GSX0SBAN Index|//blp/mktdata/buid/GOLD/EI09GSX0SBAN|//blp/mktdata/bsid/3384458728369
+GS EU Capital Goods ex M|GSX0LCPG Index|GOLD|3384458728357|EI09GSX0LCPG|Equity Index|Index|BBG0025RS571|||||33368||//blp/mktdata/bsym/GOLD/GSX0LCPG Index|//blp/mktdata/buid/GOLD/EI09GSX0LCPG|//blp/mktdata/bsid/3384458728357
+GS EU Capital Goods ex M|GSX0NCPG Index|GOLD|3384458728355|EI09GSX0NCPG|Equity Index|Index|BBG0025RS562|||||33368||//blp/mktdata/bsym/GOLD/GSX0NCPG Index|//blp/mktdata/buid/GOLD/EI09GSX0NCPG|//blp/mktdata/bsid/3384458728355
+GS EU Capital Goods ex M|GSX0SCPG Index|GOLD|3384458728359|EI09GSX0SCPG|Equity Index|Index|BBG0025RS580|||||33368||//blp/mktdata/bsym/GOLD/GSX0SCPG Index|//blp/mktdata/buid/GOLD/EI09GSX0SCPG|//blp/mktdata/bsid/3384458728359
+GS EU Chemicals Exact Fa|GSX0NCHE Index|GOLD|3384458728358|EI09GSX0NCHE|Equity Index|Index|BBG0025RS599|||||33368||//blp/mktdata/bsym/GOLD/GSX0NCHE Index|//blp/mktdata/buid/GOLD/EI09GSX0NCHE|//blp/mktdata/bsid/3384458728358
+GS EU Chemicals Factor B|GSX0LCHE Index|GOLD|3384458728351|EI09GSX0LCHE|Equity Index|Index|BBG0025RS5B6|||||33368||//blp/mktdata/bsym/GOLD/GSX0LCHE Index|//blp/mktdata/buid/GOLD/EI09GSX0LCHE|//blp/mktdata/bsid/3384458728351
+GS EU Chemicals Factor B|GSX0SCHE Index|GOLD|3384458728350|EI09GSX0SCHE|Equity Index|Index|BBG0025RS5C5|||||33368||//blp/mktdata/bsym/GOLD/GSX0SCHE Index|//blp/mktdata/buid/GOLD/EI09GSX0SCHE|//blp/mktdata/bsid/3384458728350
+GS EU Commercial  & Prof|GSX0LCPS Index|GOLD|3384458728352|EI09GSX0LCPS|Equity Index|Index|BBG0025RS5F2|||||33368||//blp/mktdata/bsym/GOLD/GSX0LCPS Index|//blp/mktdata/buid/GOLD/EI09GSX0LCPS|//blp/mktdata/bsid/3384458728352
+GS EU Commercial  & Prof|GSX0NCPS Index|GOLD|3384458728370|EI09GSX0NCPS|Equity Index|Index|BBG0025RS5D4|||||33368||//blp/mktdata/bsym/GOLD/GSX0NCPS Index|//blp/mktdata/buid/GOLD/EI09GSX0NCPS|//blp/mktdata/bsid/3384458728370
+GS EU Commercial  & Prof|GSX0SCPS Index|GOLD|3384458728360|EI09GSX0SCPS|Equity Index|Index|BBG0025RS5G1|||||33368||//blp/mktdata/bsym/GOLD/GSX0SCPS Index|//blp/mktdata/buid/GOLD/EI09GSX0SCPS|//blp/mktdata/bsid/3384458728360
+GS EU Consumer Durables|GSX0LCON Index|GOLD|3384458731262|EI09GSX0LCON|Equity Index|Index|BBG0025RTX33|||||33368||//blp/mktdata/bsym/GOLD/GSX0LCON Index|//blp/mktdata/buid/GOLD/EI09GSX0LCON|//blp/mktdata/bsid/3384458731262
+GS EU Consumer Durables|GSX0NCON Index|GOLD|3384458731260|EI09GSX0NCON|Equity Index|Index|BBG0025RTX24|||||33368||//blp/mktdata/bsym/GOLD/GSX0NCON Index|//blp/mktdata/buid/GOLD/EI09GSX0NCON|//blp/mktdata/bsid/3384458731260
+GS EU Consumer Durables|GSX0SCON Index|GOLD|3384458731263|EI09GSX0SCON|Equity Index|Index|BBG0025RTX42|||||33368||//blp/mktdata/bsym/GOLD/GSX0SCON Index|//blp/mktdata/buid/GOLD/EI09GSX0SCON|//blp/mktdata/bsid/3384458731263
+GS EU Consumer Services|GSX0LCSS Index|GOLD|3384458731354|EI09GSX0LCSS|Equity Index|Index|BBG0025RTX60|||||33368||//blp/mktdata/bsym/GOLD/GSX0LCSS Index|//blp/mktdata/buid/GOLD/EI09GSX0LCSS|//blp/mktdata/bsid/3384458731354
+GS EU Consumer Services|GSX0NCSS Index|GOLD|3384458731358|EI09GSX0NCSS|Equity Index|Index|BBG0025RTX51|||||33368||//blp/mktdata/bsym/GOLD/GSX0NCSS Index|//blp/mktdata/buid/GOLD/EI09GSX0NCSS|//blp/mktdata/bsid/3384458731358
+GS EU Consumer Services|GSX0SCSS Index|GOLD|3384458731267|EI09GSX0SCSS|Equity Index|Index|BBG0025RTX88|||||33368||//blp/mktdata/bsym/GOLD/GSX0SCSS Index|//blp/mktdata/buid/GOLD/EI09GSX0SCSS|//blp/mktdata/bsid/3384458731267
 GS EU Dividend Yield Exa|GSX0NDYL Index|GOLD|3384458641046|EI09GSX0NDYL|Equity Index|Index|BBG00259N3X2|||||33368||//blp/mktdata/bsym/GOLD/GSX0NDYL Index|//blp/mktdata/buid/GOLD/EI09GSX0NDYL|//blp/mktdata/bsid/3384458641046
+GS EU Dividend Yield Fac|GSX0LDYL Index|GOLD|3384458728378|EI09GSX0LDYL|Equity Index|Index|BBG0025RS4H3|||||33368||//blp/mktdata/bsym/GOLD/GSX0LDYL Index|//blp/mktdata/buid/GOLD/EI09GSX0LDYL|//blp/mktdata/bsid/3384458728378
+GS EU Dividend Yield Fac|GSX0SDYL Index|GOLD|3384458728375|EI09GSX0SDYL|Equity Index|Index|BBG0025RS4J1|||||33368||//blp/mktdata/bsym/GOLD/GSX0SDYL Index|//blp/mktdata/buid/GOLD/EI09GSX0SDYL|//blp/mktdata/bsid/3384458728375
+GS EU Food  Retail & Per|GSX0LFSR Index|GOLD|3384458731265|EI09GSX0LFSR|Equity Index|Index|BBG0025RTWZ0|||||33368||//blp/mktdata/bsym/GOLD/GSX0LFSR Index|//blp/mktdata/buid/GOLD/EI09GSX0LFSR|//blp/mktdata/bsid/3384458731265
+GS EU Food  Retail & Per|GSX0NFSR Index|GOLD|3384458728361|EI09GSX0NFSR|Equity Index|Index|BBG0025RS5H0|||||33368||//blp/mktdata/bsym/GOLD/GSX0NFSR Index|//blp/mktdata/buid/GOLD/EI09GSX0NFSR|//blp/mktdata/bsid/3384458728361
+GS EU Food  Retail & Per|GSX0SFSR Index|GOLD|3384458731261|EI09GSX0SFSR|Equity Index|Index|BBG0025RTX15|||||33368||//blp/mktdata/bsym/GOLD/GSX0SFSR Index|//blp/mktdata/buid/GOLD/EI09GSX0SFSR|//blp/mktdata/bsid/3384458731261
+GS EU Market Sensitivity|GSX0LMSE Index|GOLD|3384458728371|EI09GSX0LMSE|Equity Index|Index|BBG0025RS4M7|||||33368||//blp/mktdata/bsym/GOLD/GSX0LMSE Index|//blp/mktdata/buid/GOLD/EI09GSX0LMSE|//blp/mktdata/bsid/3384458728371
 GS EU Market Sensitivity|GSX0NMSE Index|GOLD|3384458641047|EI09GSX0NMSE|Equity Index|Index|BBG00259N3Z0|||||33368||//blp/mktdata/bsym/GOLD/GSX0NMSE Index|//blp/mktdata/buid/GOLD/EI09GSX0NMSE|//blp/mktdata/bsid/3384458641047
+GS EU Market Sensitivity|GSX0SMSE Index|GOLD|3384458728367|EI09GSX0SMSE|Equity Index|Index|BBG0025RS4N6|||||33368||//blp/mktdata/bsym/GOLD/GSX0SMSE Index|//blp/mktdata/buid/GOLD/EI09GSX0SMSE|//blp/mktdata/bsid/3384458728367
 GS EU Momentum Exact Fac|GSX0NMOM Index|GOLD|3384458641054|EI09GSX0NMOM|Equity Index|Index|BBG00259N3Y1|||||33368||//blp/mktdata/bsym/GOLD/GSX0NMOM Index|//blp/mktdata/buid/GOLD/EI09GSX0NMOM|//blp/mktdata/bsid/3384458641054
+GS EU Momentum Factor Ba|GSX0LMOM Index|GOLD|3384458728365|EI09GSX0LMOM|Equity Index|Index|BBG0025RS4K9|||||33368||//blp/mktdata/bsym/GOLD/GSX0LMOM Index|//blp/mktdata/buid/GOLD/EI09GSX0LMOM|//blp/mktdata/bsid/3384458728365
+GS EU Momentum Factor Ba|GSX0SMOM Index|GOLD|3384458728362|EI09GSX0SMOM|Equity Index|Index|BBG0025RS4L8|||||33368||//blp/mktdata/bsym/GOLD/GSX0SMOM Index|//blp/mktdata/buid/GOLD/EI09GSX0SMOM|//blp/mktdata/bsid/3384458728362
 GS EU Quality Exact Fact|GSX0NQAL Index|GOLD|3384458641049|EI09GSX0NQAL|Equity Index|Index|BBG00259N406|||||33368||//blp/mktdata/bsym/GOLD/GSX0NQAL Index|//blp/mktdata/buid/GOLD/EI09GSX0NQAL|//blp/mktdata/bsid/3384458641049
+GS EU Quality Factor Bas|GSX0LQAL Index|GOLD|3384458728347|EI09GSX0LQAL|Equity Index|Index|BBG0025RS4P4|||||33368||//blp/mktdata/bsym/GOLD/GSX0LQAL Index|//blp/mktdata/buid/GOLD/EI09GSX0LQAL|//blp/mktdata/bsid/3384458728347
+GS EU Quality Factor Bas|GSX0SQAL Index|GOLD|3384458728348|EI09GSX0SQAL|Equity Index|Index|BBG0025RS4Q3|||||33368||//blp/mktdata/bsym/GOLD/GSX0SQAL Index|//blp/mktdata/buid/GOLD/EI09GSX0SQAL|//blp/mktdata/bsid/3384458728348
+GS EU Short Tem Reversio|GSX0LREV Index|GOLD|3384458728344|EI09GSX0LREV|Equity Index|Index|BBG0025RS4T0|||||33368||//blp/mktdata/bsym/GOLD/GSX0LREV Index|//blp/mktdata/buid/GOLD/EI09GSX0LREV|//blp/mktdata/bsid/3384458728344
 GS EU Short Tem Reversio|GSX0NREV Index|GOLD|3384458641050|EI09GSX0NREV|Equity Index|Index|BBG00259N424|||||33368||//blp/mktdata/bsym/GOLD/GSX0NREV Index|//blp/mktdata/buid/GOLD/EI09GSX0NREV|//blp/mktdata/bsid/3384458641050
+GS EU Short Tem Reversio|GSX0SREV Index|GOLD|3384458728345|EI09GSX0SREV|Equity Index|Index|BBG0025RS4V7|||||33368||//blp/mktdata/bsym/GOLD/GSX0SREV Index|//blp/mktdata/buid/GOLD/EI09GSX0SREV|//blp/mktdata/bsid/3384458728345
 GS EU Size Exact Factor|GSX0NCAP Index|GOLD|3384458641045|EI09GSX0NCAP|Equity Index|Index|BBG00259N415|||||33368||//blp/mktdata/bsym/GOLD/GSX0NCAP Index|//blp/mktdata/buid/GOLD/EI09GSX0NCAP|//blp/mktdata/bsid/3384458641045
+GS EU Size Factor Basket|GSX0LCAP Index|GOLD|3384458728353|EI09GSX0LCAP|Equity Index|Index|BBG0025RS4R2|||||33368||//blp/mktdata/bsym/GOLD/GSX0LCAP Index|//blp/mktdata/buid/GOLD/EI09GSX0LCAP|//blp/mktdata/bsid/3384458728353
+GS EU Size Factor Basket|GSX0SCAP Index|GOLD|3384458728349|EI09GSX0SCAP|Equity Index|Index|BBG0025RS4S1|||||33368||//blp/mktdata/bsym/GOLD/GSX0SCAP Index|//blp/mktdata/buid/GOLD/EI09GSX0SCAP|//blp/mktdata/bsid/3384458728349
 GS EU Turnover Exact Fac|GSX0NLIQ Index|GOLD|3384458641053|EI09GSX0NLIQ|Equity Index|Index|BBG00259N433|||||33368||//blp/mktdata/bsym/GOLD/GSX0NLIQ Index|//blp/mktdata/buid/GOLD/EI09GSX0NLIQ|//blp/mktdata/bsid/3384458641053
 GS EU Turnover Factor Ba|GSX0LLIQ Index|GOLD|3384458704719|EI09GSX0LLIQ|Equity Index|Index|BBG0025N0S70|||||33368||//blp/mktdata/bsym/GOLD/GSX0LLIQ Index|//blp/mktdata/buid/GOLD/EI09GSX0LLIQ|//blp/mktdata/bsid/3384458704719
 GS EU Turnover Factor Ba|GSX0SLIQ Index|GOLD|3384458704720|EI09GSX0SLIQ|Equity Index|Index|BBG0025N0S89|||||33368||//blp/mktdata/bsym/GOLD/GSX0SLIQ Index|//blp/mktdata/buid/GOLD/EI09GSX0SLIQ|//blp/mktdata/bsid/3384458704720
 GS EU Value Exact Factor|GSX0NVAL Index|GOLD|3384458641048|EI09GSX0NVAL|Equity Index|Index|BBG00259N442|||||33368||//blp/mktdata/bsym/GOLD/GSX0NVAL Index|//blp/mktdata/buid/GOLD/EI09GSX0NVAL|//blp/mktdata/bsid/3384458641048
+GS EU Value Factor Baske|GSX0LVAL Index|GOLD|3384458728368|EI09GSX0LVAL|Equity Index|Index|BBG0025RS4W6|||||33368||//blp/mktdata/bsym/GOLD/GSX0LVAL Index|//blp/mktdata/buid/GOLD/EI09GSX0LVAL|//blp/mktdata/bsid/3384458728368
+GS EU Value Factor Baske|GSX0SVAL Index|GOLD|3384458728346|EI09GSX0SVAL|Equity Index|Index|BBG0025RS4X5|||||33368||//blp/mktdata/bsym/GOLD/GSX0SVAL Index|//blp/mktdata/buid/GOLD/EI09GSX0SVAL|//blp/mktdata/bsid/3384458728346
 GS EU Volatility Exact F|GSX0NVOL Index|GOLD|3384458641477|EI09GSX0NVOL|Equity Index|Index|BBG00259PQP8|||||33368||//blp/mktdata/bsym/GOLD/GSX0NVOL Index|//blp/mktdata/buid/GOLD/EI09GSX0NVOL|//blp/mktdata/bsid/3384458641477
+GS EU Volatility Factor|GSX0LVOL Index|GOLD|3384458728354|EI09GSX0LVOL|Equity Index|Index|BBG0025RS4Y4|||||33368||//blp/mktdata/bsym/GOLD/GSX0LVOL Index|//blp/mktdata/buid/GOLD/EI09GSX0LVOL|//blp/mktdata/bsid/3384458728354
+GS EU Volatility Factor|GSX0SVOL Index|GOLD|3384458728356|EI09GSX0SVOL|Equity Index|Index|BBG0025RS4Z3|||||33368||//blp/mktdata/bsym/GOLD/GSX0SVOL Index|//blp/mktdata/buid/GOLD/EI09GSX0SVOL|//blp/mktdata/bsid/3384458728356
 GS EUROZONE DOMESTIC EXP|GSSTDOME Index|GOLD|3384450579629|EI09GSSTDOME|Equity Index|Index|BBG000ZN60M9||46707|||||//blp/mktdata/bsym/GOLD/GSSTDOME Index|//blp/mktdata/buid/GOLD/EI09GSSTDOME|//blp/mktdata/bsid/3384450579629
 GS Egypt ex OCIC|GSEGEXOC Index|GOLD|3384456798774|EI09GSEGEXOC|Equity Index|Index|BBG001W7K2G2|||||33368||//blp/mktdata/bsym/GOLD/GSEGEXOC Index|//blp/mktdata/buid/GOLD/EI09GSEGEXOC|//blp/mktdata/bsid/3384456798774
 GS Energy Basket|GSSTENGY Index|GOLD|3384455221165|EI09GSSTENGY|Equity Index|Index|BBG001LR9CG1||46707|||||//blp/mktdata/bsym/GOLD/GSSTENGY Index|//blp/mktdata/buid/GOLD/EI09GSSTENGY|//blp/mktdata/bsid/3384455221165
@@ -5341,6 +5384,7 @@ General GS Thematic Bask|GSECKUWF Index|GOLD|3384457246278|EI09GSECKUWF|Equity I
 Gerard Casey|GSECCASE Index|GOLD|3384447086992|EI09GSECCASE|Equity Index|Index|BBG000Y2XQN8|||||15864||//blp/mktdata/bsym/GOLD/GSECCASE Index|//blp/mktdata/buid/GOLD/EI09GSECCASE|//blp/mktdata/bsid/3384447086992
 German Real Estate|GSECGERE Index|GOLD|3384453651704|EI09GSECGERE|Equity Index|Index|BBG001BNM1S7|||||33368||//blp/mktdata/bsym/GOLD/GSECGERE Index|//blp/mktdata/buid/GOLD/EI09GSECGERE|//blp/mktdata/bsid/3384453651704
 Germany|CGDOEZGE Index|CGDO||EI09CGDOEZGE|Equity Index|Index|BBG001CJ9KZ0|||||31088||//blp/mktdata/bsym/CGDO/CGDOEZGE Index|//blp/mktdata/buid/CGDO/EI09CGDOEZGE|
+Giss|DBCTDIPA Index|DBAB|4681538848299|EI09DBCTDIPA|Equity Index|Index|BBG0025QTGX9||46707|||||//blp/mktdata/bsym/DBAB/DBCTDIPA Index|//blp/mktdata/buid/DBAB/EI09DBCTDIPA|//blp/mktdata/bsid/4681538848299
 Glbl EM BRIC Ex Loc Ind|GSSTEM5A Index|GOLD|3384447770909|EI09GSSTEM5A|Equity Index|Index|BBG000Y7WG50|||||15864||//blp/mktdata/bsym/GOLD/GSSTEM5A Index|//blp/mktdata/buid/GOLD/EI09GSSTEM5A|//blp/mktdata/bsid/3384447770909
 Glencore Mining/Trading|GSECGLEN Index|GOLD||EI09GSECGLEN|Equity Index|Index|BBG001PLRWX7||46707|||||//blp/mktdata/bsym/GOLD/GSECGLEN Index|//blp/mktdata/buid/GOLD/EI09GSECGLEN|
 Global Airlines|CGDOFLY1 Index|CGDO||EI09CGDOFLY1|Equity Index|Index|BBG001V9N1Q7|||||31088||//blp/mktdata/bsym/CGDO/CGDOFLY1 Index|//blp/mktdata/buid/CGDO/EI09CGDOFLY1|
@@ -9860,7 +9904,7 @@ MSCI US FOOD & STAPLES R|MXUS0FD Index|MXRT|5570574999426|EI09MXUS0FD|Equity Ind
 MSCI US FOOD BEV & TOBAC|MXUS0FB Index|MXRT|5570574999427|EI09MXUS0FB|Equity Index|Index|BBG000V59Q33||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXUS0FB Index|//blp/mktdata/buid/MXRT/EI09MXUS0FB|//blp/mktdata/bsid/5570574999427
 MSCI US H CARE EQUIP & S|MXUS0HS Index|MXRT|5570574999429|EI09MXUS0HS|Equity Index|Index|BBG000V59QV2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXUS0HS Index|//blp/mktdata/buid/MXRT/EI09MXUS0HS|//blp/mktdata/bsid/5570574999429
 MSCI US HOUSE & PERS PRO|MXUS0HP Index|MXRT|5570574999428|EI09MXUS0HP|Equity Index|Index|BBG000V59QC3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXUS0HP Index|//blp/mktdata/buid/MXRT/EI09MXUS0HP|//blp/mktdata/bsid/5570574999428
-MSCI US IMI GR|MZUSIG Index|MXDV|8199099849585|EI09MZUSIG|Equity Index|Index|BBG000TKYHW3|||||14168||//blp/mktdata/bsym/MXDV/MZUSIG Index|//blp/mktdata/buid/MXDV/EI09MZUSIG|//blp/mktdata/bsid/8199099849585
+MSCI US IMI Growth|MZUSIG Index|MXDV|8199099849585|EI09MZUSIG|Equity Index|Index|BBG000TKYHW3|||||14168||//blp/mktdata/bsym/MXDV/MZUSIG Index|//blp/mktdata/buid/MXDV/EI09MZUSIG|//blp/mktdata/bsid/8199099849585
 MSCI US IMI VA|MZUSIV Index|MXDV|8199099849583|EI09MZUSIV|Equity Index|Index|BBG000TKYHL5|||||14168||//blp/mktdata/bsym/MXDV/MZUSIV Index|//blp/mktdata/buid/MXDV/EI09MZUSIV|//blp/mktdata/bsid/8199099849583
 MSCI US IMI|MZUSI Index|MXDV|8199099849221|EI09MZUSI|Equity Index|Index|BBG000LWZYT1|||||14168||//blp/mktdata/bsym/MXDV/MZUSI Index|//blp/mktdata/buid/MXDV/EI09MZUSI|//blp/mktdata/bsid/8199099849221
 MSCI US INSURANCE|MXUS0IS Index|MXRT|5570574999433|EI09MXUS0IS|Equity Index|Index|BBG000V59SY5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXUS0IS Index|//blp/mktdata/buid/MXRT/EI09MXUS0IS|//blp/mktdata/bsid/5570574999433
@@ -10266,6 +10310,7 @@ MSPI10ET Index|MSPI10ET Index|MSXP|5201218997443|EI09MSPI10ET|Equity Index|Index
 MSPIEOEN|MSPIEOEN Index|MSXP|5201222233675|EI09MSPIEOEN|Equity Index|Index|BBG00113PR48|||||27700||//blp/mktdata/bsym/MSXP/MSPIEOEN Index|//blp/mktdata/buid/MSXP/EI09MSPIEOEN|//blp/mktdata/bsid/5201222233675
 MSPIEOET Index|MSPIEOET Index|MSXP|5201221740817|EI09MSPIEOET|Equity Index|Index|BBG000ZN2PX6|||||27700||//blp/mktdata/bsym/MSXP/MSPIEOET Index|//blp/mktdata/buid/MSXP/EI09MSPIEOET|//blp/mktdata/bsid/5201221740817
 MSQEHIJP|MSQEHIJP Index|MSBP||EI09MSQEHIJP|Equity Index|Index|BBG001KTHK17||46707|||||//blp/mktdata/bsym/MSBP/MSQEHIJP Index|//blp/mktdata/buid/MSBP/EI09MSQEHIJP|
+MSST2015|MSST2015 Index|MSBP||EI09MSST2015|Equity Index|Index|BBG0025NLF20|||||27700||//blp/mktdata/bsym/MSBP/MSST2015 Index|//blp/mktdata/buid/MSBP/EI09MSST2015|
 MSSTCOMS index|MSSTCOMS Index|MSXP|5201221869571|EI09MSSTCOMS|Equity Index|Index|BBG000ZT07H3|||||27700||//blp/mktdata/bsym/MSXP/MSSTCOMS Index|//blp/mktdata/buid/MSXP/EI09MSSTCOMS|//blp/mktdata/bsid/5201221869571
 MSSTEQCS Basket|MSSTEQCS Index|MSXP|5201220741288|EI09MSSTEQCS|Equity Index|Index|BBG000Z5GQL1|||||27700||//blp/mktdata/bsym/MSXP/MSSTEQCS Index|//blp/mktdata/buid/MSXP/EI09MSSTEQCS|//blp/mktdata/bsid/5201220741288
 MSSTGP2L Basket|MSSTGP2L Index|MSXP|5201215855253|EI09MSSTGP2L|Equity Index|Index|BBG000MBYX82|||||27700||//blp/mktdata/bsym/MSXP/MSSTGP2L Index|//blp/mktdata/buid/MSXP/EI09MSSTGP2L|//blp/mktdata/bsid/5201215855253

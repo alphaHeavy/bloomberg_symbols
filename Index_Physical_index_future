@@ -1,5 +1,5 @@
-#Data Generated At: Mon Oct 17 06:42:37 EDT 2011
-#Data Records=6268
+#Data Generated At: Tue Oct 18 06:45:16 EDT 2011
+#Data Records=6271
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -1916,6 +1916,8 @@ GOLDMAN SACHS IDX Dec11|GIZ1|cCME|9981527968534|IX13596590-0|Physical index futu
 GOLDMAN SACHS IDX Dec11|GIZ1|cCME|9981527968534|IX13596590-0|Physical index future.|Index|BBG0022W0804||14002|14002|0||39490|//blp/mktdata/bsym/cCME/GIZ1|//blp/mktdata/buid/cCME/IX13596590-0|//blp/mktdata/bsid/9981527968534
 GOLDMAN SACHS IDX Dec11|GIZ1|eCME|2078788143894|IX13596590-0|Physical index future.|Index|BBG0022W0804||14002|14002|0||39490|//blp/mktdata/bsym/eCME/GIZ1|//blp/mktdata/buid/eCME/IX13596590-0|//blp/mktdata/bsid/2078788143894
 GOLDMAN SACHS IDX Dec11|GIZ1|eCME|2078788143894|IX13596590-0|Physical index future.|Index|BBG0022W0804||14002|14002|0||39490|//blp/mktdata/bsym/eCME/GIZ1|//blp/mktdata/buid/eCME/IX13596590-0|//blp/mktdata/bsid/2078788143894
+GOLDMAN SACHS IDX Jan12|GIF2|CME|614204825491|IX13794478-0|Physical index future.|Index|BBG0025RV620||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIF2|//blp/mktdata/buid/CME/IX13794478-0|//blp/mktdata/bsid/614204825491
+GOLDMAN SACHS IDX Jan12|GIF2|CME|614204825491|IX13794478-0|Physical index future.|Index|BBG0025RV620||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIF2|//blp/mktdata/buid/CME/IX13794478-0|//blp/mktdata/bsid/614204825491
 GOLDMAN SACHS IDX Nov11|GIX1|CME|614203698188|IX13372335-0|Physical index future.|Index|BBG00200CXW3||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIX1|//blp/mktdata/buid/CME/IX13372335-0|//blp/mktdata/bsid/614203698188
 GOLDMAN SACHS IDX Nov11|GIX1|CME|614203698188|IX13372335-0|Physical index future.|Index|BBG00200CXW3||14002|14002|0||39490|//blp/mktdata/bsym/CME/GIX1|//blp/mktdata/buid/CME/IX13372335-0|//blp/mktdata/bsid/614203698188
 GOLDMAN SACHS IDX Nov11|GIX1|cCME|9981527370764|IX13372335-0|Physical index future.|Index|BBG00200CXW3||14002|14002|0||39490|//blp/mktdata/bsym/cCME/GIX1|//blp/mktdata/buid/cCME/IX13372335-0|//blp/mktdata/bsid/9981527370764
@@ -4412,6 +4414,7 @@ NY SEASONAL HDD   Mar12|HTH2|eCME|2078785274039|IX12478134-0|Physical index futu
 NYM OIV Vol Fut   Apr12|CVIJ2|eNYM|2117439152800|IX12085799-0|Physical index future.|Index|BBG001J4CJ94||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/CVIJ2|//blp/mktdata/buid/eNYM/IX12085799-0|//blp/mktdata/bsid/2117439152800
 NYM OIV Vol Fut   Aug12|CVIQ2|eNYM|2117441021392|IX12954453-0|Physical index future.|Index|BBG001R3LHN5||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/CVIQ2|//blp/mktdata/buid/eNYM/IX12954453-0|//blp/mktdata/bsid/2117441021392
 NYM OIV Vol Fut   Dec11|CVIZ1|eNYM|2117437523394|IX11300433-0|Physical index future.|Index|BBG0017FXZ57||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/CVIZ1|//blp/mktdata/buid/eNYM/IX11300433-0|//blp/mktdata/bsid/2117437523394
+NYM OIV Vol Fut   Dec12|CVIZ2|||IX13794418-0|Physical index future.|Index|BBG0025RV522||14088|14088|0||39532|||
 NYM OIV Vol Fut   Feb12|CVIG2|eNYM|2117438289979|IX11695716-0|Physical index future.|Index|BBG001BPFJW6||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/CVIG2|//blp/mktdata/buid/eNYM/IX11695716-0|//blp/mktdata/bsid/2117438289979
 NYM OIV Vol Fut   Jan12|CVIF2|eNYM|2117437908622|IX11466665-0|Physical index future.|Index|BBG001925MJ9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/CVIF2|//blp/mktdata/buid/eNYM/IX11466665-0|//blp/mktdata/bsid/2117437908622
 NYM OIV Vol Fut   Jul12|CVIN2|eNYM|2117440623782|IX12752164-0|Physical index future.|Index|BBG001PKX5M3||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/CVIN2|//blp/mktdata/buid/eNYM/IX12752164-0|//blp/mktdata/bsid/2117440623782
