@@ -1,5 +1,5 @@
-#Data Generated At: Tue Oct 18 06:45:04 EDT 2011
-#Data Records=16676
+#Data Generated At: Wed Oct 19 06:44:54 EDT 2011
+#Data Records=16698
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1255,6 +1255,7 @@ BI AP Auto/Veh OEM Mg PB|BIAUTOAP Index|||EI09BIAUTOAP|Equity Index|Index|BBG001
 BI AP Beverages Comp|BIBEVGAV Index|||EI09BIBEVGAV|Equity Index|Index|BBG001CN6FL0||46707|||||||
 BI AP Cnst&Mine Mach PB|BIASCMV Index|||EI09BIASCMV|Equity Index|Index|BBG00179TKZ6||46707|||||||
 BI AP Dev Steel Prod PB|BRPBADSE Index|||EI09BRPBADSE|Equity Index|Index|BBG0013P5011||46707|||||||
+BI AP Elect Equip Top|BIGELECT Index|||EI09BIGELECT|Equity Index|Index|BBG0025X6SY2||46707|||||||
 BI AP Emerg Steel Pr -PB|BRPBIAES Index|||EI09BRPBIAES|Equity Index|Index|BBG0013P50M8||46707|||||||
 BI AP Food Mfg PB Index|BIAFDMFP Index|||EI09BIAFDMFP|Equity Index|Index|BBG0021RF6D0||46707|||||||
 BI AP Full Serv Airl PB|BIAFSCVP Index|||EI09BIAFSCVP|Equity Index|Index|BBG001R5LJF5||46707|||||||
@@ -1287,6 +1288,7 @@ BI EU Banks Competitive|BIBANKEC Index|||EI09BIBANKEC|Equity Index|Index|BBG001D
 BI EU Beverages Comp|BIBEVGEV Index|||EI09BIBEVGEV|Equity Index|Index|BBG001CN6FM9||46707|||||||
 BI EU Cnst & Mng Comp|BIEUCMAC Index|||EI09BIEUCMAC|Equity Index|Index|BBG00179TKQ6||46707|||||||
 BI EU Cnst & Mng Prin|BIEUCMV Index|||EI09BIEUCMV|Equity Index|Index|BBG00179TKY7||46707|||||||
+BI EU Elect Equip Top|BIGLEQCT Index|||EI09BIGLEQCT|Equity Index|Index|BBG0025X7DR2||46707|||||||
 BI EU Food Mfg PB Index|BIEFDMFP Index|||EI09BIEFDMFP|Equity Index|Index|BBG0021RG818||46707|||||||
 BI EU Full Svc Air PB|BIEFSCVP Index|||EI09BIEFSCVP|Equity Index|Index|BBG0017DTFN1||46707|||||||
 BI EU FullSvc AIR Cmptve|BIEFSCCP Index|||EI09BIEFSCCP|Equity Index|Index|BBG0017DTFP9||46707|||||||
@@ -1386,6 +1388,7 @@ BI GL E-Comm Stpls PB|BIECOMGP Index|||EI09BIECOMGP|Equity Index|Index|||46707||
 BI GL EMS Comp Idx|BIGEMSCP Index|||EI09BIGEMSCP|Equity Index|Index|BBG001S3FM14||46707|||||||
 BI GL EMS/ODM - PBI|BREMSODV Index|||EI09BREMSODV|Equity Index|Index|BBG0012CXX36||46707|||||||
 BI GL Elect Equip Top Ix|BIGELEQT Index|||EI09BIGELEQT|Equity Index|Index|BBG0024CSRD0||46707|||||||
+BI GL Elect Equip Top|BIELEQGT Index|||EI09BIELEQGT|Equity Index|Index|BBG0025X3DV1||46707|||||||
 BI GL Electrophys PB|BRCDEVCV Index|||EI09BRCDEVCV|Equity Index|Index|BBG000Z55Q97||46707|||||||
 BI GL Emerging Gold - PB|BBREMGLD Index|||EI09BBREMGLD|Equity Index|Index|BBG0014SWL27||46707|||||||
 BI GL Entnmnt Med Cmptv|BRDVENTV Index|||EI09BRDVENTV|Equity Index|Index|BBG00128R221||46707|||||||
@@ -2392,6 +2395,7 @@ CSE CS50 TELECOM. SERV.|CS50 Index|DC|455269535080|EI09CS50|Equity Index|Index|B
 CSE CS55 UTILITIES PI IX|CS55 Index|DC|455269535076|EI09CS55|Equity Index|Index|BBG000SD66Z2||29835|29836||44463|39641|//blp/mktdata/bsym/DC/CS55 Index|//blp/mktdata/buid/DC/EI09CS55|//blp/mktdata/bsid/455269535076
 CSE MIDCAP+ INDEX|CSEMID Index|DC|455269535291|EI09CSEMID|Equity Index|Index|BBG000T9YJT8||29835|29836||44463|39641|//blp/mktdata/bsym/DC/CSEMID Index|//blp/mktdata/buid/DC/EI09CSEMID|//blp/mktdata/bsid/455269535291
 CSE SMALLCAP+ INDEX|CSESMALL Index|DC|455269535290|EI09CSESMALL|Equity Index|Index|BBG000T9YJC6||29835|29836||44463|39641|//blp/mktdata/bsym/DC/CSESMALL Index|//blp/mktdata/buid/DC/EI09CSESMALL|//blp/mktdata/bsid/455269535290
+CSEFMIN2|CSEFMIN2 Index|CSUK|5987208918643|EI09CSEFMIN2|Equity Index|Index|BBG0025SLX39|||||30908||//blp/mktdata/bsym/CSUK/CSEFMIN2 Index|//blp/mktdata/buid/CSUK/EI09CSEFMIN2|//blp/mktdata/bsid/5987208918643
 CSEFOILS|CSEFOILS Index|CSUK|5987208483465|EI09CSEFOILS|Equity Index|Index|BBG0023YL272|||||30908||//blp/mktdata/bsym/CSUK/CSEFOILS Index|//blp/mktdata/buid/CSUK/EI09CSEFOILS|//blp/mktdata/bsid/5987208483465
 CSEM2011|CSEM2011 Index|CSUK|5987203419981|EI09CSEM2011|Equity Index|Index|BBG0018YRSP6|||||30908||//blp/mktdata/bsym/CSUK/CSEM2011 Index|//blp/mktdata/buid/CSUK/EI09CSEM2011|//blp/mktdata/bsid/5987203419981
 CSEMBRES|CSEMBRES Index|CSUK|5987198225618|EI09CSEMBRES|Equity Index|Index|BBG000YCWF97|||||30908||//blp/mktdata/bsym/CSUK/CSEMBRES Index|//blp/mktdata/buid/CSUK/EI09CSEMBRES|//blp/mktdata/bsid/5987198225618
@@ -8196,6 +8200,7 @@ MSCI Europe Metals & Min|MXEU0MM Index|MXRT|5570591920015|EI09MXEU0MM|Equity Ind
 MSCI Europe Micro Cap|MXEURC Index|MXRT|5570591835788|EI09MXEURC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEURC Index|//blp/mktdata/buid/MXRT/EI09MXEURC|//blp/mktdata/bsid/5570591835788
 MSCI Europe Multi Util|MXEU0MU Index|MXRT|5570591920023|EI09MXEU0MU|Equity Index|Index|BBG001BCTY66||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0MU Index|//blp/mktdata/buid/MXRT/EI09MXEU0MU|//blp/mktdata/bsid/5570591920023
 MSCI Europe Oil Gas & CF|MXEU0OG Index|MXRT|5570591920024|EI09MXEU0OG|Equity Index|Index|BBG001BCTY75||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0OG Index|//blp/mktdata/buid/MXRT/EI09MXEU0OG|//blp/mktdata/bsid/5570591920024
+MSCI Europe Q4 Rebal|CGDONO11 Index|CGDO||EI09CGDONO11|Equity Index|Index|BBG0025VJ377||46707|||||//blp/mktdata/bsym/CGDO/CGDONO11 Index|//blp/mktdata/buid/CGDO/EI09CGDONO11|
 MSCI Europe Tobacco|MXEU0TB Index|MXRT|5570585518198|EI09MXEU0TB|Equity Index|Index|BBG000Y3G061||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0TB Index|//blp/mktdata/buid/MXRT/EI09MXEU0TB|//blp/mktdata/bsid/5570585518198
 MSCI Europe Water Util|MXEU0WU Index|MXRT|5570591920021|EI09MXEU0WU|Equity Index|Index|BBG001BCTY93||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0WU Index|//blp/mktdata/buid/MXRT/EI09MXEU0WU|//blp/mktdata/bsid/5570591920021
 MSCI Europe Wles Tele Sv|MXEU0WT Index|MXRT|5570591920020|EI09MXEU0WT|Equity Index|Index|BBG001BCTYC9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0WT Index|//blp/mktdata/buid/MXRT/EI09MXEU0WT|//blp/mktdata/bsid/5570591920020
@@ -10340,6 +10345,8 @@ Materials Select Sector|IXB Index|CME|614180662034|EI09IXB|Equity Index|Index|BB
 Media Big|GSCGMEDB Index|GOLD|3384448217273|EI09GSCGMEDB|Equity Index|Index|BBG000YS37X5||46707|||||//blp/mktdata/bsym/GOLD/GSCGMEDB Index|//blp/mktdata/buid/GOLD/EI09GSCGMEDB|//blp/mktdata/bsid/3384448217273
 Media Broadcast|GSCGMEBR Index|GOLD|3384448217275|EI09GSCGMEBR|Equity Index|Index|BBG000YS3890||46707|||||//blp/mktdata/bsym/GOLD/GSCGMEBR Index|//blp/mktdata/buid/GOLD/EI09GSCGMEBR|//blp/mktdata/bsid/3384448217275
 Media General|GSCGMEDG Index|GOLD|3384448217274|EI09GSCGMEDG|Equity Index|Index|BBG000YS3854||46707|||||//blp/mktdata/bsym/GOLD/GSCGMEDG Index|//blp/mktdata/buid/GOLD/EI09GSCGMEDG|//blp/mktdata/bsid/3384448217274
+Merrill Lynch High Pensi|MLEIHPDE Index|MLEI|5338664575145|EI09MLEIHPDE|Equity Index|Index|BBG0025X3CC4|||||34974||//blp/mktdata/bsym/MLEI/MLEIHPDE Index|//blp/mktdata/buid/MLEI/EI09MLEIHPDE|//blp/mktdata/bsid/5338664575145
+Merrill Lynch Low Pensio|MLEILPDE Index|MLEI|5338664575144|EI09MLEILPDE|Equity Index|Index|BBG0025X3CB5|||||34974||//blp/mktdata/bsym/MLEI/MLEILPDE Index|//blp/mktdata/buid/MLEI/EI09MLEILPDE|//blp/mktdata/bsid/5338664575144
 Merrill Lynch Select Ten|XST Index|NGIB|20310900698545|EI09XST|Equity Index|Index|BBG000SC9D40||45404||||45412|//blp/mktdata/bsym/NGIB/XST Index|//blp/mktdata/buid/NGIB/EI09XST|//blp/mktdata/bsid/20310900698545
 Mexico Habita Index|HABITA Index|MM|1576253348644|EI09HABITA|Equity Index|Index|BBG000RZ9VC1||14063|35741|||39520|//blp/mktdata/bsym/MM/HABITA Index|//blp/mktdata/buid/MM/EI09HABITA|//blp/mktdata/bsid/1576253348644
 Mexico Habita RT Index|HABITART Index|MM|1576255506840|EI09HABITART|Equity Index|Index|BBG000QJRHY5||14063|35741|||39520|//blp/mktdata/bsym/MM/HABITART Index|//blp/mktdata/buid/MM/EI09HABITART|//blp/mktdata/bsid/1576255506840
@@ -10405,6 +10412,7 @@ NAMIBIA TECH HARDW & EQU|FTN093 Index|FTSA|266288349258|EI09FTN093|Equity Index|
 NAMIBIA TELECOMMUN INDEX|FTN060 Index|FTSA|266288349119|EI09FTN060|Equity Index|Index|BBG000TK0RY6||29357|||16683|40177|//blp/mktdata/bsym/FTSA/FTN060 Index|//blp/mktdata/buid/FTSA/EI09FTN060|//blp/mktdata/bsid/266288349119
 NAMIBIA TOBACCO INDEX|FTN049 Index|FTSA|266288301730|EI09FTN049|Equity Index|Index|BBG000NJ36Z7||29357||||40177|//blp/mktdata/bsym/FTSA/FTN049 Index|//blp/mktdata/buid/FTSA/EI09FTN049|//blp/mktdata/bsid/266288301730
 NAMIBIA TRAVEL & LEISURE|FTN053 Index|FTSA|266288349250|EI09FTN053|Equity Index|Index|BBG000TKKR38||29357||||40177|//blp/mktdata/bsym/FTSA/FTN053 Index|//blp/mktdata/buid/FTSA/EI09FTN053|//blp/mktdata/bsid/266288349250
+NASD OMX GreenEconEurpTR|GRNEURT Index|GIDS|10045952898567|EI09GRNEURT|Equity Index|Index|BBG00257YFJ3||37168|||44465||//blp/mktdata/bsym/GIDS/GRNEURT Index|//blp/mktdata/buid/GIDS/EI09GRNEURT|//blp/mktdata/bsid/10045952898567
 NASDAQ 100 1000-1500 IX|NDXX Index|GIDS|10045928805255|EI09NDXX|Equity Index|Index|BBG000SQVR16||37168|||||//blp/mktdata/bsym/GIDS/NDXX Index|//blp/mktdata/buid/GIDS/EI09NDXX|//blp/mktdata/bsid/10045928805255
 NASDAQ 100 1500-2000 IX|NDXW Index|GIDS|10045928805255|EI09NDXW|Equity Index|Index|BBG000LDYVV7||37168|||||//blp/mktdata/bsym/GIDS/NDXW Index|//blp/mktdata/buid/GIDS/EI09NDXW|//blp/mktdata/bsid/10045928805255
 NASDAQ 100 INDEX  CME|IQX Index|CME|614180633635|EI09IQX|Equity Index|Index|BBG000M5J6M5||14002||||39490|//blp/mktdata/bsym/CME/IQX Index|//blp/mktdata/buid/CME/EI09IQX|//blp/mktdata/bsid/614180633635
@@ -10423,9 +10431,23 @@ NASDAQ INSURANCE INDEX|CINS Index|GIDS|10045928801190|EI09CINS|Equity Index|Inde
 NASDAQ INTERNET INDEX|QNET Index|GIDS|10045932693130|EI09QNET|Equity Index|Index|BBG000WR9NH6||37168|||44465||//blp/mktdata/bsym/GIDS/QNET Index|//blp/mktdata/buid/GIDS/EI09QNET|//blp/mktdata/bsid/10045932693130
 NASDAQ ISRAEL INDEX|ISRQ Index|GIDS|10045932721528|EI09ISRQ|Equity Index|Index|BBG000SPNHH2||37168|||||//blp/mktdata/bsym/GIDS/ISRQ Index|//blp/mktdata/buid/GIDS/EI09ISRQ|//blp/mktdata/bsid/10045932721528
 NASDAQ OMX Gov. Relief|QGRI Index|GIDS|10045937394237|EI09QGRI|Equity Index|Index|BBG000XDG2V8||37168|||44465||//blp/mktdata/bsym/GIDS/QGRI Index|//blp/mktdata/buid/GIDS/EI09QGRI|//blp/mktdata/bsid/10045937394237
+NASDAQ OMX Green Econ|QGREEN Index|GIDS|10045946922640|EI09QGREEN|Equity Index|Index|BBG0016Q0T54||37168|||44465||//blp/mktdata/bsym/GIDS/QGREEN Index|//blp/mktdata/buid/GIDS/EI09QGREEN|//blp/mktdata/bsid/10045946922640
+NASDAQ OMX GreenEconAsia|GRNASIA Index|GIDS|10045952898576|EI09GRNASIA|Equity Index|Index|BBG00257Y818||37168|||44465||//blp/mktdata/bsym/GIDS/GRNASIA Index|//blp/mktdata/buid/GIDS/EI09GRNASIA|//blp/mktdata/bsid/10045952898576
+NASDAQ OMX GreenEconEurp|GRNEUR Index|GIDS|10045952898550|EI09GRNEUR|Equity Index|Index|BBG00257Y9G0||37168|||44465||//blp/mktdata/bsym/GIDS/GRNEUR Index|//blp/mktdata/buid/GIDS/EI09GRNEUR|//blp/mktdata/bsid/10045952898550
+NASDAQ OMX GreenEconExUS|GRNEXUS Index|GIDS|10045952898578|EI09GRNEXUS|Equity Index|Index|BBG00257YG92||37168|||44465||//blp/mktdata/bsym/GIDS/GRNEXUS Index|//blp/mktdata/buid/GIDS/EI09GRNEXUS|//blp/mktdata/bsid/10045952898578
+NASDAQ OMX GreenEconUS|GRNUS Index|GIDS|10045952898579|EI09GRNUS|Equity Index|Index|BBG00257YGR2||37168|||44465||//blp/mktdata/bsym/GIDS/GRNUS Index|//blp/mktdata/buid/GIDS/EI09GRNUS|//blp/mktdata/bsid/10045952898579
 NASDAQ OTHER FINANCIAL|CFIN Index|GIDS|10045928801188|EI09CFIN|Equity Index|Index|BBG000J9HJC6||37168|||44465||//blp/mktdata/bsym/GIDS/CFIN Index|//blp/mktdata/buid/GIDS/EI09CFIN|//blp/mktdata/bsid/10045928801188
 NASDAQ TELECOMM INDEX|CUTL Index|GIDS|10045928801192|EI09CUTL|Equity Index|Index|BBG000J9HMC9||37168|||44465||//blp/mktdata/bsym/GIDS/CUTL Index|//blp/mktdata/buid/GIDS/EI09CUTL|//blp/mktdata/bsid/10045928801192
 NASDAQ TRANSPORTATION IX|CTRN Index|GIDS|10045928801191|EI09CTRN|Equity Index|Index|BBG000J9HLL1||37168|||44465||//blp/mktdata/bsym/GIDS/CTRN Index|//blp/mktdata/buid/GIDS/EI09CTRN|//blp/mktdata/bsid/10045928801191
+NASDAQ US 1500 Index TR|NQUS150X Index|GIDS|10045952898901|EI09NQUS150X|Equity Index|Index|BBG00257YVY1||37168|||44465||//blp/mktdata/bsym/GIDS/NQUS150X Index|//blp/mktdata/buid/GIDS/EI09NQUS150X|//blp/mktdata/bsid/10045952898901
+NASDAQ US 1500 Index|NQUSS150 Index|GIDS|10045950169227|EI09NQUSS150|Equity Index|Index|BBG001PH4PG5||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSS150 Index|//blp/mktdata/buid/GIDS/EI09NQUSS150|//blp/mktdata/bsid/10045950169227
+NASDAQ US 300 Index|NQUSL300 Index|GIDS|10045950169225|EI09NQUSL300|Equity Index|Index|BBG001PH4PD8||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSL300 Index|//blp/mktdata/buid/GIDS/EI09NQUSL300|//blp/mktdata/bsid/10045950169225
+NASDAQ US 450 Index|NQUSM450 Index|GIDS|10045950169226|EI09NQUSM450|Equity Index|Index|BBG001PH4PF6||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSM450 Index|//blp/mktdata/buid/GIDS/EI09NQUSM450|//blp/mktdata/bsid/10045950169226
+NASDAQ US All Market Ix|NQUSA Index|GIDS|10045950168946|EI09NQUSA|Equity Index|Index|BBG001PH4F04||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSA Index|//blp/mktdata/buid/GIDS/EI09NQUSA|//blp/mktdata/bsid/10045950168946
+NASDAQ US Benchmark Ix|NQUSB Index|GIDS|10045950169232|EI09NQUSB|Equity Index|Index|BBG001PH4P84||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSB Index|//blp/mktdata/buid/GIDS/EI09NQUSB|//blp/mktdata/bsid/10045950169232
+NASDAQ US Large Cap Ix|NQUSL Index|GIDS|10045950169231|EI09NQUSL|Equity Index|Index|BBG001PH4P93||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSL Index|//blp/mktdata/buid/GIDS/EI09NQUSL|//blp/mktdata/bsid/10045950169231
+NASDAQ US Mid Cap Index|NQUSM Index|GIDS|10045950169230|EI09NQUSM|Equity Index|Index|BBG001PH4PB0||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSM Index|//blp/mktdata/buid/GIDS/EI09NQUSM|//blp/mktdata/bsid/10045950169230
+NASDAQ US Small Cap Inde|NQUSS Index|GIDS|10045950169229|EI09NQUSS|Equity Index|Index|BBG001PH4PC9||37168|||44465||//blp/mktdata/bsym/GIDS/NQUSS Index|//blp/mktdata/buid/GIDS/EI09NQUSS|//blp/mktdata/bsid/10045950169229
 NCINDEX INDEX|NCINDEX Index|PW|1095219016983|EI09NCINDEX|Equity Index|Index|BBG000WJRV22||14083|14083|||39529|//blp/mktdata/bsym/PW/NCINDEX Index|//blp/mktdata/buid/PW/EI09NCINDEX|//blp/mktdata/bsid/1095219016983
 NDQ OMX Alpha AAPL v SPY|AVSPY Index|GIDS|10045947103872|EI09AVSPY|Equity Index|Index|BBG001791DM6||37168|||||//blp/mktdata/bsym/GIDS/AVSPY Index|//blp/mktdata/buid/GIDS/EI09AVSPY|//blp/mktdata/bsid/10045947103872
 NDQ OMX Alpha INTC vsSPY|JVSPY Index|GIDS|10045948184195|EI09JVSPY|Equity Index|Index|||37168|||||//blp/mktdata/bsym/GIDS/JVSPY Index|//blp/mktdata/buid/GIDS/EI09JVSPY|//blp/mktdata/bsid/10045948184195
