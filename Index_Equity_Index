@@ -1,5 +1,5 @@
-#Data Generated At: Wed Oct 19 06:44:54 EDT 2011
-#Data Records=16698
+#Data Generated At: Thu Oct 20 06:47:42 EDT 2011
+#Data Records=16701
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -2819,6 +2819,7 @@ Citi Global Div Titans|CGDODIVT Index|CGDO||EI09CGDODIVT|Equity Index|Index|BBG0
 Citi Global Inflatn-Link|CGEIEGIL Index|CGDO||EI09CGEIEGIL|Equity Index|Index|BBG001Z696C9||46707|||||//blp/mktdata/bsym/CGDO/CGEIEGIL Index|//blp/mktdata/buid/CGDO/EI09CGEIEGIL|
 Citi Global Inflatn-Link|CGEIUS5 Index|CGDO||EI09CGEIUS5|Equity Index|Index|BBG001Z696D8||46707|||||//blp/mktdata/bsym/CGDO/CGEIUS5 Index|//blp/mktdata/buid/CGDO/EI09CGEIUS5|
 Citi Global Select Div 1|CGESDGP Index|CGDO||EI09CGESDGP|Equity Index|Index|BBG001Z69817||46707|||||//blp/mktdata/bsym/CGDO/CGESDGP Index|//blp/mktdata/buid/CGDO/EI09CGESDGP|
+Citi Global Transports|CGDOTRAN Index|CGDO||EI09CGDOTRAN|Equity Index|Index|BBG0025XW5T9|||||31088||//blp/mktdata/bsym/CGDO/CGDOTRAN Index|//blp/mktdata/buid/CGDO/EI09CGDOTRAN|
 Citi Globl Infrastrctr 1|CGEIQQI Index|CGDO||EI09CGEIQQI|Equity Index|Index|BBG001Z68LM6||46707|||||//blp/mktdata/bsym/CGDO/CGEIQQI Index|//blp/mktdata/buid/CGDO/EI09CGEIQQI|
 Citi Growing Defensives|CGDODEF1 Index|CGDO||EI09CGDODEF1|Equity Index|Index|BBG0012HJWY9|||||31088||//blp/mktdata/bsym/CGDO/CGDODEF1 Index|//blp/mktdata/buid/CGDO/EI09CGDODEF1|
 Citi Growing Defensives|CGXXDEF1 Index|CGDO||EI09CGXXDEF1|Equity Index|Index|BBG001K8WGW1||46707|||||//blp/mktdata/bsym/CGDO/CGXXDEF1 Index|//blp/mktdata/buid/CGDO/EI09CGXXDEF1|
@@ -10362,7 +10363,6 @@ Momentum Long|JLBQMOML Index|JPUS|7116768175047|EI09JLBQMOML|Equity Index|Index|
 Momentum Short|JLBQMOMS Index|JPUS|7116768175054|EI09JLBQMOMS|Equity Index|Index|BBG000X1H573|||||33088||//blp/mktdata/bsym/JPUS/JLBQMOMS Index|//blp/mktdata/buid/JPUS/EI09JLBQMOMS|//blp/mktdata/bsid/7116768175054
 Morgan Stanley Custom Sm|MSJNNET3 Index|MSJN|20083283969244|EI09MSJNNET3|Equity Index|Index|BBG001MBMP44||46707|||||//blp/mktdata/bsym/MSJN/MSJNNET3 Index|//blp/mktdata/buid/MSJN/EI09MSJNNET3|//blp/mktdata/bsid/20083283969244
 Most Owned Europe|CGDOOWNL Index|CGDO||EI09CGDOOWNL|Equity Index|Index|BBG001R6Y3L7|||||31088||//blp/mktdata/bsym/CGDO/CGDOOWNL Index|//blp/mktdata/buid/CGDO/EI09CGDOOWNL|
-NAIROBI AS|NSEASI Index|KN|7949993082230|EI09NSEASI|Equity Index|Index|BBG000X10B69||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEASI Index|//blp/mktdata/buid/KN/EI09NSEASI|//blp/mktdata/bsid/7949993082230
 NAME|ID_BB_SEC_NUM_DES|FEED_SOURCE|ID_BB_SEC_NUM_SRC|ID_BB_UNIQUE|SECURITY_TYP|MARKET_SECTOR_DES|ID_BB_GLOBAL|COMPOSITE_ID_BB_GLOBAL|FEED_EID1|FEED_EID2|FEED_EID3|FEED_EID4|FEED_DELAYED_EID1|Subscription String 1|Subscription String 2|Subscription String 3
 NAMIBIA ARSPCE & DEF IDX|FTN021 Index|FTSA|266288349238|EI09FTN021|Equity Index|Index|BBG000TKJ2Y1||29357||||40177|//blp/mktdata/bsym/FTSA/FTN021 Index|//blp/mktdata/buid/FTSA/EI09FTN021|//blp/mktdata/bsid/266288349238
 NAMIBIA AUTO & PARTS IDX|FTN031 Index|FTSA|266288349242|EI09FTN031|Equity Index|Index|BBG000TKJ4R5||29357||||40177|//blp/mktdata/bsym/FTSA/FTN031 Index|//blp/mktdata/buid/FTSA/EI09FTN031|//blp/mktdata/bsid/266288349242
@@ -10943,7 +10943,7 @@ NZX LEISURE & TOURISM|NZLEIS Index|NZ|768799477699|EI09NZLEIS|Equity Index|Index
 NZX MEDIA & TELECOM IDX|NZMEDI Index|NZ|768799477701|EI09NZMEDI|Equity Index|Index|BBG000NRM7N9||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZMEDI Index|//blp/mktdata/buid/NZ/EI09NZMEDI|//blp/mktdata/bsid/768799477701
 NZX MID CAP INDEX|NZSEMC Index|NZ|768799472980|EI09NZSEMC|Equity Index|Index|BBG000N7HSK6||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZSEMC Index|//blp/mktdata/buid/NZ/EI09NZSEMC|//blp/mktdata/bsid/768799472980
 NZX MINING INDEX|NZMINE Index|NZ|768799477689|EI09NZMINE|Equity Index|Index|BBG000NRKYM3||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZMINE Index|//blp/mktdata/buid/NZ/EI09NZMINE|//blp/mktdata/bsid/768799477689
-NZX Morrison Index|MOR Index|NZ||EI09MOR|Equity Index|Index|BBG0025DBNV4||27801|27801|||39609|//blp/mktdata/bsym/NZ/MOR Index|//blp/mktdata/buid/NZ/EI09MOR|
+NZX Morrison CapitaI Idx|MOR Index|NZ||EI09MOR|Equity Index|Index|BBG0025DBNV4||27801|27801|||39609|//blp/mktdata/bsym/NZ/MOR Index|//blp/mktdata/buid/NZ/EI09MOR|
 NZX PORTS INDEX|NZPORT Index|NZ|768799477698|EI09NZPORT|Equity Index|Index|BBG000NRL3D0||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZPORT Index|//blp/mktdata/buid/NZ/EI09NZPORT|//blp/mktdata/bsid/768799477698
 NZX PROPERTY INDEX|NZPROP Index|NZ|768799477696|EI09NZPROP|Equity Index|Index|BBG000NRL260||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZPROP Index|//blp/mktdata/buid/NZ/EI09NZPROP|//blp/mktdata/bsid/768799477696
 NZX PRTFLO INDEX|NZSEPOFG Index|NZ|768799510803|EI09NZSEPOFG|Equity Index|Index|BBG000SSV3P9||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZSEPOFG Index|//blp/mktdata/buid/NZ/EI09NZSEPOFG|//blp/mktdata/bsid/768799510803
@@ -10952,6 +10952,7 @@ NZX SciTech Capital Indx|NZXTS Index|NZ|768799457819|EI09NZXTS|Equity Index|Inde
 NZX TEXTILES & APPAREL|NZTEXT Index|NZ|768799477694|EI09NZTEXT|Equity Index|Index|BBG000NRL0B8||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZTEXT Index|//blp/mktdata/buid/NZ/EI09NZTEXT|//blp/mktdata/bsid/768799477694
 NZX TOP 10 INDEX|NZSE10 Index|NZ|768799442455|EI09NZSE10|Equity Index|Index|BBG000JH0395||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZSE10 Index|//blp/mktdata/buid/NZ/EI09NZSE10|//blp/mktdata/bsid/768799442455
 NZX TRANSPORT INDEX|NZTRAN Index|NZ|768799477697|EI09NZTRAN|Equity Index|Index|BBG000NRL2K4||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZTRAN Index|//blp/mktdata/buid/NZ/EI09NZTRAN|//blp/mktdata/bsid/768799477697
+Nairobi All Share|NSEASI Index|KN|7949993082230|EI09NSEASI|Equity Index|Index|BBG000X10B69||34877|34877|||39691|//blp/mktdata/bsym/KN/NSEASI Index|//blp/mktdata/buid/KN/EI09NSEASI|//blp/mktdata/bsid/7949993082230
 Nairobi SE 20 Share|KNSMIDX Index|KN||EI09KNSMIDX|Equity Index|Index|BBG0022653T6||34877|34877|||39691|//blp/mktdata/bsym/KN/KNSMIDX Index|//blp/mktdata/buid/KN/EI09KNSMIDX|
 Namibia Alt Energy|FTN58 Index|FTSA|266300829030|EI09FTN58|Equity Index|Index|BBG000TQDJQ6||29357||||40177|//blp/mktdata/bsym/FTSA/FTN58 Index|//blp/mktdata/buid/FTSA/EI09FTN58|//blp/mktdata/bsid/266300829030
 Namibia RE Invest & Serv|FTN863 Index|FTSA|266300829803|EI09FTN863|Equity Index|Index|BBG000Y2VDY7||29357||||40177|//blp/mktdata/bsym/FTSA/FTN863 Index|//blp/mktdata/buid/FTSA/EI09FTN863|//blp/mktdata/bsid/266300829803
@@ -15854,6 +15855,8 @@ SXIE ex restricted stock|CSERE024 Index|CSUK|5987207769670|EI09CSERE024|Equity I
 SXIP ex restricted stock|CSERE020 Index|CSUK|5987207687996|EI09CSERE020|Equity Index|Index|BBG001ZLXD70|||||35807||//blp/mktdata/bsym/CSUK/CSERE020 Index|//blp/mktdata/buid/CSUK/EI09CSERE020|//blp/mktdata/bsid/5987207687996
 SXPP EX ARCMITTAL|GSSXPPXA Index|GOLD|3384444346140|EI09GSSXPPXA|Equity Index|Index|BBG000S5DNG5||46707|||||//blp/mktdata/bsym/GOLD/GSSXPPXA Index|//blp/mktdata/buid/GOLD/EI09GSSXPPXA|//blp/mktdata/bsid/3384444346140
 SXPP ex Xstrata|GSECSXPX Index|GOLD||EI09GSECSXPX|Equity Index|Index|BBG001PLRX10||46707|||||//blp/mktdata/bsym/GOLD/GSECSXPX Index|//blp/mktdata/buid/GOLD/EI09GSECSXPX|
+SXXP Ex Banks and Insure|JPCEEXBI Index|JPUS||EI09JPCEEXBI|Equity Index|Index|BBG0025YDP96|||||33088||//blp/mktdata/bsym/JPUS/JPCEEXBI Index|//blp/mktdata/buid/JPUS/EI09JPCEEXBI|
+SXXP Ex Banks|JPCEEXBA Index|JPUS||EI09JPCEEXBA|Equity Index|Index|BBG0025YCTS8|||||33088||//blp/mktdata/bsym/JPUS/JPCEEXBA Index|//blp/mktdata/buid/JPUS/EI09JPCEEXBA|
 SXXP ex Fin & REIT|CGDOXFIN Index|CGDO||EI09CGDOXFIN|Equity Index|Index|BBG001WPK502|||||31088||//blp/mktdata/bsym/CGDO/CGDOXFIN Index|//blp/mktdata/buid/CGDO/EI09CGDOXFIN|
 SXXP ex restricted stock|CSERE030 Index|CSUK|5987207817469|EI09CSERE030|Equity Index|Index|BBG00204XZ11|||||31523||//blp/mktdata/bsym/CSUK/CSERE030 Index|//blp/mktdata/buid/CSUK/EI09CSERE030|//blp/mktdata/bsid/5987207817469
 SXXP|CGSXXP Index|CGDO||EI09CGSXXP|Equity Index|Index|BBG001YTWQ94||46707|||||//blp/mktdata/bsym/CGDO/CGSXXP Index|//blp/mktdata/buid/CGDO/EI09CGSXXP|
