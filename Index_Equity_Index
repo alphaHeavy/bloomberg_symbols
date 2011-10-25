@@ -1,5 +1,5 @@
-#Data Generated At: Mon Oct 24 06:44:52 EDT 2011
-#Data Records=16764
+#Data Generated At: Tue Oct 25 06:46:57 EDT 2011
+#Data Records=16774
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1377,11 +1377,13 @@ BI GL Construction Cmptv|BICNSTC Index|||EI09BICNSTC|Equity Index|Index|BBG00179
 BI GL Construction PB|BICNSTV Index|||EI09BICNSTV|Equity Index|Index|BBG00179TKT3||46707|||||||
 BI GL Copper Cmptv|BRCOPRC Index|||EI09BRCOPRC|Equity Index|Index|BBG000Z4J555||46707|||||||
 BI GL Cosmetics - PB|BIBECOGV Index|||EI09BIBECOGV|Equity Index|Index|BBG0019HQQL1||46707|||||||
+BI GL Couriers&Exp DS PB|BIXPRSGP Index|||EI09BIXPRSGP|Equity Index|Index|BBG0026Z3QL7||46707|||||||
 BI GL Crop Chem PB|BICPCHGV Index|||EI09BICPCHGV|Equity Index|Index|BBG001CBDMB4||46707|||||||
 BI GL DRAM Semicdtr Comp|BIDRAM Index|||EI09BIDRAM|Equity Index|Index|BBG0017DXM51||46707|||||||
 BI GL Data Processors PB|BIDATAPC Index|||EI09BIDATAPC|Equity Index|Index|BBG0018LL8P4||46707|||||||
 BI GL Defense Primes|BIGLDEFC Index|||EI09BIGLDEFC|Equity Index|Index|BBG001DCLQB3||46707|||||||
 BI GL Dev Stg Biotech PB|BRDSBIOV Index|||EI09BRDSBIOV|Equity Index|Index|BBG000ZGC7R7||46707|||||||
+BI GL Diabetes Comp|BIDIABET Index|||EI09BIDIABET|Equity Index|Index|BBG0026ZJBW1||46707|||||||
 BI GL Distilleries PBus|BRGSBVCV Index|||EI09BRGSBVCV|Equity Index|Index|BBG000ZCD3M9||46707|||||||
 BI GL Diversified Bnk PB|BIGDIBKP Index|||EI09BIGDIBKP|Equity Index|Index|BBG0024LCNB8||46707|||||||
 BI GL Divrfd Mining PB|BIMJDVMN Index|||EI09BIMJDVMN|Equity Index|Index|BBG001850ZD5||46707|||||||
@@ -2135,6 +2137,7 @@ CECE OIL AND GAS SEC IND|CECEOIL Index|AV|133144349468|EI09CECEOIL|Equity Index|
 CECE TELECOM SECTOR IND|CECETEL Index|AV|133144349467|EI09CECETEL|Equity Index|Index|BBG000SQW7L7||31149||||39655|//blp/mktdata/bsym/AV/CECETEL Index|//blp/mktdata/buid/AV/EI09CECETEL|//blp/mktdata/bsid/133144349467
 CECEEUR|CGECECE1 Index|CGDO||EI09CGECECE1|Equity Index|Index|BBG00172T0F7|||||31088||//blp/mktdata/bsym/CGDO/CGECECE1 Index|//blp/mktdata/buid/CGDO/EI09CGECECE1|
 CECEEUR|CGECECE2 Index|CGDO||EI09CGECECE2|Equity Index|Index|BBG00172T0M9|||||31088||//blp/mktdata/bsym/CGDO/CGECECE2 Index|//blp/mktdata/buid/CGDO/EI09CGECECE2|
+CECEEUR|JPTECECE Index|JPUS||EI09JPTECECE|Equity Index|Index|BBG0026Z82X2|||||33088||//blp/mktdata/bsym/JPUS/JPTECECE Index|//blp/mktdata/buid/JPUS/EI09JPTECECE|
 CECENTRE Index|CECENTRE Index|AV|133162095280|EI09CECENTRE|Equity Index|Index|BBG0015J08S2||31149||||39655|//blp/mktdata/bsym/AV/CECENTRE Index|//blp/mktdata/buid/AV/EI09CECENTRE|//blp/mktdata/bsid/133162095280
 CEEMEA Earnings Momentum|CGDOCEMO Index|CGDO||EI09CGDOCEMO|Equity Index|Index|BBG00228R452||46707|||||//blp/mktdata/bsym/CGDO/CGDOCEMO Index|//blp/mktdata/buid/CGDO/EI09CGDOCEMO|
 CEEMEA GARP|CGDOCGAR Index|CGDO||EI09CGDOCGAR|Equity Index|Index|BBG00228R3Z1||46707|||||//blp/mktdata/bsym/CGDO/CGDOCGAR Index|//blp/mktdata/buid/CGDO/EI09CGDOCGAR|
@@ -3699,6 +3702,7 @@ ETRACS UBS BB CMCIPlatIV|PTMIV Index|NGIB|20310909500963|EI09PTMIV|Equity Index|
 ETRACS UBS BB CMCISlvrIV|USVIV Index|NGIB|20310909490457|EI09USVIV|Equity Index|Index|BBG000SWDPY1||45404||||45412|//blp/mktdata/bsym/NGIB/USVIV Index|//blp/mktdata/buid/NGIB/EI09USVIV|//blp/mktdata/bsid/20310909490457
 ETRACS UBS BB ShrtPlatIV|PTDIV Index|NGIB|20310909501035|EI09PTDIV|Equity Index|Index|BBG000VBXK54||45404||||45412|//blp/mktdata/bsym/NGIB/PTDIV Index|//blp/mktdata/buid/NGIB/EI09PTDIV|//blp/mktdata/bsid/20310909501035
 ETRACS UBS Bberg CMCI IV|UCIIV Index|NGIB|20310909500956|EI09UCIIV|Equity Index|Index|BBG000SW7H94||45404||||45412|//blp/mktdata/bsym/NGIB/UCIIV Index|//blp/mktdata/buid/NGIB/EI09UCIIV|//blp/mktdata/bsid/20310909500956
+EU Insurance Yield|UBCEINSY Index|WDRL|2495400456409|EI09UBCEINSY|Equity Index|Index|BBG0025DS849||46707|||||//blp/mktdata/bsym/WDRL/UBCEINSY Index|//blp/mktdata/buid/WDRL/EI09UBCEINSY|//blp/mktdata/bsid/2495400456409
 EU Stress Test Index|EUSTRS Index|||EI09EUSTRS|Equity Index|Index|BBG0012Y8ZC1||46707|||||||
 EU Weak EM FX Liq|UBTEUEXL Index|WDRL|2495400397199|EI09UBTEUEXL|Equity Index|Index|BBG002580TT7||46707|||||//blp/mktdata/bsym/WDRL/UBTEUEXL Index|//blp/mktdata/buid/WDRL/EI09UBTEUEXL|//blp/mktdata/bsid/2495400397199
 EU Weak EM FX|UBTEUEMX Index|WDRL|2495400359265|EI09UBTEUEMX|Equity Index|Index|BBG00252QJN0||46707|||||//blp/mktdata/bsym/WDRL/UBTEUEMX Index|//blp/mktdata/buid/WDRL/EI09UBTEUEMX|//blp/mktdata/bsid/2495400359265
@@ -5595,6 +5599,7 @@ HTTRHIDY|HTTRHIDY Index|CSUK|5987203711375|EI09HTTRHIDY|Equity Index|Index|BBG00
 HTUSCAN1|HTUSCAN1 Index|CSUK|5987205642194|EI09HTUSCAN1|Equity Index|Index|BBG001ML4PC3|||||30908||//blp/mktdata/bsym/CSUK/HTUSCAN1 Index|//blp/mktdata/buid/CSUK/EI09HTUSCAN1|//blp/mktdata/bsid/5987205642194
 HUNGARIAN TRADED INDEX|CHTX Index|AV|133144280984|EI09CHTX|Equity Index|Index|BBG000HGQC55||31149||||39655|//blp/mktdata/bsym/AV/CHTX Index|//blp/mktdata/buid/AV/EI09CHTX|//blp/mktdata/bsid/133144280984
 HUNGARIAN TRD INDEX EUR|HTXEUR Index|AV|133144352352|EI09HTXEUR|Equity Index|Index|BBG000SY28Z6||31149||||39655|//blp/mktdata/bsym/AV/HTXEUR Index|//blp/mktdata/buid/AV/EI09HTXEUR|//blp/mktdata/bsid/133144352352
+Hand Picked Energy|NMRAENGL Index|NMDP|1447428665858|EI09NMRAENGL|Equity Index|Index|BBG0026ZH967|||||37029||//blp/mktdata/bsym/NMDP/NMRAENGL Index|//blp/mktdata/buid/NMDP/EI09NMRAENGL|//blp/mktdata/bsid/1447428665858
 Hang Seng Ch A Corp Sus|HSCASUS Index|HSI|996452906949|EI09HSCASUS|Equity Index|Index|BBG00129K0Q4||14206||||39588|//blp/mktdata/bsym/HSI/HSCASUS Index|//blp/mktdata/buid/HSI/EI09HSCASUS|//blp/mktdata/bsid/996452906949
 Hang Seng China A Indust|HSCAIT Index|HSI|996444877528|EI09HSCAIT|Equity Index|Index|BBG000XWD0Y0||14206||||39588|//blp/mktdata/bsym/HSI/HSCAIT Index|//blp/mktdata/buid/HSI/EI09HSCAIT|//blp/mktdata/bsid/996444877528
 Hang Seng Corp Sustain|HSSUS Index|HSI|996453025843|EI09HSSUS|Equity Index|Index|BBG00129K0L9||14206||||39588|//blp/mktdata/bsym/HSI/HSSUS Index|//blp/mktdata/buid/HSI/EI09HSSUS|//blp/mktdata/bsid/996453025843
@@ -6259,6 +6264,7 @@ MERGENT INT DIV ACHVR IX|DAT Index|NGIB|20310900743337|EI09DAT|Equity Index|Inde
 MERRILL LYNCH 100 TECHNO|MLO Index|NGIB|20310900637938|EI09MLO|Equity Index|Index|BBG000HS4H61||45404||||45412|//blp/mktdata/bsym/NGIB/MLO Index|//blp/mktdata/buid/NGIB/EI09MLO|//blp/mktdata/bsid/20310900637938
 MERRILL LYNCH BC7R|MLBC7R00 Index|MLHK||EI09MLBC7R00|Equity Index|Index|BBG00186KSN6||46707|||||//blp/mktdata/bsym/MLHK/MLBC7R00 Index|//blp/mktdata/buid/MLHK/EI09MLBC7R00|
 MERRILL LYNCH CECE EUR|MLCECEEU Index|MLHK||EI09MLCECEEU|Equity Index|Index|BBG001YK3MQ5||46707|||||//blp/mktdata/bsym/MLHK/MLCECEEU Index|//blp/mktdata/buid/MLHK/EI09MLCECEEU|
+MERRILL LYNCH GLOBAL CON|MLEIGCME Index|MLEI|5338663129063|EI09MLEIGCME|Equity Index|Index|BBG0026ZGTR1|||||34974||//blp/mktdata/bsym/MLEI/MLEIGCME Index|//blp/mktdata/buid/MLEI/EI09MLEIGCME|//blp/mktdata/bsid/5338663129063
 MEXICO BOLSA INDEX|MEXBOLD Index|MM|1576253297540|EI09MEXBOLD|Equity Index|Index|BBG000SNXJH2||14063|35741|||39520|//blp/mktdata/bsym/MM/MEXBOLD Index|//blp/mktdata/buid/MM/EI09MEXBOLD|//blp/mktdata/bsid/1576253297540
 MEXICO COMPOSITE INDEX|MEXCOMP Index|||EI09MEXCOMP|Equity Index|Index|BBG000MS3116||46707|||||||
 MEXICO IMC30 INDEX|IMC30 Index|MM|1576253346294|EI09IMC30|Equity Index|Index|BBG000RH3LJ2||14063|35741|||39520|//blp/mktdata/bsym/MM/IMC30 Index|//blp/mktdata/buid/MM/EI09IMC30|//blp/mktdata/bsid/1576253346294
@@ -8264,7 +8270,7 @@ MSCI Europe Metals & Min|MXEU0MM Index|MXRT|5570591920015|EI09MXEU0MM|Equity Ind
 MSCI Europe Micro Cap|MXEURC Index|MXRT|5570591835788|EI09MXEURC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEURC Index|//blp/mktdata/buid/MXRT/EI09MXEURC|//blp/mktdata/bsid/5570591835788
 MSCI Europe Multi Util|MXEU0MU Index|MXRT|5570591920023|EI09MXEU0MU|Equity Index|Index|BBG001BCTY66||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0MU Index|//blp/mktdata/buid/MXRT/EI09MXEU0MU|//blp/mktdata/bsid/5570591920023
 MSCI Europe Oil Gas & CF|MXEU0OG Index|MXRT|5570591920024|EI09MXEU0OG|Equity Index|Index|BBG001BCTY75||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0OG Index|//blp/mktdata/buid/MXRT/EI09MXEU0OG|//blp/mktdata/bsid/5570591920024
-MSCI Europe Q4 Rebal|CGDONO11 Index|CGDO||EI09CGDONO11|Equity Index|Index|BBG0025VJ377||46707|||||//blp/mktdata/bsym/CGDO/CGDONO11 Index|//blp/mktdata/buid/CGDO/EI09CGDONO11|
+MSCI Europe Rebalance|CGDONO11 Index|CGDO||EI09CGDONO11|Equity Index|Index|BBG0025VJ377||46707|||||//blp/mktdata/bsym/CGDO/CGDONO11 Index|//blp/mktdata/buid/CGDO/EI09CGDONO11|
 MSCI Europe Tobacco|MXEU0TB Index|MXRT|5570585518198|EI09MXEU0TB|Equity Index|Index|BBG000Y3G061||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0TB Index|//blp/mktdata/buid/MXRT/EI09MXEU0TB|//blp/mktdata/bsid/5570585518198
 MSCI Europe Water Util|MXEU0WU Index|MXRT|5570591920021|EI09MXEU0WU|Equity Index|Index|BBG001BCTY93||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0WU Index|//blp/mktdata/buid/MXRT/EI09MXEU0WU|//blp/mktdata/bsid/5570591920021
 MSCI Europe Wles Tele Sv|MXEU0WT Index|MXRT|5570591920020|EI09MXEU0WT|Equity Index|Index|BBG001BCTYC9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0WT Index|//blp/mktdata/buid/MXRT/EI09MXEU0WT|//blp/mktdata/bsid/5570591920020
@@ -11764,9 +11770,11 @@ RAFI Dev xUS Mid Sm 1500|FRSDXUS Index|FTUK|1511833086932|EI09FRSDXUS|Equity Ind
 RAFI US 1000|CGELRUSA Index|CGDO||EI09CGELRUSA|Equity Index|Index|BBG001B0VPQ6|||||31088||//blp/mktdata/bsym/CGDO/CGELRUSA Index|//blp/mktdata/buid/CGDO/EI09CGELRUSA|
 RDX Extended (EUR)|RXEUR Index|AV|133144464481|EI09RXEUR|Equity Index|Index|BBG000W5GW95||31149||||39655|//blp/mktdata/bsym/AV/RXEUR Index|//blp/mktdata/buid/AV/EI09RXEUR|//blp/mktdata/bsid/133144464481
 RDX Extended (USD)|RXUSD Index|AV|133144464480|EI09RXUSD|Equity Index|Index|BBG000W5GVZ8||31149||||39655|//blp/mktdata/bsym/AV/RXUSD Index|//blp/mktdata/buid/AV/EI09RXUSD|//blp/mktdata/bsid/133144464480
+RDXUSD|JPTRURDX Index|JPUS||EI09JPTRURDX|Equity Index|Index|BBG0026Z3971|||||33088||//blp/mktdata/bsym/JPUS/JPTRURDX Index|//blp/mktdata/buid/JPUS/EI09JPTRURDX|
 REFR 2|UBSBREF2 Index|WDRL|2495396184249|EI09UBSBREF2|Equity Index|Index|BBG001HWW8V1||46707|||||//blp/mktdata/bsym/WDRL/UBSBREF2 Index|//blp/mktdata/buid/WDRL/EI09UBSBREF2|//blp/mktdata/bsid/2495396184249
 REITS CITs|CITREIT Index|TSX|704374942439|EI09CITREIT|Equity Index|Index|BBG000L4SY39||46707|||||//blp/mktdata/bsym/TSX/CITREIT Index|//blp/mktdata/buid/TSX/EI09CITREIT|//blp/mktdata/bsid/704374942439
 RHB ISLAMIC/INDONESIA IX|RHBIIN Index|||EI09RHBIIN|Equity Index|Index|BBG000NDHFP6||46707|||||||
+RIOB|JPTRRIOB Index|JPUS||EI09JPTRRIOB|Equity Index|Index|BBG0026Z3962|||||33088||//blp/mktdata/bsym/JPUS/JPTRRIOB Index|//blp/mktdata/buid/JPUS/EI09JPTRRIOB|
 ROE Long|NMRAROEL Index|NMDP|1447414406743|EI09NMRAROEL|Equity Index|Index|BBG000GZRTW6|||||37029||//blp/mktdata/bsym/NMDP/NMRAROEL Index|//blp/mktdata/buid/NMDP/EI09NMRAROEL|//blp/mktdata/bsid/1447414406743
 ROE Short|NMRAROES Index|NMDP|1447414406744|EI09NMRAROES|Equity Index|Index|BBG000GZVNN4|||||37029||//blp/mktdata/bsym/NMDP/NMRAROES Index|//blp/mktdata/buid/NMDP/EI09NMRAROES|//blp/mktdata/bsid/1447414406744
 ROGERS INT TRAKRS INDEX|RCT Index|DJI|622776143648|EI09RCT|Equity Index|Index|BBG000VK1Y13||14224|||||//blp/mktdata/bsym/DJI/RCT Index|//blp/mktdata/buid/DJI/EI09RCT|//blp/mktdata/bsid/622776143648
@@ -14186,6 +14194,7 @@ S&P Bahrain BMI Shariah|SPSHBH Index|SPGC|7838323068624|EI09SPSHBH|Equity Index|
 S&P Bahrain PR USD|SEMGBAPD Index|SPGC|7838334241774|EI09SEMGBAPD|Equity Index|Index|BBG000W8P3S2||34773|||37786||//blp/mktdata/bsym/SPGC/SEMGBAPD Index|//blp/mktdata/buid/SPGC/EI09SEMGBAPD|//blp/mktdata/bsid/7838334241774
 S&P Bahrain Shariah L2|SPSBHUP2 Index|SPGC|7838329343189|EI09SPSBHUP2|Equity Index|Index|BBG001664PX1||34773|||42636||//blp/mktdata/bsym/SPGC/SPSBHUP2 Index|//blp/mktdata/buid/SPGC/EI09SPSBHUP2|//blp/mktdata/bsid/7838329343189
 S&P Bahrain Shariah|SPSHBHUP Index|SPGC|7838329343189|EI09SPSHBHUP|Equity Index|Index|BBG000YVJD77||34773|||37773||//blp/mktdata/bsym/SPGC/SPSHBHUP Index|//blp/mktdata/buid/SPGC/EI09SPSHBHUP|//blp/mktdata/bsid/7838329343189
+S&P Banks Select Indust|SPSIBK Index|CME|614204167163|EI09SPSIBK|Equity Index|Index|BBG00228RVG0||43397|||37740||//blp/mktdata/bsym/CME/SPSIBK Index|//blp/mktdata/buid/CME/EI09SPSIBK|//blp/mktdata/bsid/614204167163
 S&P COMPUTER HARDWR SLCT|SPSICH Index|CME|614192377185|EI09SPSICH|Equity Index|Index|BBG000S8TWJ9||43397|||||//blp/mktdata/bsym/CME/SPSICH Index|//blp/mktdata/buid/CME/EI09SPSICH|//blp/mktdata/bsid/614192377185
 S&P COMPUTER SOFTWR SLCT|SPSICS Index|CME|614192377186|EI09SPSICS|Equity Index|Index|BBG000S8TXS7||43397|||||//blp/mktdata/bsym/CME/SPSICS Index|//blp/mktdata/buid/CME/EI09SPSICS|//blp/mktdata/bsid/614192377186
 S&P CPA LM UCITS III CAP|SCPAUUC Index|||EI09SCPAUUC|Equity Index|Index|BBG001HJJQ90|||||44022||||
@@ -16123,6 +16132,7 @@ TIM Short Index|CGDOTIMS Index|CGDO||EI09CGDOTIMS|Equity Index|Index|BBG001KNNYR
 TOKYO LARGE SIZED INDEX|TKLLI Index|JT|901943425833|EI09TKLLI|Equity Index|Index|BBG000GXK4C5||14020|14020|||39501|//blp/mktdata/bsym/JT/TKLLI Index|//blp/mktdata/buid/JT/EI09TKLLI|//blp/mktdata/bsid/901943425833
 TOKYO MEDIUM SIZED INDEX|TKMLI Index|JT|901943425834|EI09TKMLI|Equity Index|Index|BBG000GXK5F9||14020|14020|||39501|//blp/mktdata/bsym/JT/TKMLI Index|//blp/mktdata/buid/JT/EI09TKMLI|//blp/mktdata/bsid/901943425834
 TOKYO SMALL SIZED INDEX|TKSLI Index|JT|901943425832|EI09TKSLI|Equity Index|Index|BBG000GXK426||14020|14020|||39501|//blp/mktdata/bsym/JT/TKSLI Index|//blp/mktdata/buid/JT/EI09TKSLI|//blp/mktdata/bsid/901943425832
+TOP40|JPTSAT40 Index|JPUS||EI09JPTSAT40|Equity Index|Index|BBG0026Z82Y1|||||33088||//blp/mktdata/bsym/JPUS/JPTSAT40 Index|//blp/mktdata/buid/JPUS/EI09JPTSAT40|
 TOPIX 100 INDEX (TSE)|TPX100 Index|JT|901943467477|EI09TPX100|Equity Index|Index|BBG000P97Y46||14020|14020|||39501|//blp/mktdata/bsym/JT/TPX100 Index|//blp/mktdata/buid/JT/EI09TPX100|//blp/mktdata/bsid/901943467477
 TOPIX 1000|TPX1000 Index|JT|901943507953|EI09TPX1000|Equity Index|Index|BBG000TH8G97||14020|14020|||39501|//blp/mktdata/bsym/JT/TPX1000 Index|//blp/mktdata/buid/JT/EI09TPX1000|//blp/mktdata/bsid/901943507953
 TOPIX 500 INDEX (TSE)|TPX500 Index|JT|901943467478|EI09TPX500|Equity Index|Index|BBG000P97ZW2||14020|14020|||39501|//blp/mktdata/bsym/JT/TPX500 Index|//blp/mktdata/buid/JT/EI09TPX500|//blp/mktdata/bsid/901943467478
@@ -16346,7 +16356,6 @@ UBS CPS UBSSXKP|UBSSXKP Index|WDRL|2495397787130|EI09UBSSXKP|Equity Index|Index|
 UBS CPS UBSSXMP|UBSSXMP Index|WDRL|2495397787131|EI09UBSSXMP|Equity Index|Index|BBG001PPNQ29||46707|||||//blp/mktdata/bsym/WDRL/UBSSXMP Index|//blp/mktdata/buid/WDRL/EI09UBSSXMP|//blp/mktdata/bsid/2495397787131
 UBS CPS UBSSXNP|UBSSXNP Index|WDRL|2495397787132|EI09UBSSXNP|Equity Index|Index|BBG001PPNQ38||46707|||||//blp/mktdata/bsym/WDRL/UBSSXNP Index|//blp/mktdata/buid/WDRL/EI09UBSSXNP|//blp/mktdata/bsid/2495397787132
 UBS CPS UBSWBETA|UBSWBETA Index|WDRL|2495394220667|EI09UBSWBETA|Equity Index|Index|BBG0015W2S98||46707|||||//blp/mktdata/bsym/WDRL/UBSWBETA Index|//blp/mktdata/buid/WDRL/EI09UBSWBETA|//blp/mktdata/bsid/2495394220667
-UBS EU Insurance Yield|UBCEINSY Index|WDRL|2495400456409|EI09UBCEINSY|Equity Index|Index|BBG0025DS849||46707|||||//blp/mktdata/bsym/WDRL/UBCEINSY Index|//blp/mktdata/buid/WDRL/EI09UBCEINSY|//blp/mktdata/bsid/2495400456409
 UBS Euro Pharma|UBSSPHAR Index|WDRL||EI09UBSSPHAR|Equity Index|Index|BBG0021R92S0||46707|||||//blp/mktdata/bsym/WDRL/UBSSPHAR Index|//blp/mktdata/buid/WDRL/EI09UBSSPHAR|
 UBS Europe Luxury Basket|UBTEULUX Index|WDRL|2495400241900|EI09UBTEULUX|Equity Index|Index|BBG0024KY428||46707|||||//blp/mktdata/bsym/WDRL/UBTEULUX Index|//blp/mktdata/buid/WDRL/EI09UBTEULUX|//blp/mktdata/bsid/2495400241900
 UBS Optimised Germany|UBOEGDAX Index|WDRL|2495400042411|EI09UBOEGDAX|Equity Index|Index|BBG0022TZNN5||46707|||||//blp/mktdata/bsym/WDRL/UBOEGDAX Index|//blp/mktdata/buid/WDRL/EI09UBOEGDAX|//blp/mktdata/bsid/2495400042411
@@ -16619,6 +16628,7 @@ XKPS GY|CGEXKPS Index|CGDO||EI09CGEXKPS|Equity Index|Index|BBG0015J0946|||||3108
 XNPS GY|CGEXNPS Index|CGDO||EI09CGEXNPS|Equity Index|Index|BBG0015J0955|||||31088||//blp/mktdata/bsym/CGDO/CGEXNPS Index|//blp/mktdata/buid/CGDO/EI09CGEXNPS|
 XOVER 15|GSECXO15 Index|GOLD||EI09GSECXO15|Equity Index|Index|BBG00217MG99||46707|||||//blp/mktdata/bsym/GOLD/GSECXO15 Index|//blp/mktdata/buid/GOLD/EI09GSECXO15|
 XPPS GY|CGEXPPS Index|CGDO||EI09CGEXPPS|Equity Index|Index|BBG0015J0964|||||31088||//blp/mktdata/bsym/CGDO/CGEXPPS Index|//blp/mktdata/buid/CGDO/EI09CGEXPPS|
+XU030|JPTTXU30 Index|JPUS||EI09JPTTXU30|Equity Index|Index|BBG0026Z82Z0|||||33088||//blp/mktdata/bsym/JPUS/JPTTXU30 Index|//blp/mktdata/buid/JPUS/EI09JPTTXU30|
 Yield - European|CGDOEUDY Index|CGDO||EI09CGDOEUDY|Equity Index|Index|BBG001931N18|||||31088||//blp/mktdata/bsym/CGDO/CGDOEUDY Index|//blp/mktdata/buid/CGDO/EI09CGDOEUDY|
 Yield - European|CGDOEUYD Index|CGDO||EI09CGDOEUYD|Equity Index|Index|BBG001931TR7|||||31088||//blp/mktdata/bsym/CGDO/CGDOEUYD Index|//blp/mktdata/buid/CGDO/EI09CGDOEUYD|
 ZIMBABWE INDUSTRIAL IDX|ZHINDUSD Index|||EI09ZHINDUSD|Equity Index|Index|BBG000VV4WQ3||46707|||||||
