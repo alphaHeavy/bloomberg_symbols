@@ -1,5 +1,5 @@
-#Data Generated At: Tue Oct 25 06:34:59 EDT 2011
-#Data Records=3638
+#Data Generated At: Wed Oct 26 06:33:14 EDT 2011
+#Data Records=3646
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP SPREAD
 AED SW SPD VS US 3M 10YR||||IX8913688-0|SWAP SPREAD|Curncy||||||||||
 AED SW SPD VS US 3M 15Y||||IX10380692-0|SWAP SPREAD|Curncy||||||||||
@@ -222,7 +222,15 @@ BHD SW SPD VS US 3M 5Y||||IX11854760-0|SWAP SPREAD|Curncy||||||||||
 BHD SW SPD VS US 3M 7Y||||IX11854736-0|SWAP SPREAD|Curncy||||||||||
 BHD SW SPD VS US 3M 7Y||||IX11854748-0|SWAP SPREAD|Curncy||||||||||
 BRL W/ SPREAD||||IX436079-0|SWAP SPREAD|Curncy||||||||||
+Bobl ASW vs Shtz ASW BOX||||IX13852260-0|SWAP SPREAD|Curncy||||||||||
+Bobl/Shtz ASW 3m Euribor||||IX13852272-0|SWAP SPREAD|Curncy||||||||||
+Bobl/Shtz ASW EONIA||||IX13852284-0|SWAP SPREAD|Curncy||||||||||
 Bund ASW vs Bobl ASW BOX||||IX13488605-0|SWAP SPREAD|Curncy||||||||||
+Bund ASW vs Shtz ASW BOX||||IX13852264-0|SWAP SPREAD|Curncy||||||||||
+Bund/Bobl ASW 3m Euribor||||IX13852268-0|SWAP SPREAD|Curncy||||||||||
+Bund/Bobl ASW EONIA||||IX13852280-0|SWAP SPREAD|Curncy||||||||||
+Bund/Shtz ASW 3m Euribor||||IX13852276-0|SWAP SPREAD|Curncy||||||||||
+Bund/Shtz ASW EONIA||||IX13852288-0|SWAP SPREAD|Curncy||||||||||
 CAD IRS/OIS SPREAD   1Y||||IX12572997-0|SWAP SPREAD|Curncy||||||||||
 CAD IRS/OIS SPREAD   2Y||||IX12573197-0|SWAP SPREAD|Curncy||||||||||
 CAD IRS/OIS SPREAD   3Y||||IX12573201-0|SWAP SPREAD|Curncy||||||||||
