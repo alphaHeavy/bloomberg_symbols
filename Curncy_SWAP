@@ -1,5 +1,5 @@
-#Data Generated At: Wed Oct 26 06:33:14 EDT 2011
-#Data Records=12852
+#Data Generated At: Thu Oct 27 06:33:19 EDT 2011
+#Data Records=12873
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -375,6 +375,8 @@ B     03/22/12    ASW6||||IX13746674-0|SWAP|Curncy||||||||||
 B     03/29/12    ASW6||||IX13746794-0|SWAP|Curncy||||||||||
 B     04/05/12    ASW6||||IX12684134-0|SWAP|Curncy||||||||||
 B     04/12/12    ASW6||||IX13746802-0|SWAP|Curncy||||||||||
+B     04/19/12    ASW6||||IX13859049-0|SWAP|Curncy||||||||||
+B     04/26/12    ASW6||||IX13859045-0|SWAP|Curncy||||||||||
 B     05/31/12    ASW6||||IX13746810-0|SWAP|Curncy||||||||||
 B     06/28/12    ASW6||||IX13746822-0|SWAP|Curncy||||||||||
 B     06/28/12    ASW6||||IX13763612-0|SWAP|Curncy||||||||||
@@ -805,11 +807,25 @@ BRL FIXED vs CDI  JUL 10||||IX9836978-0|SWAP|Curncy||||||||||
 BRL FIXED vs CDI  JUL 11||||IX9836982-0|SWAP|Curncy||||||||||
 BRL FIXED vs CDI  JUL 12||||IX10866214-0|SWAP|Curncy||||||||||
 BRL FIXED vs CDI  JUL 13||||IX12689039-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  1M||||IX13859093-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  1Y||||IX13859077-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  2M||||IX13859089-0|SWAP|Curncy||||||||||
 BRL ICPA vs CDI SWAP  2Y||||IX5898847-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  3M||||IX13859085-0|SWAP|Curncy||||||||||
 BRL ICPA vs CDI SWAP  3Y||||IX5898851-0|SWAP|Curncy||||||||||
 BRL ICPA vs CDI SWAP  4Y||||IX5898855-0|SWAP|Curncy||||||||||
 BRL ICPA vs CDI SWAP  5Y||||IX5898859-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  6M||||IX13859081-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  6Y||||IX13859097-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  7Y||||IX13859101-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  8Y||||IX13859105-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP  9Y||||IX13859109-0|SWAP|Curncy||||||||||
 BRL ICPA vs CDI SWAP 10Y||||IX5898863-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP 12Y||||IX13859113-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP 15Y||||IX13859117-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP 20Y||||IX13859121-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP 25Y||||IX13859125-0|SWAP|Curncy||||||||||
+BRL ICPA vs CDI SWAP 30Y||||IX13859129-0|SWAP|Curncy||||||||||
 BRL SW     DI-USD OV  1M||||IX612243-0|SWAP|Curncy||||||||||
 BRL SW     DI-USD OV  2M||||IX612257-0|SWAP|Curncy||||||||||
 BRL SW     DI-USD OV  3M||||IX612263-0|SWAP|Curncy||||||||||
@@ -9587,6 +9603,7 @@ T   1   09/30/15  ASW6||||IX12720446-0|SWAP|Curncy||||||||||
 T   1   10/15/12  ASW6||||IX12719918-0|SWAP|Curncy||||||||||
 T   1   10/31/11  ASW6||||IX12689175-0|SWAP|Curncy||||||||||
 T   1   10/31/15  ASW6||||IX12720450-0|SWAP|Curncy||||||||||
+T   1   10/31/16  ASW6||||IX13858857-0|SWAP|Curncy||||||||||
 T   1   11/15/12  ASW6||||IX12719990-0|SWAP|Curncy||||||||||
 T   1   11/30/15  ASW6||||IX12720462-0|SWAP|Curncy||||||||||
 T   1   12/15/12  ASW6||||IX12720014-0|SWAP|Curncy||||||||||
@@ -9749,6 +9766,7 @@ T   9   02/15/16  ASW6||||IX12720474-0|SWAP|Curncy||||||||||
 T   9   11/15/15  ASW6||||IX12720454-0|SWAP|Curncy||||||||||
 T  0  01/31/12    ASW6||||IX12689231-0|SWAP|Curncy||||||||||
 T  0  11/30/11    ASW6||||IX12689207-0|SWAP|Curncy||||||||||
+T  0 1/4 10/31/13   ASW6||||IX13859033-0|SWAP|Curncy||||||||||
 T  1  01/15/12    ASW6||||IX12689223-0|SWAP|Curncy||||||||||
 T  1  02/15/12    ASW6||||IX12689239-0|SWAP|Curncy||||||||||
 T  1  08/31/11    ASW6||||IX12689195-0|SWAP|Curncy||||||||||
@@ -9762,6 +9780,8 @@ T  4  08/31/11    ASW6||||IX12689191-0|SWAP|Curncy||||||||||
 T  4  11/30/11    ASW6||||IX12689203-0|SWAP|Curncy||||||||||
 T  4  12/31/11    ASW6||||IX12689215-0|SWAP|Curncy||||||||||
 T  5  08/15/11    ASW6||||IX12689199-0|SWAP|Curncy||||||||||
+T  8 1/8 05/15/21   ASW6||||IX13859181-0|SWAP|Curncy||||||||||
+T  8 3/4 05/15/17   ASW6||||IX13859177-0|SWAP|Curncy||||||||||
 T 2 1/4  03/31/16   ASW6||||IX12720494-0|SWAP|Curncy||||||||||
 T 2 3/8   03/31/16  ASW6||||IX12720490-0|SWAP|Curncy||||||||||
 T 2 5/8  04/30/16   ASW6||||IX12720498-0|SWAP|Curncy||||||||||
@@ -12730,6 +12750,7 @@ VND-USD SWAP        5 YR||||IX390093-0|SWAP|Curncy||||||||||
 VND-USD SWAP        7 YR||||IX390095-0|SWAP|Curncy||||||||||
 WIB    11/03/11   ASW6||||IX12689179-0|SWAP|Curncy||||||||||
 WIB   05/03/12    ASW6||||IX12702473-0|SWAP|Curncy||||||||||
+WIT    10/31/18   ASW6||||IX13858937-0|SWAP|Curncy||||||||||
 XAU SWAP QRTLY      1 YR||||IX3876849-0|SWAP|Curncy||||||||||
 XAU SWAP QRTLY      18M||||IX11284707-0|SWAP|Curncy||||||||||
 XAU SWAP QRTLY      2 YR||||IX3876853-0|SWAP|Curncy||||||||||

@@ -1,5 +1,5 @@
-#Data Generated At: Wed Oct 26 06:33:16 EDT 2011
-#Data Records=1024
+#Data Generated At: Thu Oct 27 06:33:21 EDT 2011
+#Data Records=1026
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Strategy Trade.
 'FE' COMBO STRATEGY|FE2054AE|||IX12633272-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
 'FE' COMBO STRATEGY|FE20BFA3|||IX13098979-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
@@ -26,6 +26,7 @@
 'FE' STRADDLE|FE209F10|||IX12960726-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
 'FE' STRADDLE|FE20FA50|||IX13319701-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
 'FE' STRADDLE|FE215237|||IX13579090-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
+'FE' STRADDLE|FE21A404|||IX13856981-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
 'FE' STRANGLE|FE1FFD13|||IX12225980-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
 'FE' STRANGLE|FE1FFD7A|||IX12226228-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
 'FE' STRANGLE|FE204D91|||IX12589009-0|Strategy Trade.|Curncy|||27269|27270|0||39605|||
@@ -316,6 +317,7 @@ DOLLAR DX-DX SPD  Z1-U2|DXZ1DXU2|eNYB|2100263115070|IX13623146-0|Strategy Trade.
 Dollar Spread     F2-G2|DRRF2G2|RFX|7743849041633|IX13273025-0|Strategy Trade.|Curncy|BBG001YF9SZ7||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRF2G2|//blp/mktdata/buid/RFX/IX13273025-0|//blp/mktdata/bsid/7743849041633
 Dollar Spread     G2-H2|DRRG2H2|RFX|7743849789598|IX13491529-0|Strategy Trade.|Curncy|BBG0021PMZN1||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRG2H2|//blp/mktdata/buid/RFX/IX13491529-0|//blp/mktdata/bsid/7743849789598
 Dollar Spread     H2-J2|DRRH2J2|RFX|7743850353943|IX13706231-0|Strategy Trade.|Curncy|BBG0024WW0P7||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRH2J2|//blp/mktdata/buid/RFX/IX13706231-0|//blp/mktdata/bsid/7743850353943
+Dollar Spread     V1-J2|DRRV1J2|||IX13860545-0|Strategy Trade.|Curncy|BBG00276CWH2||34878|34878|0||0|||
 Dollar Spread     V1-X1|DRRV1X1|RFX|7743847801367|IX12761821-0|Strategy Trade.|Curncy|BBG001PM6D42||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRV1X1|//blp/mktdata/buid/RFX/IX12761821-0|//blp/mktdata/bsid/7743847801367
 Dollar Spread     X1-Z1|DRRX1Z1|RFX|7743848154331|IX12934009-0|Strategy Trade.|Curncy|BBG001R08L57||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRX1Z1|//blp/mktdata/buid/RFX/IX12934009-0|//blp/mktdata/bsid/7743848154331
 Dollar Spread     Z1-F2|DRRZ1F2|RFX|7743848473719|IX13077391-0|Strategy Trade.|Curncy|BBG001VGZ7B1||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRZ1F2|//blp/mktdata/buid/RFX/IX13077391-0|//blp/mktdata/bsid/7743848473719
