@@ -1,5 +1,5 @@
-#Data Generated At: Thu Oct 27 06:32:15 EDT 2011
-#Data Records=4534
+#Data Generated At: Fri Oct 28 06:33:02 EDT 2011
+#Data Records=4537
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Nov11|ADCX1|YLX|8744578121076|IX13843087-0|Currency future.|Curncy|BBG0026ZDV08||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCX1|//blp/mktdata/buid/YLX/IX13843087-0|//blp/mktdata/bsid/8744578121076
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -1445,6 +1445,7 @@ Dollar/Rand Futur Mar12|DRAH2|YLX|8744572795777|IX11670393-0|Currency future.|Cu
 Dollar/Rand Futur Mar13|DRAH3|YLX|8744577499030|IX13607577-0|Currency future.|Curncy|BBG0023ZZ1X7||34183|34183|0||39685|//blp/mktdata/bsym/YLX/DRAH3|//blp/mktdata/buid/YLX/IX13607577-0|//blp/mktdata/bsid/8744577499030
 Dollar/Rand Futur Sep12|DRAU2|YLX|8744575536454|IX12930017-0|Currency future.|Curncy|BBG001R067Y8||34183|34183|0||39685|//blp/mktdata/bsym/YLX/DRAU2|//blp/mktdata/buid/YLX/IX12930017-0|//blp/mktdata/bsid/8744575536454
 Dubai IRD FX Fut  Dec11|IRDZ1|DGC|1872629435804|IX13463389-0|Currency future.|Curncy|BBG0021F5JQ5||29274|37874|0||39633|//blp/mktdata/bsym/DGC/IRDZ1|//blp/mktdata/buid/DGC/IX13463389-0|//blp/mktdata/bsid/1872629435804
+Dubai IRD FX Fut  Feb12|IRDG2|||IX13870790-0|Currency future.|Curncy|BBG0027BQZR8||29274|37874|0||39633|||
 Dubai IRD FX Fut  Jan12|IRDF2|DGC|1872629989879|IX13674581-0|Currency future.|Curncy|BBG0024N44W2||29274|37874|0||39633|//blp/mktdata/bsym/DGC/IRDF2|//blp/mktdata/buid/DGC/IX13674581-0|//blp/mktdata/bsid/1872629989879
 Dubai IRD FX Fut  Nov11|IRDX1|DGC|1872628688417|IX13240121-0|Currency future.|Curncy|BBG001Y7FRJ8||29274|37874|0||39633|//blp/mktdata/bsym/DGC/IRDX1|//blp/mktdata/buid/DGC/IX13240121-0|//blp/mktdata/bsid/1872628688417
 Dubai IRD FX Fut  Oct11|IRDV1|DGC|1872628118502|IX13045690-0|Currency future.|Curncy|BBG001V719W1||29274|37874|0||39633|//blp/mktdata/bsym/DGC/IRDV1|//blp/mktdata/buid/DGC/IX13045690-0|//blp/mktdata/bsid/1872628118502
@@ -1915,6 +1916,7 @@ EURO CURR FUT     Sep12|KIU2|KOFX|1748075770280|IX13607369-0|Currency future.|Cu
 EURO E-MINI FUT   Dec11|EEZ1|eCME|2078786290881|IX12933713-0|Currency future.|Curncy|BBG001R08CC9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/EEZ1|//blp/mktdata/buid/eCME/IX12933713-0|//blp/mktdata/bsid/2078786290881
 EURO E-MINI FUT   Mar12|EEH2|eCME|2078788024718|IX13545369-0|Currency future.|Curncy|BBG0022FWW03||14002|14002|0||39490|//blp/mktdata/bsym/eCME/EEH2|//blp/mktdata/buid/eCME/IX13545369-0|//blp/mktdata/bsid/2078788024718
 EURO EX RATE FUT  Dec11|FOZ1|PW|1095236176353|IX12105029-0|Currency future.|Curncy|BBG001J7M550||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOZ1|//blp/mktdata/buid/PW/IX12105029-0|//blp/mktdata/bsid/1095236176353
+EURO EX RATE FUT  Jan12|FOF2|||IX13870726-0|Currency future.|Curncy|BBG0027BQZ52||14083|14083|0||39529|||
 EURO EX RATE FUT  Jun12|FOM2|PW|1095238936812|IX13016442-0|Currency future.|Curncy|BBG001S376Z1||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOM2|//blp/mktdata/buid/PW/IX13016442-0|//blp/mktdata/bsid/1095238936812
 EURO EX RATE FUT  Mar12|FOH2|PW|1095237570223|IX12385861-0|Currency future.|Curncy|BBG001LPWLW1||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOH2|//blp/mktdata/buid/PW/IX12385861-0|//blp/mktdata/bsid/1095237570223
 EURO EX RATE FUT  Nov11|FOX1|PW|1095240303772|IX13442006-0|Currency future.|Curncy|BBG00217XK70||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOX1|//blp/mktdata/buid/PW/IX13442006-0|//blp/mktdata/bsid/1095240303772
@@ -4200,6 +4202,7 @@ USD CAD Million   Jun12|ISCM2|eNYB|2100261142418|IX12944102-0|Currency future.|C
 USD CAD Million   Mar12|ISCH2|eNYB|2100259750461|IX12312915-0|Currency future.|Curncy|BBG001KSCF42||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ISCH2|//blp/mktdata/buid/eNYB/IX12312915-0|//blp/mktdata/bsid/2100259750461
 USD CAD Million   Sep12|ISCU2|eNYB|2100263119624|IX13622698-0|Currency future.|Curncy|BBG00242FH11||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ISCU2|//blp/mktdata/buid/eNYB/IX13622698-0|//blp/mktdata/bsid/2100263119624
 USD EX RATE FUT   Dec11|FSZ1|PW|1095236176365|IX11747547-0|Currency future.|Curncy|BBG001CK0YD0||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSZ1|//blp/mktdata/buid/PW/IX11747547-0|//blp/mktdata/bsid/1095236176365
+USD EX RATE FUT   Jan12|FSF2|||IX13870730-0|Currency future.|Curncy|BBG0027BQZ61||14083|14083|0||39529|||
 USD EX RATE FUT   Jun12|FSM2|PW|1095238936820|IX13016506-0|Currency future.|Curncy|BBG001S377K5||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSM2|//blp/mktdata/buid/PW/IX13016506-0|//blp/mktdata/bsid/1095238936820
 USD EX RATE FUT   Mar12|FSH2|PW|1095237570233|IX12385829-0|Currency future.|Curncy|BBG001LPWLM2||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSH2|//blp/mktdata/buid/PW/IX12385829-0|//blp/mktdata/bsid/1095237570233
 USD EX RATE FUT   Nov11|FSX1|PW|1095240303773|IX13442010-0|Currency future.|Curncy|BBG00217XK89||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSX1|//blp/mktdata/buid/PW/IX13442010-0|//blp/mktdata/bsid/1095240303773
