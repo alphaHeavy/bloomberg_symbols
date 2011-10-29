@@ -1,5 +1,5 @@
-#Data Generated At: Fri Oct 28 06:46:36 EDT 2011
-#Data Records=6256
+#Data Generated At: Sat Oct 29 06:34:47 EDT 2011
+#Data Records=6257
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -4060,6 +4060,7 @@ NAT'L SOYBEAN IDX Oct13|PLV3|eMGE|2095968335387|IX13691405-0|Physical index futu
 NAT'L SOYBEAN IDX Sep12|PLU2|eMGE|2095962189927|IX10969033-0|Physical index future.|Index|BBG0015MG0V1||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PLU2|//blp/mktdata/buid/eMGE/IX10969033-0|//blp/mktdata/bsid/2095962189927
 NAT'L SOYBEAN IDX Sep13|PLU3|eMGE|2095967767061|IX13482672-0|Physical index future.|Index|BBG0021LCLZ9||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/PLU3|//blp/mktdata/buid/eMGE/IX13482672-0|//blp/mktdata/bsid/2095967767061
 NATGASINDEX       Dec11|ATSZ1|ICE|1172550361488|IX13682144-0|Physical index future.|Index|BBG0024QXF58||30022|30022|0||40087|//blp/mktdata/bsym/ICE/ATSZ1|//blp/mktdata/buid/ICE/IX13682144-0|//blp/mktdata/bsid/1172550361488
+NATGASINDEX       Jan12|ATSF2|||IX13881375-0|Physical index future.|Index|BBG0027DZMW7||30022|30022|0||40087|||
 NATGASINDEX       Nov11|ATSX1|ICE|1172549787919|IX13472049-0|Physical index future.|Index|BBG0021HVLZ7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/ATSX1|//blp/mktdata/buid/ICE/IX13472049-0|//blp/mktdata/bsid/1172549787919
 NEW YORK CDD FUT  Apr12|NAJ2|eCME|2078774730727|IX8916488-0|Physical index future.|Index|BBG000QSF495||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAJ2|//blp/mktdata/buid/eCME/IX8916488-0|//blp/mktdata/bsid/2078774730727
 NEW YORK CDD FUT  Apr13|NAJ3|eCME|2078780607223|IX10329229-0|Physical index future.|Index|BBG000ZQWC83||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NAJ3|//blp/mktdata/buid/eCME/IX10329229-0|//blp/mktdata/bsid/2078780607223
@@ -4429,6 +4430,7 @@ Nat Gas NGWAVE    Jun12|WAAM2|ICE|1172549036385|IX13247830-0|Physical index futu
 Nat Gas NGWAVE    Mar12|WAAH2|ICE|1172547540790|IX12637476-0|Physical index future.|Index|BBG001NVKS72||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAH2|//blp/mktdata/buid/ICE/IX12637476-0|//blp/mktdata/bsid/1172547540790
 Nat Gas NGWAVE    May12|WAAK2|ICE|1172548467387|IX13054165-0|Physical index future.|Index|BBG001V9LLB1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAK2|//blp/mktdata/buid/ICE/IX13054165-0|//blp/mktdata/bsid/1172548467387
 Nat Gas NGWAVE    Nov11|WAAX1|ICE|1172545708330|IX11780382-0|Physical index future.|Index|BBG001CSJJB8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WAAX1|//blp/mktdata/buid/ICE/IX11780382-0|//blp/mktdata/bsid/1172545708330
+Nat Gas NGWAVE    Sep12|WAAU2|||IX13881187-0|Physical index future.|Index|BBG0027DZLD0||30022|30022|0||40087|||
 New York May Stp  Aug12|YJAQ2|eCME|2078787983222|IX13519694-0|Physical index future.|Index|BBG0021WFYZ4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJAQ2|//blp/mktdata/buid/eCME/IX13519694-0|//blp/mktdata/bsid/2078787983222
 New York May Stp  Jul12|YJAN2|eCME|2078787983221|IX13519690-0|Physical index future.|Index|BBG0021WFYG5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJAN2|//blp/mktdata/buid/eCME/IX13519690-0|//blp/mktdata/bsid/2078787983221
 New York May Stp  Jun12|YJAM2|eCME|2078787983220|IX13519686-0|Physical index future.|Index|BBG0021WFYC9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/YJAM2|//blp/mktdata/buid/eCME/IX13519686-0|//blp/mktdata/bsid/2078787983220
@@ -5313,7 +5315,6 @@ SENSEX FUTURES    Dec11|SNSZ1|EUX|279195282705|IX13063362-0|Physical index futur
 SENSEX FUTURES    Jan12|SNSF2|||IX13870798-0|Physical index future.|Index|BBG0027BQZT6||14066|14111|0||39521|||
 SENSEX FUTURES    Mar12|SNSH2|EUX|279197144381|IX13682012-0|Physical index future.|Index|BBG0024QXD17||14066|14111|0||39521|//blp/mktdata/bsym/EUX/SNSH2|//blp/mktdata/buid/EUX/IX13682012-0|//blp/mktdata/bsid/279197144381
 SENSEX FUTURES    Nov11|SNSX1|EUX|279196517029|IX13442014-0|Physical index future.|Index|BBG00217XK98||14066|14111|0||39521|//blp/mktdata/bsym/EUX/SNSX1|//blp/mktdata/buid/EUX/IX13442014-0|//blp/mktdata/bsid/279196517029
-SENSEX FUTURES    Oct11|SNSV1|EUX|279195837262|IX13247846-0|Physical index future.|Index|BBG001YB3W38||14066|14111|0||39521|//blp/mktdata/bsym/EUX/SNSV1|//blp/mktdata/buid/EUX/IX13247846-0|//blp/mktdata/bsid/279195837262
 SET50 FUTURES     Dec11|BCZ1|TEF|8774637793021|IX11772845-0|Physical index future.|Index|BBG001CPJVF3||29013|29013|0||39632|//blp/mktdata/bsym/TEF/BCZ1|//blp/mktdata/buid/TEF/IX11772845-0|//blp/mktdata/bsid/8774637793021
 SET50 FUTURES     Jun12|BCM2|TEF|8774640572007|IX13051905-0|Physical index future.|Index|BBG001V8W0C6||29013|29013|0||39632|//blp/mktdata/bsym/TEF/BCM2|//blp/mktdata/buid/TEF/IX13051905-0|//blp/mktdata/bsid/8774640572007
 SET50 FUTURES     Mar12|BCH2|TEF|8774639218263|IX12442505-0|Physical index future.|Index|BBG001LWC1L4||29013|29013|0||39632|//blp/mktdata/bsym/TEF/BCH2|//blp/mktdata/buid/TEF/IX12442505-0|//blp/mktdata/bsid/8774639218263

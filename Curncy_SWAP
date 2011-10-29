@@ -1,4 +1,4 @@
-#Data Generated At: Fri Oct 28 06:33:47 EDT 2011
+#Data Generated At: Sat Oct 29 06:21:55 EDT 2011
 #Data Records=12873
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
@@ -250,6 +250,13 @@ AUD SWAP (VS 6M LIB) 6Y||||IX343917-0|SWAP|Curncy||||||||||
 AUD SWAP (VS 6M LIB) 7Y||||IX343919-0|SWAP|Curncy||||||||||
 AUD SWAP (VS 6M LIB) 8Y||||IX343923-0|SWAP|Curncy||||||||||
 AUD SWAP (VS 6M LIB) 9Y||||IX343921-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 10YR||||IX13288237-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 2YR||||IX13288205-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 4YR||||IX13288213-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 5YR||||IX13288217-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 6YR||||IX13288221-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 7YR||||IX13288225-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 8YR||||IX13288229-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 1M LIB) 1MO||||IX1364755-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 1M LIB) 1YR||||IX800377-0|SWAP|Curncy||||||||||
 AUD SWAP (vs 1M LIB) 2MO||||IX800365-0|SWAP|Curncy||||||||||
@@ -340,16 +347,9 @@ AUD SWAP SPOT       7 YR||||IX331575-0|SWAP|Curncy||||||||||
 AUD SWAP SPOT       8 YR||||IX331577-0|SWAP|Curncy||||||||||
 AUD SWAP SPOT       9 MO||||IX331545-0|SWAP|Curncy||||||||||
 AUD SWAP SPOT       9 YR||||IX331579-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 1YR||||IX13288201-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 1YR||||IX13288209-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 2YR||||IX13288205-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 4YR||||IX13288213-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 4YR||||IX13288221-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 5YR||||IX13288217-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 7YR||||IX13288225-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 8YR||||IX13288229-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW) 9YR||||IX13288233-0|SWAP|Curncy||||||||||
-AUD SWAP(VS 1M BBSW)10YR||||IX13288237-0|SWAP|Curncy||||||||||
+AUD SWAP(VS OIS) 1YR||||IX13288201-0|SWAP|Curncy||||||||||
+AUD SWAP(VS OIS) 1YR||||IX13288209-0|SWAP|Curncy||||||||||
+AUD SWAP(VS OIS) 9YR||||IX13288233-0|SWAP|Curncy||||||||||
 AUD SWP 3M DEC 11 DEC 16||||IX11426923-0|SWAP|Curncy||||||||||
 AUD SWP 3M JUN 12 JUN 14||||IX11727184-0|SWAP|Curncy||||||||||
 AUD SWP 3M JUN 12 JUN 15||||IX11727196-0|SWAP|Curncy||||||||||
