@@ -1,5 +1,5 @@
-#Data Generated At: Sat Oct 29 06:34:34 EDT 2011
-#Data Records=17066
+#Data Generated At: Sun Oct 30 06:27:25 EDT 2011
+#Data Records=17118
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -8138,21 +8138,73 @@ MSCI EMU + UK LARGE CAP|MXEM1LC Index|MXRT|5570581840483|EI09MXEM1LC|Equity Inde
 MSCI EMU + UK MID CAP|MXEM1MC Index|MXRT|5570581910327|EI09MXEM1MC|Equity Index|Index|BBG000XKFF17||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM1MC Index|//blp/mktdata/buid/MXRT/EI09MXEM1MC|//blp/mktdata/bsid/5570581910327
 MSCI EMU + UK SMID CAP|MXEM1SM Index|MXRT|5570582012913|EI09MXEM1SM|Equity Index|Index|BBG000XLF0Q1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM1SM Index|//blp/mktdata/buid/MXRT/EI09MXEM1SM|//blp/mktdata/bsid/5570582012913
 MSCI EMU AUTO & COMP|MXEM0AC Index|MXRT|5570574997889|EI09MXEM0AC|Equity Index|Index|BBG000QBWWT9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0AC Index|//blp/mktdata/buid/MXRT/EI09MXEM0AC|//blp/mktdata/bsid/5570574997889
+MSCI EMU Aerospace & Def|MXEM0AD Index|MXRT||EI09MXEM0AD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0AD Index|//blp/mktdata/buid/MXRT/EI09MXEM0AD|
+MSCI EMU Air Freight&Log|MXEM0AF Index|MXRT||EI09MXEM0AF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0AF Index|//blp/mktdata/buid/MXRT/EI09MXEM0AF|
+MSCI EMU Airlines|MXEM0AL Index|MXRT||EI09MXEM0AL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0AL Index|//blp/mktdata/buid/MXRT/EI09MXEM0AL|
+MSCI EMU Auto Components|MXEM0AP Index|MXRT||EI09MXEM0AP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0AP Index|//blp/mktdata/buid/MXRT/EI09MXEM0AP|
+MSCI EMU Automobiles|MXEM0AU Index|MXRT||EI09MXEM0AU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0AU Index|//blp/mktdata/buid/MXRT/EI09MXEM0AU|
 MSCI EMU BANKS|MXEM0BK Index|MXRT|5570574997890|EI09MXEM0BK|Equity Index|Index|BBG000QBWXZ0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0BK Index|//blp/mktdata/buid/MXRT/EI09MXEM0BK|//blp/mktdata/bsid/5570574997890
+MSCI EMU Beverages|MXEM0BV Index|MXRT||EI09MXEM0BV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0BV Index|//blp/mktdata/buid/MXRT/EI09MXEM0BV|
+MSCI EMU Biotechnology|MXEM0BT Index|MXRT||EI09MXEM0BT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0BT Index|//blp/mktdata/buid/MXRT/EI09MXEM0BT|
+MSCI EMU Building Prod|MXEM0BP Index|MXRT||EI09MXEM0BP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0BP Index|//blp/mktdata/buid/MXRT/EI09MXEM0BP|
 MSCI EMU Capital Markets|MXEM0CK Index|MXRT|5570596798035|EI09MXEM0CK|Equity Index|Index|BBG0024KP1R7||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CK Index|//blp/mktdata/buid/MXRT/EI09MXEM0CK|//blp/mktdata/bsid/5570596798035
+MSCI EMU Chemicals|MXEM0CH Index|MXRT||EI09MXEM0CH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CH Index|//blp/mktdata/buid/MXRT/EI09MXEM0CH|
+MSCI EMU Com Svs & Sup|MXEM0CO Index|MXRT||EI09MXEM0CO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CO Index|//blp/mktdata/buid/MXRT/EI09MXEM0CO|
+MSCI EMU Commercial Bank|MXEM0CB Index|MXRT||EI09MXEM0CB|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CB Index|//blp/mktdata/buid/MXRT/EI09MXEM0CB|
+MSCI EMU Commun Eq|MXEM0CQ Index|MXRT||EI09MXEM0CQ|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CQ Index|//blp/mktdata/buid/MXRT/EI09MXEM0CQ|
+MSCI EMU Constr & Engin|MXEM0CE Index|MXRT||EI09MXEM0CE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CE Index|//blp/mktdata/buid/MXRT/EI09MXEM0CE|
+MSCI EMU Constr Mat|MXEM0CJ Index|MXRT||EI09MXEM0CJ|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CJ Index|//blp/mktdata/buid/MXRT/EI09MXEM0CJ|
 MSCI EMU Consume Finance|MXEM0CF Index|MXRT||EI09MXEM0CF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0CF Index|//blp/mktdata/buid/MXRT/EI09MXEM0CF|
+MSCI EMU Div Telecom Sv|MXEM0DV Index|MXRT||EI09MXEM0DV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0DV Index|//blp/mktdata/buid/MXRT/EI09MXEM0DV|
+MSCI EMU Divers Fin Svs|MXEM0DS Index|MXRT||EI09MXEM0DS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0DS Index|//blp/mktdata/buid/MXRT/EI09MXEM0DS|
+MSCI EMU Elec Eq Ins&Co|MXEM0EI Index|MXRT||EI09MXEM0EI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0EI Index|//blp/mktdata/buid/MXRT/EI09MXEM0EI|
+MSCI EMU Electric Util|MXEM0EU Index|MXRT||EI09MXEM0EU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0EU Index|//blp/mktdata/buid/MXRT/EI09MXEM0EU|
+MSCI EMU Electrical Eq|MXEM0EL Index|MXRT||EI09MXEM0EL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0EL Index|//blp/mktdata/buid/MXRT/EI09MXEM0EL|
+MSCI EMU Energy Eq & Sv|MXEM0EE Index|MXRT||EI09MXEM0EE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0EE Index|//blp/mktdata/buid/MXRT/EI09MXEM0EE|
+MSCI EMU Fd & Stpl Rt G3|MXEM0FS Index|MXRT||EI09MXEM0FS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0FS Index|//blp/mktdata/buid/MXRT/EI09MXEM0FS|
+MSCI EMU Food Products|MXEM0FP Index|MXRT||EI09MXEM0FP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0FP Index|//blp/mktdata/buid/MXRT/EI09MXEM0FP|
 MSCI EMU GROWTH|MXEM000G Index|MXRT|5570574997956|EI09MXEM000G|Equity Index|Index|BBG000RRGZB3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM000G Index|//blp/mktdata/buid/MXRT/EI09MXEM000G|//blp/mktdata/bsid/5570574997956
+MSCI EMU Gas Utilities|MXEM0GU Index|MXRT||EI09MXEM0GU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0GU Index|//blp/mktdata/buid/MXRT/EI09MXEM0GU|
+MSCI EMU HCare Eq & Sup|MXEM0HE Index|MXRT||EI09MXEM0HE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0HE Index|//blp/mktdata/buid/MXRT/EI09MXEM0HE|
+MSCI EMU HCare Prov & Sv|MXEM0HV Index|MXRT||EI09MXEM0HV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0HV Index|//blp/mktdata/buid/MXRT/EI09MXEM0HV|
 MSCI EMU HI DVD YIELD|MXEMHDVD Index|MXRT|5570579421162|EI09MXEMHDVD|Equity Index|Index|BBG000RV9W83||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMHDVD Index|//blp/mktdata/buid/MXRT/EI09MXEMHDVD|//blp/mktdata/bsid/5570579421162
+MSCI EMU Hotel Rest&Leis|MXEM0HL Index|MXRT||EI09MXEM0HL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0HL Index|//blp/mktdata/buid/MXRT/EI09MXEM0HL|
+MSCI EMU Household Prod|MXEM0HH Index|MXRT||EI09MXEM0HH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0HH Index|//blp/mktdata/buid/MXRT/EI09MXEM0HH|
 MSCI EMU IMI|MXEMIM Index|MXRT|5570581925393|EI09MXEMIM|Equity Index|Index|BBG000XKKLF3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMIM Index|//blp/mktdata/buid/MXRT/EI09MXEMIM|//blp/mktdata/bsid/5570581925393
 MSCI EMU ISLM LC|MIEMLC Index|MXRT|5570574999634|EI09MIEMLC|Equity Index|Index|BBG000WH8P48||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIEMLC Index|//blp/mktdata/buid/MXRT/EI09MIEMLC|//blp/mktdata/bsid/5570574999634
 MSCI EMU ISLM MC|MIEMMC Index|MXRT|5570574999527|EI09MIEMMC|Equity Index|Index|BBG000WH7B13||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIEMMC Index|//blp/mktdata/buid/MXRT/EI09MIEMMC|//blp/mktdata/bsid/5570574999527
 MSCI EMU ISLM|MIEM Index|MXRT|5570574999633|EI09MIEM|Equity Index|Index|BBG000WH8NX1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MIEM Index|//blp/mktdata/buid/MXRT/EI09MIEM|//blp/mktdata/bsid/5570574999633
+MSCI EMU IT Services|MXEM0IF Index|MXRT||EI09MXEM0IF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0IF Index|//blp/mktdata/buid/MXRT/EI09MXEM0IF|
+MSCI EMU Ind PP & En Tr|MXEM0IP Index|MXRT||EI09MXEM0IP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0IP Index|//blp/mktdata/buid/MXRT/EI09MXEM0IP|
+MSCI EMU Industr Conglom|MXEM0IC Index|MXRT||EI09MXEM0IC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0IC Index|//blp/mktdata/buid/MXRT/EI09MXEM0IC|
+MSCI EMU Inet Sware & Sv|MXEM0WS Index|MXRT||EI09MXEM0WS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0WS Index|//blp/mktdata/buid/MXRT/EI09MXEM0WS|
+MSCI EMU Insurance G3|MXEM0IR Index|MXRT||EI09MXEM0IR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0IR Index|//blp/mktdata/buid/MXRT/EI09MXEM0IR|
 MSCI EMU LARGE CAP|MXEMLC Index|MXRT|5570574999466|EI09MXEMLC|Equity Index|Index|BBG000WGV1K9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMLC Index|//blp/mktdata/buid/MXRT/EI09MXEMLC|//blp/mktdata/bsid/5570574999466
+MSCI EMU Life Sci Tl&Sv|MXEM0LS Index|MXRT||EI09MXEM0LS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0LS Index|//blp/mktdata/buid/MXRT/EI09MXEM0LS|
 MSCI EMU MID CAP|MXEMMC Index|MXRT|5570581910325|EI09MXEMMC|Equity Index|Index|BBG000XKFDP6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMMC Index|//blp/mktdata/buid/MXRT/EI09MXEMMC|//blp/mktdata/bsid/5570581910325
+MSCI EMU Machinery|MXEM0MA Index|MXRT||EI09MXEM0MA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0MA Index|//blp/mktdata/buid/MXRT/EI09MXEM0MA|
+MSCI EMU Media G3|MXEM0ME Index|MXRT||EI09MXEM0ME|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0ME Index|//blp/mktdata/buid/MXRT/EI09MXEM0ME|
+MSCI EMU Metals & Mining|MXEM0MM Index|MXRT||EI09MXEM0MM|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0MM Index|//blp/mktdata/buid/MXRT/EI09MXEM0MM|
+MSCI EMU Multi-Utilities|MXEM0MU Index|MXRT||EI09MXEM0MU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0MU Index|//blp/mktdata/buid/MXRT/EI09MXEM0MU|
+MSCI EMU Multiline Ret|MXEM0MR Index|MXRT||EI09MXEM0MR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0MR Index|//blp/mktdata/buid/MXRT/EI09MXEM0MR|
+MSCI EMU Oil, Gas & CF|MXEM0OG Index|MXRT||EI09MXEM0OG|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0OG Index|//blp/mktdata/buid/MXRT/EI09MXEM0OG|
+MSCI EMU Paper&Forest Pr|MXEM0PF Index|MXRT||EI09MXEM0PF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0PF Index|//blp/mktdata/buid/MXRT/EI09MXEM0PF|
+MSCI EMU Personal Prod|MXEM0PP Index|MXRT||EI09MXEM0PP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0PP Index|//blp/mktdata/buid/MXRT/EI09MXEM0PP|
+MSCI EMU Pharmaceuticals|MXEM0PH Index|MXRT||EI09MXEM0PH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0PH Index|//blp/mktdata/buid/MXRT/EI09MXEM0PH|
+MSCI EMU Prof Svs|MXEM0PS Index|MXRT||EI09MXEM0PS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0PS Index|//blp/mktdata/buid/MXRT/EI09MXEM0PS|
+MSCI EMU R Est Mgmt&Dev|MXEM0RM Index|MXRT||EI09MXEM0RM|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0RM Index|//blp/mktdata/buid/MXRT/EI09MXEM0RM|
+MSCI EMU REITS|MXEM0RI Index|MXRT||EI09MXEM0RI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0RI Index|//blp/mktdata/buid/MXRT/EI09MXEM0RI|
 MSCI EMU SEMI/SEMI EQUIP|MXEM0SE Index|MXRT|5570574999346|EI09MXEM0SE|Equity Index|Index|BBG000TC0R74||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0SE Index|//blp/mktdata/buid/MXRT/EI09MXEM0SE|//blp/mktdata/bsid/5570574999346
 MSCI EMU SMALL CAP|MXEMSC Index|MXRT|5570574999122|EI09MXEMSC|Equity Index|Index|BBG000S8VGR2||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMSC Index|//blp/mktdata/buid/MXRT/EI09MXEMSC|//blp/mktdata/bsid/5570574999122
 MSCI EMU SMID CAP|MXEMSM Index|MXRT|5570582013024|EI09MXEMSM|Equity Index|Index|BBG000XLF072||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMSM Index|//blp/mktdata/buid/MXRT/EI09MXEMSM|//blp/mktdata/bsid/5570582013024
+MSCI EMU Semicond&SEq G3|MXEM0ST Index|MXRT||EI09MXEM0ST|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0ST Index|//blp/mktdata/buid/MXRT/EI09MXEM0ST|
+MSCI EMU Software|MXEM0SO Index|MXRT||EI09MXEM0SO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0SO Index|//blp/mktdata/buid/MXRT/EI09MXEM0SO|
+MSCI EMU Specialty Rtl|MXEM0SR Index|MXRT||EI09MXEM0SR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0SR Index|//blp/mktdata/buid/MXRT/EI09MXEM0SR|
+MSCI EMU Trad Co & Distr|MXEM0TD Index|MXRT||EI09MXEM0TD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0TD Index|//blp/mktdata/buid/MXRT/EI09MXEM0TD|
+MSCI EMU Transport Infra|MXEM0TI Index|MXRT||EI09MXEM0TI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0TI Index|//blp/mktdata/buid/MXRT/EI09MXEM0TI|
+MSCI EMU Txtl Ap&Lux Gds|MXEM0TA Index|MXRT||EI09MXEM0TA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0TA Index|//blp/mktdata/buid/MXRT/EI09MXEM0TA|
 MSCI EMU VALUE|MXEM000V Index|MXRT|5570574997955|EI09MXEM000V|Equity Index|Index|BBG000RRGW11||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM000V Index|//blp/mktdata/buid/MXRT/EI09MXEM000V|//blp/mktdata/bsid/5570574997955
+MSCI EMU Wirel Telecom S|MXEM0WT Index|MXRT||EI09MXEM0WT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEM0WT Index|//blp/mktdata/buid/MXRT/EI09MXEM0WT|
 MSCI EMU x AUSTRIA|MXEMA Index|MXRT|5570574997900|EI09MXEMA|Equity Index|Index|BBG000QBX4C8||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMA Index|//blp/mktdata/buid/MXRT/EI09MXEMA|//blp/mktdata/bsid/5570574997900
 MSCI EMU x BELGIUM|MXEMB Index|MXRT|5570574997897|EI09MXEMB|Equity Index|Index|BBG000QBX330||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMB Index|//blp/mktdata/buid/MXRT/EI09MXEMB|//blp/mktdata/bsid/5570574997897
 MSCI EMU x FINLAND|MXEMV Index|MXRT|5570574997898|EI09MXEMV|Equity Index|Index|BBG000QBX3K1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEMV Index|//blp/mktdata/buid/MXRT/EI09MXEMV|//blp/mktdata/bsid/5570574997898
