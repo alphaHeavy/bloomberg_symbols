@@ -1,4 +1,4 @@
-#Data Generated At: Sun Oct 30 05:56:04 EDT 2011
+#Data Generated At: Mon Oct 31 06:15:56 EDT 2011
 #Data Records=6206
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -3852,7 +3852,7 @@ ICE C.App Coal QtrOct14|UQCV4|ICE|1172546668299|IX12203564-0|Financial commodity
 ICE C.App Coal QtrOct15|UQCV5|ICE|1172546668303|IX12203580-0|Financial commodity future.|Comdty|BBG001KFH8T4||30022|30022|0||40087|//blp/mktdata/bsym/ICE/UQCV5|//blp/mktdata/buid/ICE/IX12203580-0|//blp/mktdata/bsid/1172546668303
 ICE Indo Coal Qua Apr17|SQBJ7|ICE|1172549059469|IX13256175-0|Financial commodity future.|Comdty|BBG001YCX417||30022|30022|0||40087|//blp/mktdata/bsym/ICE/SQBJ7|//blp/mktdata/buid/ICE/IX13256175-0|//blp/mktdata/bsid/1172549059469
 ICE Indo Coal Qua Jan17|SQBF7|ICE|1172547536717|IX12637512-0|Financial commodity future.|Comdty|BBG001NVKTH9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/SQBF7|//blp/mktdata/buid/ICE/IX12637512-0|//blp/mktdata/bsid/1172547536717
-ICE Indo Coal Qua Jul17|SQBN7|||IX13881487-0|Financial commodity future.|Comdty|BBG0027DZNT9||30022|30022|0||40087|||
+ICE Indo Coal Qua Jul17|SQBN7|ICE|1172550858232|IX13881487-0|Financial commodity future.|Comdty|BBG0027DZNT9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/SQBN7|//blp/mktdata/buid/ICE/IX13881487-0|//blp/mktdata/bsid/1172550858232
 ICE Indo Coal QuarApr12|SQBJ2|ICE|1172546713523|IX12234249-0|Financial commodity future.|Comdty|BBG001KK4Z44||30022|30022|0||40087|//blp/mktdata/bsym/ICE/SQBJ2|//blp/mktdata/buid/ICE/IX12234249-0|//blp/mktdata/bsid/1172546713523
 ICE Indo Coal QuarApr13|SQBJ3|ICE|1172546713527|IX12234265-0|Financial commodity future.|Comdty|BBG001KK4Z80||30022|30022|0||40087|//blp/mktdata/bsym/ICE/SQBJ3|//blp/mktdata/buid/ICE/IX12234265-0|//blp/mktdata/bsid/1172546713527
 ICE Indo Coal QuarApr14|SQBJ4|ICE|1172546713531|IX12234281-0|Financial commodity future.|Comdty|BBG001KK4ZD4||30022|30022|0||40087|//blp/mktdata/bsym/ICE/SQBJ4|//blp/mktdata/buid/ICE/IX12234281-0|//blp/mktdata/bsid/1172546713531
@@ -4012,7 +4012,7 @@ LME Lead TAPO Not Dec11|LTWZ1|LME|661443447388|IX11201402-0|Financial commodity 
 LME Lead TAPO Not Dec12|LTWZ2|LME|661449231186|IX13682224-0|Financial commodity future.|Comdty|BBG0024QXFS3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWZ2|//blp/mktdata/buid/LME/IX13682224-0|//blp/mktdata/bsid/661449231186
 LME Lead TAPO Not Feb12|LTWG2|LME|661444186985|IX11550805-0|Financial commodity future.|Comdty|BBG0019Q1WW3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWG2|//blp/mktdata/buid/LME/IX11550805-0|//blp/mktdata/bsid/661444186985
 LME Lead TAPO Not Jan12|LTWF2|LME|661443796182|IX11364755-0|Financial commodity future.|Comdty|BBG001891JC3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWF2|//blp/mktdata/buid/LME/IX11364755-0|//blp/mktdata/bsid/661443796182
-LME Lead TAPO Not Jan13|LTWF3|||IX13881479-0|Financial commodity future.|Comdty|BBG0027DZNR1||14059|0|0||14197|||
+LME Lead TAPO Not Jan13|LTWF3|LME|661449750003|IX13881479-0|Financial commodity future.|Comdty|BBG0027DZNR1||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWF3|//blp/mktdata/buid/LME/IX13881479-0|//blp/mktdata/bsid/661449750003
 LME Lead TAPO Not Jul12|LTWN2|LME|661446428478|IX12637468-0|Financial commodity future.|Comdty|BBG001NVKS45||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWN2|//blp/mktdata/buid/LME/IX12637468-0|//blp/mktdata/bsid/661446428478
 LME Lead TAPO Not Jun12|LTWM2|LME|661446000906|IX12444261-0|Financial commodity future.|Comdty|BBG001LWK8C0||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWM2|//blp/mktdata/buid/LME/IX12444261-0|//blp/mktdata/bsid/661446000906
 LME Lead TAPO Not Mar12|LTWH2|LME|661444581683|IX11780358-0|Financial commodity future.|Comdty|BBG001CSJJ46||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWH2|//blp/mktdata/buid/LME/IX11780358-0|//blp/mktdata/bsid/661444581683
@@ -4624,7 +4624,7 @@ NCG Base Month Fu Dec11|XMEZ1|EEE|1765253529089|IX12822839-0|Financial commodity
 NCG Base Month Fu Feb12|XMEG2|EEE|1765254514195|IX13240125-0|Financial commodity future.|Comdty|BBG001Y7FRK6||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEG2|//blp/mktdata/buid/EEE/IX13240125-0|//blp/mktdata/bsid/1765254514195
 NCG Base Month Fu Jan12|XMEF2|EEE|1765253937704|IX13045538-0|Financial commodity future.|Comdty|BBG001V718Q0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEF2|//blp/mktdata/buid/EEE/IX13045538-0|//blp/mktdata/bsid/1765253937704
 NCG Base Month Fu Mar12|XMEH2|EEE|1765255258393|IX13463429-0|Financial commodity future.|Comdty|BBG0021F5K19||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEH2|//blp/mktdata/buid/EEE/IX13463429-0|//blp/mktdata/bsid/1765255258393
-NCG Base Month Fu May12|XMEK2|||IX13870734-0|Financial commodity future.|Comdty|BBG0027BQZ70||26852|26852|0||39597|||
+NCG Base Month Fu May12|XMEK2|EEE|1765256341471|IX13870734-0|Financial commodity future.|Comdty|BBG0027BQZ70||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEK2|//blp/mktdata/buid/EEE/IX13870734-0|//blp/mktdata/bsid/1765256341471
 NCG Base Month Fu Nov11|XMEX1|EEE|1765253018347|IX12628311-0|Financial commodity future.|Comdty|BBG001NQ0QN1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEX1|//blp/mktdata/buid/EEE/IX12628311-0|//blp/mktdata/bsid/1765253018347
 NCG Base Quarter  Apr12|XQEJ2|EEE|1765248904082|IX10582161-0|Financial commodity future.|Comdty|BBG0012C1T67||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEJ2|//blp/mktdata/buid/EEE/IX10582161-0|//blp/mktdata/bsid/1765248904082
 NCG Base Quarter  Apr13|XQEJ3|EEE|1765253937365|IX13045590-0|Financial commodity future.|Comdty|BBG001V71924||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEJ3|//blp/mktdata/buid/EEE/IX13045590-0|//blp/mktdata/bsid/1765253937365

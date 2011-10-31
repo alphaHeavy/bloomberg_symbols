@@ -1,5 +1,5 @@
-#Data Generated At: Sun Oct 30 06:27:25 EDT 2011
-#Data Records=17118
+#Data Generated At: Mon Oct 31 06:47:18 EDT 2011
+#Data Records=17205
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -8453,27 +8453,65 @@ MSCI Eur Paper & For Pr|MXEU0PF Index|MXRT|5570591920019|EI09MXEU0PF|Equity Inde
 MSCI Euro Barra Earn Yld|M007EU02 Index|MXRT|5570587938589|EI09M007EU02|Equity Index|Index|BBG000Z5MRS5||14168|||40967|40169|//blp/mktdata/bsym/MXRT/M007EU02 Index|//blp/mktdata/buid/MXRT/EI09M007EU02|//blp/mktdata/bsid/5570587938589
 MSCI Europ Barra Low Vol|M00IEU02 Index|MXRT|5570583151209|EI09M00IEU02|Equity Index|Index|BBG000RJZH66||14168|||40967|40169|//blp/mktdata/bsym/MXRT/M00IEU02 Index|//blp/mktdata/buid/MXRT/EI09M00IEU02|//blp/mktdata/bsid/5570583151209
 MSCI Europe Aero & Defen|MXEU0AD Index|MXRT|5570592840252|EI09MXEU0AD|Equity Index|Index|BBG000ZFD7P0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0AD Index|//blp/mktdata/buid/MXRT/EI09MXEU0AD|//blp/mktdata/bsid/5570592840252
+MSCI Europe Air Frgt&Log|MXEU0AF Index|MXRT||EI09MXEU0AF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0AF Index|//blp/mktdata/buid/MXRT/EI09MXEU0AF|
+MSCI Europe Airlines|MXEU0AL Index|MXRT||EI09MXEU0AL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0AL Index|//blp/mktdata/buid/MXRT/EI09MXEU0AL|
 MSCI Europe All Cap|MXEUAC Index|MXRT|5570591626211|EI09MXEUAC|Equity Index|Index|BBG001KJSH32||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEUAC Index|//blp/mktdata/buid/MXRT/EI09MXEUAC|//blp/mktdata/bsid/5570591626211
+MSCI Europe Auto Compon|MXEU0AP Index|MXRT||EI09MXEU0AP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0AP Index|//blp/mktdata/buid/MXRT/EI09MXEU0AP|
+MSCI Europe Automobiles|MXEU0AU Index|MXRT||EI09MXEU0AU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0AU Index|//blp/mktdata/buid/MXRT/EI09MXEU0AU|
 MSCI Europe Barra Value|M00EEU02 Index|MXRT|5570583151205|EI09M00EEU02|Equity Index|Index|BBG000RJYZP6||14168|||40967|40169|//blp/mktdata/bsym/MXRT/M00EEU02 Index|//blp/mktdata/buid/MXRT/EI09M00EEU02|//blp/mktdata/bsid/5570583151205
 MSCI Europe Beverages|MXEU0BV Index|MXRT|5570585060697|EI09MXEU0BV|Equity Index|Index|BBG000XWGCK6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0BV Index|//blp/mktdata/buid/MXRT/EI09MXEU0BV|//blp/mktdata/bsid/5570585060697
+MSCI Europe Biotech|MXEU0BT Index|MXRT||EI09MXEU0BT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0BT Index|//blp/mktdata/buid/MXRT/EI09MXEU0BT|
+MSCI Europe Build Prod|MXEU0BP Index|MXRT||EI09MXEU0BP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0BP Index|//blp/mktdata/buid/MXRT/EI09MXEU0BP|
 MSCI Europe Capital Mkts|MXEU0CK Index|MXRT|5570596798032|EI09MXEU0CK|Equity Index|Index|BBG0024KP1S6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CK Index|//blp/mktdata/buid/MXRT/EI09MXEU0CK|//blp/mktdata/bsid/5570596798032
 MSCI Europe Chemicals|MXEU0CH Index|MXRT|5570591920009|EI09MXEU0CH|Equity Index|Index|BBG001BCTXY7||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CH Index|//blp/mktdata/buid/MXRT/EI09MXEU0CH|//blp/mktdata/bsid/5570591920009
+MSCI Europe Comml Banks|MXEU0CB Index|MXRT||EI09MXEU0CB|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CB Index|//blp/mktdata/buid/MXRT/EI09MXEU0CB|
+MSCI Europe Comml Sv&Su|MXEU0CO Index|MXRT||EI09MXEU0CO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CO Index|//blp/mktdata/buid/MXRT/EI09MXEU0CO|
+MSCI Europe Commn Equip|MXEU0CQ Index|MXRT||EI09MXEU0CQ|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CQ Index|//blp/mktdata/buid/MXRT/EI09MXEU0CQ|
 MSCI Europe Const Mater|MXEU0CJ Index|MXRT|5570591920010|EI09MXEU0CJ|Equity Index|Index|BBG001BCTXZ6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CJ Index|//blp/mktdata/buid/MXRT/EI09MXEU0CJ|//blp/mktdata/bsid/5570591920010
+MSCI Europe Constr&Engin|MXEU0CE Index|MXRT||EI09MXEU0CE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CE Index|//blp/mktdata/buid/MXRT/EI09MXEU0CE|
 MSCI Europe Consumer Fin|MXEU0CF Index|MXRT||EI09MXEU0CF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CF Index|//blp/mktdata/buid/MXRT/EI09MXEU0CF|
 MSCI Europe Cont & Pack|MXEU0CP Index|MXRT|5570591920013|EI09MXEU0CP|Equity Index|Index|BBG001BCTY02||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0CP Index|//blp/mktdata/buid/MXRT/EI09MXEU0CP|//blp/mktdata/bsid/5570591920013
+MSCI Europe Div Finan Sv|MXEU0DS Index|MXRT||EI09MXEU0DS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0DS Index|//blp/mktdata/buid/MXRT/EI09MXEU0DS|
 MSCI Europe Div Telec Sv|MXEU0DV Index|MXRT|5570591920022|EI09MXEU0DV|Equity Index|Index|BBG001BCTYB0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0DV Index|//blp/mktdata/buid/MXRT/EI09MXEU0DV|//blp/mktdata/bsid/5570591920022
+MSCI Europe ElecEqIns&Co|MXEU0EI Index|MXRT||EI09MXEU0EI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0EI Index|//blp/mktdata/buid/MXRT/EI09MXEU0EI|
 MSCI Europe Electric Ut|MXEU0EU Index|MXRT|5570591920016|EI09MXEU0EU|Equity Index|Index|BBG001BCTY11||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0EU Index|//blp/mktdata/buid/MXRT/EI09MXEU0EU|//blp/mktdata/bsid/5570591920016
+MSCI Europe ElectricalEq|MXEU0EL Index|MXRT||EI09MXEU0EL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0EL Index|//blp/mktdata/buid/MXRT/EI09MXEU0EL|
 MSCI Europe Ener Eq & Sv|MXEU0EE Index|MXRT|5570591920017|EI09MXEU0EE|Equity Index|Index|BBG001BCTY20||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0EE Index|//blp/mktdata/buid/MXRT/EI09MXEU0EE|//blp/mktdata/bsid/5570591920017
 MSCI Europe Food Product|MXEU0FP Index|MXRT|5570585060693|EI09MXEU0FP|Equity Index|Index|BBG000XWGC80||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0FP Index|//blp/mktdata/buid/MXRT/EI09MXEU0FP|//blp/mktdata/bsid/5570585060693
+MSCI Europe Food&Stpl Rt|MXEU0FS Index|MXRT||EI09MXEU0FS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0FS Index|//blp/mktdata/buid/MXRT/EI09MXEU0FS|
 MSCI Europe Gas Util|MXEU0GU Index|MXRT|5570591920014|EI09MXEU0GU|Equity Index|Index|BBG001BCTY39||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0GU Index|//blp/mktdata/buid/MXRT/EI09MXEU0GU|//blp/mktdata/bsid/5570591920014
+MSCI Europe HCare Eq&Su|MXEU0HE Index|MXRT||EI09MXEU0HE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0HE Index|//blp/mktdata/buid/MXRT/EI09MXEU0HE|
+MSCI Europe HCareProv&Sv|MXEU0HV Index|MXRT||EI09MXEU0HV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0HV Index|//blp/mktdata/buid/MXRT/EI09MXEU0HV|
 MSCI Europe Healthcare|CGESTMHE Index|CGDO||EI09CGESTMHE|Equity Index|Index|BBG001B0VPM0|||||31088||//blp/mktdata/bsym/CGDO/CGESTMHE Index|//blp/mktdata/buid/CGDO/EI09CGESTMHE|
+MSCI Europe Hhold Durs|MXEU0HD Index|MXRT||EI09MXEU0HD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0HD Index|//blp/mktdata/buid/MXRT/EI09MXEU0HD|
+MSCI Europe Hhold Prod|MXEU0HH Index|MXRT||EI09MXEU0HH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0HH Index|//blp/mktdata/buid/MXRT/EI09MXEU0HH|
 MSCI Europe IT Services|MXEU0IF Index|MXRT|5570592840573|EI09MXEU0IF|Equity Index|Index|BBG000ZFD7Y0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0IF Index|//blp/mktdata/buid/MXRT/EI09MXEU0IF|//blp/mktdata/bsid/5570592840573
+MSCI Europe Ind Conglom|MXEU0IC Index|MXRT||EI09MXEU0IC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0IC Index|//blp/mktdata/buid/MXRT/EI09MXEU0IC|
+MSCI Europe Inet Soft&Sv|MXEU0WS Index|MXRT||EI09MXEU0WS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0WS Index|//blp/mktdata/buid/MXRT/EI09MXEU0WS|
+MSCI Europe Insurance|MXEU0IR Index|MXRT||EI09MXEU0IR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0IR Index|//blp/mktdata/buid/MXRT/EI09MXEU0IR|
+MSCI Europe Machinery|MXEU0MA Index|MXRT||EI09MXEU0MA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0MA Index|//blp/mktdata/buid/MXRT/EI09MXEU0MA|
+MSCI Europe Marine|MXEU0MN Index|MXRT||EI09MXEU0MN|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0MN Index|//blp/mktdata/buid/MXRT/EI09MXEU0MN|
+MSCI Europe Media|MXEU0ME Index|MXRT||EI09MXEU0ME|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0ME Index|//blp/mktdata/buid/MXRT/EI09MXEU0ME|
 MSCI Europe Metals & Min|MXEU0MM Index|MXRT|5570591920015|EI09MXEU0MM|Equity Index|Index|BBG001BCTY57||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0MM Index|//blp/mktdata/buid/MXRT/EI09MXEU0MM|//blp/mktdata/bsid/5570591920015
 MSCI Europe Micro Cap|MXEURC Index|MXRT|5570591835788|EI09MXEURC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEURC Index|//blp/mktdata/buid/MXRT/EI09MXEURC|//blp/mktdata/bsid/5570591835788
 MSCI Europe Multi Util|MXEU0MU Index|MXRT|5570591920023|EI09MXEU0MU|Equity Index|Index|BBG001BCTY66||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0MU Index|//blp/mktdata/buid/MXRT/EI09MXEU0MU|//blp/mktdata/bsid/5570591920023
+MSCI Europe Multiline Rt|MXEU0MR Index|MXRT||EI09MXEU0MR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0MR Index|//blp/mktdata/buid/MXRT/EI09MXEU0MR|
+MSCI Europe Office Elect|MXEU0OE Index|MXRT||EI09MXEU0OE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0OE Index|//blp/mktdata/buid/MXRT/EI09MXEU0OE|
 MSCI Europe Oil Gas & CF|MXEU0OG Index|MXRT|5570591920024|EI09MXEU0OG|Equity Index|Index|BBG001BCTY75||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0OG Index|//blp/mktdata/buid/MXRT/EI09MXEU0OG|//blp/mktdata/bsid/5570591920024
+MSCI Europe Personal Pr|MXEU0PP Index|MXRT||EI09MXEU0PP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0PP Index|//blp/mktdata/buid/MXRT/EI09MXEU0PP|
+MSCI Europe Pharma|MXEU0PH Index|MXRT||EI09MXEU0PH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0PH Index|//blp/mktdata/buid/MXRT/EI09MXEU0PH|
+MSCI Europe Profess Sv|MXEU0PS Index|MXRT||EI09MXEU0PS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0PS Index|//blp/mktdata/buid/MXRT/EI09MXEU0PS|
+MSCI Europe REITS|MXEU0RI Index|MXRT||EI09MXEU0RI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0RI Index|//blp/mktdata/buid/MXRT/EI09MXEU0RI|
+MSCI Europe ReEstMg&Dv|MXEU0RM Index|MXRT||EI09MXEU0RM|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0RM Index|//blp/mktdata/buid/MXRT/EI09MXEU0RM|
 MSCI Europe Rebalance|CGDONO11 Index|CGDO||EI09CGDONO11|Equity Index|Index|BBG0025VJ377||46707|||||//blp/mktdata/bsym/CGDO/CGDONO11 Index|//blp/mktdata/buid/CGDO/EI09CGDONO11|
+MSCI Europe Road&Rail|MXEU0RR Index|MXRT||EI09MXEU0RR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0RR Index|//blp/mktdata/buid/MXRT/EI09MXEU0RR|
+MSCI Europe Semi&Semi Eq|MXEU0ST Index|MXRT||EI09MXEU0ST|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0ST Index|//blp/mktdata/buid/MXRT/EI09MXEU0ST|
+MSCI Europe Software|MXEU0SO Index|MXRT||EI09MXEU0SO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0SO Index|//blp/mktdata/buid/MXRT/EI09MXEU0SO|
+MSCI Europe Specialty Rt|MXEU0SR Index|MXRT||EI09MXEU0SR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0SR Index|//blp/mktdata/buid/MXRT/EI09MXEU0SR|
 MSCI Europe Tobacco|MXEU0TB Index|MXRT|5570585518198|EI09MXEU0TB|Equity Index|Index|BBG000Y3G061||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0TB Index|//blp/mktdata/buid/MXRT/EI09MXEU0TB|//blp/mktdata/bsid/5570585518198
+MSCI Europe Trad Co&Dis|MXEU0TD Index|MXRT||EI09MXEU0TD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0TD Index|//blp/mktdata/buid/MXRT/EI09MXEU0TD|
+MSCI Europe Trans Infras|MXEU0TI Index|MXRT||EI09MXEU0TI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0TI Index|//blp/mktdata/buid/MXRT/EI09MXEU0TI|
+MSCI Europe TxtlApLxGds|MXEU0TA Index|MXRT||EI09MXEU0TA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0TA Index|//blp/mktdata/buid/MXRT/EI09MXEU0TA|
 MSCI Europe Water Util|MXEU0WU Index|MXRT|5570591920021|EI09MXEU0WU|Equity Index|Index|BBG001BCTY93||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0WU Index|//blp/mktdata/buid/MXRT/EI09MXEU0WU|//blp/mktdata/bsid/5570591920021
 MSCI Europe Wles Tele Sv|MXEU0WT Index|MXRT|5570591920020|EI09MXEU0WT|Equity Index|Index|BBG001BCTYC9||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0WT Index|//blp/mktdata/buid/MXRT/EI09MXEU0WT|//blp/mktdata/bsid/5570591920020
 MSCI Europe exUK Div Fin|MXEUGDF Index|MXRT|5570596869657|EI09MXEUGDF|Equity Index|Index|BBG0024T2GT8||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEUGDF Index|//blp/mktdata/buid/MXRT/EI09MXEUGDF|//blp/mktdata/bsid/5570596869657
@@ -8494,6 +8532,7 @@ MSCI Europe&M East SMID|MXEISM Index|MXRT|5570589481520|EI09MXEISM|Equity Index|
 MSCI Europe&M East Value|MXEI000V Index|MXRT|5570589407916|EI09MXEI000V|Equity Index|Index|BBG00112BS89||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEI000V Index|//blp/mktdata/buid/MXRT/EI09MXEI000V|//blp/mktdata/bsid/5570589407916
 MSCI Europe&M East|MXEI Index|MXRT|5570589407913|EI09MXEI|Equity Index|Index|BBG00112BRN4||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEI Index|//blp/mktdata/buid/MXRT/EI09MXEI|//blp/mktdata/bsid/5570589407913
 MSCI Europe/Htl Rest&Lei|MXEU0HL Index|MXRT||EI09MXEU0HL|Equity Index|Index|BBG001P44961||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0HL Index|//blp/mktdata/buid/MXRT/EI09MXEU0HL|
+MSCI EuropeLifeSciTls&Sv|MXEU0LS Index|MXRT||EI09MXEU0LS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEU0LS Index|//blp/mktdata/buid/MXRT/EI09MXEU0LS|
 MSCI EuropexUK Auto&Comp|MXEUGAC Index|MXRT|5570596869727|EI09MXEUGAC|Equity Index|Index|BBG0024T2GM5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEUGAC Index|//blp/mktdata/buid/MXRT/EI09MXEUGAC|//blp/mktdata/bsid/5570596869727
 MSCI EuropexUK Insurance|MXEUGIS Index|MXRT|5570596869723|EI09MXEUGIS|Equity Index|Index|BBG0024T2H07||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEUGIS Index|//blp/mktdata/buid/MXRT/EI09MXEUGIS|//blp/mktdata/bsid/5570596869723
 MSCI EuropexUK Materials|MXEUGML Index|MXRT|5570596870175|EI09MXEUGML|Equity Index|Index|BBG0024T2H16||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXEUGML Index|//blp/mktdata/buid/MXRT/EI09MXEUGML|//blp/mktdata/bsid/5570596870175
@@ -9305,7 +9344,55 @@ MSCI N ZEALAND/CONS DIS|MXNZ0CD Index|MXRT|5570574998184|EI09MXNZ0CD|Equity Inde
 MSCI N ZEALAND/INDUSTRL|MXNZ0IN Index|MXRT|5570574998189|EI09MXNZ0IN|Equity Index|Index|BBG000RRZCM1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNZ0IN Index|//blp/mktdata/buid/MXRT/EI09MXNZ0IN|//blp/mktdata/bsid/5570574998189
 MSCI N ZEALAND/INF TECH|MXNZ0IT Index|MXRT|5570574998190|EI09MXNZ0IT|Equity Index|Index|BBG000RRZD21||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNZ0IT Index|//blp/mktdata/buid/MXRT/EI09MXNZ0IT|//blp/mktdata/bsid/5570574998190
 MSCI N ZEALAND/MATERIAL|MXNZ0MT Index|MXRT|5570574998191|EI09MXNZ0MT|Equity Index|Index|BBG000RRZDJ3||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNZ0MT Index|//blp/mktdata/buid/MXRT/EI09MXNZ0MT|//blp/mktdata/bsid/5570574998191
+MSCI NA Aero&Defense|MXNA0AD Index|MXRT||EI09MXNA0AD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0AD Index|//blp/mktdata/buid/MXRT/EI09MXNA0AD|
+MSCI NA Air Frght&Log|MXNA0AF Index|MXRT||EI09MXNA0AF|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0AF Index|//blp/mktdata/buid/MXRT/EI09MXNA0AF|
+MSCI NA Airlines|MXNA0AL Index|MXRT||EI09MXNA0AL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0AL Index|//blp/mktdata/buid/MXRT/EI09MXNA0AL|
+MSCI NA Auto Compon|MXNA0AP Index|MXRT||EI09MXNA0AP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0AP Index|//blp/mktdata/buid/MXRT/EI09MXNA0AP|
+MSCI NA Automobiles|MXNA0AU Index|MXRT||EI09MXNA0AU|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0AU Index|//blp/mktdata/buid/MXRT/EI09MXNA0AU|
+MSCI NA Beverages|MXNA0BV Index|MXRT||EI09MXNA0BV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0BV Index|//blp/mktdata/buid/MXRT/EI09MXNA0BV|
+MSCI NA Biotech|MXNA0BT Index|MXRT||EI09MXNA0BT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0BT Index|//blp/mktdata/buid/MXRT/EI09MXNA0BT|
+MSCI NA Building Prod|MXNA0BP Index|MXRT||EI09MXNA0BP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0BP Index|//blp/mktdata/buid/MXRT/EI09MXNA0BP|
+MSCI NA Comml Banks|MXNA0CB Index|MXRT||EI09MXNA0CB|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0CB Index|//blp/mktdata/buid/MXRT/EI09MXNA0CB|
+MSCI NA Comml Sv&Su|MXNA0CO Index|MXRT||EI09MXNA0CO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0CO Index|//blp/mktdata/buid/MXRT/EI09MXNA0CO|
+MSCI NA Commn Equip|MXNA0CQ Index|MXRT||EI09MXNA0CQ|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0CQ Index|//blp/mktdata/buid/MXRT/EI09MXNA0CQ|
+MSCI NA Comp & Periph|MXNA0PC Index|MXRT||EI09MXNA0PC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0PC Index|//blp/mktdata/buid/MXRT/EI09MXNA0PC|
+MSCI NA Constr&Engin|MXNA0CE Index|MXRT||EI09MXNA0CE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0CE Index|//blp/mktdata/buid/MXRT/EI09MXNA0CE|
 MSCI NA Consumer Finance|MXNA0CF Index|MXRT|5570596798089|EI09MXNA0CF|Equity Index|Index|BBG0024KP1X0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0CF Index|//blp/mktdata/buid/MXRT/EI09MXNA0CF|//blp/mktdata/bsid/5570596798089
+MSCI NA Distributors|MXNA0DT Index|MXRT||EI09MXNA0DT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0DT Index|//blp/mktdata/buid/MXRT/EI09MXNA0DT|
+MSCI NA Div Cons Sv|MXNA0DC Index|MXRT||EI09MXNA0DC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0DC Index|//blp/mktdata/buid/MXRT/EI09MXNA0DC|
+MSCI NA Div Financ Svc|MXNA0DS Index|MXRT||EI09MXNA0DS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0DS Index|//blp/mktdata/buid/MXRT/EI09MXNA0DS|
+MSCI NA Elec Eq Ins&Co|MXNA0EI Index|MXRT||EI09MXNA0EI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0EI Index|//blp/mktdata/buid/MXRT/EI09MXNA0EI|
+MSCI NA Electrical Eq|MXNA0EL Index|MXRT||EI09MXNA0EL|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0EL Index|//blp/mktdata/buid/MXRT/EI09MXNA0EL|
+MSCI NA Food Products|MXNA0FP Index|MXRT||EI09MXNA0FP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0FP Index|//blp/mktdata/buid/MXRT/EI09MXNA0FP|
+MSCI NA Food&Stpl Rt|MXNA0FS Index|MXRT||EI09MXNA0FS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0FS Index|//blp/mktdata/buid/MXRT/EI09MXNA0FS|
+MSCI NA HCare Eq&Su|MXNA0HE Index|MXRT||EI09MXNA0HE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0HE Index|//blp/mktdata/buid/MXRT/EI09MXNA0HE|
+MSCI NA HCare Prov&Sv|MXNA0HV Index|MXRT||EI09MXNA0HV|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0HV Index|//blp/mktdata/buid/MXRT/EI09MXNA0HV|
+MSCI NA HCare Tech|MXNA0HT Index|MXRT||EI09MXNA0HT|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0HT Index|//blp/mktdata/buid/MXRT/EI09MXNA0HT|
+MSCI NA Hhold Prod|MXNA0HH Index|MXRT||EI09MXNA0HH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0HH Index|//blp/mktdata/buid/MXRT/EI09MXNA0HH|
+MSCI NA Household Durs|MXNA0HD Index|MXRT||EI09MXNA0HD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0HD Index|//blp/mktdata/buid/MXRT/EI09MXNA0HD|
+MSCI NA Ind Conglom|MXNA0IC Index|MXRT||EI09MXNA0IC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0IC Index|//blp/mktdata/buid/MXRT/EI09MXNA0IC|
+MSCI NA Inet Soft&Sv|MXNA0WS Index|MXRT||EI09MXNA0WS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0WS Index|//blp/mktdata/buid/MXRT/EI09MXNA0WS|
+MSCI NA Inet&Cat Rtl|MXNA0NC Index|MXRT||EI09MXNA0NC|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0NC Index|//blp/mktdata/buid/MXRT/EI09MXNA0NC|
+MSCI NA Insurance|MXNA0IR Index|MXRT||EI09MXNA0IR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0IR Index|//blp/mktdata/buid/MXRT/EI09MXNA0IR|
+MSCI NA Leisure Eq&Pr|MXNA0LE Index|MXRT||EI09MXNA0LE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0LE Index|//blp/mktdata/buid/MXRT/EI09MXNA0LE|
+MSCI NA LifeSci Tls&Sv|MXNA0LS Index|MXRT||EI09MXNA0LS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0LS Index|//blp/mktdata/buid/MXRT/EI09MXNA0LS|
+MSCI NA Machinery|MXNA0MA Index|MXRT||EI09MXNA0MA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0MA Index|//blp/mktdata/buid/MXRT/EI09MXNA0MA|
+MSCI NA Media|MXNA0ME Index|MXRT||EI09MXNA0ME|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0ME Index|//blp/mktdata/buid/MXRT/EI09MXNA0ME|
+MSCI NA Multiline Retl|MXNA0MR Index|MXRT||EI09MXNA0MR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0MR Index|//blp/mktdata/buid/MXRT/EI09MXNA0MR|
+MSCI NA Office Elect|MXNA0OE Index|MXRT||EI09MXNA0OE|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0OE Index|//blp/mktdata/buid/MXRT/EI09MXNA0OE|
+MSCI NA Personal Prod|MXNA0PP Index|MXRT||EI09MXNA0PP|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0PP Index|//blp/mktdata/buid/MXRT/EI09MXNA0PP|
+MSCI NA Pharma|MXNA0PH Index|MXRT||EI09MXNA0PH|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0PH Index|//blp/mktdata/buid/MXRT/EI09MXNA0PH|
+MSCI NA Profess Sv|MXNA0PS Index|MXRT||EI09MXNA0PS|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0PS Index|//blp/mktdata/buid/MXRT/EI09MXNA0PS|
+MSCI NA ReEstMg&Dv|MXNA0RM Index|MXRT||EI09MXNA0RM|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0RM Index|//blp/mktdata/buid/MXRT/EI09MXNA0RM|
+MSCI NA Reits|MXNA0RI Index|MXRT||EI09MXNA0RI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0RI Index|//blp/mktdata/buid/MXRT/EI09MXNA0RI|
+MSCI NA Road&Rail|MXNA0RR Index|MXRT||EI09MXNA0RR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0RR Index|//blp/mktdata/buid/MXRT/EI09MXNA0RR|
+MSCI NA Semi&Semi Eq|MXNA0ST Index|MXRT||EI09MXNA0ST|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0ST Index|//blp/mktdata/buid/MXRT/EI09MXNA0ST|
+MSCI NA Software|MXNA0SO Index|MXRT||EI09MXNA0SO|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0SO Index|//blp/mktdata/buid/MXRT/EI09MXNA0SO|
+MSCI NA Specialty Rtl|MXNA0SR Index|MXRT||EI09MXNA0SR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0SR Index|//blp/mktdata/buid/MXRT/EI09MXNA0SR|
+MSCI NA Thrift&MtgeFin|MXNA0TM Index|MXRT||EI09MXNA0TM|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0TM Index|//blp/mktdata/buid/MXRT/EI09MXNA0TM|
+MSCI NA Tobacco|MXNA0TB Index|MXRT||EI09MXNA0TB|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0TB Index|//blp/mktdata/buid/MXRT/EI09MXNA0TB|
+MSCI NA Trad Co & Dis|MXNA0TD Index|MXRT||EI09MXNA0TD|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0TD Index|//blp/mktdata/buid/MXRT/EI09MXNA0TD|
+MSCI NA TxtlApLxGds|MXNA0TA Index|MXRT||EI09MXNA0TA|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNA0TA Index|//blp/mktdata/buid/MXRT/EI09MXNA0TA|
 MSCI NETH LARGE CAP|MXNLLC Index|MXRT|5570574999457|EI09MXNLLC|Equity Index|Index|BBG000WGTXC1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNLLC Index|//blp/mktdata/buid/MXRT/EI09MXNLLC|//blp/mktdata/bsid/5570574999457
 MSCI NETH LC GROWTH|MXNLLCG Index|MXRT|5570574999479|EI09MXNLLCG|Equity Index|Index|BBG000WGV5P5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNLLCG Index|//blp/mktdata/buid/MXRT/EI09MXNLLCG|//blp/mktdata/bsid/5570574999479
 MSCI NETH SMALL CAP|MXNLSC Index|MXRT|5570574999147|EI09MXNLSC|Equity Index|Index|BBG000S8W2J1||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXNLSC Index|//blp/mktdata/buid/MXRT/EI09MXNLSC|//blp/mktdata/bsid/5570574999147

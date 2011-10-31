@@ -1,5 +1,5 @@
-#Data Generated At: Sun Oct 30 06:27:25 EDT 2011
-#Data Records=456
+#Data Generated At: Mon Oct 31 06:47:18 EDT 2011
+#Data Records=460
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Nov11|AEAX1|LIF|609910012037|IX13831385-0|Financial index future.|Index|BBG00265WD21||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAX1|//blp/mktdata/buid/LIF/IX13831385-0|//blp/mktdata/bsid/609910012037
@@ -161,8 +161,12 @@ MSCI Asia Apex 50 Dec11|APEZ1|cSGX|10037360966327|IX13051841-0|Financial index f
 MSCI Asia Apex 50 Dec11|APEZ1|cSGX|10037360966327|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEZ1|//blp/mktdata/buid/cSGX/IX13051841-0|//blp/mktdata/bsid/10037360966327
 MSCI Asia Apex 50 Dec11|APEZ1|eSGX|2108851337911|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEZ1|//blp/mktdata/buid/eSGX/IX13051841-0|//blp/mktdata/bsid/2108851337911
 MSCI Asia Apex 50 Dec11|APEZ1|eSGX|2108851337911|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEZ1|//blp/mktdata/buid/eSGX/IX13051841-0|//blp/mktdata/bsid/2108851337911
-MSCI Asia Apex 50 Jan12|APEF2|||IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|||
-MSCI Asia Apex 50 Jan12|APEF2|||IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|||
+MSCI Asia Apex 50 Jan12|APEF2|SGX|889083012891|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEF2|//blp/mktdata/buid/SGX/IX13878355-0|//blp/mktdata/bsid/889083012891
+MSCI Asia Apex 50 Jan12|APEF2|SGX|889083012891|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEF2|//blp/mktdata/buid/SGX/IX13878355-0|//blp/mktdata/bsid/889083012891
+MSCI Asia Apex 50 Jan12|APEF2|cSGX|10037363353371|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEF2|//blp/mktdata/buid/cSGX/IX13878355-0|//blp/mktdata/bsid/10037363353371
+MSCI Asia Apex 50 Jan12|APEF2|cSGX|10037363353371|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEF2|//blp/mktdata/buid/cSGX/IX13878355-0|//blp/mktdata/bsid/10037363353371
+MSCI Asia Apex 50 Jan12|APEF2|eSGX|2108853724955|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEF2|//blp/mktdata/buid/eSGX/IX13878355-0|//blp/mktdata/bsid/2108853724955
+MSCI Asia Apex 50 Jan12|APEF2|eSGX|2108853724955|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEF2|//blp/mktdata/buid/eSGX/IX13878355-0|//blp/mktdata/bsid/2108853724955
 MSCI Asia Apex 50 Mar12|APEH2|SGX|889082503625|IX13680604-0|Financial index future.|Index|BBG0024QGLT8||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEH2|//blp/mktdata/buid/SGX/IX13680604-0|//blp/mktdata/bsid/889082503625
 MSCI Asia Apex 50 Mar12|APEH2|SGX|889082503625|IX13680604-0|Financial index future.|Index|BBG0024QGLT8||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEH2|//blp/mktdata/buid/SGX/IX13680604-0|//blp/mktdata/bsid/889082503625
 MSCI Asia Apex 50 Mar12|APEH2|cSGX|10037362844105|IX13680604-0|Financial index future.|Index|BBG0024QGLT8||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEH2|//blp/mktdata/buid/cSGX/IX13680604-0|//blp/mktdata/bsid/10037362844105
