@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 1 06:46:51 EDT 2011
-#Data Records=461
+#Data Generated At: Wed Nov 2 06:47:08 EDT 2011
+#Data Records=460
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Nov11|AEAX1|LIF|609910012037|IX13831385-0|Financial index future.|Index|BBG00265WD21||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAX1|//blp/mktdata/buid/LIF/IX13831385-0|//blp/mktdata/bsid/609910012037
@@ -66,8 +66,7 @@ Citigroup Cebo    Dec13|CIDZ3|US|399453390657|IX12619038-0|Financial index futur
 Citigroup Cebo    Dec14|CIDZ4|US|399456173069|IX13660653-0|Financial index future.|Index|BBG0024G5Z39||14009|0|0||39495|//blp/mktdata/bsym/US/CIDZ4|//blp/mktdata/buid/US/IX13660653-0|//blp/mktdata/bsid/399456173069
 Credit IN EVT S3  Dec12|CCDZ2|eCME|2078766093472|IX4421341-0|Financial index future.|Index|BBG000WCQWP1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDZ2|//blp/mktdata/buid/eCME/IX4421341-0|//blp/mktdata/bsid/2078766093472
 Credit IN EVT S3  Jun12|CCDM2|eCME|2078766093471|IX4419501-0|Financial index future.|Index|BBG000WCQWG1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDM2|//blp/mktdata/buid/eCME/IX4419501-0|//blp/mktdata/bsid/2078766093471
-Crude ME Sour1Min Dec11|MECZ1|ICE|1172549805701|IX13481548-0|Financial index future.|Index|BBG0021L8T14||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECZ1|//blp/mktdata/buid/ICE/IX13481548-0|//blp/mktdata/bsid/1172549805701
-Crude ME Sour1Min Feb12|MECG2|||IX13896425-0|Financial index future.|Index|BBG0027GF7J0||30022|30022|0||40087|||
+Crude ME Sour1Min Feb12|MECG2|ICE|1172550881082|IX13896425-0|Financial index future.|Index|BBG0027GF7J0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECG2|//blp/mktdata/buid/ICE/IX13896425-0|//blp/mktdata/bsid/1172550881082
 Crude ME Sour1Min Jan12|MECF2|ICE|1172550367321|IX13689873-0|Financial index future.|Index|BBG0024TVZH7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECF2|//blp/mktdata/buid/ICE/IX13689873-0|//blp/mktdata/bsid/1172550367321
 Crude WTI Sing1Mi Dec11|WACZ1|ICE|1172550025520|IX13582486-0|Financial index future.|Index|BBG0022QPKJ3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACZ1|//blp/mktdata/buid/ICE/IX13582486-0|//blp/mktdata/bsid/1172550025520
 Crude WTI Sing1Mi Jan12|WACF2|ICE|1172550553891|IX13781708-0|Financial index future.|Index|BBG0025NL5V0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACF2|//blp/mktdata/buid/ICE/IX13781708-0|//blp/mktdata/bsid/1172550553891
