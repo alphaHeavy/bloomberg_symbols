@@ -1,5 +1,5 @@
-#Data Generated At: Wed Nov 2 06:15:36 EDT 2011
-#Data Records=6189
+#Data Generated At: Thu Nov 3 06:16:19 EDT 2011
+#Data Records=6205
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -104,6 +104,10 @@
 10YR OTR TREASURY Nov11|T0X1|cCBT|9977232091461|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0X1|//blp/mktdata/buid/cCBT/IX13295424-0|//blp/mktdata/bsid/9977232091461
 10YR OTR TREASURY Nov11|T0X1|eCBT|2113146972485|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/T0X1|//blp/mktdata/buid/eCBT/IX13295424-0|//blp/mktdata/bsid/2113146972485
 10YR OTR TREASURY Nov11|T0X1|eCBT|2113146972485|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/T0X1|//blp/mktdata/buid/eCBT/IX13295424-0|//blp/mktdata/bsid/2113146972485
+10YR OTR TREASURY Nov12|T0G2|CBT|575550451930|IX13919053-0|Financial commodity future.|Comdty|BBG0027L9CV1||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0G2|//blp/mktdata/buid/CBT/IX13919053-0|//blp/mktdata/bsid/575550451930
+10YR OTR TREASURY Nov12|T0G2|CBT|575550451930|IX13919053-0|Financial commodity future.|Comdty|BBG0027L9CV1||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0G2|//blp/mktdata/buid/CBT/IX13919053-0|//blp/mktdata/bsid/575550451930
+10YR OTR TREASURY Nov12|T0G2|cCBT|9977233862874|IX13919053-0|Financial commodity future.|Comdty|BBG0027L9CV1||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0G2|//blp/mktdata/buid/cCBT/IX13919053-0|//blp/mktdata/bsid/9977233862874
+10YR OTR TREASURY Nov12|T0G2|cCBT|9977233862874|IX13919053-0|Financial commodity future.|Comdty|BBG0027L9CV1||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0G2|//blp/mktdata/buid/cCBT/IX13919053-0|//blp/mktdata/bsid/9977233862874
 10YR SF IMPL YIEL Dec11|DKZ1|CBT|575546346721|IX12296116-0|Financial commodity future.|Comdty|BBG001KR2KG1||14001|14001|0||39489|//blp/mktdata/bsym/CBT/DKZ1|//blp/mktdata/buid/CBT/IX12296116-0|//blp/mktdata/bsid/575546346721
 10YR SF IMPL YIEL Dec11|DKZ1|CBT|575546346721|IX12296116-0|Financial commodity future.|Comdty|BBG001KR2KG1||14001|14001|0||39489|//blp/mktdata/bsym/CBT/DKZ1|//blp/mktdata/buid/CBT/IX12296116-0|//blp/mktdata/bsid/575546346721
 10YR SF IMPL YIEL Dec11|DKZ1|cCBT|9977229757665|IX12296116-0|Financial commodity future.|Comdty|BBG001KR2KG1||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/DKZ1|//blp/mktdata/buid/cCBT/IX12296116-0|//blp/mktdata/bsid/9977229757665
@@ -298,18 +302,24 @@
 2YR EUR SWAPNOTE    Dec11|RWZ1|LIF|609907474230|IX12930109-0|Financial commodity future.|Comdty|BBG001R068N8||27267|27268|0||40559|//blp/mktdata/bsym/LIF/RWZ1|//blp/mktdata/buid/LIF/IX12930109-0|//blp/mktdata/bsid/609907474230
 2YR EUR SWAPNOTE    Mar12|RWH2|LIF|609909440590|IX13608857-0|Financial commodity future.|Comdty|BBG0024010F2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/RWH2|//blp/mktdata/buid/LIF/IX13608857-0|//blp/mktdata/bsid/609909440590
 2YR EUR$ BNDL NYL Dec11|BDAZ1|eNYL|8181936802827|IX13612045-0|Financial commodity future.|Comdty|BBG002405148||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/BDAZ1|//blp/mktdata/buid/eNYL/IX13612045-0|//blp/mktdata/bsid/8181936802827
+2YR OTR TREASURY  Apr12|Z2J2|||IX13919037-0|Financial commodity future.|Comdty|BBG0027LB1D2||14001|14001|0||39489|||
+2YR OTR TREASURY  Apr12|Z2J2|||IX13919037-0|Financial commodity future.|Comdty|BBG0027LB1D2||14001|14001|0||39489|||
 2YR OTR TREASURY  Dec11|Z2Z1|CBT|575548680518|IX13295404-0|Financial commodity future.|Comdty|BBG001YNDM88||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2Z1|//blp/mktdata/buid/CBT/IX13295404-0|//blp/mktdata/bsid/575548680518
 2YR OTR TREASURY  Dec11|Z2Z1|CBT|575548680518|IX13295404-0|Financial commodity future.|Comdty|BBG001YNDM88||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2Z1|//blp/mktdata/buid/CBT/IX13295404-0|//blp/mktdata/bsid/575548680518
 2YR OTR TREASURY  Dec11|Z2Z1|cCBT|9977232091462|IX13295404-0|Financial commodity future.|Comdty|BBG001YNDM88||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2Z1|//blp/mktdata/buid/cCBT/IX13295404-0|//blp/mktdata/bsid/9977232091462
 2YR OTR TREASURY  Dec11|Z2Z1|cCBT|9977232091462|IX13295404-0|Financial commodity future.|Comdty|BBG001YNDM88||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2Z1|//blp/mktdata/buid/cCBT/IX13295404-0|//blp/mktdata/bsid/9977232091462
 2YR OTR TREASURY  Dec11|Z2Z1|eCBT|2113146972486|IX13295404-0|Financial commodity future.|Comdty|BBG001YNDM88||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2Z1|//blp/mktdata/buid/eCBT/IX13295404-0|//blp/mktdata/bsid/2113146972486
 2YR OTR TREASURY  Dec11|Z2Z1|eCBT|2113146972486|IX13295404-0|Financial commodity future.|Comdty|BBG001YNDM88||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2Z1|//blp/mktdata/buid/eCBT/IX13295404-0|//blp/mktdata/bsid/2113146972486
+2YR OTR TREASURY  Feb12|Z2G2|||IX13919029-0|Financial commodity future.|Comdty|BBG0027LB160||14001|14001|0||39489|||
+2YR OTR TREASURY  Feb12|Z2G2|||IX13919029-0|Financial commodity future.|Comdty|BBG0027LB160||14001|14001|0||39489|||
 2YR OTR TREASURY  Jan12|Z2F2|CBT|575548680814|IX13295408-0|Financial commodity future.|Comdty|BBG001YNDM60||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2F2|//blp/mktdata/buid/CBT/IX13295408-0|//blp/mktdata/bsid/575548680814
 2YR OTR TREASURY  Jan12|Z2F2|CBT|575548680814|IX13295408-0|Financial commodity future.|Comdty|BBG001YNDM60||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2F2|//blp/mktdata/buid/CBT/IX13295408-0|//blp/mktdata/bsid/575548680814
 2YR OTR TREASURY  Jan12|Z2F2|cCBT|9977232091758|IX13295408-0|Financial commodity future.|Comdty|BBG001YNDM60||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2F2|//blp/mktdata/buid/cCBT/IX13295408-0|//blp/mktdata/bsid/9977232091758
 2YR OTR TREASURY  Jan12|Z2F2|cCBT|9977232091758|IX13295408-0|Financial commodity future.|Comdty|BBG001YNDM60||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2F2|//blp/mktdata/buid/cCBT/IX13295408-0|//blp/mktdata/bsid/9977232091758
 2YR OTR TREASURY  Jan12|Z2F2|eCBT|2113146972782|IX13295408-0|Financial commodity future.|Comdty|BBG001YNDM60||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2F2|//blp/mktdata/buid/eCBT/IX13295408-0|//blp/mktdata/bsid/2113146972782
 2YR OTR TREASURY  Jan12|Z2F2|eCBT|2113146972782|IX13295408-0|Financial commodity future.|Comdty|BBG001YNDM60||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2F2|//blp/mktdata/buid/eCBT/IX13295408-0|//blp/mktdata/bsid/2113146972782
+2YR OTR TREASURY  Mar12|Z2H2|||IX13919033-0|Financial commodity future.|Comdty|BBG0027LB197||14001|14001|0||39489|||
+2YR OTR TREASURY  Mar12|Z2H2|||IX13919033-0|Financial commodity future.|Comdty|BBG0027LB197||14001|14001|0||39489|||
 2YR OTR TREASURY  Nov11|Z2X1|CBT|575548680515|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2X1|//blp/mktdata/buid/CBT/IX13295400-0|//blp/mktdata/bsid/575548680515
 2YR OTR TREASURY  Nov11|Z2X1|CBT|575548680515|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2X1|//blp/mktdata/buid/CBT/IX13295400-0|//blp/mktdata/bsid/575548680515
 2YR OTR TREASURY  Nov11|Z2X1|cCBT|9977232091459|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2X1|//blp/mktdata/buid/cCBT/IX13295400-0|//blp/mktdata/bsid/9977232091459
@@ -984,18 +994,24 @@
 5YR EURO$ EMINI B Mar13|ASH3|eCME|2078781582880|IX10603024-0|Financial commodity future.|Comdty|BBG0012H6Q03||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ASH3|//blp/mktdata/buid/eCME/IX10603024-0|//blp/mktdata/bsid/2078781582880
 5YR EURO$ EMINI B Sep12|ASU2|eCME|2078781582877|IX10602996-0|Financial commodity future.|Comdty|BBG0012H6PL2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ASU2|//blp/mktdata/buid/eCME/IX10602996-0|//blp/mktdata/bsid/2078781582877
 5YR EURO$ EMINI B Sep13|ASU3|eCME|2078781582878|IX10603052-0|Financial commodity future.|Comdty|BBG0012H6QW8||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ASU3|//blp/mktdata/buid/eCME/IX10603052-0|//blp/mktdata/bsid/2078781582878
+5YR OTR TREASURY  Apr12|Z5J2|||IX13919049-0|Financial commodity future.|Comdty|BBG0027LB1P9||14001|14001|0||39489|||
+5YR OTR TREASURY  Apr12|Z5J2|||IX13919049-0|Financial commodity future.|Comdty|BBG0027LB1P9||14001|14001|0||39489|||
 5YR OTR TREASURY  Dec11|Z5Z1|CBT|575548680570|IX13295416-0|Financial commodity future.|Comdty|BBG001YNDMC3||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5Z1|//blp/mktdata/buid/CBT/IX13295416-0|//blp/mktdata/bsid/575548680570
 5YR OTR TREASURY  Dec11|Z5Z1|CBT|575548680570|IX13295416-0|Financial commodity future.|Comdty|BBG001YNDMC3||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5Z1|//blp/mktdata/buid/CBT/IX13295416-0|//blp/mktdata/bsid/575548680570
 5YR OTR TREASURY  Dec11|Z5Z1|cCBT|9977232091514|IX13295416-0|Financial commodity future.|Comdty|BBG001YNDMC3||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5Z1|//blp/mktdata/buid/cCBT/IX13295416-0|//blp/mktdata/bsid/9977232091514
 5YR OTR TREASURY  Dec11|Z5Z1|cCBT|9977232091514|IX13295416-0|Financial commodity future.|Comdty|BBG001YNDMC3||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5Z1|//blp/mktdata/buid/cCBT/IX13295416-0|//blp/mktdata/bsid/9977232091514
 5YR OTR TREASURY  Dec11|Z5Z1|eCBT|2113146972538|IX13295416-0|Financial commodity future.|Comdty|BBG001YNDMC3||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5Z1|//blp/mktdata/buid/eCBT/IX13295416-0|//blp/mktdata/bsid/2113146972538
 5YR OTR TREASURY  Dec11|Z5Z1|eCBT|2113146972538|IX13295416-0|Financial commodity future.|Comdty|BBG001YNDMC3||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5Z1|//blp/mktdata/buid/eCBT/IX13295416-0|//blp/mktdata/bsid/2113146972538
+5YR OTR TREASURY  Feb12|Z5G2|||IX13919041-0|Financial commodity future.|Comdty|BBG0027LB1H8||14001|14001|0||39489|||
+5YR OTR TREASURY  Feb12|Z5G2|||IX13919041-0|Financial commodity future.|Comdty|BBG0027LB1H8||14001|14001|0||39489|||
 5YR OTR TREASURY  Jan12|Z5F2|CBT|575548680572|IX13295420-0|Financial commodity future.|Comdty|BBG001YNDM97||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5F2|//blp/mktdata/buid/CBT/IX13295420-0|//blp/mktdata/bsid/575548680572
 5YR OTR TREASURY  Jan12|Z5F2|CBT|575548680572|IX13295420-0|Financial commodity future.|Comdty|BBG001YNDM97||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5F2|//blp/mktdata/buid/CBT/IX13295420-0|//blp/mktdata/bsid/575548680572
 5YR OTR TREASURY  Jan12|Z5F2|cCBT|9977232091516|IX13295420-0|Financial commodity future.|Comdty|BBG001YNDM97||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5F2|//blp/mktdata/buid/cCBT/IX13295420-0|//blp/mktdata/bsid/9977232091516
 5YR OTR TREASURY  Jan12|Z5F2|cCBT|9977232091516|IX13295420-0|Financial commodity future.|Comdty|BBG001YNDM97||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5F2|//blp/mktdata/buid/cCBT/IX13295420-0|//blp/mktdata/bsid/9977232091516
 5YR OTR TREASURY  Jan12|Z5F2|eCBT|2113146972540|IX13295420-0|Financial commodity future.|Comdty|BBG001YNDM97||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5F2|//blp/mktdata/buid/eCBT/IX13295420-0|//blp/mktdata/bsid/2113146972540
 5YR OTR TREASURY  Jan12|Z5F2|eCBT|2113146972540|IX13295420-0|Financial commodity future.|Comdty|BBG001YNDM97||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5F2|//blp/mktdata/buid/eCBT/IX13295420-0|//blp/mktdata/bsid/2113146972540
+5YR OTR TREASURY  Mar12|Z5H2|||IX13919045-0|Financial commodity future.|Comdty|BBG0027LB1L3||14001|14001|0||39489|||
+5YR OTR TREASURY  Mar12|Z5H2|||IX13919045-0|Financial commodity future.|Comdty|BBG0027LB1L3||14001|14001|0||39489|||
 5YR OTR TREASURY  Nov11|Z5X1|CBT|575548680571|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5X1|//blp/mktdata/buid/CBT/IX13295412-0|//blp/mktdata/bsid/575548680571
 5YR OTR TREASURY  Nov11|Z5X1|CBT|575548680571|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5X1|//blp/mktdata/buid/CBT/IX13295412-0|//blp/mktdata/bsid/575548680571
 5YR OTR TREASURY  Nov11|Z5X1|cCBT|9977232091515|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5X1|//blp/mktdata/buid/cCBT/IX13295412-0|//blp/mktdata/bsid/9977232091515
