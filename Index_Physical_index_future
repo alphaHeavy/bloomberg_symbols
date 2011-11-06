@@ -1,5 +1,5 @@
-#Data Generated At: Sat Nov 5 06:34:29 EDT 2011
-#Data Records=6244
+#Data Generated At: Sun Nov 6 06:25:16 EST 2011
+#Data Records=6243
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -712,14 +712,14 @@ CBOE VIX FUTURE   Jun12|UXM2|CBF|773118636002|IX13803250-0|Physical index future
 CBOE VIX FUTURE   Mar12|UXH2|CBF|773116953917|IX13191298-0|Physical index future.|Index|BBG001XT6VT1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXH2|//blp/mktdata/buid/CBF/IX13191298-0|//blp/mktdata/bsid/773116953917
 CBOE VIX FUTURE   May12|UXK2|CBF|773117732326|IX13432793-0|Physical index future.|Index|BBG0021581S1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXK2|//blp/mktdata/buid/CBF/IX13432793-0|//blp/mktdata/bsid/773117732326
 CBOE VIX FUTURE   Nov11|UXX1|CBF|773114848424|IX12312935-0|Physical index future.|Index|BBG001KSCFC3||14204|44383|0||39587|//blp/mktdata/bsym/CBF/UXX1|//blp/mktdata/buid/CBF/IX12312935-0|//blp/mktdata/bsid/773114848424
-CBOE VIX TAS      Apr12|VXTJ2|||IX13937946-0|Physical index future.|Index|BBG0027P94L1||14204|44383|0||39587|||
-CBOE VIX TAS      Dec11|VXTZ1|||IX13937930-0|Physical index future.|Index|BBG0027P9495||14204|44383|0||39587|||
-CBOE VIX TAS      Feb12|VXTG2|||IX13937938-0|Physical index future.|Index|BBG0027P94J4||14204|44383|0||39587|||
-CBOE VIX TAS      Jan12|VXTF2|||IX13937934-0|Physical index future.|Index|BBG0027P94H6||14204|44383|0||39587|||
-CBOE VIX TAS      Jun12|VXTM2|||IX13937954-0|Physical index future.|Index|BBG0027P94N9||14204|44383|0||39587|||
-CBOE VIX TAS      Mar12|VXTH2|||IX13937942-0|Physical index future.|Index|BBG0027P94K2||14204|44383|0||39587|||
-CBOE VIX TAS      May12|VXTK2|||IX13937950-0|Physical index future.|Index|BBG0027P94M0||14204|44383|0||39587|||
-CBOE VIX TAS      Nov11|VXTX1|||IX13937626-0|Physical index future.|Index|BBG0027P8QS6||14204|44383|0||39587|||
+CBOE VIX TAS      Apr12|VXTJ2|CBF|773118974273|IX13937946-0|Physical index future.|Index|BBG0027P94L1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTJ2|//blp/mktdata/buid/CBF/IX13937946-0|//blp/mktdata/bsid/773118974273
+CBOE VIX TAS      Dec11|VXTZ1|CBF|773118974269|IX13937930-0|Physical index future.|Index|BBG0027P9495||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTZ1|//blp/mktdata/buid/CBF/IX13937930-0|//blp/mktdata/bsid/773118974269
+CBOE VIX TAS      Feb12|VXTG2|CBF|773118974271|IX13937938-0|Physical index future.|Index|BBG0027P94J4||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTG2|//blp/mktdata/buid/CBF/IX13937938-0|//blp/mktdata/bsid/773118974271
+CBOE VIX TAS      Jan12|VXTF2|CBF|773118974270|IX13937934-0|Physical index future.|Index|BBG0027P94H6||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTF2|//blp/mktdata/buid/CBF/IX13937934-0|//blp/mktdata/bsid/773118974270
+CBOE VIX TAS      Jun12|VXTM2|CBF|773118974275|IX13937954-0|Physical index future.|Index|BBG0027P94N9||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTM2|//blp/mktdata/buid/CBF/IX13937954-0|//blp/mktdata/bsid/773118974275
+CBOE VIX TAS      Mar12|VXTH2|CBF|773118974272|IX13937942-0|Physical index future.|Index|BBG0027P94K2||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTH2|//blp/mktdata/buid/CBF/IX13937942-0|//blp/mktdata/bsid/773118974272
+CBOE VIX TAS      May12|VXTK2|CBF|773118974274|IX13937950-0|Physical index future.|Index|BBG0027P94M0||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTK2|//blp/mktdata/buid/CBF/IX13937950-0|//blp/mktdata/bsid/773118974274
+CBOE VIX TAS      Nov11|VXTX1|CBF|773118974268|IX13937626-0|Physical index future.|Index|BBG0027P8QS6||14204|44383|0||39587|//blp/mktdata/bsym/CBF/VXTX1|//blp/mktdata/buid/CBF/IX13937626-0|//blp/mktdata/bsid/773118974268
 CDD, JAX Airport  Apr12|JXAJ2|CME|614201845003|IX12663495-0|Physical index future.|Index|BBG001P11LK7||14002|14002|0||39490|//blp/mktdata/bsym/CME/JXAJ2|//blp/mktdata/buid/CME/IX12663495-0|//blp/mktdata/bsid/614201845003
 CDD, JAX Airport  Aug12|JXAQ2|CME|614204089105|IX13499855-0|Physical index future.|Index|BBG0021RGMP1||14002|14002|0||39490|//blp/mktdata/bsym/CME/JXAQ2|//blp/mktdata/buid/CME/IX13499855-0|//blp/mktdata/bsid/614204089105
 CDD, JAX Airport  Jul12|JXAN2|CME|614203356185|IX13282202-0|Physical index future.|Index|BBG001YHSN65||14002|14002|0||39490|//blp/mktdata/bsym/CME/JXAN2|//blp/mktdata/buid/CME/IX13282202-0|//blp/mktdata/bsid/614203356185
@@ -4452,7 +4452,6 @@ Nikkei-TOCOM IndexMar12|TCCH2|cTCM|11166936423259|IX12578998-0|Physical index fu
 Nikkei-TOCOM IndexMar12|TCCH2|eTCM|11171231390555|IX12578998-0|Physical index future.|Index|BBG001NW0F43||14115|14115|0||39546|//blp/mktdata/bsym/eTCM/TCCH2|//blp/mktdata/buid/eTCM/IX12578998-0|//blp/mktdata/bsid/11171231390555
 Nikkei-TOCOM IndexMar12|TCCH2|eTCM|11171231390555|IX12578998-0|Physical index future.|Index|BBG001NW0F43||14115|14115|0||39546|//blp/mktdata/bsym/eTCM/TCCH2|//blp/mktdata/buid/eTCM/IX12578998-0|//blp/mktdata/bsid/11171231390555
 Non-Farm Payroll  Dec11|FARZ1|||IX13946539-0|Physical index future.|Index|BBG0027RVJ39||14002|14002|0||39490|||
-Non-Farm Payroll  Nov11|FARX1|eCME|2078788570020|IX13737420-0|Physical index future.|Index|BBG0025847R3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/FARX1|//blp/mktdata/buid/eCME/IX13737420-0|//blp/mktdata/bsid/2078788570020
 Northeast 1st $10 Dec10|YXCZ0|CCX|2559815017238|IX9935866-0|Physical index future.|Index|BBG000Z2S247||30499|30499|0||40090|//blp/mktdata/bsym/CCX/YXCZ0|//blp/mktdata/buid/CCX/IX9935866-0|//blp/mktdata/bsid/2559815017238
 Northeast 1st $10 Dec11|YXCZ1|CCX|2559815895828|IX10083154-0|Physical index future.|Index|BBG000Z61KK9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/YXCZ1|//blp/mktdata/buid/CCX/IX10083154-0|//blp/mktdata/bsid/2559815895828
 Northeast 1st $100Dec10|YXLZ0|CCX|2559815214693|IX9963502-0|Physical index future.|Index|BBG000Z366F8||30499|30499|0||40090|//blp/mktdata/bsym/CCX/YXLZ0|//blp/mktdata/buid/CCX/IX9963502-0|//blp/mktdata/bsid/2559815214693
@@ -4807,7 +4806,7 @@ RTS INDEX FUTURE  Sep12|VEU2|RTS|1769550468055|IX13582298-0|Physical index futur
 RTS Std Index Fut Dec11|RSSZ1|RTS|1769548654754|IX12943254-0|Physical index future.|Index|BBG001R22JV5||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RSSZ1|//blp/mktdata/buid/RTS/IX12943254-0|//blp/mktdata/bsid/1769548654754
 RTS Std Index Fut Mar12|RSSH2|RTS|1769550449367|IX13573093-0|Physical index future.|Index|BBG0022MD615||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RSSH2|//blp/mktdata/buid/RTS/IX13573093-0|//blp/mktdata/bsid/1769550449367
 RTS Volatility Fu Dec11|VSSZ1|RTS|1769550786900|IX13679316-0|Physical index future.|Index|BBG0024Q46C2||14134|14134|0||39558|//blp/mktdata/bsym/RTS/VSSZ1|//blp/mktdata/buid/RTS/IX13679316-0|//blp/mktdata/bsid/1769550786900
-RTS Volatility Fu Jan12|VSSF2|||IX13937546-0|Physical index future.|Index|BBG0027P7M06||14134|14134|0||39558|||
+RTS Volatility Fu Jan12|VSSF2|RTS|1769551382178|IX13937546-0|Physical index future.|Index|BBG0027P7M06||14134|14134|0||39558|//blp/mktdata/bsym/RTS/VSSF2|//blp/mktdata/buid/RTS/IX13937546-0|//blp/mktdata/bsid/1769551382178
 RUS/NOMURA PRIME  Dec11|AZZ1|JO|566953921752|IX11052578-0|Physical index future.|Index|BBG0015XQH67||14021|14021|0||39502|//blp/mktdata/bsym/JO/AZZ1|//blp/mktdata/buid/JO/IX11052578-0|//blp/mktdata/bsid/566953921752
 RUS/NOMURA PRIME  Dec11|AZZ1|JO|566953921752|IX11052578-0|Physical index future.|Index|BBG0015XQH67||14021|14021|0||39502|//blp/mktdata/bsym/JO/AZZ1|//blp/mktdata/buid/JO/IX11052578-0|//blp/mktdata/bsid/566953921752
 RUS/NOMURA PRIME  Dec11|AZZ1|cJO|9998702103768|IX11052578-0|Physical index future.|Index|BBG0015XQH67||14021|14021|0||39502|//blp/mktdata/bsym/cJO/AZZ1|//blp/mktdata/buid/cJO/IX11052578-0|//blp/mktdata/bsid/9998702103768
@@ -6180,19 +6179,19 @@ YEN DENOM NIKKEI  Nov11|NHX1|eCME|2078786718223|IX13108624-0|Physical index futu
 YEN DENOM NIKKEI  Sep12|NHU2|eCME|2078776510297|IX9449936-0|Physical index future.|Index|BBG000THLLY3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHU2|//blp/mktdata/buid/eCME/IX9449936-0|//blp/mktdata/bsid/2078776510297
 YEN DENOM NIKKEI  Sep13|NHU3|eCME|2078782413475|IX11054834-0|Physical index future.|Index|BBG0015XXSH3||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHU3|//blp/mktdata/buid/eCME/IX11054834-0|//blp/mktdata/bsid/2078782413475
 YEN DENOM NIKKEI  Sep14|NHU4|eCME|2078788006773|IX13533924-0|Physical index future.|Index|BBG00226MD15||14002|14002|0||39490|//blp/mktdata/bsym/eCME/NHU4|//blp/mktdata/buid/eCME/IX13533924-0|//blp/mktdata/bsid/2078788006773
-j-ALBI Future     Aug12|ALAQ2|||IX13937430-0|Physical index future.|Index|BBG0027P7L26||34183|34183|0||39685|||
+j-ALBI Future     Aug12|ALAQ2|YLX|8744578276017|IX13937430-0|Physical index future.|Index|BBG0027P7L26||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ALAQ2|//blp/mktdata/buid/YLX/IX13937430-0|//blp/mktdata/bsid/8744578276017
 j-ALBI Future     Feb12|ALAG2|YLX|8744574976266|IX12684662-0|Physical index future.|Index|BBG001P61F92||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ALAG2|//blp/mktdata/buid/YLX/IX12684662-0|//blp/mktdata/bsid/8744574976266
 j-ALBI Future     May12|ALAK2|YLX|8744576488670|IX13298524-0|Physical index future.|Index|BBG001YN3VV3||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ALAK2|//blp/mktdata/buid/YLX/IX13298524-0|//blp/mktdata/bsid/8744576488670
-j-CRD1 Future     Aug12|CRAQ2|||IX13937446-0|Physical index future.|Index|BBG0027P7L62||34183|34183|0||39685|||
+j-CRD1 Future     Aug12|CRAQ2|YLX|8744578276022|IX13937446-0|Physical index future.|Index|BBG0027P7L62||34183|34183|0||39685|//blp/mktdata/bsym/YLX/CRAQ2|//blp/mktdata/buid/YLX/IX13937446-0|//blp/mktdata/bsid/8744578276022
 j-CRD1 Future     Feb12|CRAG2|YLX|8744574987162|IX12684654-0|Physical index future.|Index|BBG001P61F74||34183|34183|0||39685|//blp/mktdata/bsym/YLX/CRAG2|//blp/mktdata/buid/YLX/IX12684654-0|//blp/mktdata/bsid/8744574987162
 j-CRD1 Future     May12|CRAK2|YLX|8744576498666|IX13298512-0|Physical index future.|Index|BBG001YN3VR8||34183|34183|0||39685|//blp/mktdata/bsym/YLX/CRAK2|//blp/mktdata/buid/YLX/IX13298512-0|//blp/mktdata/bsid/8744576498666
-j-GOVI Future     Aug12|JOAQ2|||IX13937442-0|Physical index future.|Index|BBG0027P7L53||34183|34183|0||39685|||
+j-GOVI Future     Aug12|JOAQ2|YLX|8744578276015|IX13937442-0|Physical index future.|Index|BBG0027P7L53||34183|34183|0||39685|//blp/mktdata/bsym/YLX/JOAQ2|//blp/mktdata/buid/YLX/IX13937442-0|//blp/mktdata/bsid/8744578276015
 j-GOVI Future     Feb12|JOAG2|YLX|8744574976264|IX12684650-0|Physical index future.|Index|BBG001P61F65||34183|34183|0||39685|//blp/mktdata/bsym/YLX/JOAG2|//blp/mktdata/buid/YLX/IX12684650-0|//blp/mktdata/bsid/8744574976264
 j-GOVI Future     May12|JOAK2|YLX|8744576488668|IX13298528-0|Physical index future.|Index|BBG001YN3VW2||34183|34183|0||39685|//blp/mktdata/bsym/YLX/JOAK2|//blp/mktdata/buid/YLX/IX13298528-0|//blp/mktdata/bsid/8744576488668
 j-OTH1 Future     Aug12|OTAQ2|YLX|8744578267858|IX13937434-0|Physical index future.|Index|BBG0027P7L35||34183|34183|0||39685|//blp/mktdata/bsym/YLX/OTAQ2|//blp/mktdata/buid/YLX/IX13937434-0|//blp/mktdata/bsid/8744578267858
 j-OTH1 Future     Feb12|OTAG2|YLX|8744574970721|IX12684646-0|Physical index future.|Index|BBG001P61F56||34183|34183|0||39685|//blp/mktdata/bsym/YLX/OTAG2|//blp/mktdata/buid/YLX/IX12684646-0|//blp/mktdata/bsid/8744574970721
 j-OTH1 Future     May12|OTAK2|YLX|8744576479024|IX13298516-0|Physical index future.|Index|BBG001YN3VS7||34183|34183|0||39685|//blp/mktdata/bsym/YLX/OTAK2|//blp/mktdata/buid/YLX/IX13298516-0|//blp/mktdata/bsid/8744576479024
-jTRT1 Future      Aug12|TRAQ2|||IX13937422-0|Physical index future.|Index|BBG0027P7L08||34183|34183|0||39685|||
+jTRT1 Future      Aug12|TRAQ2|YLX|8744578276016|IX13937422-0|Physical index future.|Index|BBG0027P7L08||34183|34183|0||39685|//blp/mktdata/bsym/YLX/TRAQ2|//blp/mktdata/buid/YLX/IX13937422-0|//blp/mktdata/bsid/8744578276016
 jTRT1 Future      Feb12|TRAG2|YLX|8744574976265|IX12684658-0|Physical index future.|Index|BBG001P61F83||34183|34183|0||39685|//blp/mktdata/bsym/YLX/TRAG2|//blp/mktdata/buid/YLX/IX12684658-0|//blp/mktdata/bsid/8744574976265
 jTRT1 Future      May12|TRAK2|YLX|8744576488669|IX13298508-0|Physical index future.|Index|BBG001YN3VQ9||34183|34183|0||39685|//blp/mktdata/bsym/YLX/TRAK2|//blp/mktdata/buid/YLX/IX13298508-0|//blp/mktdata/bsid/8744576488669
 min MSCI EAFE NTR Dec11|MFTZ1|eNYL|8181932147311|IX11718070-0|Physical index future.|Index|BBG001BWLYR7||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/MFTZ1|//blp/mktdata/buid/eNYL/IX11718070-0|//blp/mktdata/bsid/8181932147311
