@@ -1,5 +1,5 @@
-#Data Generated At: Mon Nov 7 06:33:25 EST 2011
-#Data Records=12949
+#Data Generated At: Tue Nov 8 06:33:54 EST 2011
+#Data Records=12994
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -1933,6 +1933,51 @@ CLP-USD SWAP        6 MO||||IX9857026-0|SWAP|Curncy||||||||||
 CLP-USD SWAP        7 MO||||IX9857030-0|SWAP|Curncy||||||||||
 CLP-USD SWAP        8 MO||||IX9857034-0|SWAP|Curncy||||||||||
 CLP-USD SWAP        9 MO||||IX9857038-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day YLD  SPOT||||IX13959125-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  1M||||IX13959181-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  1Y||||IX13959201-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  2M||||IX13959185-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  2Y||||IX13959205-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  3M||||IX13959189-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  3Y||||IX13959209-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  4Y||||IX13959213-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  5Y||||IX13959217-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  6M||||IX13959193-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield  9M||||IX13959197-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield APR||||IX13959065-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield AUG||||IX13959089-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield DEC||||IX13959049-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield FEB||||IX13959057-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield JAN||||IX13959053-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield JUL||||IX13959085-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield JUN||||IX13959081-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield MAR||||IX13959061-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield NOV||||IX13959101-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield OCT||||IX13959097-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield SEP||||IX13959093-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day YLD  SPOT||||IX13959129-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  1M||||IX13959221-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  1Y||||IX13959241-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  2M||||IX13959225-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  2Y||||IX13959245-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  3M||||IX13959229-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  3Y||||IX13959249-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  4Y||||IX13959261-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  5Y||||IX13959265-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  6M||||IX13959233-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield  9M||||IX13959237-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield APR||||IX13959149-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield AUG||||IX13959165-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield DEC||||IX13959133-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield FEB||||IX13959141-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield JAN||||IX13959137-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield JUL||||IX13959161-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield JUN||||IX13959157-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield MAR||||IX13959145-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield MAY||||IX13959153-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield NOV||||IX13959177-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield OCT||||IX13959173-0|SWAP|Curncy||||||||||
+CMM FRA 60-Day Yield SEP||||IX13959169-0|SWAP|Curncy||||||||||
 CNA  3.9%     Jul16 ASW||||IX13679308-0|SWAP|Curncy||||||||||
 CNH  SWAP V CHLR12M   2Y||||IX12798066-0|SWAP|Curncy||||||||||
 CNH  SWAP V CHLR12M   3Y||||IX12798070-0|SWAP|Curncy||||||||||
