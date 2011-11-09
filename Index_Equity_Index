@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 8 06:47:04 EST 2011
-#Data Records=17566
+#Data Generated At: Wed Nov 9 06:47:57 EST 2011
+#Data Records=17587
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1256,8 +1256,12 @@ BI AP Auto/Veh OEM Mg PB|BIAUTOAP Index|||EI09BIAUTOAP|Equity Index|Index|BBG001
 BI AP B&D Chemicals PB|BIBDCHAP Index|||EI09BIBDCHAP|Equity Index|Index|BBG0027BD142||46707|||||||
 BI AP Beverages Comp|BIBEVGAV Index|||EI09BIBEVGAV|Equity Index|Index|BBG001CN6FL0||46707|||||||
 BI AP Cnst&Mine Mach PB|BIASCMV Index|||EI09BIASCMV|Equity Index|Index|BBG00179TKZ6||46707|||||||
+BI AP Comput & Consum Cp|BISMCCAC Index|||EI09BISMCCAC|Equity Index|Index|BBG0027VH3L1||46707|||||||
 BI AP Couriers&Exp DS Cp|BIXPRSAC Index|||EI09BIXPRSAC|Equity Index|Index|BBG0027KRWL0||46707|||||||
 BI AP Dev Steel Prod PB|BRPBADSE Index|||EI09BRPBADSE|Equity Index|Index|BBG0013P5011||46707|||||||
+BI AP Elect Equip Comp|BIGELECT Index|||EI09BIGELECT|Equity Index|Index|BBG0025X6SY2||46707|||||||
+BI AP Elect Equip Comp|BIGELECT Index|||EI09BIGELECT|Equity Index|Index|BBG0025X6SY2||46707|||||||
+BI AP Elect Equip Top|BIGELECT Index|||EI09BIGELECT|Equity Index|Index|BBG0025X6SY2||46707|||||||
 BI AP Elect Equip Top|BIGELECT Index|||EI09BIGELECT|Equity Index|Index|BBG0025X6SY2||46707|||||||
 BI AP Emerg Steel Pr -PB|BRPBIAES Index|||EI09BRPBIAES|Equity Index|Index|BBG0013P50M8||46707|||||||
 BI AP Food Mfg PB Index|BIAFDMFP Index|||EI09BIAFDMFP|Equity Index|Index|BBG0021RF6D0||46707|||||||
@@ -1293,6 +1297,9 @@ BI EU Beverages Comp|BIBEVGEV Index|||EI09BIBEVGEV|Equity Index|Index|BBG001CN6F
 BI EU Cnst & Mng Comp|BIEUCMAC Index|||EI09BIEUCMAC|Equity Index|Index|BBG00179TKQ6||46707|||||||
 BI EU Cnst & Mng Prin|BIEUCMV Index|||EI09BIEUCMV|Equity Index|Index|BBG00179TKY7||46707|||||||
 BI EU Couriers&Exp DS Cp|BIXPRSEC Index|||EI09BIXPRSEC|Equity Index|Index|BBG0027KRZD2||46707|||||||
+BI EU Elect Equip Comp|BIGLEQCT Index|||EI09BIGLEQCT|Equity Index|Index|BBG0025X7DR2||46707|||||||
+BI EU Elect Equip Comp|BIGLEQCT Index|||EI09BIGLEQCT|Equity Index|Index|BBG0025X7DR2||46707|||||||
+BI EU Elect Equip Top|BIGLEQCT Index|||EI09BIGLEQCT|Equity Index|Index|BBG0025X7DR2||46707|||||||
 BI EU Elect Equip Top|BIGLEQCT Index|||EI09BIGLEQCT|Equity Index|Index|BBG0025X7DR2||46707|||||||
 BI EU Food Mfg PB Index|BIEFDMFP Index|||EI09BIEFDMFP|Equity Index|Index|BBG0021RG818||46707|||||||
 BI EU Food Retailers C|BIRETFEC Index|||EI09BIRETFEC|Equity Index|Index|BBG00265W635||46707|||||||
@@ -1402,6 +1409,9 @@ BI GL Dvsfd AutoParts PB|BIAUTPDV Index|||EI09BIAUTPDV|Equity Index|Index|BBG001
 BI GL E-Comm Stpls PB|BIECOMGP Index|||EI09BIECOMGP|Equity Index|Index|||46707|||||||
 BI GL EMS Comp Idx|BIGEMSCP Index|||EI09BIGEMSCP|Equity Index|Index|BBG001S3FM14||46707|||||||
 BI GL EMS/ODM - PBI|BREMSODV Index|||EI09BREMSODV|Equity Index|Index|BBG0012CXX36||46707|||||||
+BI GL Elect Equip Cmp Ix|BIGELEQT Index|||EI09BIGELEQT|Equity Index|Index|BBG0024CSRD0||46707|||||||
+BI GL Elect Equip Cmp Ix|BIGELEQT Index|||EI09BIGELEQT|Equity Index|Index|BBG0024CSRD0||46707|||||||
+BI GL Elect Equip Top Ix|BIGELEQT Index|||EI09BIGELEQT|Equity Index|Index|BBG0024CSRD0||46707|||||||
 BI GL Elect Equip Top Ix|BIGELEQT Index|||EI09BIGELEQT|Equity Index|Index|BBG0024CSRD0||46707|||||||
 BI GL Electrophys PB|BRCDEVCV Index|||EI09BRCDEVCV|Equity Index|Index|BBG000Z55Q97||46707|||||||
 BI GL Emerging Gold - PB|BBREMGLD Index|||EI09BBREMGLD|Equity Index|Index|BBG0014SWL27||46707|||||||
@@ -1501,7 +1511,13 @@ BI GL Power Trans Dist P|BIPWTRGP Index|||EI09BIPWTRGP|Equity Index|Index|||4670
 BI GL Prec Metal Min PB|BBRGLDRC Index|||EI09BBRGLDRC|Equity Index|Index|BBG0014SWL45||46707|||||||
 BI GL Prem P&C Re - Comp|BRGRREIV Index|||EI09BRGRREIV|Equity Index|Index|BBG0014SWLT8||46707|||||||
 BI GL Prof Growth BT PB|BRPRBIOV Index|||EI09BRPRBIOV|Equity Index|Index|BBG000ZGC7F0||46707|||||||
+BI GL Pwr Gen Mac Man Co|BIPGEQGT Index|||EI09BIPGEQGT|Equity Index|Index|BBG0024CQ9H8||46707|||||||
+BI GL Pwr Gen Mac Man Co|BIPGEQGT Index|||EI09BIPGEQGT|Equity Index|Index|BBG0024CQ9H8||46707|||||||
 BI GL Pwr Gen Mac Man Tp|BIPGEQGT Index|||EI09BIPGEQGT|Equity Index|Index|BBG0024CQ9H8||46707|||||||
+BI GL Pwr Gen Mac Man Tp|BIPGEQGT Index|||EI09BIPGEQGT|Equity Index|Index|BBG0024CQ9H8||46707|||||||
+BI GL PwrTrans Dist Comp|BIGPTDAT Index|||EI09BIGPTDAT|Equity Index|Index|BBG0024CR3R9||46707|||||||
+BI GL PwrTrans Dist Comp|BIGPTDAT Index|||EI09BIGPTDAT|Equity Index|Index|BBG0024CR3R9||46707|||||||
+BI GL PwrTrans Dist Top|BIGPTDAT Index|||EI09BIGPTDAT|Equity Index|Index|BBG0024CR3R9||46707|||||||
 BI GL PwrTrans Dist Top|BIGPTDAT Index|||EI09BIGPTDAT|Equity Index|Index|BBG0024CR3R9||46707|||||||
 BI GL Rated Bev Cmptve|BRBEVRCP Index|||EI09BRBEVRCP|Equity Index|Index|BBG0012JT0K9||46707|||||||
 BI GL Rental Machine PB|BIRENTAL Index|||EI09BIRENTAL|Equity Index|Index|BBG00179TL02||46707|||||||
@@ -1620,12 +1636,16 @@ BI NA Comm Veh - Comp Ix|BITRCNC Index|||EI09BITRCNC|Equity Index|Index|BBG001DC
 BI NA Comm Veh Eng Mfg|BITRCENV Index|||EI09BITRCENV|Equity Index|Index|BBG001DCDDG6||46707|||||||
 BI NA Comm Veh Mfg - CBI|BITRCTNV Index|||EI09BITRCTNV|Equity Index|Index|BBG001DCDDD9||46707|||||||
 BI NA Comm Veh Oth Pt CB|BITRCCNV Index|||EI09BITRCCNV|Equity Index|Index|BBG001DCDDF7||46707|||||||
+BI NA Comput & Consum Cp|BISMCCNC Index|||EI09BISMCCNC|Equity Index|Index|BBG0027VH2Z8||46707|||||||
 BI NA Construction Comp|BIUSCNTC Index|||EI09BIUSCNTC|Equity Index|Index|BBG00179TKN9||46707|||||||
 BI NA Construction Prin|BIUSCNTV Index|||EI09BIUSCNTV|Equity Index|Index|BBG00179TKW9||46707|||||||
 BI NA ConstructionMfg PB|BIUSCNTM Index|||EI09BIUSCNTM|Equity Index|Index|BBG0018BWT41||46707|||||||
 BI NA Couriers&Exp DS Cp|BIXPRSNC Index|||EI09BIXPRSNC|Equity Index|Index|BBG0027KR6S0||46707|||||||
 BI NA Crude Oil Prod|BINGASOL Index|||EI09BINGASOL|Equity Index|Index|BBG001LWKVK0||46707|||||||
 BI NA EMS/ODM Comp|BINEMSOC Index|||EI09BINEMSOC|Equity Index|Index|BBG001S3F897||46707|||||||
+BI NA Elect Equip Comp|BIELEQGT Index|||EI09BIELEQGT|Equity Index|Index|BBG0025X3DV1||46707|||||||
+BI NA Elect Equip Comp|BIELEQGT Index|||EI09BIELEQGT|Equity Index|Index|BBG0025X3DV1||46707|||||||
+BI NA Elect Equip Top|BIELEQGT Index|||EI09BIELEQGT|Equity Index|Index|BBG0025X3DV1||46707|||||||
 BI NA Elect Equip Top|BIELEQGT Index|||EI09BIELEQGT|Equity Index|Index|BBG0025X3DV1||46707|||||||
 BI NA Electr & Gas T&D P|BINETSNP Index|||EI09BINETSNP|Equity Index|Index|BBG0024TXLZ6||46707|||||||
 BI NA Exhbit Entnmnt Prn|BREXHIBV Index|||EI09BREXHIBV|Equity Index|Index|BBG00128R329||46707|||||||
@@ -2123,6 +2143,7 @@ Black Sky Top Picks|UBSRBSTP Index|WDRL|2495399407767|EI09UBSRBSTP|Equity Index|
 Bloomberg Arabia x SA|BBARXSA Index|||EI09BBARXSA|Equity Index|Index|||46707|||||||
 Bloomberg Arabian Region|BBARABIA Index|||EI09BBARABIA|Equity Index|Index|BBG0016YJV25||46707|||||||
 Bloomberg Bahrain Index|BBBAHRA Index|||EI09BBBAHRA|Equity Index|Index|||46707|||||||
+Bloomberg Cast|CASTXXX Index|||EI09CASTXXX|Equity Index|Index|BBG0027VC5Q6||46707|||||||
 Bloomberg ChiNext Index|CHINEXT Index|||EI09CHINEXT|Equity Index|Index|BBG000YBHKP7||46707|||||||
 Bloomberg ESG Coverage|BESGCOV Index|||EI09BESGCOV|Equity Index|Index|BBG000SQWZ62||46707|||||||
 Bloomberg ESG Processed|BESGPRO Index|||EI09BESGPRO|Equity Index|Index|BBG000VZZ0S8||46707|||||||
@@ -5982,7 +6003,6 @@ JLBCIKA4|JLBCIKA4 Index|JPUS|7116778943395|EI09JLBCIKA4|Equity Index|Index|BBG00
 JLBCIKA5|JLBCIKA5 Index|JPUS|7116779838126|EI09JLBCIKA5|Equity Index|Index|BBG00191RMR8|||||33088||//blp/mktdata/bsym/JPUS/JLBCIKA5 Index|//blp/mktdata/buid/JPUS/EI09JLBCIKA5|//blp/mktdata/bsid/7116779838126
 JLBCINDL|JLBCINDL Index|JPUS|7116773881412|EI09JLBCINDL|Equity Index|Index|BBG000Y4NBM9|||||33088||//blp/mktdata/bsym/JPUS/JLBCINDL Index|//blp/mktdata/buid/JPUS/EI09JLBCINDL|//blp/mktdata/bsid/7116773881412
 JLBCINDS|JLBCINDS Index|JPUS|7116773881185|EI09JLBCINDS|Equity Index|Index|BBG000Y4NBH5|||||33088||//blp/mktdata/bsym/JPUS/JLBCINDS Index|//blp/mktdata/buid/JPUS/EI09JLBCINDS|//blp/mktdata/bsid/7116773881185
-JLBCINDU|JLBCINDU Index|JPUS|7116771122189|EI09JLBCINDU|Equity Index|Index|BBG000XW0DM9|||||33088||//blp/mktdata/bsym/JPUS/JLBCINDU Index|//blp/mktdata/buid/JPUS/EI09JLBCINDU|//blp/mktdata/bsid/7116771122189
 JLBCINTR|JLBCINTR Index|JPUS|7116771416821|EI09JLBCINTR|Equity Index|Index|BBG000SL9T18|||||33088||//blp/mktdata/bsym/JPUS/JLBCINTR Index|//blp/mktdata/buid/JPUS/EI09JLBCINTR|//blp/mktdata/bsid/7116771416821
 JLBCLY11|JLBCLY11 Index|JPUS|7116783156911|EI09JLBCLY11|Equity Index|Index|BBG001S53GK4|||||33088||//blp/mktdata/bsym/JPUS/JLBCLY11 Index|//blp/mktdata/buid/JPUS/EI09JLBCLY11|//blp/mktdata/bsid/7116783156911
 JLBCLY13|JLBCLY13 Index|JPUS|7116783378097|EI09JLBCLY13|Equity Index|Index|BBG001WB8ZG4|||||33088||//blp/mktdata/bsym/JPUS/JLBCLY13 Index|//blp/mktdata/buid/JPUS/EI09JLBCLY13|//blp/mktdata/bsid/7116783378097
@@ -6264,7 +6284,6 @@ JPTEXO7P|JPTEXO7P Index|JPUS|7116778649474|EI09JPTEXO7P|Equity Index|Index|BBG00
 JSE MARKET INDEX|JMSMX Index|JA|1082332156485|EI09JMSMX|Equity Index|Index|BBG000VD9LF4||27264|27264|||39601|//blp/mktdata/bsym/JA/JMSMX Index|//blp/mktdata/buid/JA/EI09JMSMX|//blp/mktdata/bsid/1082332156485
 JSE SELECT INDEX|JSESEL Index|JA|1082332218850|EI09JSESEL|Equity Index|Index|BBG000W2BY93||27264|27264|||39601|//blp/mktdata/bsym/JA/JSESEL Index|//blp/mktdata/buid/JA/EI09JSESEL|//blp/mktdata/bsid/1082332218850
 JSHR40/MXZA|JPSAX1GQ Index|JPUS||EI09JPSAX1GQ|Equity Index|Index|BBG00204XXR8|||||33088||//blp/mktdata/bsym/JPUS/JPSAX1GQ Index|//blp/mktdata/buid/JPUS/EI09JPSAX1GQ|
-JSHR40/MXZA|JPSAX1GY Index|JPUS||EI09JPSAX1GY|Equity Index|Index|BBG00204JRR7|||||33088||//blp/mktdata/bsym/JPUS/JPSAX1GY Index|//blp/mktdata/buid/JPUS/EI09JPSAX1GY|
 Japanese Exporters|JPCEJAEX Index|JPUS|7116781290632|EI09JPCEJAEX|Equity Index|Index|BBG001K3MVG8|||||33088||//blp/mktdata/bsym/JPUS/JPCEJAEX Index|//blp/mktdata/buid/JPUS/EI09JPCEJAEX|//blp/mktdata/bsid/7116781290632
 Jasdaq Growth Index|JASDAQGR Index|JSDQ|5965727370595|EI09JASDAQGR|Equity Index|Index|BBG00133SSB3||14021|14021|||39502|//blp/mktdata/bsym/JSDQ/JASDAQGR Index|//blp/mktdata/buid/JSDQ/EI09JASDAQGR|//blp/mktdata/bsid/5965727370595
 Jasdaq Standard Index|JASDAQST Index|JSDQ|5965728175378|EI09JASDAQST|Equity Index|Index|BBG00133SSK3||14021|14021|||39502|//blp/mktdata/bsym/JSDQ/JASDAQST Index|//blp/mktdata/buid/JSDQ/EI09JASDAQST|//blp/mktdata/bsid/5965728175378
@@ -9896,6 +9915,7 @@ MSCI Pacific ReEstMg&Dv|MXPC0RM Index|MXRT||EI09MXPC0RM|Equity Index|Index|||141
 MSCI Pacific Real Estate|MXPC0RE Index|MXRT|5570588161756|EI09MXPC0RE|Equity Index|Index|BBG000Z7MWD6||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXPC0RE Index|//blp/mktdata/buid/MXRT/EI09MXPC0RE|//blp/mktdata/bsid/5570588161756
 MSCI Pacific Reits|MXPC0RI Index|MXRT||EI09MXPC0RI|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXPC0RI Index|//blp/mktdata/buid/MXRT/EI09MXPC0RI|
 MSCI Pacific Retail|MXPC0RT Index|MXRT|5570588161747|EI09MXPC0RT|Equity Index|Index|BBG000Z7MTK5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXPC0RT Index|//blp/mktdata/buid/MXRT/EI09MXPC0RT|//blp/mktdata/bsid/5570588161747
+MSCI Pacific Road&Rail|MXPC0RR Index|MXRT||EI09MXPC0RR|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXPC0RR Index|//blp/mktdata/buid/MXRT/EI09MXPC0RR|
 MSCI Pacific Semi&S EqG3|MXPC0ST Index|MXRT||EI09MXPC0ST|Equity Index|Index|||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXPC0ST Index|//blp/mktdata/buid/MXRT/EI09MXPC0ST|
 MSCI Pacific Semi&SC Eq|MXPC0SE Index|MXRT|5570588161761|EI09MXPC0SE|Equity Index|Index|BBG000Z7MXH0||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXPC0SE Index|//blp/mktdata/buid/MXRT/EI09MXPC0SE|//blp/mktdata/bsid/5570588161761
 MSCI Pacific Soft & Svs|MXPC0SS Index|MXRT|5570588161757|EI09MXPC0SS|Equity Index|Index|BBG000Z7MWW5||14168|||14168|40169|//blp/mktdata/bsym/MXRT/MXPC0SS Index|//blp/mktdata/buid/MXRT/EI09MXPC0SS|//blp/mktdata/bsid/5570588161757
@@ -11117,6 +11137,7 @@ Mexico Habita RT Index|HABITART Index|MM|1576255506840|EI09HABITART|Equity Index
 Mexico Indice Rentable|RENTABLE Index|MM|1576266031820|EI09RENTABLE|Equity Index|Index|BBG000Y4B0V6||14063|35741|||39520|//blp/mktdata/bsym/MM/RENTABLE Index|//blp/mktdata/buid/MM/EI09RENTABLE|//blp/mktdata/bsid/1576266031820
 Mid Cap|NMRASMID Index|NMDP|1447416111740|EI09NMRASMID|Equity Index|Index|BBG000W4HV99|||||37029||//blp/mktdata/bsym/NMDP/NMRASMID Index|//blp/mktdata/buid/NMDP/EI09NMRASMID|//blp/mktdata/bsid/1447416111740
 MidLate Cycle Industry|CGCOCYCL Index|CGDO||EI09CGCOCYCL|Equity Index|Index|BBG001WVJYV4|||||31088||//blp/mktdata/bsym/CGDO/CGCOCYCL Index|//blp/mktdata/buid/CGDO/EI09CGCOCYCL|
+MidLate Cycle Industry|CGDOCYC2 Index|CGDO||EI09CGDOCYC2|Equity Index|Index|BBG0027VCJC1|||||31088||//blp/mktdata/bsym/CGDO/CGDOCYC2 Index|//blp/mktdata/buid/CGDO/EI09CGDOCYC2|
 MidLate Cycle Industry|CGDOCYCL Index|CGDO||EI09CGDOCYCL|Equity Index|Index|BBG001WW5K65|||||31088||//blp/mktdata/bsym/CGDO/CGDOCYCL Index|//blp/mktdata/buid/CGDO/EI09CGDOCYCL|
 Mill CAPG|UBSQCAPG Index|WDRL|2495395285899|EI09UBSQCAPG|Equity Index|Index|BBG0019X12S9||46707|||||//blp/mktdata/bsym/WDRL/UBSQCAPG Index|//blp/mktdata/buid/WDRL/EI09UBSQCAPG|//blp/mktdata/bsid/2495395285899
 Mill Chemical|UBSQCHEM Index|WDRL|2495395285900|EI09UBSQCHEM|Equity Index|Index|BBG0019X12V5||46707|||||//blp/mktdata/bsym/WDRL/UBSQCHEM Index|//blp/mktdata/buid/WDRL/EI09UBSQCHEM|//blp/mktdata/bsid/2495395285900
@@ -15286,7 +15307,7 @@ S&P N AM TEC SEMICON IND|SPGSTISM Index|CME|614186300619|EI09SPGSTISM|Equity Ind
 S&P N AM TECH HARDINDEX|SPGSTIHA Index|CME|614187125814|EI09SPGSTIHA|Equity Index|Index|BBG000W9Z6S2||43397|||42477||//blp/mktdata/bsym/CME/SPGSTIHA Index|//blp/mktdata/buid/CME/EI09SPGSTIHA|//blp/mktdata/bsid/614187125814
 S&P N AM TECH SERVICE IN|SPGSTISV Index|CME|614181731698|EI09SPGSTISV|Equity Index|Index|BBG000W9Z7H2||43397|||42477||//blp/mktdata/bsym/CME/SPGSTISV Index|//blp/mktdata/buid/CME/EI09SPGSTISV|//blp/mktdata/bsid/614181731698
 S&P N AM TECH SOFT INDEX|SPGSTISO Index|CME|614188423992|EI09SPGSTISO|Equity Index|Index|BBG000W9Z791||43397|||42477||//blp/mktdata/bsym/CME/SPGSTISO Index|//blp/mktdata/buid/CME/EI09SPGSTISO|//blp/mktdata/bsid/614188423992
-S&P N AMER NAT RES|SPGSSINR Index|CME|614189273170|EI09SPGSSINR|Equity Index|Index|BBG000W9Z6G5||43397|||37777||//blp/mktdata/bsym/CME/SPGSSINR Index|//blp/mktdata/buid/CME/EI09SPGSSINR|//blp/mktdata/bsid/614189273170
+S&P N AMER NAT RES|SPGSSINR Index|CME|614189273170|EI09SPGSSINR|Equity Index|Index|BBG000W9Z6G5||43397|||42477||//blp/mktdata/bsym/CME/SPGSSINR Index|//blp/mktdata/buid/CME/EI09SPGSSINR|//blp/mktdata/bsid/614189273170
 S&P N Am Tech Sector Ind|SPGSTI Index|CME|614181731695|EI09SPGSTI|Equity Index|Index|BBG000W9Z6M8||43397|||42477||//blp/mktdata/bsym/CME/SPGSTI Index|//blp/mktdata/buid/CME/EI09SPGSTI|//blp/mktdata/bsid/614181731695
 S&P N. AM TEC INTER IND|SPGSTIIN Index|CME|614188423993|EI09SPGSTIIN|Equity Index|Index|BBG000W9Z7Z2||43397|||42477||//blp/mktdata/bsym/CME/SPGSTIIN Index|//blp/mktdata/buid/CME/EI09SPGSTIIN|//blp/mktdata/bsid/614188423993
 S&P NoAmConsumer Sector|SPGICN Index|SPGC|7838323237112|EI09SPGICN|Equity Index|Index|BBG0015MF382||34773|||42477||//blp/mktdata/bsym/SPGC/SPGICN Index|//blp/mktdata/buid/SPGC/EI09SPGICN|//blp/mktdata/bsid/7838323237112

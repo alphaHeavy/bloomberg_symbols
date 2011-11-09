@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 8 06:33:54 EST 2011
-#Data Records=12994
+#Data Generated At: Wed Nov 9 06:35:07 EST 2011
+#Data Records=13078
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -409,6 +409,7 @@ B     12/08/11    ASW6||||IX13746598-0|SWAP|Curncy||||||||||
 B     12/15/11    ASW6||||IX12684166-0|SWAP|Curncy||||||||||
 B     12/22/11    ASW6||||IX13746602-0|SWAP|Curncy||||||||||
 B     12/29/11    ASW6||||IX13746606-0|SWAP|Curncy||||||||||
+B   0    05/10/12   ASW6||||IX13965842-0|SWAP|Curncy||||||||||
 B   05/05/11   ASW6||||IX12677573-0|SWAP|Curncy||||||||||
 B   05/12/11   ASW6||||IX12677605-0|SWAP|Curncy||||||||||
 B   05/19/11   ASW6||||IX12677613-0|SWAP|Curncy||||||||||
@@ -1952,6 +1953,7 @@ CMM FRA 30-Day Yield JAN||||IX13959053-0|SWAP|Curncy||||||||||
 CMM FRA 30-Day Yield JUL||||IX13959085-0|SWAP|Curncy||||||||||
 CMM FRA 30-Day Yield JUN||||IX13959081-0|SWAP|Curncy||||||||||
 CMM FRA 30-Day Yield MAR||||IX13959061-0|SWAP|Curncy||||||||||
+CMM FRA 30-Day Yield MAY||||IX13959077-0|SWAP|Curncy||||||||||
 CMM FRA 30-Day Yield NOV||||IX13959101-0|SWAP|Curncy||||||||||
 CMM FRA 30-Day Yield OCT||||IX13959097-0|SWAP|Curncy||||||||||
 CMM FRA 30-Day Yield SEP||||IX13959093-0|SWAP|Curncy||||||||||
@@ -9301,8 +9303,14 @@ SGD SWAP (QTRLY)    5 YR||||IX13030873-0|SWAP|Curncy||||||||||
 SGD SWAP (QTRLY)    6 MO||||IX839315-0|SWAP|Curncy||||||||||
 SGD SWAP (QTRLY)    6 YR||||IX13394098-0|SWAP|Curncy||||||||||
 SGD SWAP (QTRLY)    7 YR||||IX13030881-0|SWAP|Curncy||||||||||
+SGD SWAP (QTRLY)    8 YR||||IX13964930-0|SWAP|Curncy||||||||||
 SGD SWAP (QTRLY)    9 MO||||IX839372-0|SWAP|Curncy||||||||||
 SGD SWAP (QTRLY)   10 YR||||IX13030893-0|SWAP|Curncy||||||||||
+SGD SWAP (QTRLY)   12 YR||||IX13964938-0|SWAP|Curncy||||||||||
+SGD SWAP (QTRLY)   15 YR||||IX13964942-0|SWAP|Curncy||||||||||
+SGD SWAP (QTRLY)   20 YR||||IX13964946-0|SWAP|Curncy||||||||||
+SGD SWAP (QTRLY)   30 YR||||IX13964950-0|SWAP|Curncy||||||||||
+SGD SWAP (QTRLY)   9 YR||||IX13964934-0|SWAP|Curncy||||||||||
 SGD SWAP 10M||||IX3860889-0|SWAP|Curncy||||||||||
 SGD SWAP 11M||||IX3860893-0|SWAP|Curncy||||||||||
 SGD SWAP 1M||||IX322027-0|SWAP|Curncy||||||||||
@@ -9792,6 +9800,7 @@ T   9   11/15/15  ASW6||||IX12720454-0|SWAP|Curncy||||||||||
 T  0  01/31/12    ASW6||||IX12689231-0|SWAP|Curncy||||||||||
 T  0  11/30/11    ASW6||||IX12689207-0|SWAP|Curncy||||||||||
 T  0 1/4 10/31/13   ASW6||||IX13859033-0|SWAP|Curncy||||||||||
+T  0 3/8 11/15/14   ASW6||||IX13965862-0|SWAP|Curncy||||||||||
 T  1  01/15/12    ASW6||||IX12689223-0|SWAP|Curncy||||||||||
 T  1  02/15/12    ASW6||||IX12689239-0|SWAP|Curncy||||||||||
 T  1  08/31/11    ASW6||||IX12689195-0|SWAP|Curncy||||||||||
@@ -9799,6 +9808,7 @@ T  1  12/15/11    ASW6||||IX12689211-0|SWAP|Curncy||||||||||
 T  1  12/31/11    ASW6||||IX12689219-0|SWAP|Curncy||||||||||
 T  2     04/30/16   ASW6||||IX12720502-0|SWAP|Curncy||||||||||
 T  2 1/8 02/29/16  ASW6||||IX12720486-0|SWAP|Curncy||||||||||
+T  2 3/8 05/31/18   ASW6||||IX13965898-0|SWAP|Curncy||||||||||
 T  4  01/31/12    ASW6||||IX12689227-0|SWAP|Curncy||||||||||
 T  4  02/15/12    ASW6||||IX12689235-0|SWAP|Curncy||||||||||
 T  4  08/31/11    ASW6||||IX12689191-0|SWAP|Curncy||||||||||
@@ -10482,6 +10492,30 @@ USD SO 10/2 NVOL      1Y||||IX13929349-0|SWAP|Curncy||||||||||
 USD SO 10/2 NVOL      2Y||||IX13929353-0|SWAP|Curncy||||||||||
 USD SO 10/2 NVOL      3M||||IX13929341-0|SWAP|Curncy||||||||||
 USD SO 10/2 NVOL      6M||||IX13929345-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+100   1Y||||IX13966598-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+100   2Y||||IX13966574-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+100   3M||||IX13966694-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+100   6M||||IX13966670-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+25    1Y||||IX13966590-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+25    2Y||||IX13966566-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+25    3M||||IX13966686-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+25    6M||||IX13966662-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+50    1Y||||IX13966594-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+50    2Y||||IX13966570-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+50    3M||||IX13966690-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM+50    6M||||IX13966666-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-100   1Y||||IX13966578-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-100   2Y||||IX13966554-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-100   3M||||IX13966674-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-100   6M||||IX13966650-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-25    1Y||||IX13966586-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-25    2Y||||IX13966562-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-25    3M||||IX13966682-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-25    6M||||IX13966658-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-50    1Y||||IX13966582-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-50    2Y||||IX13966558-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-50    3M||||IX13966678-0|SWAP|Curncy||||||||||
+USD SO 10/2 PRM-50    6M||||IX13966654-0|SWAP|Curncy||||||||||
 USD SO 10/5 ATM       1Y||||IX13782292-0|SWAP|Curncy||||||||||
 USD SO 10/5 ATM       2Y||||IX13782296-0|SWAP|Curncy||||||||||
 USD SO 10/5 ATM       3M||||IX13782280-0|SWAP|Curncy||||||||||
@@ -10652,6 +10686,30 @@ USD SO 30/10 NVOL     1Y||||IX13929381-0|SWAP|Curncy||||||||||
 USD SO 30/10 NVOL     2Y||||IX13929385-0|SWAP|Curncy||||||||||
 USD SO 30/10 NVOL     3M||||IX13929373-0|SWAP|Curncy||||||||||
 USD SO 30/10 NVOL     6M||||IX13929377-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+100  1Y||||IX13966154-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+100  2Y||||IX13966178-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+100  3M||||IX13966106-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+100  6M||||IX13966130-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+25   1Y||||IX13966146-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+25   2Y||||IX13966170-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+25   3M||||IX13966098-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+25   6M||||IX13966122-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+50   1Y||||IX13966150-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+50   2Y||||IX13966174-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+50   3M||||IX13966102-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM+50   6M||||IX13966126-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-100  1Y||||IX13966134-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-100  2Y||||IX13966158-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-100  3M||||IX13966086-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-100  6M||||IX13966110-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-25   1Y||||IX13966142-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-25   2Y||||IX13966166-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-25   3M||||IX13966094-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-25   6M||||IX13966118-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-50   1Y||||IX13966138-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-50   2Y||||IX13966162-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-50   3M||||IX13966090-0|SWAP|Curncy||||||||||
+USD SO 30/10 PRM-50   6M||||IX13966114-0|SWAP|Curncy||||||||||
 USD SO 30/2 ATM       1M||||IX13149105-0|SWAP|Curncy||||||||||
 USD SO 30/2 ATM       1W||||IX13149109-0|SWAP|Curncy||||||||||
 USD SO 30/2 ATM       1Y||||IX13149121-0|SWAP|Curncy||||||||||
@@ -10712,6 +10770,30 @@ USD SO 30/2 NVOL      1Y||||IX13929365-0|SWAP|Curncy||||||||||
 USD SO 30/2 NVOL      2Y||||IX13929369-0|SWAP|Curncy||||||||||
 USD SO 30/2 NVOL      3M||||IX13929357-0|SWAP|Curncy||||||||||
 USD SO 30/2 NVOL      6M||||IX13929361-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+100   1Y||||IX13966622-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+100   2Y||||IX13966550-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+100   3M||||IX13966718-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+100   6M||||IX13966646-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+25    1Y||||IX13966614-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+25    2Y||||IX13966194-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+25    3M||||IX13966710-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+25    6M||||IX13966638-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+50    1Y||||IX13966618-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+50    2Y||||IX13966546-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+50    3M||||IX13966714-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM+50    6M||||IX13966642-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-100   1Y||||IX13966602-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-100   2Y||||IX13966182-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-100   3M||||IX13966698-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-100   6M||||IX13966626-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-25    1Y||||IX13966610-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-25    2Y||||IX13966190-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-25    3M||||IX13966706-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-25    6M||||IX13966634-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-50    1Y||||IX13966606-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-50    2Y||||IX13966186-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-50    3M||||IX13966702-0|SWAP|Curncy||||||||||
+USD SO 30/2 PRM-50    6M||||IX13966630-0|SWAP|Curncy||||||||||
 USD SO 30/5 ATM       1Y||||IX13782460-0|SWAP|Curncy||||||||||
 USD SO 30/5 ATM       2Y||||IX13782472-0|SWAP|Curncy||||||||||
 USD SO 30/5 ATM       3M||||IX13782456-0|SWAP|Curncy||||||||||
@@ -12872,6 +12954,8 @@ VND-USD SWAP        7 YR||||IX390095-0|SWAP|Curncy||||||||||
 WIB    11/03/11   ASW6||||IX12689179-0|SWAP|Curncy||||||||||
 WIB   05/03/12    ASW6||||IX12702473-0|SWAP|Curncy||||||||||
 WIT    10/31/18   ASW6||||IX13858937-0|SWAP|Curncy||||||||||
+WIT  WI  11/15/21   ASW6||||IX13965878-0|SWAP|Curncy||||||||||
+WIT  WI  11/15/41   ASW6||||IX13965886-0|SWAP|Curncy||||||||||
 XAU SWAP QRTLY      1 YR||||IX3876849-0|SWAP|Curncy||||||||||
 XAU SWAP QRTLY      18M||||IX11284707-0|SWAP|Curncy||||||||||
 XAU SWAP QRTLY      2 YR||||IX3876853-0|SWAP|Curncy||||||||||
