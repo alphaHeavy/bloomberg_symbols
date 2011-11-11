@@ -1,5 +1,5 @@
-#Data Generated At: Thu Nov 10 06:15:38 EST 2011
-#Data Records=6233
+#Data Generated At: Fri Nov 11 06:14:38 EST 2011
+#Data Records=6229
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -98,12 +98,6 @@
 10YR MINI JGB FUT Sep12|BJU2|cSGX|10037360649311|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BJU2|//blp/mktdata/buid/cSGX/IX12897193-0|//blp/mktdata/bsid/10037360649311
 10YR MINI JGB FUT Sep12|BJU2|eSGX|2108851020895|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJU2|//blp/mktdata/buid/eSGX/IX12897193-0|//blp/mktdata/bsid/2108851020895
 10YR MINI JGB FUT Sep12|BJU2|eSGX|2108851020895|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJU2|//blp/mktdata/buid/eSGX/IX12897193-0|//blp/mktdata/bsid/2108851020895
-10YR OTR TREASURY Nov11|T0X1|CBT|575548680517|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0X1|//blp/mktdata/buid/CBT/IX13295424-0|//blp/mktdata/bsid/575548680517
-10YR OTR TREASURY Nov11|T0X1|CBT|575548680517|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0X1|//blp/mktdata/buid/CBT/IX13295424-0|//blp/mktdata/bsid/575548680517
-10YR OTR TREASURY Nov11|T0X1|cCBT|9977232091461|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0X1|//blp/mktdata/buid/cCBT/IX13295424-0|//blp/mktdata/bsid/9977232091461
-10YR OTR TREASURY Nov11|T0X1|cCBT|9977232091461|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0X1|//blp/mktdata/buid/cCBT/IX13295424-0|//blp/mktdata/bsid/9977232091461
-10YR OTR TREASURY Nov11|T0X1|eCBT|2113146972485|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/T0X1|//blp/mktdata/buid/eCBT/IX13295424-0|//blp/mktdata/bsid/2113146972485
-10YR OTR TREASURY Nov11|T0X1|eCBT|2113146972485|IX13295424-0|Financial commodity future.|Comdty|BBG001YNDB46||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/T0X1|//blp/mktdata/buid/eCBT/IX13295424-0|//blp/mktdata/bsid/2113146972485
 10YR OTR TREASURY Nov12|T0G2|CBT|575550451930|IX13919053-0|Financial commodity future.|Comdty|BBG0027L9CV1||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0G2|//blp/mktdata/buid/CBT/IX13919053-0|//blp/mktdata/bsid/575550451930
 10YR OTR TREASURY Nov12|T0G2|CBT|575550451930|IX13919053-0|Financial commodity future.|Comdty|BBG0027L9CV1||14001|14001|0||39489|//blp/mktdata/bsym/CBT/T0G2|//blp/mktdata/buid/CBT/IX13919053-0|//blp/mktdata/bsid/575550451930
 10YR OTR TREASURY Nov12|T0G2|cCBT|9977233862874|IX13919053-0|Financial commodity future.|Comdty|BBG0027L9CV1||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/T0G2|//blp/mktdata/buid/cCBT/IX13919053-0|//blp/mktdata/bsid/9977233862874
@@ -3120,6 +3114,7 @@ Euro-BTP Future   Dec11|IKZ1|EUX|279193522495|IX12238877-0|Financial commodity f
 Euro-BTP Future   Jun12|IKM2|EUX|279196702142|IX13533176-0|Financial commodity future.|Comdty|BBG00226B8C6||14066|14111|0||39521|//blp/mktdata/bsym/EUX/IKM2|//blp/mktdata/buid/EUX/IX13533176-0|//blp/mktdata/bsid/279196702142
 Euro-BTP Future   Mar12|IKH2|EUX|279194951741|IX12898649-0|Financial commodity future.|Comdty|BBG001QWSMB7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/IKH2|//blp/mktdata/buid/EUX/IX12898649-0|//blp/mktdata/bsid/279194951741
 EuroYen 1 Yr Md C Dec11|0YZ1|||IX12916307-0|Financial commodity future.|Comdty|BBG001QZCY76||14002|14002|0||39490|||
+EuroYen 1 Yr Md C Feb12|0YG2|||IX13994322-0|Financial commodity future.|Comdty|BBG0027YHWN9||14002|14002|0||39490|||
 EuroYen 1 Yr Md C Jan12|0YF2|||IX13782768-0|Financial commodity future.|Comdty|BBG0025NPGG9||14002|14002|0||39490|||
 EuroYen 1 Yr Md C Mar12|0YH2|||IX13596718-0|Financial commodity future.|Comdty|BBG0022W08L1||14002|14002|0||39490|||
 EuroYen 1 Yr Md C Nov11|0YX1|||IX13358065-0|Financial commodity future.|Comdty|BBG001ZTVGP8||14002|14002|0||39490|||
@@ -4427,6 +4422,7 @@ LME Steel Billet  Nov11|LMEX1|||IX10674163-0|Financial commodity future.|Comdty|
 LME Steel Billet  Nov12|LMEX2|||IX13182009-0|Financial commodity future.|Comdty|BBG001XHGN41||33561|0|0||33562|||
 LME Steel Billet  Oct12|LMEV2|||IX12930013-0|Financial commodity future.|Comdty|BBG001R067X9||33561|0|0||33562|||
 LME Steel Billet  Sep12|LMEU2|||IX12743805-0|Financial commodity future.|Comdty|BBG001PJC497||33561|0|0||33562|||
+LME TAPO PrAL .50 Dec11|HAEZ1|||IX13982558-0|Financial commodity future.|Comdty|BBG0027XYV72||14059|0|0||14197|||
 LONG GILT FUTURE  Dec11|G Z1|LIF|609906382281|IX12433794-0|Financial commodity future.|Comdty|BBG001LV7DP2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/G Z1|//blp/mktdata/buid/LIF/IX12433794-0|//blp/mktdata/bsid/609906382281
 LONG GILT FUTURE  Jun12|G M2|LIF|609909609252|IX13674541-0|Financial commodity future.|Comdty|BBG0024N44L4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/G M2|//blp/mktdata/buid/LIF/IX13674541-0|//blp/mktdata/bsid/609909609252
 LONG GILT FUTURE  Mar12|G H2|LIF|609907730117|IX13045530-0|Financial commodity future.|Comdty|BBG001V718M4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/G H2|//blp/mktdata/buid/LIF/IX13045530-0|//blp/mktdata/bsid/609907730117

@@ -1,5 +1,5 @@
-#Data Generated At: Thu Nov 10 06:32:41 EST 2011
-#Data Records=28498
+#Data Generated At: Fri Nov 11 06:31:51 EST 2011
+#Data Records=28610
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=CAPS & FLOORS
 9 CAP PRM STK 9.0 2.5Y||||IX3404598-0|CAPS & FLOORS|Curncy||||||||||
 AED CAP ATM         1 YR||||IX9024372-0|CAPS & FLOORS|Curncy||||||||||
@@ -196,6 +196,16 @@ AED Cap 3Y SPOT||||IX5024232-0|CAPS & FLOORS|Curncy||||||||||
 AED Cap 4Y SPOT||||IX5024236-0|CAPS & FLOORS|Curncy||||||||||
 AED Cap 5Y SPOT||||IX5024240-0|CAPS & FLOORS|Curncy||||||||||
 AED Cap 7Y SPOT||||IX5024244-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  1Y||||IX13982178-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  2Y||||IX13982182-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  3Y||||IX13982186-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  4Y||||IX13982190-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  5Y||||IX13982194-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  6Y||||IX13982198-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  7Y||||IX13982202-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  8Y||||IX13982206-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol  9Y||||IX13982210-0|CAPS & FLOORS|Curncy||||||||||
+AED Cp/Fl NorVol 10Y||||IX13982174-0|CAPS & FLOORS|Curncy||||||||||
 AUD CAP ATM         5 YR||||IX2754928-0|CAPS & FLOORS|Curncy||||||||||
 AUD CAP ATM        12 YR||||IX12440849-0|CAPS & FLOORS|Curncy||||||||||
 AUD CAP ATM        15 YR||||IX6575332-0|CAPS & FLOORS|Curncy||||||||||
@@ -4591,6 +4601,16 @@ CZK Cap 9Y24Y||||IX3721771-0|CAPS & FLOORS|Curncy||||||||||
 CZK Cap 9Y29Y||||IX3721775-0|CAPS & FLOORS|Curncy||||||||||
 CZK Cap 9Y29Y||||IX3721779-0|CAPS & FLOORS|Curncy||||||||||
 CZK Cap 9Y29Y||||IX3721783-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  1Y||||IX13981798-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  2Y||||IX13981802-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  3Y||||IX13981806-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  4Y||||IX13981810-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  5Y||||IX13981814-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  6Y||||IX13981818-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  7Y||||IX13982038-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  8Y||||IX13982066-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol  9Y||||IX13982070-0|CAPS & FLOORS|Curncy||||||||||
+CZK Cp/Fl NorVol 10Y||||IX13982074-0|CAPS & FLOORS|Curncy||||||||||
 DEM CAP VOL         1 YR||||IX269999-0|CAPS & FLOORS|Curncy||||||||||
 DEM CAP VOL         10YR||||IX270011-0|CAPS & FLOORS|Curncy||||||||||
 DEM CAP VOL         2 YR||||IX270001-0|CAPS & FLOORS|Curncy||||||||||
@@ -13071,6 +13091,16 @@ HUF Cap 9Y24Y||||IX3725227-0|CAPS & FLOORS|Curncy||||||||||
 HUF Cap 9Y29Y||||IX3725231-0|CAPS & FLOORS|Curncy||||||||||
 HUF Cap 9Y29Y||||IX3725235-0|CAPS & FLOORS|Curncy||||||||||
 HUF Cap 9Y29Y||||IX3725239-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  1Y||||IX13981758-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  2Y||||IX13981762-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  3Y||||IX13981766-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  4Y||||IX13981770-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  5Y||||IX13981774-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  6Y||||IX13981778-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  7Y||||IX13981782-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  8Y||||IX13981786-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol  9Y||||IX13981790-0|CAPS & FLOORS|Curncy||||||||||
+HUF Cp/Fl NorVol 10Y||||IX13981794-0|CAPS & FLOORS|Curncy||||||||||
 IDR CAP ATM         1 YR||||IX2755000-0|CAPS & FLOORS|Curncy||||||||||
 IDR CAP ATM         2 YR||||IX2754996-0|CAPS & FLOORS|Curncy||||||||||
 IDR CAP ATM         3 YR||||IX2754992-0|CAPS & FLOORS|Curncy||||||||||
@@ -13403,6 +13433,16 @@ ILS Cap 6Y SPOT||||IX12773647-0|CAPS & FLOORS|Curncy||||||||||
 ILS Cap 7Y SPOT||||IX11592120-0|CAPS & FLOORS|Curncy||||||||||
 ILS Cap 8Y SPOT||||IX12773651-0|CAPS & FLOORS|Curncy||||||||||
 ILS Cap 9Y SPOT||||IX12773655-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  1Y||||IX13979926-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  2Y||||IX13979930-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  3Y||||IX13979934-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  4Y||||IX13979938-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  5Y||||IX13979942-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  6Y||||IX13979946-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  7Y||||IX13979950-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  8Y||||IX13979954-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol  9Y||||IX13979958-0|CAPS & FLOORS|Curncy||||||||||
+ILS Cp/Fl NorVol 10Y||||IX13979962-0|CAPS & FLOORS|Curncy||||||||||
 INR CAP ATM         1 YR||||IX8156931-0|CAPS & FLOORS|Curncy||||||||||
 INR CAP ATM         10YR||||IX8156955-0|CAPS & FLOORS|Curncy||||||||||
 INR CAP ATM         2 YR||||IX8156935-0|CAPS & FLOORS|Curncy||||||||||
@@ -21046,6 +21086,16 @@ PLN Cap 9Y24Y||||IX3723499-0|CAPS & FLOORS|Curncy||||||||||
 PLN Cap 9Y29Y||||IX3723503-0|CAPS & FLOORS|Curncy||||||||||
 PLN Cap 9Y29Y||||IX3723507-0|CAPS & FLOORS|Curncy||||||||||
 PLN Cap 9Y29Y||||IX3723511-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  1Y||||IX13981718-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  2Y||||IX13981722-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  3Y||||IX13981726-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  4Y||||IX13981730-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  5Y||||IX13981734-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  6Y||||IX13981738-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  7Y||||IX13981742-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  8Y||||IX13981746-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol  9Y||||IX13981750-0|CAPS & FLOORS|Curncy||||||||||
+PLN Cp/Fl NorVol 10Y||||IX13981754-0|CAPS & FLOORS|Curncy||||||||||
 PLN FLOOR STRIKE    3X6||||IX691942-0|CAPS & FLOORS|Curncy||||||||||
 PLN FLOOR STRIKE    6X9||||IX691944-0|CAPS & FLOORS|Curncy||||||||||
 PLN FLOOR STRIKE    9X12||||IX691946-0|CAPS & FLOORS|Curncy||||||||||
@@ -21231,6 +21281,16 @@ RUB CP/FLR STK 7.0  9Y||||IX13714692-0|CAPS & FLOORS|Curncy||||||||||
 RUB CP/FLR STK 7.0 10Y||||IX13714696-0|CAPS & FLOORS|Curncy||||||||||
 RUB CP/FLR STK 7.0 15Y||||IX13714700-0|CAPS & FLOORS|Curncy||||||||||
 RUB CP/FLR STK 7.0 20Y||||IX13714704-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  1Y||||IX13982130-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  2Y||||IX13982134-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  3Y||||IX13982138-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  4Y||||IX13982142-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  5Y||||IX13982146-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  6Y||||IX13982150-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  7Y||||IX13982154-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  8Y||||IX13982158-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol  9Y||||IX13982162-0|CAPS & FLOORS|Curncy||||||||||
+RUB Cp/Fl NorVol 10Y||||IX13982166-0|CAPS & FLOORS|Curncy||||||||||
 SAR CAP ATM         1 YR||||IX9031133-0|CAPS & FLOORS|Curncy||||||||||
 SAR CAP ATM         10YR||||IX9031157-0|CAPS & FLOORS|Curncy||||||||||
 SAR CAP ATM         2 YR||||IX9031137-0|CAPS & FLOORS|Curncy||||||||||
@@ -21245,6 +21305,16 @@ SAR Cap 3Y SPOT||||IX5024208-0|CAPS & FLOORS|Curncy||||||||||
 SAR Cap 4Y SPOT||||IX5024212-0|CAPS & FLOORS|Curncy||||||||||
 SAR Cap 5Y SPOT||||IX5024216-0|CAPS & FLOORS|Curncy||||||||||
 SAR Cap 7Y SPOT||||IX5024220-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  1Y||||IX13982214-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  2Y||||IX13982218-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  3Y||||IX13982222-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  4Y||||IX13982226-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  5Y||||IX13982230-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  6Y||||IX13982234-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  7Y||||IX13982238-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  8Y||||IX13982242-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol  9Y||||IX13982246-0|CAPS & FLOORS|Curncy||||||||||
+SAR Cp/Fl NorVol 10Y||||IX13982250-0|CAPS & FLOORS|Curncy||||||||||
 SEK CAP ATM         1 YR||||IX691440-0|CAPS & FLOORS|Curncy||||||||||
 SEK CAP ATM         10YR||||IX691458-0|CAPS & FLOORS|Curncy||||||||||
 SEK CAP ATM         12YR||||IX691460-0|CAPS & FLOORS|Curncy||||||||||
@@ -24070,6 +24140,16 @@ TRY CP/FLR STK 7.0  9Y||||IX13722181-0|CAPS & FLOORS|Curncy||||||||||
 TRY CP/FLR STK 7.0 10Y||||IX13722137-0|CAPS & FLOORS|Curncy||||||||||
 TRY CP/FLR STK 7.0 15Y||||IX13722141-0|CAPS & FLOORS|Curncy||||||||||
 TRY CP/FLR STK 7.0 20Y||||IX13722145-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  1Y||||IX13982090-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  2Y||||IX13982094-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  3Y||||IX13982098-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  4Y||||IX13982102-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  5Y||||IX13982106-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  6Y||||IX13982110-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  7Y||||IX13982114-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  8Y||||IX13982118-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol  9Y||||IX13982122-0|CAPS & FLOORS|Curncy||||||||||
+TRY Cp/Fl NorVol 10Y||||IX13982126-0|CAPS & FLOORS|Curncy||||||||||
 TWD CAP ATM         1 YR||||IX2754888-0|CAPS & FLOORS|Curncy||||||||||
 TWD CAP ATM         2 YR||||IX2754884-0|CAPS & FLOORS|Curncy||||||||||
 TWD CAP ATM         3 YR||||IX2754880-0|CAPS & FLOORS|Curncy||||||||||
@@ -27749,9 +27829,15 @@ ZAR CAP ATM  PRM   2Y||||IX12571629-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAP ATM  PRM   3Y||||IX12571637-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAP ATM  PRM   4Y||||IX12571641-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAP ATM  PRM   5Y||||IX12571653-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CAP ATM  PRM   6Y||||IX13979874-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CAP ATM  PRM   7Y||||IX13979878-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CAP ATM  PRM   8Y||||IX13979882-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CAP ATM  PRM   9Y||||IX13979886-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CAP ATM  PRM  10Y||||IX13979890-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAP STRIKE      3X6||||IX691912-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAP STRIKE      6X9||||IX691910-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAP STRIKE      9X12||||IX691908-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CAPLET/FLOORLET  1X4||||IX13979870-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAPLET/FLOORLET  2X3||||IX9677103-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAPLET/FLOORLET  2X4||||IX9677119-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CAPLET/FLOORLET  3X4||||IX9677107-0|CAPS & FLOORS|Curncy||||||||||
@@ -27778,6 +27864,14 @@ ZAR CP/FL ATM VOL 1Yx4Y||||IX12571121-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CP/FL ATM VOL 7Yx10Y||||IX12571125-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CP/FL ATM VOL 8Yx11Y||||IX12571129-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CP/FL ATM VOL 9Yx12Y||||IX12571133-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 12x15||||IX13979910-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 15x18||||IX13979914-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 18x21||||IX13979918-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 1x4||||IX13979894-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 21x24||||IX13979922-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 3x6||||IX13979898-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 6x9||||IX13979902-0|CAPS & FLOORS|Curncy||||||||||
+ZAR CP/FL ImpV STK 9x12||||IX13979906-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CP/FL STRD PRM   1YR||||IX13677448-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CP/FL STRD PRM   2YR||||IX13677452-0|CAPS & FLOORS|Curncy||||||||||
 ZAR CP/FL STRD PRM   3YR||||IX13677488-0|CAPS & FLOORS|Curncy||||||||||
@@ -28494,6 +28588,24 @@ ZAR Cap 9Y24Y||||IX3726955-0|CAPS & FLOORS|Curncy||||||||||
 ZAR Cap 9Y29Y||||IX3726959-0|CAPS & FLOORS|Curncy||||||||||
 ZAR Cap 9Y29Y||||IX3726963-0|CAPS & FLOORS|Curncy||||||||||
 ZAR Cap 9Y29Y||||IX3726967-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  10Y||||IX13979866-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  1Y||||IX13979830-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  2Y||||IX13979834-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  3Y||||IX13979838-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  4Y||||IX13979842-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  5Y||||IX13979846-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  6Y||||IX13979850-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  7Y||||IX13979854-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  8Y||||IX13979858-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol  9Y||||IX13979862-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 12x15||||IX13979814-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 15x18||||IX13979818-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 18x21||||IX13979822-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 1x4||||IX13979798-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 21x24||||IX13979826-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 3x6||||IX13979802-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 6x9||||IX13979806-0|CAPS & FLOORS|Curncy||||||||||
+ZAR Cp/Fl NorVol 9x12||||IX13979810-0|CAPS & FLOORS|Curncy||||||||||
 ZAR FLOOR ATM       3X6||||IX691918-0|CAPS & FLOORS|Curncy||||||||||
 ZAR FLOOR ATM       6X9||||IX691920-0|CAPS & FLOORS|Curncy||||||||||
 ZAR FLOOR ATM       9X12||||IX691922-0|CAPS & FLOORS|Curncy||||||||||
