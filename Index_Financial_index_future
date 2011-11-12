@@ -1,5 +1,5 @@
-#Data Generated At: Fri Nov 11 06:45:57 EST 2011
-#Data Records=461
+#Data Generated At: Sat Nov 12 06:35:17 EST 2011
+#Data Records=460
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Nov11|AEAX1|LIF|609910012037|IX13831385-0|Financial index future.|Index|BBG00265WD21||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAX1|//blp/mktdata/buid/LIF/IX13831385-0|//blp/mktdata/bsid/609910012037
@@ -131,7 +131,6 @@ FTSE/EPRA Eur Zon Mar12|REIH2|EOP1|7718078409324|IX12977623-0|Financial index fu
 GasOil Sing1Min   Dec11|AMOZ1|||IX13587002-0|Financial index future.|Index|BBG0022T0RP2||30022|30022|0||40087|||
 GasOil Sing1Min   Feb12|AMOG2|||IX13993374-0|Financial index future.|Index|BBG0027YDPX7||30022|30022|0||40087|||
 GasOil Sing1Min   Jan12|AMOF2|||IX13765216-0|Financial index future.|Index|BBG0025F46H0||30022|30022|0||40087|||
-GasOil Sing1Min   Nov11|AMOX1|ICE|1172549641183|IX13416913-0|Financial index future.|Index|BBG0021050T6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/AMOX1|//blp/mktdata/buid/ICE/IX13416913-0|//blp/mktdata/bsid/1172549641183
 Gazprom Stock Fut Dec11|PZAZ1|||IX11684319-0|Financial index future.|Index|BBG001BJVJ70||14134|14134|0||39558|||
 Gazprom Stock Fut Jun12|PZAM2|||IX12943166-0|Financial index future.|Index|BBG001R22J72||14134|14134|0||39558|||
 Gazprom Stock Fut Mar12|PZAH2|||IX12291851-0|Financial index future.|Index|BBG001KQZWL5||14134|14134|0||39558|||
@@ -454,7 +453,7 @@ Winnipeg May Stp  Jul12|VKBN2|eCME|2078788078684|IX13565164-0|Financial index fu
 Winnipeg May Stp  Jun12|VKBM2|eCME|2078788078683|IX13565160-0|Financial index future.|Index|BBG0022J03D0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBM2|//blp/mktdata/buid/eCME/IX13565160-0|//blp/mktdata/bsid/2078788078683
 Winnipeg May Stp  Oct12|VKBV2|eCME|2078788078687|IX13565176-0|Financial index future.|Index|BBG0022JD3R1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBV2|//blp/mktdata/buid/eCME/IX13565176-0|//blp/mktdata/bsid/2078788078687
 Winnipeg May Stp  Sep12|VKBU2|eCME|2078788078686|IX13565172-0|Financial index future.|Index|BBG0022JD3Q2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/VKBU2|//blp/mktdata/buid/eCME/IX13565172-0|//blp/mktdata/bsid/2078788078686
-XGKQ Can Do BasketMar13|XGAH3|SAFE|1705113491279|IX10050235-0|Financial index future.|Index|BBG000Z57KM3||14117|36810|0||39548|//blp/mktdata/bsym/SAFE/XGAH3|//blp/mktdata/buid/SAFE/IX10050235-0|//blp/mktdata/bsid/1705113491279
+XGKQ Can Do BasketMar13|XGAH3|SAFE|1705113491279|IX10050235-0|Financial index future.|Index|BBG000Z57KM3||14117|14117|0||39548|//blp/mktdata/bsym/SAFE/XGAH3|//blp/mktdata/buid/SAFE/IX10050235-0|//blp/mktdata/bsid/1705113491279
 iTraxx Eur 5yr Fu Mar12|FEAH2|EUX|279197126423|IX13674533-0|Financial index future.|Index|BBG0024N44H9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FEAH2|//blp/mktdata/buid/EUX/IX13674533-0|//blp/mktdata/bsid/279197126423
 iTraxx HiV 5yr Fu Mar12|FHAH2|EUX|279197109031|IX13667784-0|Financial index future.|Index|BBG0024L7845||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FHAH2|//blp/mktdata/buid/EUX/IX13667784-0|//blp/mktdata/bsid/279197109031
 iTraxx X 5yr Fut  Mar12|FXAH2|EUX|279197126421|IX13674529-0|Financial index future.|Index|BBG0024N44G0||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FXAH2|//blp/mktdata/buid/EUX/IX13674529-0|//blp/mktdata/bsid/279197126421
