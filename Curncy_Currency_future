@@ -1,4 +1,4 @@
-#Data Generated At: Sat Nov 12 06:21:31 EST 2011
+#Data Generated At: Sun Nov 13 06:12:21 EST 2011
 #Data Records=4527
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Nov11|ADCX1|YLX|8744578121076|IX13843087-0|Currency future.|Curncy|BBG0026ZDV08||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCX1|//blp/mktdata/buid/YLX/IX13843087-0|//blp/mktdata/bsid/8744578121076
@@ -2653,7 +2653,7 @@ GBPINR Futures    Nov11|BURX1|USE|17965867413387|IX11536523-0|Currency future.|C
 GBPINR Futures    Oct12|BURV2|USE|17965872961249|IX13866982-0|Currency future.|Curncy|BBG0027BBXR9||42235|42237|0||42240|//blp/mktdata/bsym/USE/BURV2|//blp/mktdata/buid/USE/IX13866982-0|//blp/mktdata/bsid/17965872961249
 GBPINR Futures    Sep12|BURU2|USE|17965872446973|IX13673289-0|Currency future.|Curncy|BBG0024MYP81||42235|42237|0||42240|//blp/mktdata/bsym/USE/BURU2|//blp/mktdata/buid/USE/IX13673289-0|//blp/mktdata/bsid/17965872446973
 GPB/USD 1M RL VOL Dec11|BPOZ1|eCME|2078788146814|IX13596582-0|Currency future.|Curncy|BBG0022W07Y9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOZ1|//blp/mktdata/buid/eCME/IX13596582-0|//blp/mktdata/bsid/2078788146814
-GPB/USD 1M RL VOL Feb12|BPOG2|||IX13994318-0|Currency future.|Curncy|BBG0027YHWM0||14002|14002|0||39490|||
+GPB/USD 1M RL VOL Feb12|BPOG2|eCME|2078789116057|IX13994318-0|Currency future.|Curncy|BBG0027YHWM0||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOG2|//blp/mktdata/buid/eCME/IX13994318-0|//blp/mktdata/bsid/2078789116057
 GPB/USD 1M RL VOL Jan12|BPOF2|eCME|2078788653352|IX13782812-0|Currency future.|Curncy|BBG0025NPGJ6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BPOF2|//blp/mktdata/buid/eCME/IX13782812-0|//blp/mktdata/bsid/2078788653352
 HUNGARIAN FORINT  Dec11|HEZ1|CME|614197225104|IX10530671-0|Currency future.|Curncy|BBG0011S0762||14002|14002|0||39490|//blp/mktdata/bsym/CME/HEZ1|//blp/mktdata/buid/CME/IX10530671-0|//blp/mktdata/bsid/614197225104
 HUNGARIAN FORINT  Dec11|HEZ1|CME|614197225104|IX10530671-0|Currency future.|Curncy|BBG0011S0762||14002|14002|0||39490|//blp/mktdata/bsym/CME/HEZ1|//blp/mktdata/buid/CME/IX10530671-0|//blp/mktdata/bsid/614197225104
@@ -4060,13 +4060,13 @@ Sterling/Rand Fut Jun12|PRAM2|YLX|8744575536457|IX12930053-0|Currency future.|Cu
 Sterling/Rand Fut Mar12|PRAH2|YLX|8744574141458|IX12292223-0|Currency future.|Curncy|BBG001KQZZ38||34183|34183|0||39685|//blp/mktdata/bsym/YLX/PRAH2|//blp/mktdata/buid/YLX/IX12292223-0|//blp/mktdata/bsid/8744574141458
 Sterling/Rand Fut Sep12|PRAU2|YLX|8744577516470|IX13608605-0|Currency future.|Curncy|BBG002400VZ3||34183|34183|0||39685|//blp/mktdata/bsym/YLX/PRAU2|//blp/mktdata/buid/YLX/IX13608605-0|//blp/mktdata/bsid/8744577516470
 TRM Curncy Future Dec11|TRSZ1|CDE|7679420840229|IX11636636-0|Currency future.|Curncy|BBG001B24JX8||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSZ1|//blp/mktdata/buid/CDE/IX11636636-0|//blp/mktdata/bsid/7679420840229
-TRM Curncy Future Feb12|TRSG2|||IX13977933-0|Currency future.|Curncy|BBG0027WTFN7||34657|39759|39760||39689|||
+TRM Curncy Future Feb12|TRSG2|CDE|7679426439609|IX13977933-0|Currency future.|Curncy|BBG0027WTFN7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSG2|//blp/mktdata/buid/CDE/IX13977933-0|//blp/mktdata/bsid/7679426439609
 TRM Curncy Future Jan12|TRSF2|CDE|7679425967750|IX13766280-0|Currency future.|Curncy|BBG0025F7YG7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSF2|//blp/mktdata/buid/CDE/IX13766280-0|//blp/mktdata/bsid/7679425967750
 TRM Curncy Future Jun12|TRSM2|CDE|7679423597885|IX12899409-0|Currency future.|Curncy|BBG001QWW5L8||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSM2|//blp/mktdata/buid/CDE/IX12899409-0|//blp/mktdata/bsid/7679423597885
 TRM Curncy Future Mar12|TRSH2|CDE|7679422195542|IX12262851-0|Currency future.|Curncy|BBG001KM1BR1||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSH2|//blp/mktdata/buid/CDE/IX12262851-0|//blp/mktdata/bsid/7679422195542
 TRM Curncy Future Sep12|TRSU2|CDE|7679425453519|IX13573981-0|Currency future.|Curncy|BBG0022MJY63||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRSU2|//blp/mktdata/buid/CDE/IX13573981-0|//blp/mktdata/bsid/7679425453519
 TRM Curncy Small  Dec11|TRWZ1|CDE|7679424706831|IX13331196-0|Currency future.|Curncy|BBG001Z10DT6||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWZ1|//blp/mktdata/buid/CDE/IX13331196-0|//blp/mktdata/bsid/7679424706831
-TRM Curncy Small  Feb12|TRWG2|||IX13977937-0|Currency future.|Curncy|BBG0027WTFP5||34657|39759|39760||39689|||
+TRM Curncy Small  Feb12|TRWG2|CDE|7679426439612|IX13977937-0|Currency future.|Curncy|BBG0027WTFP5||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWG2|//blp/mktdata/buid/CDE/IX13977937-0|//blp/mktdata/bsid/7679426439612
 TRM Curncy Small  Jan12|TRWF2|CDE|7679425967751|IX13766284-0|Currency future.|Curncy|BBG0025F7YH6||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWF2|//blp/mktdata/buid/CDE/IX13766284-0|//blp/mktdata/bsid/7679425967751
 TRM Curncy Small  Jun12|TRWM2|CDE|7679424706833|IX13331212-0|Currency future.|Curncy|BBG001Z0DT46||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWM2|//blp/mktdata/buid/CDE/IX13331212-0|//blp/mktdata/bsid/7679424706833
 TRM Curncy Small  Mar12|TRWH2|CDE|7679424706832|IX13331208-0|Currency future.|Curncy|BBG001Z0DRP7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/TRWH2|//blp/mktdata/buid/CDE/IX13331208-0|//blp/mktdata/bsid/7679424706832
@@ -4120,7 +4120,7 @@ UDI FUTURE        Mar14|IUH4|MDX|1743766226587|IX8470191-0|Currency future.|Curn
 UDI FUTURE        Mar15|IUH5|MDX|1743772383501|IX10155069-0|Currency future.|Curncy|BBG000Z9JP05||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUH5|//blp/mktdata/buid/MDX/IX10155069-0|//blp/mktdata/bsid/1743772383501
 UDI FUTURE        Mar16|IUH6|MDX|1743777404100|IX12270108-0|Currency future.|Curncy|BBG001KNSM32||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUH6|//blp/mktdata/buid/MDX/IX12270108-0|//blp/mktdata/bsid/1743777404100
 UDI FUTURE        May12|IUK2|MDX|1743778330062|IX12709586-0|Currency future.|Curncy|BBG001PB4C59||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUK2|//blp/mktdata/buid/MDX/IX12709586-0|//blp/mktdata/bsid/1743778330062
-UDI FUTURE        Nov12|IUX2|||IX13994294-0|Currency future.|Curncy|BBG0027YHWK2||14153|47510|0||39567|||
+UDI FUTURE        Nov12|IUX2|MDX|1743781650612|IX13994294-0|Currency future.|Curncy|BBG0027YHWK2||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUX2|//blp/mktdata/buid/MDX/IX13994294-0|//blp/mktdata/bsid/1743781650612
 UDI FUTURE        Oct12|IUV2|MDX|1743781137007|IX13748598-0|Currency future.|Curncy|BBG00259RV39||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUV2|//blp/mktdata/buid/MDX/IX13748598-0|//blp/mktdata/bsid/1743781137007
 UDI FUTURE        Sep12|IUU2|MDX|1743759146809|IX4901980-0|Currency future.|Curncy|BBG000WJT5R0||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUU2|//blp/mktdata/buid/MDX/IX4901980-0|//blp/mktdata/bsid/1743759146809
 UDI FUTURE        Sep13|IUU3|MDX|1743764132411|IX7605605-0|Currency future.|Curncy|BBG000HRV5F9||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUU3|//blp/mktdata/buid/MDX/IX7605605-0|//blp/mktdata/bsid/1743764132411
