@@ -1,5 +1,5 @@
-#Data Generated At: Mon Nov 14 06:46:38 EST 2011
-#Data Records=6243
+#Data Generated At: Tue Nov 15 06:47:00 EST 2011
+#Data Records=6246
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -2620,6 +2620,7 @@ IDxIPCA FUTURE    May12|WLK2|eBMF|2074473079890|IX5575416-0|Physical index futur
 IDxIPCA FUTURE    May13|WLK3|eBMF|2074477498106|IX7933713-0|Physical index future.|Index|BBG000X8TML2||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK3|//blp/mktdata/buid/eBMF/IX7933713-0|//blp/mktdata/bsid/2074477498106
 IDxIPCA FUTURE    May14|WLK4|eBMF|2074482830811|IX9694271-0|Physical index future.|Index|BBG000YB5760||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK4|//blp/mktdata/buid/eBMF/IX9694271-0|//blp/mktdata/bsid/2074482830811
 IDxIPCA FUTURE    May15|WLK5|eBMF|2074471240554|IX4501406-0|Physical index future.|Index|BBG000WFVR51||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK5|//blp/mktdata/buid/eBMF/IX4501406-0|//blp/mktdata/bsid/2074471240554
+IDxIPCA FUTURE    May16|WLK6|eBMF|2074494181750|IX14015413-0|Physical index future.|Index|BBG00283D7G3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK6|//blp/mktdata/buid/eBMF/IX14015413-0|//blp/mktdata/bsid/2074494181750
 IDxIPCA FUTURE    May17|WLK17|eBMF|2074477243678|IX7825088-0|Physical index future.|Index|BBG000X7M976||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLK17|//blp/mktdata/buid/eBMF/IX7825088-0|//blp/mktdata/bsid/2074477243678
 IDxIPCA FUTURE    Nov11|WLX1|eBMF|2074470648879|IX4243232-0|Physical index future.|Index|BBG000WBC988||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLX1|//blp/mktdata/buid/eBMF/IX4243232-0|//blp/mktdata/bsid/2074470648879
 IDxIPCA FUTURE    Nov12|WLX2|eBMF|2074475389151|IX6652902-0|Physical index future.|Index|BBG000VF95Y3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WLX2|//blp/mktdata/buid/eBMF/IX6652902-0|//blp/mktdata/bsid/2074475389151
@@ -2679,6 +2680,7 @@ IPCA FUTURE       Jul13|WXN3|eBMF|2074476315010|IX7288112-0|Physical index futur
 IPCA FUTURE       May13|WXK3|eBMF|2074477092570|IX7785589-0|Physical index future.|Index|BBG000X6Y305||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXK3|//blp/mktdata/buid/eBMF/IX7785589-0|//blp/mktdata/bsid/2074477092570
 IPCA FUTURE       May14|WXK4|eBMF|2074482306784|IX9594207-0|Physical index future.|Index|BBG000QJSJ16||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXK4|//blp/mktdata/buid/eBMF/IX9594207-0|//blp/mktdata/bsid/2074482306784
 IPCA FUTURE       May15|WXK5|eBMF|2074486320607|IX10539973-0|Physical index future.|Index|BBG0011TF050||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXK5|//blp/mktdata/buid/eBMF/IX10539973-0|//blp/mktdata/bsid/2074486320607
+IPCA FUTURE       May16|WXK6|eBMF|2074494181751|IX14015417-0|Physical index future.|Index|BBG00283D7H2||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXK6|//blp/mktdata/buid/eBMF/IX14015417-0|//blp/mktdata/bsid/2074494181751
 IPCA FUTURE       May17|WXK7|eBMF|2074477218960|IX7820151-0|Physical index future.|Index|BBG000X7KW04||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXK7|//blp/mktdata/buid/eBMF/IX7820151-0|//blp/mktdata/bsid/2074477218960
 IPCA FUTURE       Nov11|WXX1|eBMF|2074470648880|IX4243236-0|Physical index future.|Index|BBG000WBC9S6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXX1|//blp/mktdata/buid/eBMF/IX4243236-0|//blp/mktdata/bsid/2074470648880
 IPCA FUTURE       Nov12|WXX2|eBMF|2074475386050|IX6652966-0|Physical index future.|Index|BBG000VF96T7||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/WXX2|//blp/mktdata/buid/eBMF/IX6652966-0|//blp/mktdata/bsid/2074475386050
@@ -5532,6 +5534,7 @@ SPRING WHEAT IDX  Aug12|SBQ2|eMGE|2095961610674|IX10646475-0|Physical index futu
 SPRING WHEAT IDX  Aug13|SBQ3|eMGE|2095966681407|IX13156018-0|Physical index future.|Index|BBG001WT9QV7||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBQ3|//blp/mktdata/buid/eMGE/IX13156018-0|//blp/mktdata/bsid/2095966681407
 SPRING WHEAT IDX  Dec11|SBZ1|eMGE|2095957915085|IX9764701-0|Physical index future.|Index|BBG000YHRW22||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBZ1|//blp/mktdata/buid/eMGE/IX9764701-0|//blp/mktdata/bsid/2095957915085
 SPRING WHEAT IDX  Dec12|SBZ2|eMGE|2095963051293|IX11456443-0|Physical index future.|Index|BBG0018YY5N0||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBZ2|//blp/mktdata/buid/eMGE/IX11456443-0|//blp/mktdata/bsid/2095963051293
+SPRING WHEAT IDX  Dec13|SBZ3|||IX14015577-0|Physical index future.|Index|BBG00283D9R7||14010|14010|0||39496|||
 SPRING WHEAT IDX  Feb12|SBG2|eMGE|2095959196311|IX10007972-0|Physical index future.|Index|BBG000Z4C4R1||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBG2|//blp/mktdata/buid/eMGE/IX10007972-0|//blp/mktdata/bsid/2095959196311
 SPRING WHEAT IDX  Feb13|SBG3|eMGE|2095963851189|IX11880240-0|Physical index future.|Index|BBG001DFQZL0||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBG3|//blp/mktdata/buid/eMGE/IX11880240-0|//blp/mktdata/bsid/2095963851189
 SPRING WHEAT IDX  Jan12|SBF2|eMGE|2095958412283|IX9905423-0|Physical index future.|Index|BBG000Z1WGH9||14010|14010|0||39496|//blp/mktdata/bsym/eMGE/SBF2|//blp/mktdata/buid/eMGE/IX9905423-0|//blp/mktdata/bsid/2095958412283

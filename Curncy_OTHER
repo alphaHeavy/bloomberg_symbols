@@ -1,5 +1,5 @@
-#Data Generated At: Mon Nov 14 06:33:28 EST 2011
-#Data Records=2540
+#Data Generated At: Tue Nov 15 06:33:42 EST 2011
+#Data Records=2549
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=OTHER
 $/EGP Banknote||||IX9418390-0|OTHER|Curncy||||||||||
 $/EGP Transfer Note||||IX9418386-0|OTHER|Curncy||||||||||
@@ -243,6 +243,7 @@ CNH DF CNY NDF Spread 1M||||IX13202626-0|OTHER|Curncy||||||||||
 CNH DF CNY NDF Spread 1W||||IX13228499-0|OTHER|Curncy||||||||||
 CNH DF CNY NDF Spread 1Y||||IX13202650-0|OTHER|Curncy||||||||||
 CNH DF CNY NDF Spread 2M||||IX13202630-0|OTHER|Curncy||||||||||
+CNH DF CNY NDF Spread 2Y||||IX14013757-0|OTHER|Curncy||||||||||
 CNH DF CNY NDF Spread 3M||||IX13202634-0|OTHER|Curncy||||||||||
 CNH DF CNY NDF Spread 6M||||IX13202638-0|OTHER|Curncy||||||||||
 CNH DF CNY NDF Spread 9M||||IX13202646-0|OTHER|Curncy||||||||||
@@ -1810,6 +1811,14 @@ USD CASH SETTLE     9 MO||||IX329985-0|OTHER|Curncy||||||||||
 USD CASH SETTLE    10 MO||||IX474375-0|OTHER|Curncy||||||||||
 USD CASH SETTLE    11 MO||||IX474377-0|OTHER|Curncy||||||||||
 USD CASH SETTLE    12 MO||||IX329987-0|OTHER|Curncy||||||||||
+USD Comm Paper 1M||||IX14009457-0|OTHER|Curncy||||||||||
+USD Comm Paper 1Y||||IX14009493-0|OTHER|Curncy||||||||||
+USD Comm Paper 2M||||IX14009465-0|OTHER|Curncy||||||||||
+USD Comm Paper 3M||||IX14009469-0|OTHER|Curncy||||||||||
+USD Comm Paper 4M||||IX14009473-0|OTHER|Curncy||||||||||
+USD Comm Paper 5M||||IX14009477-0|OTHER|Curncy||||||||||
+USD Comm Paper 6M||||IX14009481-0|OTHER|Curncy||||||||||
+USD Comm Paper 9M||||IX14009485-0|OTHER|Curncy||||||||||
 USD DISCOUNT RATE||||IX1365362-0|OTHER|Curncy||||||||||
 USD FED FUNDS        O/N||||IX1370747-0|OTHER|Curncy||||||||||
 USD PRIME||||IX1365366-0|OTHER|Curncy||||||||||

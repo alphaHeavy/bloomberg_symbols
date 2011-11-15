@@ -1,5 +1,5 @@
-#Data Generated At: Mon Nov 14 06:33:28 EST 2011
-#Data Records=13078
+#Data Generated At: Tue Nov 15 06:33:43 EST 2011
+#Data Records=13080
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -1656,6 +1656,7 @@ CHF SWAP (VS 3M LIB) 25Y||||IX6049074-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 2M||||IX13427242-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 30Y||||IX6049078-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 3M||||IX6153268-0|SWAP|Curncy||||||||||
+CHF SWAP (VS 3M LIB) 3YR||||IX6049018-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 4M||||IX13427250-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 5M||||IX13427258-0|SWAP|Curncy||||||||||
 CHF SWAP (VS 3M LIB) 7M||||IX13427254-0|SWAP|Curncy||||||||||
@@ -1747,7 +1748,6 @@ CHF SWAP (vs 3M LIB) 1YR||||IX829623-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 3M LIB) 20Y||||IX6049070-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 3M LIB) 21M||||IX829627-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 3M LIB) 2YR||||IX447387-0|SWAP|Curncy||||||||||
-CHF SWAP (vs 3M LIB) 3YR||||IX6049018-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 3M LIB) 40Y||||IX6049082-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 3M LIB) 4YR||||IX6049022-0|SWAP|Curncy||||||||||
 CHF SWAP (vs 3M LIB) 50Y||||IX6049086-0|SWAP|Curncy||||||||||
@@ -8109,6 +8109,7 @@ MYR SWAP QTRLY ONS 12 YR||||IX4037432-0|SWAP|Curncy||||||||||
 MYR SWAP QTRLY ONS 15 YR||||IX4037436-0|SWAP|Curncy||||||||||
 MYR SWAP QTRLY ONS 18 MO||||IX2878781-0|SWAP|Curncy||||||||||
 MYR SWAP QTRLY ONS 20 YR||||IX9183571-0|SWAP|Curncy||||||||||
+MYR SWAP QTRLY ONS 25 YR||||IX14011597-0|SWAP|Curncy||||||||||
 MYR SWAP QTRLY ONS 30 YR||||IX10545082-0|SWAP|Curncy||||||||||
 MYR-USD SWAP        1 MO||||IX321841-0|SWAP|Curncy||||||||||
 MYR-USD SWAP        1 YR||||IX320561-0|SWAP|Curncy||||||||||
@@ -9337,19 +9338,20 @@ SGD SWAP SIBOR      2 YR||||IX354581-0|SWAP|Curncy||||||||||
 SGD SWAP SIBOR      3 YR||||IX354583-0|SWAP|Curncy||||||||||
 SGD SWAP SIBOR      4 YR||||IX354585-0|SWAP|Curncy||||||||||
 SGD SWAP SIBOR      5 YR||||IX354587-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR      6 MO||||IX14014021-0|SWAP|Curncy||||||||||
 SGD SWAP SIBOR      7 YR||||IX354589-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR      9 MO||||IX14014025-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     12 YR||||IX14014029-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     15 YR||||IX14014037-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     18 MO||||IX14014033-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     20 YR||||IX14014081-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     30 YR||||IX14014137-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 18M||||IX12959194-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 1Y||||IX8751184-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 2Y||||IX8751188-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 3M||||IX8751172-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 6M||||IX8751176-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 9M||||IX8751180-0|SWAP|Curncy||||||||||
-SGD SWAP vs LIBOR   1 MO||||IX1364998-0|SWAP|Curncy||||||||||
-SGD SWAP vs LIBOR   1 YR||||IX1365018-0|SWAP|Curncy||||||||||
-SGD SWAP vs LIBOR   2 MO||||IX1365002-0|SWAP|Curncy||||||||||
-SGD SWAP vs LIBOR   3 MO||||IX1365006-0|SWAP|Curncy||||||||||
-SGD SWAP vs LIBOR   6 MO||||IX1365010-0|SWAP|Curncy||||||||||
-SGD SWAP vs LIBOR   9 MO||||IX1365014-0|SWAP|Curncy||||||||||
 SGD-DEM SWAP         O/N||||IX367653-0|SWAP|Curncy||||||||||
 SGD-DEM SWAP         S/N||||IX367657-0|SWAP|Curncy||||||||||
 SGD-DEM SWAP         T/N||||IX367655-0|SWAP|Curncy||||||||||
