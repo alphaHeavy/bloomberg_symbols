@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 15 06:33:43 EST 2011
-#Data Records=13080
+#Data Generated At: Wed Nov 16 06:35:17 EST 2011
+#Data Records=13088
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -251,7 +251,12 @@ AUD SWAP (VS 6M LIB) 7Y||||IX343919-0|SWAP|Curncy||||||||||
 AUD SWAP (VS 6M LIB) 8Y||||IX343923-0|SWAP|Curncy||||||||||
 AUD SWAP (VS 6M LIB) 9Y||||IX343921-0|SWAP|Curncy||||||||||
 AUD SWAP (VS OIS) 10YR||||IX13288237-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 12YR||||IX14023810-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 15YR||||IX14023814-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 20YR||||IX14023818-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 25YR||||IX14023822-0|SWAP|Curncy||||||||||
 AUD SWAP (VS OIS) 2YR||||IX13288205-0|SWAP|Curncy||||||||||
+AUD SWAP (VS OIS) 30YR||||IX14023826-0|SWAP|Curncy||||||||||
 AUD SWAP (VS OIS) 4YR||||IX13288213-0|SWAP|Curncy||||||||||
 AUD SWAP (VS OIS) 5YR||||IX13288217-0|SWAP|Curncy||||||||||
 AUD SWAP (VS OIS) 6YR||||IX13288221-0|SWAP|Curncy||||||||||
@@ -9346,6 +9351,9 @@ SGD SWAP SIBOR     15 YR||||IX14014037-0|SWAP|Curncy||||||||||
 SGD SWAP SIBOR     18 MO||||IX14014033-0|SWAP|Curncy||||||||||
 SGD SWAP SIBOR     20 YR||||IX14014081-0|SWAP|Curncy||||||||||
 SGD SWAP SIBOR     30 YR||||IX14014137-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     6 YR||||IX14023798-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     8 YR||||IX14023802-0|SWAP|Curncy||||||||||
+SGD SWAP SIBOR     9 YR||||IX14023806-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 18M||||IX12959194-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 1Y||||IX8751184-0|SWAP|Curncy||||||||||
 SGD SWAP VS 1M SOR 2Y||||IX8751188-0|SWAP|Curncy||||||||||

@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 15 06:46:45 EST 2011
-#Data Records=17606
+#Data Generated At: Wed Nov 16 06:49:13 EST 2011
+#Data Records=17612
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -122,6 +122,8 @@ Ardour Glbl NA|AGINA Index|DJI|622770574744|EI09AGINA|Equity Index|Index|BBG000M
 Ardour Glbl XL|AGIXL Index|DJI|622770574745|EI09AGIXL|Equity Index|Index|BBG000MKDNY8||14224|||||//blp/mktdata/bsym/DJI/AGIXL Index|//blp/mktdata/buid/DJI/EI09AGIXL|//blp/mktdata/bsid/622770574745
 Ardour Glbl|AGIGL Index|DJI|622770574743|EI09AGIGL|Equity Index|Index|BBG000MKDN14||14224|||||//blp/mktdata/bsym/DJI/AGIGL Index|//blp/mktdata/buid/DJI/EI09AGIGL|//blp/mktdata/bsid/622770574743
 Ardour Solar|SOLRX Index|DJI|622777685303|EI09SOLRX|Equity Index|Index|BBG000V259V1||14224|||||//blp/mktdata/bsym/DJI/SOLRX Index|//blp/mktdata/buid/DJI/EI09SOLRX|//blp/mktdata/bsid/622777685303
+Asia Cyclical|CGASIACY Index|PCER||EI09CGASIACY|Equity Index|Index|BBG00283VRW1||46707|||||//blp/mktdata/bsym/PCER/CGASIACY Index|//blp/mktdata/buid/PCER/EI09CGASIACY|
+Asia Defensive|CGASIADF Index|PCER||EI09CGASIADF|Equity Index|Index|BBG00283W4R7||46707|||||//blp/mktdata/bsym/PCER/CGASIADF Index|//blp/mktdata/buid/PCER/EI09CGASIADF|
 Asia Short Squeeze|CGSQUEEZ Index|PCER||EI09CGSQUEEZ|Equity Index|Index|BBG002708Z29||46707|||||//blp/mktdata/bsym/PCER/CGSQUEEZ Index|//blp/mktdata/buid/PCER/EI09CGSQUEEZ|
 Asia Steel|JPHASSTL Index|JPUS|7116776463988|EI09JPHASSTL|Equity Index|Index|BBG000Y5MPF4|||||33088||//blp/mktdata/bsym/JPUS/JPHASSTL Index|//blp/mktdata/buid/JPUS/EI09JPHASSTL|//blp/mktdata/bsid/7116776463988
 Asia Test|CSTEST50 Index|CSUK|5987198218395|EI09CSTEST50|Equity Index|Index|BBG000YCJK00|||||32404||//blp/mktdata/bsym/CSUK/CSTEST50 Index|//blp/mktdata/buid/CSUK/EI09CSTEST50|//blp/mktdata/bsid/5987198218395
@@ -1251,11 +1253,13 @@ BERMUDA STOCK EXCHANGE|BSX Index|BSX|68724022098|EI09BSX|Equity Index|Index|BBG0
 BH Basket|UBSBEUMA Index|WDRL|2495393842563|EI09UBSBEUMA|Equity Index|Index|BBG0014J9PP9|||||42158||//blp/mktdata/bsym/WDRL/UBSBEUMA Index|//blp/mktdata/buid/WDRL/EI09UBSBEUMA|//blp/mktdata/bsid/2495393842563
 BI AP AirTransSupSvs Com|BIAIRLAC Index|||EI09BIAIRLAC|Equity Index|Index|BBG0027BG7V6||46707|||||||
 BI AP Airlines Princical|BIAIRLAP Index|||EI09BIAIRLAP|Equity Index|Index|BBG001YDN2K9||46707|||||||
+BI AP Analog Comp Index|BIANLGAC Index|||EI09BIANLGAC|Equity Index|Index|BBG00284CV42||46707|||||||
 BI AP Auto Pts - Comp|BIAUTPAP Index|||EI09BIAUTPAP|Equity Index|Index|BBG001930ZX7||46707|||||||
 BI AP Auto/Veh OEM Mg PB|BIAUTOAP Index|||EI09BIAUTOAP|Equity Index|Index|BBG001930ZR4||46707|||||||
 BI AP B&D Chemicals PB|BIBDCHAP Index|||EI09BIBDCHAP|Equity Index|Index|BBG0027BD142||46707|||||||
 BI AP Beverages Comp|BIBEVGAV Index|||EI09BIBEVGAV|Equity Index|Index|BBG001CN6FL0||46707|||||||
 BI AP Cnst&Mine Mach PB|BIASCMV Index|||EI09BIASCMV|Equity Index|Index|BBG00179TKZ6||46707|||||||
+BI AP Comm ICs Index|BICOMSAC Index|||EI09BICOMSAC|Equity Index|Index|BBG00284G4Y5||46707|||||||
 BI AP Comput & Consum Cp|BISMCCAC Index|||EI09BISMCCAC|Equity Index|Index|BBG0027VH3L1||46707|||||||
 BI AP Couriers&Exp DS Cp|BIXPRSAC Index|||EI09BIXPRSAC|Equity Index|Index|BBG0027KRWL0||46707|||||||
 BI AP Dev Steel Prod PB|BRPBADSE Index|||EI09BRPBADSE|Equity Index|Index|BBG0013P5011||46707|||||||
@@ -16703,6 +16707,8 @@ STXE SD 30 EUR Pr|SD3P Index|DJSX|55834923180|EI09SD3P|Equity Index|Index|BBG000
 STXE Sml 200 EUR Pr|SCXP Index|DJSX|55834918276|EI09SCXP|Equity Index|Index|BBG000QHHPF3||14141|||40782|39562|//blp/mktdata/bsym/DJSX/SCXP Index|//blp/mktdata/buid/DJSX/EI09SCXP|//blp/mktdata/bsid/55834918276
 STXE TM Value EUR Pr|STVP Index|DJSX|55834891763|EI09STVP|Equity Index|Index|BBG000MM2RJ4||14141||||39562|//blp/mktdata/bsym/DJSX/STVP Index|//blp/mktdata/buid/DJSX/EI09STVP|//blp/mktdata/bsid/55834891763
 STXE TM Value Lrg EUR Pr|SLVP Index|DJSX|55834891758|EI09SLVP|Equity Index|Index|BBG000MM2NG6||14141|||40782|39562|//blp/mktdata/bsym/DJSX/SLVP Index|//blp/mktdata/buid/DJSX/EI09SLVP|//blp/mktdata/bsid/55834891758
+STXE ex Bks 600 EURP|SXXNBP Index|DJSX|55859142365|EI09SXXNBP|Equity Index|Index|BBG00265LT82||14141||||39562|//blp/mktdata/bsym/DJSX/SXXNBP Index|//blp/mktdata/buid/DJSX/EI09SXXNBP|//blp/mktdata/bsid/55859142365
+STXE ex Fin 600 EURP|SXXNFP Index|DJSX|55859142375|EI09SXXNFP|Equity Index|Index|BBG00265LVG8||14141||||39562|//blp/mktdata/bsym/DJSX/SXXNFP Index|//blp/mktdata/buid/DJSX/EI09SXXNFP|//blp/mktdata/bsid/55859142375
 STXE6OptCon Dis EURP|SCOND Index|DJSX|55849727121|EI09SCOND|Equity Index|Index|BBG000Z48Y54||14141|||40782|39562|//blp/mktdata/bsym/DJSX/SCOND Index|//blp/mktdata/buid/DJSX/EI09SCOND|//blp/mktdata/bsid/55849727121
 STXE6OptConSta EURP|SCOST Index|DJSX|55849727117|EI09SCOST|Equity Index|Index|BBG000Z48X01||14141|||40782|39562|//blp/mktdata/bsym/DJSX/SCOST Index|//blp/mktdata/buid/DJSX/EI09SCOST|//blp/mktdata/bsid/55849727117
 STXE6OptCyc EURP|SCYC Index|DJSX|55849728765|EI09SCYC|Equity Index|Index|BBG000Z48VG8||14141|||40782|39562|//blp/mktdata/bsym/DJSX/SCYC Index|//blp/mktdata/buid/DJSX/EI09SCYC|//blp/mktdata/bsid/55849728765

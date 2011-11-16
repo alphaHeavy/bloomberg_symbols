@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 15 06:47:18 EST 2011
-#Data Records=19
+#Data Generated At: Wed Nov 16 06:49:42 EST 2011
+#Data Records=20
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Spot index.
 1 DAY BANK DEPOSIT INDEX|IDIX3 Index|BMF|77309721618|IX1144811-0|Spot index.|Index|BBG000KB4ZT9||14098|0|0|14098||//blp/mktdata/bsym/BMF/IDIX3 Index|//blp/mktdata/buid/BMF/IX1144811-0|//blp/mktdata/bsid/77309721618
 1 DAY DEPO VOLATLTY INDX|VDIX Index|BMF|77309721618|IX1426400-0|Spot index.|Index|BBG000M57PQ2||14098|0|0|14098||//blp/mktdata/bsym/BMF/VDIX Index|//blp/mktdata/buid/BMF/IX1426400-0|//blp/mktdata/bsid/77309721618
@@ -14,6 +14,7 @@ OMX NRDC PHRM BIO PR|N3520ERP Index|SS|450974568308|IX3601359-0|Spot index.|Inde
 S&P GSCI Enhanced ETN IV|GSCIV Index|NGIB|20310902281173|IX4481824-0|Spot index.|Index|BBG000WFMT84||45404|0|0||45412|//blp/mktdata/bsym/NGIB/GSCIV Index|//blp/mktdata/buid/NGIB/IX4481824-0|//blp/mktdata/bsid/20310902281173
 S&P/CITIC 50 TR|CSSP50R Index|||IX4050273-0|Spot index.|Index|BBG000W5LT96||46707|0|0|||||
 STOXX EUR LARGE 200 50|LCXP50 Index|DJSX|55834918258|IX10682617-0|Spot index.|Index|BBG0012XJ3N0||14141|0|0||39562|//blp/mktdata/bsym/DJSX/LCXP50 Index|//blp/mktdata/buid/DJSX/IX10682617-0|//blp/mktdata/bsid/55834918258
+STX EUEnlrg TM COMP VOLM|EUE2VOLC Index|DJSX||IX14017934-0|Spot index.|Index|||14141|0|0||39562|//blp/mktdata/bsym/DJSX/EUE2VOLC Index|//blp/mktdata/buid/DJSX/IX14017934-0|
 STXE Sml 200 EUR Pr 50|SCXP50 Index|DJSX|55834918276|IX10683785-0|Spot index.|Index|BBG0012XLGL0||14141|0|0||39562|//blp/mktdata/bsym/DJSX/SCXP50 Index|//blp/mktdata/buid/DJSX/IX10683785-0|//blp/mktdata/bsid/55834918276
 TAIWAN COMP STK PR AVG|TWAVGPR Index|TT|751619586891|IX278863-0|Spot index.|Index|BBG000M47BB2||14052|14052|0||39511|//blp/mktdata/bsym/TT/TWAVGPR Index|//blp/mktdata/buid/TT/IX278863-0|//blp/mktdata/bsid/751619586891
 TAIWAN INDU AVG PRICE IX|TWMAVGPR Index|TT|751619586892|IX278865-0|Spot index.|Index|BBG000M47D00||14052|14052|0||39511|//blp/mktdata/bsym/TT/TWMAVGPR Index|//blp/mktdata/buid/TT/IX278865-0|//blp/mktdata/bsid/751619586892
