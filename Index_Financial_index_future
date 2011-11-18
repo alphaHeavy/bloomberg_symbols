@@ -1,5 +1,5 @@
-#Data Generated At: Thu Nov 17 06:48:17 EST 2011
-#Data Records=459
+#Data Generated At: Fri Nov 18 06:50:38 EST 2011
+#Data Records=461
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Nov11|AEAX1|LIF|609910012037|IX13831385-0|Financial index future.|Index|BBG00265WD21||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAX1|//blp/mktdata/buid/LIF/IX13831385-0|//blp/mktdata/bsid/609910012037
@@ -32,6 +32,7 @@ Brent ( BINDEX)   Feb12|BCPG2|ICE|1172551069200|IX14024718-0|Financial index fut
 Brent ( BINDEX)   Jan12|BCPF2|ICE|1172550553897|IX13781712-0|Financial index future.|Index|BBG0025NL5W9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCPF2|//blp/mktdata/buid/ICE/IX13781712-0|//blp/mktdata/bsid/1172550553897
 Brent Cr Aft1Min  Feb12|BCEG2|ICE|1172550553893|IX13781688-0|Financial index future.|Index|BBG0025NL5T3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCEG2|//blp/mktdata/buid/ICE/IX13781688-0|//blp/mktdata/bsid/1172550553893
 Brent Cr Aft1Min  Jan12|BCEF2|ICE|1172550025526|IX13582442-0|Financial index future.|Index|BBG0022QPK58||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCEF2|//blp/mktdata/buid/ICE/IX13582442-0|//blp/mktdata/bsid/1172550025526
+Brent Cr Aft1Min  Mar12|BCEH2|ICE|1172551092181|IX14035148-0|Financial index future.|Index|BBG00287RD03||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCEH2|//blp/mktdata/buid/ICE/IX14035148-0|//blp/mktdata/bsid/1172551092181
 Brent Future BWAV Dec12|BCWZ2|ICE|1172526551067|IX4048584-0|Financial index future.|Index|BBG000W5K1H9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWZ2|//blp/mktdata/buid/ICE/IX4048584-0|//blp/mktdata/bsid/1172526551067
 Brent Future BWAV Dec13|BCWZ3|ICE|1172541293264|IX10030854-0|Financial index future.|Index|BBG000Z4YBP3||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWZ3|//blp/mktdata/buid/ICE/IX10030854-0|//blp/mktdata/bsid/1172541293264
 Brent Future BWAV Dec14|BCWZ4|ICE|1172545101352|IX11465921-0|Financial index future.|Index|BBG001924LV8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWZ4|//blp/mktdata/buid/ICE/IX11465921-0|//blp/mktdata/bsid/1172545101352
@@ -46,7 +47,7 @@ Brent Future BWAV Sep13|BCWU3|ICE|1172549468450|IX13379304-0|Financial index fut
 CAC 1MO VAR       Nov11|CAAX1|LIF|609910012036|IX13831381-0|Financial index future.|Index|BBG00265WD12||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAAX1|//blp/mktdata/buid/LIF/IX13831381-0|//blp/mktdata/bsid/609910012036
 CAC 3MO VAR       Dec11|CAYZ1|LIF|609909399559|IX13594954-0|Financial index future.|Index|BBG0022V96Z3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAYZ1|//blp/mktdata/buid/LIF/IX13594954-0|//blp/mktdata/bsid/609909399559
 CBOE MINI VIX FUT Dec11|MVIZ1|CBF|773118225165|IX13622746-0|Financial index future.|Index|BBG00242FHH4||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIZ1|//blp/mktdata/buid/CBF/IX13622746-0|//blp/mktdata/bsid/773118225165
-CBOE MINI VIX FUT Feb12|MVIG2|||IX14025442-0|Financial index future.|Index|BBG00284WZD1||14204|44383|0||39587|||
+CBOE MINI VIX FUT Feb12|MVIG2|CBF|773119110697|IX14025442-0|Financial index future.|Index|BBG00284WZD1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIG2|//blp/mktdata/buid/CBF/IX14025442-0|//blp/mktdata/bsid/773119110697
 CBOE MINI VIX FUT Jan12|MVIF2|CBF|773118639964|IX13803226-0|Financial index future.|Index|BBG0025XBG27||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIF2|//blp/mktdata/buid/CBF/IX13803226-0|//blp/mktdata/bsid/773118639964
 COLCAP Index Fut  Dec11|CAPZ1|CDE|7679420795778|IX11594528-0|Financial index future.|Index|BBG0019VM6F5||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPZ1|//blp/mktdata/buid/CDE/IX11594528-0|//blp/mktdata/bsid/7679420795778
 COLCAP Index Fut  Jun12|CAPM2|CDE|7679423549678|IX12863076-0|Financial index future.|Index|BBG001QQHKF2||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPM2|//blp/mktdata/buid/CDE/IX12863076-0|//blp/mktdata/bsid/7679423549678
@@ -114,6 +115,7 @@ FTSE 100 1MO VAR  Nov11|FAAX1|LIF|609910012035|IX13831373-0|Financial index futu
 FTSE 100 2MO VAR  Dec11|FABZ1|LIF|609910012033|IX13831337-0|Financial index future.|Index|BBG00265WCM1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FABZ1|//blp/mktdata/buid/LIF/IX13831337-0|//blp/mktdata/bsid/609910012033
 FTSE 100 3MO VAR  Dec11|FACZ1|LIF|609909399558|IX13594946-0|Financial index future.|Index|BBG0022V96V7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FACZ1|//blp/mktdata/buid/LIF/IX13594946-0|//blp/mktdata/bsid/609909399558
 FTSE Nasd Dub Fut Dec11|DUAZ1|DFX|8538414408225|IX11705109-0|Financial index future.|Index|BBG001BS6DS8||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAZ1|//blp/mktdata/buid/DFX/IX11705109-0|//blp/mktdata/bsid/8538414408225
+FTSE Nasd Dub Fut Feb12|DUAG2|||IX14041244-0|Financial index future.|Index|BBG0028B2WK7||27950|27951|0||39620|||
 FTSE Nasd Dub Fut Jan12|DUAF2|DFX|8538419538149|IX13822032-0|Financial index future.|Index|BBG0026256H7||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAF2|//blp/mktdata/buid/DFX/IX13822032-0|//blp/mktdata/bsid/8538419538149
 FTSE Nasd Dub Fut Jun12|DUAM2|DFX|8538417149885|IX12963666-0|Financial index future.|Index|BBG001R5JW87||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAM2|//blp/mktdata/buid/DFX/IX12963666-0|//blp/mktdata/bsid/8538417149885
 FTSE Nasd Dub Fut Mar12|DUAH2|DFX|8538415783777|IX12332457-0|Financial index future.|Index|BBG001KWQ032||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAH2|//blp/mktdata/buid/DFX/IX12332457-0|//blp/mktdata/bsid/8538415783777

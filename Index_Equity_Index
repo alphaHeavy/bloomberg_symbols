@@ -1,5 +1,5 @@
-#Data Generated At: Thu Nov 17 06:48:16 EST 2011
-#Data Records=17615
+#Data Generated At: Fri Nov 18 06:50:38 EST 2011
+#Data Records=17606
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1353,6 +1353,7 @@ BI GL Alc Beverages PB|BRGABVCV Index|||EI09BRGABVCV|Equity Index|Index|BBG000ZC
 BI GL Aluminum Cmptve|BRALUMC Index|||EI09BRALUMC|Equity Index|Index|BBG000Z4J494||46707|||||||
 BI GL Analog Cmptv|BRGANASV Index|||EI09BRGANASV|Equity Index|Index|BBG00128R3J1||46707|||||||
 BI GL Analog PB   s|BIACANSV Index|||EI09BIACANSV|Equity Index|Index|BBG0018S97N7||46707|||||||
+BI GL App Software Comp|BIASFTGC Index|||EI09BIASFTGC|Equity Index|Index|||46707|||||||
 BI GL App Software PB|BIASFTGP Index|||EI09BIASFTGP|Equity Index|Index|BBG00286N8D6||46707|||||||
 BI GL ArFrms EngMkrs PB|BRAIRMVP Index|||EI09BRAIRMVP|Equity Index|Index|BBG00161MKK7||46707|||||||
 BI GL Auto Pts - Comp|BRAUTOL Index|||EI09BRAUTOL|Equity Index|Index|BBG0011TBVL8||46707|||||||
@@ -1551,6 +1552,7 @@ BI GL Tobacco Credit|BBRTOBCR Index|||EI09BBRTOBCR|Equity Index|Index|BBG00162WZ
 BI GL Tobacco Leaf Pr B|BBRTOBLF Index|||EI09BBRTOBLF|Equity Index|Index|BBG00162WZL0||46707|||||||
 BI GL Tobacco PB Index|BBRGLTOB Index|||EI09BBRGLTOB|Equity Index|Index|BBG00162WZJ3||46707|||||||
 BI GL Tobacco Prd Mfg PB|BRTOBMAN Index|||EI09BRTOBMAN|Equity Index|Index|BBG0011G9WN5||46707|||||||
+BI GL Top 25 Software Ix|BITPSOFT Index|||EI09BITPSOFT|Equity Index|Index|||46707|||||||
 BI GL Top20 Anlg Cmptv|BR20ANSV Index|||EI09BR20ANSV|Equity Index|Index|BBG001711YP4||46707|||||||
 BI GL Vent Ast Dev Prin|BIVADMFR Index|||EI09BIVADMFR|Equity Index|Index|BBG001BSV1L3||46707|||||||
 BI GL Vintners PBus|BRGWBVCV Index|||EI09BRGWBVCV|Equity Index|Index|BBG000ZCD3R4||46707|||||||
@@ -2233,6 +2235,7 @@ CGDO YUAN|CGDOYUAN Index|CGDO||EI09CGDOYUAN|Equity Index|Index|BBG000ZFQ106|||||
 CGDOOPTB|CGDOOPTB Index|CGDO||EI09CGDOOPTB|Equity Index|Index|BBG00194JDN5|||||31088||//blp/mktdata/bsym/CGDO/CGDOOPTB Index|//blp/mktdata/buid/CGDO/EI09CGDOOPTB|
 CGDOTIMR|CGDOTIMR Index|CGDO||EI09CGDOTIMR|Equity Index|Index|BBG001KKMGV6||46707|||||//blp/mktdata/bsym/CGDO/CGDOTIMR Index|//blp/mktdata/buid/CGDO/EI09CGDOTIMR|
 CGINDFX1|CGINDFX1 Index|PCER||EI09CGINDFX1|Equity Index|Index|BBG00260Y8J3||46707|||||//blp/mktdata/bsym/PCER/CGINDFX1 Index|//blp/mktdata/buid/PCER/EI09CGINDFX1|
+CGINDFZ1|CGINDFZ1 Index|PCER||EI09CGINDFZ1|Equity Index|Index|BBG00287PQ97||46707|||||//blp/mktdata/bsym/PCER/CGINDFZ1 Index|//blp/mktdata/buid/PCER/EI09CGINDFZ1|
 CHILE  STOCK MKT SELECT|IPSA Index|CC|339302723965|EI09IPSA|Equity Index|Index|BBG000LKXL53||14102|||||//blp/mktdata/bsym/CC/IPSA Index|//blp/mktdata/buid/CC/EI09IPSA|//blp/mktdata/bsid/339302723965
 CHILE 65 INDEX|CHILE65 Index|CE|923418353208|EI09CHILE65|Equity Index|Index|BBG000V1RRP6||14103||||39540|//blp/mktdata/bsym/CE/CHILE65 Index|//blp/mktdata/buid/CE/EI09CHILE65|//blp/mktdata/bsid/923418353208
 CHILE INTER-10 INDEX|INTER10 Index|CC|339302745598|EI09INTER10|Equity Index|Index|BBG000NH19S5||14102|||||//blp/mktdata/bsym/CC/INTER10 Index|//blp/mktdata/buid/CC/EI09INTER10|//blp/mktdata/bsid/339302745598
@@ -2500,11 +2503,13 @@ CSERAIRL|CSERAIRL Index|CSUK|5987202253182|EI09CSERAIRL|Equity Index|Index|BBG00
 CSERBNK1|CSERBNK1 Index|CSUK|5987200761008|EI09CSERBNK1|Equity Index|Index|BBG000ZN75V7|||||31523||//blp/mktdata/bsym/CSUK/CSERBNK1 Index|//blp/mktdata/buid/CSUK/EI09CSERBNK1|//blp/mktdata/bsid/5987200761008
 CSERCONV|CSERCONV Index|CSUK|5987198969042|EI09CSERCONV|Equity Index|Index|BBG000Z321T8|||||31523||//blp/mktdata/bsym/CSUK/CSERCONV Index|//blp/mktdata/buid/CSUK/EI09CSERCONV|//blp/mktdata/bsid/5987198969042
 CSERCOPP|CSERCOPP Index|CSUK|5987202842232|EI09CSERCOPP|Equity Index|Index|BBG0016RQ3V2|||||31523||//blp/mktdata/bsym/CSUK/CSERCOPP Index|//blp/mktdata/buid/CSUK/EI09CSERCOPP|//blp/mktdata/bsid/5987202842232
+CSERCQSD|CSERCQSD Index|CSUK|5987209432031|EI09CSERCQSD|Equity Index|Index|BBG00289N0X5|||||31523||//blp/mktdata/bsym/CSUK/CSERCQSD Index|//blp/mktdata/buid/CSUK/EI09CSERCQSD|//blp/mktdata/bsid/5987209432031
 CSERCYEU|CSERCYEU Index|CSUK|5987209315034|EI09CSERCYEU|Equity Index|Index|BBG0027W1V61|||||31523||//blp/mktdata/bsym/CSUK/CSERCYEU Index|//blp/mktdata/buid/CSUK/EI09CSERCYEU|//blp/mktdata/bsid/5987209315034
 CSERCYUS|CSERCYUS Index|CSUK|5987209315028|EI09CSERCYUS|Equity Index|Index|BBG0027W1V70|||||31523||//blp/mktdata/bsym/CSUK/CSERCYUS Index|//blp/mktdata/buid/CSUK/EI09CSERCYUS|//blp/mktdata/bsid/5987209315028
 CSERDAXA|CSERDAXA Index|CSUK|5987207775622|EI09CSERDAXA|Equity Index|Index|BBG001ZZJCD0|||||31523||//blp/mktdata/bsym/CSUK/CSERDAXA Index|//blp/mktdata/buid/CSUK/EI09CSERDAXA|//blp/mktdata/bsid/5987207775622
 CSERDAXD|CSERDAXD Index|CSUK|5987207775784|EI09CSERDAXD|Equity Index|Index|BBG001ZZM453|||||31523||//blp/mktdata/bsym/CSUK/CSERDAXD Index|//blp/mktdata/buid/CSUK/EI09CSERDAXD|//blp/mktdata/bsid/5987207775784
 CSERE031|CSERE031 Index|CSUK|5987209114770|EI09CSERE031|Equity Index|Index|BBG00271KF54|||||31523||//blp/mktdata/bsym/CSUK/CSERE031 Index|//blp/mktdata/buid/CSUK/EI09CSERE031|//blp/mktdata/bsid/5987209114770
+CSERE033|CSERE033 Index|CSUK||EI09CSERE033|Equity Index|Index|BBG00289DJH3|||||31523||//blp/mktdata/bsym/CSUK/CSERE033 Index|//blp/mktdata/buid/CSUK/EI09CSERE033|
 CSERE038|CSERE038 Index|CSUK|5987208864734|EI09CSERE038|Equity Index|Index|BBG0025K1Y63|||||31523||//blp/mktdata/bsym/CSUK/CSERE038 Index|//blp/mktdata/buid/CSUK/EI09CSERE038|//blp/mktdata/bsid/5987208864734
 CSERE039|CSERE039 Index|CSUK|5987208887060|EI09CSERE039|Equity Index|Index|BBG0025NC381|||||35807||//blp/mktdata/bsym/CSUK/CSERE039 Index|//blp/mktdata/buid/CSUK/EI09CSERE039|//blp/mktdata/bsid/5987208887060
 CSEREDOM|CSEREDOM Index|CSUK|5987208186113|EI09CSEREDOM|Equity Index|Index|BBG0021SVWG0|||||31523||//blp/mktdata/bsym/CSUK/CSEREDOM Index|//blp/mktdata/buid/CSUK/EI09CSEREDOM|//blp/mktdata/bsid/5987208186113
@@ -2567,6 +2572,7 @@ CSGLDV10|CSGLDV10 Index|CSUK|5987208845512|EI09CSGLDV10|Equity Index|Index|BBG00
 CSGLDV50|CSGLDV50 Index|CSUK|5987208846209|EI09CSGLDV50|Equity Index|Index|BBG0025DYNJ3|||||31352||//blp/mktdata/bsym/CSUK/CSGLDV50 Index|//blp/mktdata/buid/CSUK/EI09CSGLDV50|//blp/mktdata/bsid/5987208846209
 CSGLELEV|CSGLELEV Index|CSUK|5987197350057|EI09CSGLELEV|Equity Index|Index|BBG000MQSR52|||||31352||//blp/mktdata/bsym/CSUK/CSGLELEV Index|//blp/mktdata/buid/CSUK/EI09CSGLELEV|//blp/mktdata/bsid/5987197350057
 CSGLIN30|CSGLIN30 Index|CSUK|5987208767727|EI09CSGLIN30|Equity Index|Index|BBG00252WWY2|||||31352||//blp/mktdata/bsym/CSUK/CSGLIN30 Index|//blp/mktdata/buid/CSUK/EI09CSGLIN30|//blp/mktdata/bsid/5987208767727
+CSGLIOIL|CSGLIOIL Index|CSUK|5987209432435|EI09CSGLIOIL|Equity Index|Index|BBG00289P4Y4|||||31352||//blp/mktdata/bsym/CSUK/CSGLIOIL Index|//blp/mktdata/buid/CSUK/EI09CSGLIOIL|//blp/mktdata/bsid/5987209432435
 CSGLPP30|CSGLPP30 Index|CSUK|5987208767735|EI09CSGLPP30|Equity Index|Index|BBG00252WWZ1|||||31352||//blp/mktdata/bsym/CSUK/CSGLPP30 Index|//blp/mktdata/buid/CSUK/EI09CSGLPP30|//blp/mktdata/bsid/5987208767735
 CSGLSTAP|CSGLSTAP Index|CSUK|5987198887381|EI09CSGLSTAP|Equity Index|Index|BBG000Z2NX99|||||31352||//blp/mktdata/bsym/CSUK/CSGLSTAP Index|//blp/mktdata/buid/CSUK/EI09CSGLSTAP|//blp/mktdata/bsid/5987198887381
 CSGLSXNP|CSGLSXNP Index|CSUK|5987208767001|EI09CSGLSXNP|Equity Index|Index|BBG00252RTH4|||||31352||//blp/mktdata/bsym/CSUK/CSGLSXNP Index|//blp/mktdata/buid/CSUK/EI09CSGLSXNP|//blp/mktdata/bsid/5987208767001
@@ -2588,7 +2594,7 @@ CSI 800 Index|SH000906 Index|CG|584116014429|EI09SH000906|Equity Index|Index|BBG
 CSI 800 Index|SZ399906 Index|CS|966368105671|EI09SZ399906|Equity Index|Index|BBG000W47BG6||39323||||39752|//blp/mktdata/bsym/CS/SZ399906 Index|//blp/mktdata/buid/CS/EI09SZ399906|//blp/mktdata/bsid/966368105671
 CSI HK Private Owned ME|CSIPOE Index|||EI09CSIPOE|Equity Index|Index|BBG0019KB2R7||46707|||||||
 CSI HK State Owned ME|CSISOE Index|HK||EI09CSISOE|Equity Index|Index|BBG0019KFB48||14112|14112|||39544|//blp/mktdata/bsym/HK/CSISOE Index|//blp/mktdata/buid/HK/EI09CSISOE|
-CSI Midcap 200 Index|SH000904 Index|CG|584116014426|EI09SH000904|Equity Index|Index|BBG000W40RB3||39323||||39752|//blp/mktdata/bsym/CG/SH000904 Index|//blp/mktdata/buid/CG/EI09SH000904|//blp/mktdata/bsid/584116014426
+CSI Midcap 200 Index|SH000904 Index|CG|584116014426|EI09SH000904|Equity Index|Index|BBG000W40RB3||39323|||41210|39752|//blp/mktdata/bsym/CG/SH000904 Index|//blp/mktdata/buid/CG/EI09SH000904|//blp/mktdata/bsid/584116014426
 CSI Midcap 200 Index|SZ399904 Index|CS|966368105370|EI09SZ399904|Equity Index|Index|BBG000W478R1||39323||||39752|//blp/mktdata/bsym/CS/SZ399904 Index|//blp/mktdata/buid/CS/EI09SZ399904|//blp/mktdata/bsid/966368105370
 CSI Small & Midcap 700|SH000907 Index|CG|584116014428|EI09SH000907|Equity Index|Index|BBG000W40RN0||39323||||39752|//blp/mktdata/bsym/CG/SH000907 Index|//blp/mktdata/buid/CG/EI09SH000907|//blp/mktdata/bsid/584116014428
 CSI Small & Midcap700|SZ399907 Index|CS|966368105643|EI09SZ399907|Equity Index|Index|BBG000W47B94||39323||||39752|//blp/mktdata/bsym/CS/SZ399907 Index|//blp/mktdata/buid/CS/EI09SZ399907|//blp/mktdata/bsid/966368105643
@@ -5624,26 +5630,6 @@ Global Cyc|DBCTBHGC Index|DBAB|4681532072022|EI09DBCTBHGC|Equity Index|Index|BBG
 Global Demographics|HTGDEMUS Index|CSUK|5987201927614|EI09HTGDEMUS|Equity Index|Index|BBG0012JQRS5|||||30908||//blp/mktdata/bsym/CSUK/HTGDEMUS Index|//blp/mktdata/buid/CSUK/EI09HTGDEMUS|//blp/mktdata/bsid/5987201927614
 Global Event Index|MSGLBEVT Index|MSXP|5201224617468|EI09MSGLBEVT|Equity Index|Index|BBG0019PVMR0|||||27305||//blp/mktdata/bsym/MSXP/MSGLBEVT Index|//blp/mktdata/buid/MSXP/EI09MSGLBEVT|//blp/mktdata/bsid/5201224617468
 Global Luxury|CGDOGLUX Index|CGDO||EI09CGDOGLUX|Equity Index|Index|BBG001VJ7D69|||||31088||//blp/mktdata/bsym/CGDO/CGDOGLUX Index|//blp/mktdata/buid/CGDO/EI09CGDOGLUX|
-Global Thematic baskets|SGGLTH01 Index|SGSP|19082564495528|EI09SGGLTH01|Equity Index|Index|BBG0027GD8P3||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH01 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH01|//blp/mktdata/bsid/19082564495528
-Global Thematic baskets|SGGLTH02 Index|SGSP|19082564503668|EI09SGGLTH02|Equity Index|Index|BBG0027GZZC3||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH02 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH02|//blp/mktdata/bsid/19082564503668
-Global Thematic baskets|SGGLTH03 Index|SGSP|19082564503648|EI09SGGLTH03|Equity Index|Index|BBG0027GZZF0||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH03 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH03|//blp/mktdata/bsid/19082564503648
-Global Thematic baskets|SGGLTH04 Index|SGSP|19082564503650|EI09SGGLTH04|Equity Index|Index|BBG0027GZZH8||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH04 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH04|//blp/mktdata/bsid/19082564503650
-Global Thematic baskets|SGGLTH05 Index|SGSP|19082564503680|EI09SGGLTH05|Equity Index|Index|BBG0027GZZK4||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH05 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH05|//blp/mktdata/bsid/19082564503680
-Global Thematic baskets|SGGLTH06 Index|SGSP|19082564503672|EI09SGGLTH06|Equity Index|Index|BBG0027GZZM2||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH06 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH06|//blp/mktdata/bsid/19082564503672
-Global Thematic baskets|SGGLTH07 Index|SGSP|19082564503658|EI09SGGLTH07|Equity Index|Index|BBG0027GZZP9||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH07 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH07|//blp/mktdata/bsid/19082564503658
-Global Thematic baskets|SGGLTH08 Index|SGSP|19082564503652|EI09SGGLTH08|Equity Index|Index|BBG0027GZZR7||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH08 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH08|//blp/mktdata/bsid/19082564503652
-Global Thematic baskets|SGGLTH09 Index|SGSP|19082564503684|EI09SGGLTH09|Equity Index|Index|BBG0027GZZT5||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH09 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH09|//blp/mktdata/bsid/19082564503684
-Global Thematic baskets|SGGLTH10 Index|SGSP|19082564503675|EI09SGGLTH10|Equity Index|Index|BBG0027GZZW1||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH10 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH10|//blp/mktdata/bsid/19082564503675
-Global Thematic baskets|SGGLTH11 Index|SGSP|19082564503654|EI09SGGLTH11|Equity Index|Index|BBG0027GZZY9||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH11 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH11|//blp/mktdata/bsid/19082564503654
-Global Thematic baskets|SGGLTH12 Index|SGSP|19082564503655|EI09SGGLTH12|Equity Index|Index|BBG0027H0009||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH12 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH12|//blp/mktdata/bsid/19082564503655
-Global Thematic baskets|SGGLTH13 Index|SGSP|19082564503683|EI09SGGLTH13|Equity Index|Index|BBG0027H0027||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH13 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH13|//blp/mktdata/bsid/19082564503683
-Global Thematic baskets|SGGLTH14 Index|SGSP|19082564503676|EI09SGGLTH14|Equity Index|Index|BBG0027H0045||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH14 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH14|//blp/mktdata/bsid/19082564503676
-Global Thematic baskets|SGGLTH15 Index|SGSP|19082564503663|EI09SGGLTH15|Equity Index|Index|BBG0027H0063||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH15 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH15|//blp/mktdata/bsid/19082564503663
-Global Thematic baskets|SGGLTH16 Index|SGSP|19082564503657|EI09SGGLTH16|Equity Index|Index|BBG0027H0081||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH16 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH16|//blp/mktdata/bsid/19082564503657
-Global Thematic baskets|SGGLTH17 Index|SGSP|19082564503685|EI09SGGLTH17|Equity Index|Index|BBG0027H00B7||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH17 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH17|//blp/mktdata/bsid/19082564503685
-Global Thematic baskets|SGGLTH18 Index|SGSP|19082564503678|EI09SGGLTH18|Equity Index|Index|BBG0027H00D5||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH18 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH18|//blp/mktdata/bsid/19082564503678
-Global Thematic baskets|SGGLTH19 Index|SGSP|19082564503659|EI09SGGLTH19|Equity Index|Index|BBG0027H00G2||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH19 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH19|//blp/mktdata/bsid/19082564503659
-Global Thematic baskets|SGGLTH20 Index|SGSP|19082564503661|EI09SGGLTH20|Equity Index|Index|BBG0027H00J9||46707|||||//blp/mktdata/bsym/SGSP/SGGLTH20 Index|//blp/mktdata/buid/SGSP/EI09SGGLTH20|//blp/mktdata/bsid/19082564503661
 Great Britain|CGDOEZGB Index|CGDO||EI09CGDOEZGB|Equity Index|Index|BBG001CJ9KY1|||||31088||//blp/mktdata/bsym/CGDO/CGDOEZGB Index|//blp/mktdata/buid/CGDO/EI09CGDOEZGB|
 Greece|CGDOEZGR Index|CGDO||EI09CGDOEZGR|Equity Index|Index|BBG001CJ9L06|||||31088||//blp/mktdata/bsym/CGDO/CGDOEZGR Index|//blp/mktdata/buid/CGDO/EI09CGDOEZGR|
 Greek Banks Ex Alpha|GSECGKB1 Index|GOLD|3384448031278|EI09GSECGKB1|Equity Index|Index|BBG000YCJDY9||46707|||||//blp/mktdata/bsym/GOLD/GSECGKB1 Index|//blp/mktdata/buid/GOLD/EI09GSECGKB1|//blp/mktdata/bsid/3384448031278
@@ -11676,8 +11662,13 @@ NMRAXTPD|NMRAXTPD Index|NMDP|1447420088334|EI09NMRAXTPD|Equity Index|Index|BBG00
 NMRAXTPS|NMRAXTPS Index|NMDP|1447416037907|EI09NMRAXTPS|Equity Index|Index|BBG000W29FC3|||||37029||//blp/mktdata/bsym/NMDP/NMRAXTPS Index|//blp/mktdata/buid/NMDP/EI09NMRAXTPS|//blp/mktdata/bsid/1447416037907
 NORD/LB PRICE INDEX|NISAX20 Index|GT|1554778496188|EI09NISAX20|Equity Index|Index|BBG000P65MD0||28465|||40783|39624|//blp/mktdata/bsym/GT/NISAX20 Index|//blp/mktdata/buid/GT/EI09NISAX20|//blp/mktdata/bsid/1554778496188
 NSE CNX 100 INDEX|CNX100 Index|IS|1039382440020|EI09CNX100|Equity Index|Index|BBG000S9PF53||14125|||||//blp/mktdata/bsym/IS/CNX100 Index|//blp/mktdata/buid/IS/EI09CNX100|//blp/mktdata/bsid/1039382440020
+NSE CNX 200 INDEX|CNX200 Index|IS|1039407099477|EI09CNX200|Equity Index|Index|BBG00247QPK9||14125|||||//blp/mktdata/bsym/IS/CNX200 Index|//blp/mktdata/buid/IS/EI09CNX200|//blp/mktdata/bsid/1039407099477
+NSE CNX AUTO INDEX|CNXAUTO Index|IS|1039407099476|EI09CNXAUTO|Equity Index|Index|BBG00247NZZ4||14125|||||//blp/mktdata/bsym/IS/CNXAUTO Index|//blp/mktdata/buid/IS/EI09CNXAUTO|//blp/mktdata/bsid/1039407099476
 NSE CNX IT NIFTY INDEX|CNXIT Index|IS|1039382440022|EI09CNXIT|Equity Index|Index|BBG000S9PGV2||14125|||||//blp/mktdata/bsym/IS/CNXIT Index|//blp/mktdata/buid/IS/EI09CNXIT|//blp/mktdata/bsid/1039382440022
+NSE CNX MEDIA INDX|CNXMED Index|IS|1039407096780|EI09CNXMED|Equity Index|Index|BBG00247SD06||14125|||||//blp/mktdata/bsym/IS/CNXMED Index|//blp/mktdata/buid/IS/EI09CNXMED|//blp/mktdata/bsid/1039407096780
+NSE CNX METAL INDX|CNXMET Index|IS|1039407097094|EI09CNXMET|Equity Index|Index|BBG00247T1F5||14125|||||//blp/mktdata/bsym/IS/CNXMET Index|//blp/mktdata/buid/IS/EI09CNXMET|//blp/mktdata/bsid/1039407097094
 NSE CNX MIDCAP INDEX|CNXMCAP Index|IS|1039382440021|EI09CNXMCAP|Equity Index|Index|BBG000S9PFK6||14125|||||//blp/mktdata/bsym/IS/CNXMCAP Index|//blp/mktdata/buid/IS/EI09CNXMCAP|//blp/mktdata/bsid/1039382440021
+NSE CNX SMALLCAP INDX|CNXSMCP Index|IS|1039407097091|EI09CNXSMCP|Equity Index|Index|BBG00247TLM3||14125|||||//blp/mktdata/bsym/IS/CNXSMCP Index|//blp/mktdata/buid/IS/EI09CNXSMCP|//blp/mktdata/bsid/1039407097091
 NSE NIFTY MIDCAP 50 INDX|NIFTYM50 Index|IS|1039384770677|EI09NIFTYM50|Equity Index|Index|BBG000WK7YD3||14125|||||//blp/mktdata/bsym/IS/NIFTYM50 Index|//blp/mktdata/buid/IS/EI09NIFTYM50|//blp/mktdata/bsid/1039384770677
 NSE S&P CNX 500 EQTY IDX|CNX500 Index|IS|1039382428191|EI09CNX500|Equity Index|Index|BBG000Q8VB68||14125|||||//blp/mktdata/bsym/IS/CNX500 Index|//blp/mktdata/buid/IS/EI09CNX500|//blp/mktdata/bsid/1039382428191
 NSE S&P CNX DEFTY INDEX|DEFTY Index|IS|1039382428190|EI09DEFTY|Equity Index|Index|BBG000Q8V972||14125|||||//blp/mktdata/bsym/IS/DEFTY Index|//blp/mktdata/buid/IS/EI09DEFTY|//blp/mktdata/bsid/1039382428190
