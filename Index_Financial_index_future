@@ -1,7 +1,8 @@
-#Data Generated At: Fri Nov 18 06:50:38 EST 2011
-#Data Records=461
+#Data Generated At: Sat Nov 19 06:34:23 EST 2011
+#Data Records=478
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
+AEX 1MO VAR       Dec11|AEAZ1|||IX14052437-0|Financial index future.|Index|BBG0028DRRR0||27267|27268|0||40559|||
 AEX 1MO VAR       Nov11|AEAX1|LIF|609910012037|IX13831385-0|Financial index future.|Index|BBG00265WD21||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAX1|//blp/mktdata/buid/LIF/IX13831385-0|//blp/mktdata/bsid/609910012037
 AEX 2MO VAR       Dec11|AEBZ1|LIF|609910012034|IX13831341-0|Financial index future.|Index|BBG00265WCN0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEBZ1|//blp/mktdata/buid/LIF/IX13831341-0|//blp/mktdata/bsid/609910012034
 AEX 3MO VAR       Dec11|AECZ1|LIF|609909399560|IX13594958-0|Financial index future.|Index|BBG0022V9709||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AECZ1|//blp/mktdata/buid/LIF/IX13594958-0|//blp/mktdata/bsid/609909399560
@@ -44,6 +45,7 @@ Brent Future BWAV Mar12|BCWH2|ICE|1172526551058|IX10052115-0|Financial index fut
 Brent Future BWAV Mar13|BCWH3|ICE|1172546302801|IX12058308-0|Financial index future.|Index|BBG001J1B8M0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWH3|//blp/mktdata/buid/ICE/IX12058308-0|//blp/mktdata/bsid/1172546302801
 Brent Future BWAV Sep12|BCWU2|ICE|1172526551064|IX10865914-0|Financial index future.|Index|BBG0014SQVK2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWU2|//blp/mktdata/buid/ICE/IX10865914-0|//blp/mktdata/bsid/1172526551064
 Brent Future BWAV Sep13|BCWU3|ICE|1172549468450|IX13379304-0|Financial index future.|Index|BBG00203F0L8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/BCWU3|//blp/mktdata/buid/ICE/IX13379304-0|//blp/mktdata/bsid/1172549468450
+CAC 1MO VAR       Dec11|CAAZ1|||IX14052441-0|Financial index future.|Index|BBG0028DRRT8||27267|27268|0||40559|||
 CAC 1MO VAR       Nov11|CAAX1|LIF|609910012036|IX13831381-0|Financial index future.|Index|BBG00265WD12||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAAX1|//blp/mktdata/buid/LIF/IX13831381-0|//blp/mktdata/bsid/609910012036
 CAC 3MO VAR       Dec11|CAYZ1|LIF|609909399559|IX13594954-0|Financial index future.|Index|BBG0022V96Z3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/CAYZ1|//blp/mktdata/buid/LIF/IX13594954-0|//blp/mktdata/bsid/609909399559
 CBOE MINI VIX FUT Dec11|MVIZ1|CBF|773118225165|IX13622746-0|Financial index future.|Index|BBG00242FHH4||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIZ1|//blp/mktdata/buid/CBF/IX13622746-0|//blp/mktdata/bsid/773118225165
@@ -96,6 +98,7 @@ Euro Inflation    Feb13|HICG3|EUX|279195052656|IX12977923-0|Financial index futu
 Euro Inflation    Jan12|HICF2|EUX|279189523036|IX10434622-0|Financial index future.|Index|BBG0010R6NJ0||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICF2|//blp/mktdata/buid/EUX/IX10434622-0|//blp/mktdata/bsid/279189523036
 Euro Inflation    Jan13|HICF3|EUX|279194670054|IX12777683-0|Financial index future.|Index|BBG001PR48R9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICF3|//blp/mktdata/buid/EUX/IX12777683-0|//blp/mktdata/bsid/279194670054
 Euro Inflation    Jul12|HICN2|EUX|279191919358|IX11473934-0|Financial index future.|Index|BBG00193BTH7||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICN2|//blp/mktdata/buid/EUX/IX11473934-0|//blp/mktdata/bsid/279191919358
+Euro Inflation    Jul13|HICN3|||IX14052453-0|Financial index future.|Index|BBG0028DRRX3||14066|14111|0||39521|||
 Euro Inflation    Jun12|HICM2|EUX|279191518604|IX11300721-0|Financial index future.|Index|BBG0017FY1D2||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICM2|//blp/mktdata/buid/EUX/IX11300721-0|//blp/mktdata/bsid/279191518604
 Euro Inflation    Jun13|HICM3|EUX|279197451707|IX13831437-0|Financial index future.|Index|BBG00265WDJ3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICM3|//blp/mktdata/buid/EUX/IX13831437-0|//blp/mktdata/bsid/279197451707
 Euro Inflation    Mar12|HICH2|EUX|279190463334|IX10666941-0|Financial index future.|Index|BBG0012Q2ZY0||14066|14111|0||39521|//blp/mktdata/bsym/EUX/HICH2|//blp/mktdata/buid/EUX/IX10666941-0|//blp/mktdata/bsid/279190463334
@@ -111,6 +114,7 @@ FGC UES Futs      Jun12|FEEM2|||IX13572997-0|Financial index future.|Index|BBG00
 FGC UES Futs      Mar12|FEEH2|||IX12943138-0|Financial index future.|Index|BBG001R22HW8||14134|14134|0||39558|||
 FRA on IGPM FutureJan12|FISF2|eBMF|2074476320321|IX7289012-0|Financial index future.|Index|BBG000X114V6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/FISF2|//blp/mktdata/buid/eBMF/IX7289012-0|//blp/mktdata/bsid/2074476320321
 FRA on IPCA FutureJan12|FCSF2|eBMF|2074476320318|IX7288904-0|Financial index future.|Index|BBG000X112M0||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/FCSF2|//blp/mktdata/buid/eBMF/IX7288904-0|//blp/mktdata/bsid/2074476320318
+FTSE 100 1MO VAR  Dec11|FAAZ1|||IX14052433-0|Financial index future.|Index|BBG0028DRRQ1||27267|27268|0||40559|||
 FTSE 100 1MO VAR  Nov11|FAAX1|LIF|609910012035|IX13831373-0|Financial index future.|Index|BBG00265WCZ7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FAAX1|//blp/mktdata/buid/LIF/IX13831373-0|//blp/mktdata/bsid/609910012035
 FTSE 100 2MO VAR  Dec11|FABZ1|LIF|609910012033|IX13831337-0|Financial index future.|Index|BBG00265WCM1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FABZ1|//blp/mktdata/buid/LIF/IX13831337-0|//blp/mktdata/bsid/609910012033
 FTSE 100 3MO VAR  Dec11|FACZ1|LIF|609909399558|IX13594946-0|Financial index future.|Index|BBG0022V96V7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/FACZ1|//blp/mktdata/buid/LIF/IX13594946-0|//blp/mktdata/bsid/609909399558
@@ -119,7 +123,6 @@ FTSE Nasd Dub Fut Feb12|DUAG2|||IX14041244-0|Financial index future.|Index|BBG00
 FTSE Nasd Dub Fut Jan12|DUAF2|DFX|8538419538149|IX13822032-0|Financial index future.|Index|BBG0026256H7||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAF2|//blp/mktdata/buid/DFX/IX13822032-0|//blp/mktdata/bsid/8538419538149
 FTSE Nasd Dub Fut Jun12|DUAM2|DFX|8538417149885|IX12963666-0|Financial index future.|Index|BBG001R5JW87||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAM2|//blp/mktdata/buid/DFX/IX12963666-0|//blp/mktdata/bsid/8538417149885
 FTSE Nasd Dub Fut Mar12|DUAH2|DFX|8538415783777|IX12332457-0|Financial index future.|Index|BBG001KWQ032||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAH2|//blp/mktdata/buid/DFX/IX12332457-0|//blp/mktdata/bsid/8538415783777
-FTSE Nasd Dub Fut Nov11|DUAX1|DFX|8538418414083|IX13395354-0|Financial index future.|Index|BBG002080H54||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAX1|//blp/mktdata/buid/DFX/IX13395354-0|//blp/mktdata/bsid/8538418414083
 FTSE Nasd Dub Fut Sep12|DUAU2|DFX|8538418929413|IX13582326-0|Financial index future.|Index|BBG0022QPJQ8||27950|27951|0||39620|//blp/mktdata/bsym/DFX/DUAU2|//blp/mktdata/buid/DFX/IX13582326-0|//blp/mktdata/bsid/8538418929413
 FTSE Russia IOB   Dec11|DRIZ1|LDX|14727461173112|IX11118289-0|Financial index future.|Index|BBG00165SRS9||39240|39240|0||40114|//blp/mktdata/bsym/LDX/DRIZ1|//blp/mktdata/buid/LDX/IX11118289-0|//blp/mktdata/bsid/14727461173112
 FTSE Russia IOB   Dec12|DRIZ2|LDX|14727466830476|IX13595154-0|Financial index future.|Index|BBG0022V9DR7||39240|39240|0||40114|//blp/mktdata/bsym/LDX/DRIZ2|//blp/mktdata/buid/LDX/IX13595154-0|//blp/mktdata/bsid/14727466830476
@@ -180,6 +183,7 @@ MSCI Asia Apex 50 Nov11|APEX1|cSGX|10037362264008|IX13461437-0|Financial index f
 MSCI Asia Apex 50 Nov11|APEX1|cSGX|10037362264008|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEX1|//blp/mktdata/buid/cSGX/IX13461437-0|//blp/mktdata/bsid/10037362264008
 MSCI Asia Apex 50 Nov11|APEX1|eSGX|2108852635592|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEX1|//blp/mktdata/buid/eSGX/IX13461437-0|//blp/mktdata/bsid/2108852635592
 MSCI Asia Apex 50 Nov11|APEX1|eSGX|2108852635592|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEX1|//blp/mktdata/buid/eSGX/IX13461437-0|//blp/mktdata/bsid/2108852635592
+MSCI EUR AUTO COM Apr12|MACJ2|||IX14051897-0|Financial index future.|Index|BBG0028DRMR1||27267|27268|0||40559|||
 MSCI EUR AUTO COM Dec12|MACZ2|LIF|609904784053|IX11705197-0|Financial index future.|Index|BBG001BS6FC0||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACZ2|//blp/mktdata/buid/LIF/IX11705197-0|//blp/mktdata/bsid/609904784053
 MSCI EUR AUTO COM Feb12|MACG2|LIF|609909909746|IX13822172-0|Financial index future.|Index|BBG0026257G6||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACG2|//blp/mktdata/buid/LIF/IX13822172-0|//blp/mktdata/bsid/609909909746
 MSCI EUR AUTO COM Jun12|MACM2|LIF|609902495382|IX10546070-0|Financial index future.|Index|BBG0011XMJM3||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACM2|//blp/mktdata/buid/LIF/IX10546070-0|//blp/mktdata/bsid/609902495382
@@ -189,6 +193,7 @@ MSCI EUR AUTO COM Mar13|MACH3|LIF|609909301033|IX13582722-0|Financial index futu
 MSCI EUR AUTO COM Nov11|MACX1|LIF|609907997585|IX13154998-0|Financial index future.|Index|BBG001WSHGY9||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACX1|//blp/mktdata/buid/LIF/IX13154998-0|//blp/mktdata/bsid/609907997585
 MSCI EUR AUTO COM Sep12|MACU2|LIF|609906151198|IX12332373-0|Financial index future.|Index|BBG001KWPZD5||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACU2|//blp/mktdata/buid/LIF/IX12332373-0|//blp/mktdata/bsid/609906151198
 MSCI EUR AUTO COMPDec11|MACZ1|LIF|609900509849|IX10004368-0|Financial index future.|Index|BBG000Z47CB6||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACZ1|//blp/mktdata/buid/LIF/IX10004368-0|//blp/mktdata/bsid/609900509849
+MSCI EUR BANKS FU Apr12|MBIJ2|||IX14051885-0|Financial index future.|Index|BBG0028DRMN5||27267|27268|0||40559|||
 MSCI EUR BANKS FU Dec12|MBIZ2|LIF|609904784054|IX11705201-0|Financial index future.|Index|BBG001BS6FD9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBIZ2|//blp/mktdata/buid/LIF/IX11705201-0|//blp/mktdata/bsid/609904784054
 MSCI EUR BANKS FU Feb12|MBIG2|LIF|609909909747|IX13822152-0|Financial index future.|Index|BBG002625794||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBIG2|//blp/mktdata/buid/LIF/IX13822152-0|//blp/mktdata/bsid/609909909747
 MSCI EUR BANKS FU Jun12|MBIM2|LIF|609902495383|IX10546074-0|Financial index future.|Index|BBG0011XMJT6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBIM2|//blp/mktdata/buid/LIF/IX10546074-0|//blp/mktdata/bsid/609902495383
@@ -198,6 +203,7 @@ MSCI EUR BANKS FU Mar13|MBIH3|LIF|609909301034|IX13582678-0|Financial index futu
 MSCI EUR BANKS FU Nov11|MBIX1|LIF|609907997586|IX13154994-0|Financial index future.|Index|BBG001WSHGX0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBIX1|//blp/mktdata/buid/LIF/IX13154994-0|//blp/mktdata/bsid/609907997586
 MSCI EUR BANKS FU Sep12|MBIU2|LIF|609906151199|IX12332377-0|Financial index future.|Index|BBG001KWPZF3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBIU2|//blp/mktdata/buid/LIF/IX12332377-0|//blp/mktdata/bsid/609906151199
 MSCI EUR BANKS FUTDec11|MBIZ1|LIF|609900509858|IX10004404-0|Financial index future.|Index|BBG000Z47FK9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBIZ1|//blp/mktdata/buid/LIF/IX10004404-0|//blp/mktdata/bsid/609900509858
+MSCI EUR CAP GOOD Apr12|MCIJ2|||IX14051893-0|Financial index future.|Index|BBG0028DRMQ2||27267|27268|0||40559|||
 MSCI EUR CAP GOOD Dec12|MCIZ2|LIF|609904784055|IX11705205-0|Financial index future.|Index|BBG001BS6FF7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCIZ2|//blp/mktdata/buid/LIF/IX11705205-0|//blp/mktdata/bsid/609904784055
 MSCI EUR CAP GOOD Feb12|MCIG2|LIF|609909909748|IX13822164-0|Financial index future.|Index|BBG0026257D9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCIG2|//blp/mktdata/buid/LIF/IX13822164-0|//blp/mktdata/bsid/609909909748
 MSCI EUR CAP GOOD Jun12|MCIM2|LIF|609902495384|IX10546078-0|Financial index future.|Index|BBG0011XMJY0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCIM2|//blp/mktdata/buid/LIF/IX10546078-0|//blp/mktdata/bsid/609902495384
@@ -207,6 +213,7 @@ MSCI EUR CAP GOOD Mar13|MCIH3|LIF|609909301035|IX13582734-0|Financial index futu
 MSCI EUR CAP GOOD Nov11|MCIX1|LIF|609907997587|IX13155002-0|Financial index future.|Index|BBG001WSHH04||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCIX1|//blp/mktdata/buid/LIF/IX13155002-0|//blp/mktdata/bsid/609907997587
 MSCI EUR CAP GOOD Sep12|MCIU2|LIF|609906151200|IX12332381-0|Financial index future.|Index|BBG001KWPZG2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCIU2|//blp/mktdata/buid/LIF/IX12332381-0|//blp/mktdata/bsid/609906151200
 MSCI EUR CAP GOODSDec11|MCIZ1|LIF|609900509867|IX10004440-0|Financial index future.|Index|BBG000Z47H61||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCIZ1|//blp/mktdata/buid/LIF/IX10004440-0|//blp/mktdata/bsid/609900509867
+MSCI EUR COMM SER Apr12|MSIJ2|||IX14051901-0|Financial index future.|Index|BBG0028DRMS0||27267|27268|0||40559|||
 MSCI EUR COMM SER Dec12|MSIZ2|LIF|609904784056|IX11705209-0|Financial index future.|Index|BBG001BS6FG6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MSIZ2|//blp/mktdata/buid/LIF/IX11705209-0|//blp/mktdata/bsid/609904784056
 MSCI EUR COMM SER Feb12|MSIG2|LIF|609909909749|IX13822188-0|Financial index future.|Index|BBG0026257L0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MSIG2|//blp/mktdata/buid/LIF/IX13822188-0|//blp/mktdata/bsid/609909909749
 MSCI EUR COMM SER Jun12|MSIM2|LIF|609902495385|IX10546082-0|Financial index future.|Index|BBG0011XMK04||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MSIM2|//blp/mktdata/buid/LIF/IX10546082-0|//blp/mktdata/bsid/609902495385
@@ -216,6 +223,7 @@ MSCI EUR COMM SER Mar13|MSIH3|LIF|609909301036|IX13582714-0|Financial index futu
 MSCI EUR COMM SER Nov11|MSIX1|LIF|609907997588|IX13155010-0|Financial index future.|Index|BBG001WSHH40||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MSIX1|//blp/mktdata/buid/LIF/IX13155010-0|//blp/mktdata/bsid/609907997588
 MSCI EUR COMM SER Sep12|MSIU2|LIF|609906151201|IX12332385-0|Financial index future.|Index|BBG001KWPZH1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MSIU2|//blp/mktdata/buid/LIF/IX12332385-0|//blp/mktdata/bsid/609906151201
 MSCI EUR COMM SERVDec11|MSIZ1|LIF|609900509876|IX10004476-0|Financial index future.|Index|BBG000Z47KF4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MSIZ1|//blp/mktdata/buid/LIF/IX10004476-0|//blp/mktdata/bsid/609900509876
+MSCI EUR CONS DUR Apr12|MCDJ2|||IX14051905-0|Financial index future.|Index|BBG0028DRMT9||27267|27268|0||40559|||
 MSCI EUR CONS DUR Dec12|MCDZ2|LIF|609904784057|IX11705213-0|Financial index future.|Index|BBG001BS6FH5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCDZ2|//blp/mktdata/buid/LIF/IX11705213-0|//blp/mktdata/bsid/609904784057
 MSCI EUR CONS DUR Feb12|MCDG2|LIF|609909909750|IX13822180-0|Financial index future.|Index|BBG0026257J3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCDG2|//blp/mktdata/buid/LIF/IX13822180-0|//blp/mktdata/bsid/609909909750
 MSCI EUR CONS DUR Jun12|MCDM2|LIF|609902495386|IX10546086-0|Financial index future.|Index|BBG0011XMK40||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCDM2|//blp/mktdata/buid/LIF/IX10546086-0|//blp/mktdata/bsid/609902495386
@@ -225,6 +233,7 @@ MSCI EUR CONS DUR Mar13|MCDH3|LIF|609909301037|IX13582730-0|Financial index futu
 MSCI EUR CONS DUR Nov11|MCDX1|LIF|609907997589|IX13155006-0|Financial index future.|Index|BBG001WSHH31||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCDX1|//blp/mktdata/buid/LIF/IX13155006-0|//blp/mktdata/bsid/609907997589
 MSCI EUR CONS DUR Sep12|MCDU2|LIF|609906151202|IX12332389-0|Financial index future.|Index|BBG001KWPZJ9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCDU2|//blp/mktdata/buid/LIF/IX12332389-0|//blp/mktdata/bsid/609906151202
 MSCI EUR CONS DURADec11|MCDZ1|LIF|609900509885|IX10004512-0|Financial index future.|Index|BBG000Z47M33||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MCDZ1|//blp/mktdata/buid/LIF/IX10004512-0|//blp/mktdata/bsid/609900509885
+MSCI EUR CONSU SE Apr12|MJIJ2|||IX14051913-0|Financial index future.|Index|BBG0028DRMW5||27267|27268|0||40559|||
 MSCI EUR CONSU SE Dec12|MJIZ2|LIF|609904784058|IX11705217-0|Financial index future.|Index|BBG001BS6FK1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MJIZ2|//blp/mktdata/buid/LIF/IX11705217-0|//blp/mktdata/bsid/609904784058
 MSCI EUR CONSU SE Feb12|MJIG2|LIF|609909909751|IX13822196-0|Financial index future.|Index|BBG0026257N8||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MJIG2|//blp/mktdata/buid/LIF/IX13822196-0|//blp/mktdata/bsid/609909909751
 MSCI EUR CONSU SE Jun12|MJIM2|LIF|609902495387|IX10546090-0|Financial index future.|Index|BBG0011XMK77||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MJIM2|//blp/mktdata/buid/LIF/IX10546090-0|//blp/mktdata/bsid/609902495387
@@ -234,6 +243,7 @@ MSCI EUR CONSU SE Mar13|MJIH3|LIF|609909301038|IX13582706-0|Financial index futu
 MSCI EUR CONSU SE Nov11|MJIX1|LIF|609907997590|IX13155014-0|Financial index future.|Index|BBG001WSHH59||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MJIX1|//blp/mktdata/buid/LIF/IX13155014-0|//blp/mktdata/bsid/609907997590
 MSCI EUR CONSU SE Sep12|MJIU2|LIF|609906151203|IX12332393-0|Financial index future.|Index|BBG001KWPZK7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MJIU2|//blp/mktdata/buid/LIF/IX12332393-0|//blp/mktdata/bsid/609906151203
 MSCI EUR CONSU SERDec11|MJIZ1|LIF|609900509897|IX10004548-0|Financial index future.|Index|BBG000Z47PD5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MJIZ1|//blp/mktdata/buid/LIF/IX10004548-0|//blp/mktdata/bsid/609900509897
+MSCI EUR DIV FIN  Apr12|MDDJ2|||IX14051873-0|Financial index future.|Index|BBG0028DRMK8||27267|27268|0||40559|||
 MSCI EUR DIV FIN  Dec11|MDDZ1|LIF|609900509794|IX10004152-0|Financial index future.|Index|BBG000Z47013||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDDZ1|//blp/mktdata/buid/LIF/IX10004152-0|//blp/mktdata/bsid/609900509794
 MSCI EUR DIV FIN  Dec12|MDDZ2|LIF|609904784047|IX11705173-0|Financial index future.|Index|BBG001BS6F58||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDDZ2|//blp/mktdata/buid/LIF/IX11705173-0|//blp/mktdata/bsid/609904784047
 MSCI EUR DIV FIN  Feb12|MDDG2|LIF|609909909752|IX13822204-0|Financial index future.|Index|BBG0026257Q5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDDG2|//blp/mktdata/buid/LIF/IX13822204-0|//blp/mktdata/bsid/609909909752
@@ -243,6 +253,7 @@ MSCI EUR DIV FIN  Mar12|MDDH2|LIF|609903656408|IX11108332-0|Financial index futu
 MSCI EUR DIV FIN  Mar13|MDDH3|LIF|609909301039|IX13582742-0|Financial index future.|Index|BBG0022QPM81||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDDH3|//blp/mktdata/buid/LIF/IX13582742-0|//blp/mktdata/bsid/609909301039
 MSCI EUR DIV FIN  Nov11|MDDX1|LIF|609907997591|IX13154974-0|Financial index future.|Index|BBG001WSHGN1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDDX1|//blp/mktdata/buid/LIF/IX13154974-0|//blp/mktdata/bsid/609907997591
 MSCI EUR DIV FIN  Sep12|MDDU2|LIF|609906151192|IX12332349-0|Financial index future.|Index|BBG001KWPZ63||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDDU2|//blp/mktdata/buid/LIF/IX12332349-0|//blp/mktdata/bsid/609906151192
+MSCI EUR ENERGY   Apr12|MEOJ2|||IX14051861-0|Financial index future.|Index|BBG0028DRMF4||27267|27268|0||40559|||
 MSCI EUR ENERGY   Dec11|MEOZ1|LIF|609900509804|IX10004188-0|Financial index future.|Index|BBG000Z472G3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEOZ1|//blp/mktdata/buid/LIF/IX10004188-0|//blp/mktdata/bsid/609900509804
 MSCI EUR ENERGY   Dec12|MEOZ2|LIF|609904784048|IX11705177-0|Financial index future.|Index|BBG001BS6F67||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEOZ2|//blp/mktdata/buid/LIF/IX11705177-0|//blp/mktdata/bsid/609904784048
 MSCI EUR ENERGY   Feb12|MEOG2|LIF|609909909753|IX13822208-0|Financial index future.|Index|BBG0026257S3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEOG2|//blp/mktdata/buid/LIF/IX13822208-0|//blp/mktdata/bsid/609909909753
@@ -252,6 +263,7 @@ MSCI EUR ENERGY   Mar12|MEOH2|LIF|609903656409|IX11108336-0|Financial index futu
 MSCI EUR ENERGY   Mar13|MEOH3|LIF|609909301040|IX13582766-0|Financial index future.|Index|BBG0022QPMG2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEOH3|//blp/mktdata/buid/LIF/IX13582766-0|//blp/mktdata/bsid/609909301040
 MSCI EUR ENERGY   Nov11|MEOX1|LIF|609907997592|IX13154970-0|Financial index future.|Index|BBG001WSHGJ6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEOX1|//blp/mktdata/buid/LIF/IX13154970-0|//blp/mktdata/bsid/609907997592
 MSCI EUR ENERGY   Sep12|MEOU2|LIF|609906151193|IX12332353-0|Financial index future.|Index|BBG001KWPZ72||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEOU2|//blp/mktdata/buid/LIF/IX12332353-0|//blp/mktdata/bsid/609906151193
+MSCI EUR FOOD BEV Apr12|MBTJ2|||IX14051869-0|Financial index future.|Index|BBG0028DRMJ0||27267|27268|0||40559|||
 MSCI EUR FOOD BEV Dec11|MBTZ1|LIF|609900509813|IX10004224-0|Financial index future.|Index|BBG000Z474N1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBTZ1|//blp/mktdata/buid/LIF/IX10004224-0|//blp/mktdata/bsid/609900509813
 MSCI EUR FOOD BEV Dec12|MBTZ2|LIF|609904784049|IX11705181-0|Financial index future.|Index|BBG001BS6F76||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBTZ2|//blp/mktdata/buid/LIF/IX11705181-0|//blp/mktdata/bsid/609904784049
 MSCI EUR FOOD BEV Feb12|MBTG2|LIF|609909909754|IX13822224-0|Financial index future.|Index|BBG0026257X7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBTG2|//blp/mktdata/buid/LIF/IX13822224-0|//blp/mktdata/bsid/609909909754
@@ -261,6 +273,7 @@ MSCI EUR FOOD BEV Mar12|MBTH2|LIF|609903656410|IX11108340-0|Financial index futu
 MSCI EUR FOOD BEV Mar13|MBTH3|LIF|609909301041|IX13582726-0|Financial index future.|Index|BBG0022QPM45||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBTH3|//blp/mktdata/buid/LIF/IX13582726-0|//blp/mktdata/bsid/609909301041
 MSCI EUR FOOD BEV Nov11|MBTX1|LIF|609907997593|IX13154978-0|Financial index future.|Index|BBG001WSHGP9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBTX1|//blp/mktdata/buid/LIF/IX13154978-0|//blp/mktdata/bsid/609907997593
 MSCI EUR FOOD BEV Sep12|MBTU2|LIF|609906151194|IX12332357-0|Financial index future.|Index|BBG001KWPZ81||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MBTU2|//blp/mktdata/buid/LIF/IX12332357-0|//blp/mktdata/bsid/609906151194
+MSCI EUR FOOD&STA Apr12|MDRJ2|||IX14051881-0|Financial index future.|Index|BBG0028DRMM6||27267|27268|0||40559|||
 MSCI EUR FOOD&STA Dec12|MDRZ2|LIF|609904784050|IX11705185-0|Financial index future.|Index|BBG001BS6F85||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDRZ2|//blp/mktdata/buid/LIF/IX11705185-0|//blp/mktdata/bsid/609904784050
 MSCI EUR FOOD&STA Feb12|MDRG2|LIF|609909909755|IX13822216-0|Financial index future.|Index|BBG0026257V9||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDRG2|//blp/mktdata/buid/LIF/IX13822216-0|//blp/mktdata/bsid/609909909755
 MSCI EUR FOOD&STA Jun12|MDRM2|LIF|609902495379|IX10546058-0|Financial index future.|Index|BBG0011XMJ34||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDRM2|//blp/mktdata/buid/LIF/IX10546058-0|//blp/mktdata/bsid/609902495379
@@ -270,6 +283,7 @@ MSCI EUR FOOD&STA Mar13|MDRH3|LIF|609909301042|IX13582750-0|Financial index futu
 MSCI EUR FOOD&STA Nov11|MDRX1|LIF|609907997594|IX13154982-0|Financial index future.|Index|BBG001WSHGS6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDRX1|//blp/mktdata/buid/LIF/IX13154982-0|//blp/mktdata/bsid/609907997594
 MSCI EUR FOOD&STA Sep12|MDRU2|LIF|609906151195|IX12332361-0|Financial index future.|Index|BBG001KWPZ90||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDRU2|//blp/mktdata/buid/LIF/IX12332361-0|//blp/mktdata/bsid/609906151195
 MSCI EUR FOOD&STAPDec11|MDRZ1|LIF|609900509822|IX10004260-0|Financial index future.|Index|BBG000Z476Q3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MDRZ1|//blp/mktdata/buid/LIF/IX10004260-0|//blp/mktdata/bsid/609900509822
+MSCI EUR HEALTH C Apr12|MHEJ2|||IX14051889-0|Financial index future.|Index|BBG0028DRMP3||27267|27268|0||40559|||
 MSCI EUR HEALTH C Dec12|MHEZ2|LIF|609904784051|IX11705189-0|Financial index future.|Index|BBG001BS6F94||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHEZ2|//blp/mktdata/buid/LIF/IX11705189-0|//blp/mktdata/bsid/609904784051
 MSCI EUR HEALTH C Feb12|MHEG2|LIF|609909909756|IX13822232-0|Financial index future.|Index|BBG0026257Z5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHEG2|//blp/mktdata/buid/LIF/IX13822232-0|//blp/mktdata/bsid/609909909756
 MSCI EUR HEALTH C Jun12|MHEM2|LIF|609902495380|IX10546062-0|Financial index future.|Index|BBG0011XMJ89||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHEM2|//blp/mktdata/buid/LIF/IX10546062-0|//blp/mktdata/bsid/609902495380
@@ -279,6 +293,7 @@ MSCI EUR HEALTH C Mar13|MHEH3|LIF|609909301043|IX13582690-0|Financial index futu
 MSCI EUR HEALTH C Nov11|MHEX1|LIF|609907997595|IX13154990-0|Financial index future.|Index|BBG001WSHGW1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHEX1|//blp/mktdata/buid/LIF/IX13154990-0|//blp/mktdata/bsid/609907997595
 MSCI EUR HEALTH C Sep12|MHEU2|LIF|609906151196|IX12332365-0|Financial index future.|Index|BBG001KWPZB7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHEU2|//blp/mktdata/buid/LIF/IX12332365-0|//blp/mktdata/bsid/609906151196
 MSCI EUR HEALTH CADec11|MHEZ1|LIF|609900509831|IX10004296-0|Financial index future.|Index|BBG000Z478J7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHEZ1|//blp/mktdata/buid/LIF/IX10004296-0|//blp/mktdata/bsid/609900509831
+MSCI EUR HOUS&PER Apr12|MHPJ2|||IX14051877-0|Financial index future.|Index|BBG0028DRML7||27267|27268|0||40559|||
 MSCI EUR HOUS&PER Dec12|MHPZ2|LIF|609904784052|IX11705193-0|Financial index future.|Index|BBG001BS6FB1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHPZ2|//blp/mktdata/buid/LIF/IX11705193-0|//blp/mktdata/bsid/609904784052
 MSCI EUR HOUS&PER Feb12|MHPG2|LIF|609909909757|IX13822240-0|Financial index future.|Index|BBG002625801||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHPG2|//blp/mktdata/buid/LIF/IX13822240-0|//blp/mktdata/bsid/609909909757
 MSCI EUR HOUS&PER Jun12|MHPM2|LIF|609902495381|IX10546066-0|Financial index future.|Index|BBG0011XMJJ7||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHPM2|//blp/mktdata/buid/LIF/IX10546066-0|//blp/mktdata/bsid/609902495381
@@ -288,6 +303,7 @@ MSCI EUR HOUS&PER Mar13|MHPH3|LIF|609909301044|IX13582694-0|Financial index futu
 MSCI EUR HOUS&PER Nov11|MHPX1|LIF|609907997596|IX13154986-0|Financial index future.|Index|BBG001WSHGV2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHPX1|//blp/mktdata/buid/LIF/IX13154986-0|//blp/mktdata/bsid/609907997596
 MSCI EUR HOUS&PER Sep12|MHPU2|LIF|609906151197|IX12332369-0|Financial index future.|Index|BBG001KWPZC6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHPU2|//blp/mktdata/buid/LIF/IX12332369-0|//blp/mktdata/bsid/609906151197
 MSCI EUR HOUS&PERSDec11|MHPZ1|LIF|609900509840|IX10004332-0|Financial index future.|Index|BBG000Z479Y8||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MHPZ1|//blp/mktdata/buid/LIF/IX10004332-0|//blp/mktdata/bsid/609900509840
+MSCI EUR MEDIA FT Apr12|MEIJ2|||IX14051829-0|Financial index future.|Index|BBG0028DRM55||27267|27268|0||40559|||
 MSCI EUR MEDIA FT Dec12|MEIZ2|LIF|609904784038|IX11705137-0|Financial index future.|Index|BBG001BS6DW3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEIZ2|//blp/mktdata/buid/LIF/IX11705137-0|//blp/mktdata/bsid/609904784038
 MSCI EUR MEDIA FT Feb12|MEIG2|LIF|609909909736|IX13822256-0|Financial index future.|Index|BBG002625847||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEIG2|//blp/mktdata/buid/LIF/IX13822256-0|//blp/mktdata/bsid/609909909736
 MSCI EUR MEDIA FT Jun12|MEIM2|LIF|609902495367|IX10546010-0|Financial index future.|Index|BBG0011XLDP4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEIM2|//blp/mktdata/buid/LIF/IX10546010-0|//blp/mktdata/bsid/609902495367
@@ -297,6 +313,7 @@ MSCI EUR MEDIA FT Mar13|MEIH3|LIF|609909301023|IX13582758-0|Financial index futu
 MSCI EUR MEDIA FT Nov11|MEIX1|LIF|609907997575|IX13154938-0|Financial index future.|Index|BBG001WSHG51||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEIX1|//blp/mktdata/buid/LIF/IX13154938-0|//blp/mktdata/bsid/609907997575
 MSCI EUR MEDIA FT Sep12|MEIU2|LIF|609906151183|IX12332313-0|Financial index future.|Index|BBG001KWPYX6||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEIU2|//blp/mktdata/buid/LIF/IX12332313-0|//blp/mktdata/bsid/609906151183
 MSCI EUR MEDIA FTSDec11|MEIZ1|LIF|609900455512|IX9998311-0|Financial index future.|Index|BBG000Z43SX1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEIZ1|//blp/mktdata/buid/LIF/IX9998311-0|//blp/mktdata/bsid/609900455512
+MSCI EUR PHARMA F Apr12|MEPJ2|||IX14051833-0|Financial index future.|Index|BBG0028DRM64||27267|27268|0||40559|||
 MSCI EUR PHARMA F Dec12|MEPZ2|LIF|609904784039|IX11705141-0|Financial index future.|Index|BBG001BS6DX2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEPZ2|//blp/mktdata/buid/LIF/IX11705141-0|//blp/mktdata/bsid/609904784039
 MSCI EUR PHARMA F Feb12|MEPG2|LIF|609909909737|IX13822252-0|Financial index future.|Index|BBG002625838||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEPG2|//blp/mktdata/buid/LIF/IX13822252-0|//blp/mktdata/bsid/609909909737
 MSCI EUR PHARMA F Jun12|MEPM2|LIF|609902495368|IX10546014-0|Financial index future.|Index|BBG0011XLDX5||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MEPM2|//blp/mktdata/buid/LIF/IX10546014-0|//blp/mktdata/bsid/609902495368
