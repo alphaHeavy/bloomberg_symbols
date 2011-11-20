@@ -1,5 +1,5 @@
-#Data Generated At: Sat Nov 19 06:03:18 EST 2011
-#Data Records=6252
+#Data Generated At: Sun Nov 20 05:54:27 EST 2011
+#Data Records=6251
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -341,7 +341,7 @@
 2YR US$ SWAPNOTE  Dec11|UZZ1|LIF|609907474228|IX12930097-0|Financial commodity future.|Comdty|BBG001R068L0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/UZZ1|//blp/mktdata/buid/LIF/IX12930097-0|//blp/mktdata/bsid/609907474228
 2YR US$ SWAPNOTE  Mar12|UZH2|LIF|609909440589|IX13608853-0|Financial commodity future.|Comdty|BBG0024010D4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/UZH2|//blp/mktdata/buid/LIF/IX13608853-0|//blp/mktdata/bsid/609909440589
 2yr RU FedBond FutDec11|RFTZ1|RTS|1769550241154|IX13468389-0|Financial commodity future.|Comdty|BBG0021H09P9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFTZ1|//blp/mktdata/buid/RTS/IX13468389-0|//blp/mktdata/bsid/1769550241154
-2yr RU FedBond FutMar12|RFTH2|||IX14048013-0|Financial commodity future.|Comdty|BBG0028DD539||14134|14134|0||39558|||
+2yr RU FedBond FutMar12|RFTH2|RTS|1769551566446|IX14048013-0|Financial commodity future.|Comdty|BBG0028DD539||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFTH2|//blp/mktdata/buid/RTS/IX14048013-0|//blp/mktdata/bsid/1769551566446
 3 MONTH CIBOR     Dec11|CIBZ1|COPE|532594118289|IX10976474-0|Financial commodity future.|Comdty|BBG0015NZPZ9||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBZ1|//blp/mktdata/buid/COPE/IX10976474-0|//blp/mktdata/bsid/532594118289
 3 MONTH CIBOR     Dec12|CIBZ2|COPE|532595711615|IX11670221-0|Financial commodity future.|Comdty|BBG001D9N9K6||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBZ2|//blp/mktdata/buid/COPE/IX11670221-0|//blp/mktdata/bsid/532595711615
 3 MONTH CIBOR     Jun12|CIBM2|COPE|532594118291|IX10976482-0|Financial commodity future.|Comdty|BBG0015NZRM9||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBM2|//blp/mktdata/buid/COPE/IX10976482-0|//blp/mktdata/bsid/532594118291
@@ -953,7 +953,7 @@
 3YR EUR$ BNDL NYL Dec11|BDBZ1|eNYL|8181936802829|IX13612053-0|Financial commodity future.|Comdty|BBG002405166||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/BDBZ1|//blp/mktdata/buid/eNYL/IX13612053-0|//blp/mktdata/bsid/8181936802829
 4YR EUR$ BNDL NYL Dec11|BDCZ1|eNYL|8181936802828|IX13612049-0|Financial commodity future.|Comdty|BBG002405157||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/BDCZ1|//blp/mktdata/buid/eNYL/IX13612049-0|//blp/mktdata/bsid/8181936802828
 4yr RU FedBond FutDec11|RFRZ1|RTS|1769550241153|IX13468385-0|Financial commodity future.|Comdty|BBG0021GYXY1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFRZ1|//blp/mktdata/buid/RTS/IX13468385-0|//blp/mktdata/bsid/1769550241153
-4yr RU FedBond FutMar12|RFRH2|||IX14048281-0|Financial commodity future.|Comdty|BBG0028DDD14||14134|14134|0||39558|||
+4yr RU FedBond FutMar12|RFRH2|RTS|1769551566447|IX14048281-0|Financial commodity future.|Comdty|BBG0028DDD14||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFRH2|//blp/mktdata/buid/RTS/IX14048281-0|//blp/mktdata/bsid/1769551566447
 5 YEAR SWAP FUTR  Jun13|S5M3|eCME|2078783842924|IX11825206-0|Financial commodity future.|Comdty|BBG001CXB552||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5M3|//blp/mktdata/buid/eCME/IX11825206-0|//blp/mktdata/bsid/2078783842924
 5 YEAR SWAP FUTR  Mar12|S5H2|eCME|2078788508015|IX13714272-0|Financial commodity future.|Comdty|BBG0024ZNZW5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5H2|//blp/mktdata/buid/eCME/IX13714272-0|//blp/mktdata/bsid/2078788508015
 5 YR KOREA TB FUT Dec11|KRZ1|KOFX|1748073815732|IX12940322-0|Financial commodity future.|Comdty|BBG001R1LWL8||14074|14074|0||39524|//blp/mktdata/bsym/KOFX/KRZ1|//blp/mktdata/buid/KOFX/IX12940322-0|//blp/mktdata/bsid/1748073815732
@@ -2151,7 +2151,6 @@ Corn Future-PR(P) May12|CROK2|eBMF|2074491863411|IX13171123-0|Financial commodit
 Corriander Future Dec11|POCZ1|NDX|1855449745116|IX13551415-0|Financial commodity future.|Comdty|BBG0022D0FV6||27263|41925|0||39600|//blp/mktdata/bsym/NDX/POCZ1|//blp/mktdata/buid/NDX/IX13551415-0|//blp/mktdata/bsid/1855449745116
 Corriander Future Feb12|POCG2|NDX|1855450828039|IX13996723-0|Financial commodity future.|Comdty|BBG0027Z8Z77||27263|41925|0||39600|//blp/mktdata/bsym/NDX/POCG2|//blp/mktdata/buid/NDX/IX13996723-0|//blp/mktdata/bsid/1855450828039
 Corriander Future Jan12|POCF2|NDX|1855450284655|IX13742950-0|Financial commodity future.|Comdty|BBG002597K17||27263|41925|0||39600|//blp/mktdata/bsym/NDX/POCF2|//blp/mktdata/buid/NDX/IX13742950-0|//blp/mktdata/bsid/1855450284655
-Corriander Future Nov11|POCX1|NDX|1855449083794|IX13335423-0|Financial commodity future.|Comdty|BBG001Z2Z4D3||27263|41925|0||39600|//blp/mktdata/bsym/NDX/POCX1|//blp/mktdata/buid/NDX/IX13335423-0|//blp/mktdata/bsid/1855449083794
 Cotton Futures    Dec12|XCTZ2|||IX14048361-0|Financial commodity future.|Comdty|BBG0028DFGY9||14134|14134|0||39558|||
 Cotton Futures    Dec13|XCTZ3|||IX14048377-0|Financial commodity future.|Comdty|BBG0028DFH31||14134|14134|0||39558|||
 Cotton Futures    Dec14|XCTZ4|||IX14048393-0|Financial commodity future.|Comdty|BBG0028DFH86||14134|14134|0||39558|||
@@ -5524,7 +5523,7 @@ SMX Brent-Euro    Oct12|VCBV2|SME|18223570190645|IX13579978-0|Financial commodit
 SMX Brent-Euro    Sep12|VCBU2|SME|18223569634839|IX13378004-0|Financial commodity future.|Comdty|BBG00202Y020||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCBU2|//blp/mktdata/buid/SME/IX13378004-0|//blp/mktdata/bsid/18223569634839
 SMX WTI Futures   Apr12|VCLJ2|SME|18223567167027|IX12355602-0|Financial commodity future.|Comdty|BBG001LGXNX5||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCLJ2|//blp/mktdata/buid/SME/IX12355602-0|//blp/mktdata/bsid/18223567167027
 SMX WTI Futures   Aug12|VCLQ2|SME|18223569079367|IX13189350-0|Financial commodity future.|Comdty|BBG001XR58Z0||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCLQ2|//blp/mktdata/buid/SME/IX13189350-0|//blp/mktdata/bsid/18223569079367
-SMX WTI Futures   Dec12|VCLZ2|||IX14038620-0|Financial commodity future.|Comdty|BBG00289KBD6||38924|38924|0||40935|||
+SMX WTI Futures   Dec12|VCLZ2|SME|18223571271177|IX14038620-0|Financial commodity future.|Comdty|BBG00289KBD6||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCLZ2|//blp/mktdata/buid/SME/IX14038620-0|//blp/mktdata/bsid/18223571271177
 SMX WTI Futures   Feb12|VCLG2|SME|18223566113341|IX11902348-0|Financial commodity future.|Comdty|BBG001DLDWB9||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCLG2|//blp/mktdata/buid/SME/IX11902348-0|//blp/mktdata/bsid/18223566113341
 SMX WTI Futures   Jan12|VCLF2|SME|18223565793633|IX11735217-0|Financial commodity future.|Comdty|BBG001CDDPH7||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCLF2|//blp/mktdata/buid/SME/IX11735217-0|//blp/mktdata/bsid/18223565793633
 SMX WTI Futures   Jul12|VCLN2|SME|18223568534983|IX12991185-0|Financial commodity future.|Comdty|BBG001RWG6N1||38924|38924|0||40935|//blp/mktdata/bsym/SME/VCLN2|//blp/mktdata/buid/SME/IX12991185-0|//blp/mktdata/bsid/18223568534983
