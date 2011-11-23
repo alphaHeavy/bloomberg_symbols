@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 22 06:33:43 EST 2011
-#Data Records=2922
+#Data Generated At: Wed Nov 23 06:34:41 EST 2011
+#Data Records=2942
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=FRA
 AED FRA             1X4||||IX1467524-0|FRA|Curncy||||||||||
 AED FRA             2X5||||IX1467528-0|FRA|Curncy||||||||||
@@ -478,6 +478,16 @@ CLP FRA PESO        1X3||||IX3904696-0|FRA|Curncy||||||||||
 CLP FRA PESO        1X6||||IX3904700-0|FRA|Curncy||||||||||
 CLP FRA PESO        1X9||||IX3904704-0|FRA|Curncy||||||||||
 CLP FRA UF          1X4||||IX494775-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      1M||||IX14075385-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      1Y||||IX14075473-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      2M||||IX14075393-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      2Y||||IX14075665-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      3M||||IX14075397-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      3Y||||IX14075669-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      4Y||||IX14075673-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      5Y||||IX14075677-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      6M||||IX14075401-0|FRA|Curncy||||||||||
+CMM FRA 30-D Yld      9M||||IX14075405-0|FRA|Curncy||||||||||
 CMM FRA 30-D Yld Gen  1M||||IX14068956-0|FRA|Curncy||||||||||
 CMM FRA 30-D Yld Gen  2M||||IX14068960-0|FRA|Curncy||||||||||
 CMM FRA 30-D Yld Gen  3M||||IX14068964-0|FRA|Curncy||||||||||
@@ -488,6 +498,16 @@ CMM FRA 30-D Yld Gen  7M||||IX14068980-0|FRA|Curncy||||||||||
 CMM FRA 30-D Yld Gen  8M||||IX14068984-0|FRA|Curncy||||||||||
 CMM FRA 30-D Yld Gen  9M||||IX14068992-0|FRA|Curncy||||||||||
 CMM FRA 30-D Yld Spot||||IX14068996-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      1M||||IX14075833-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      1Y||||IX14075813-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      2M||||IX14075829-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      2Y||||IX14075809-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      3M||||IX14075825-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      3Y||||IX14075805-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      4Y||||IX14075801-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      5Y||||IX14075689-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      6M||||IX14075821-0|FRA|Curncy||||||||||
+CMM FRA 60-D Yld      9M||||IX14075817-0|FRA|Curncy||||||||||
 CMM FRA 60-D Yld Gen  1M||||IX14069016-0|FRA|Curncy||||||||||
 CMM FRA 60-D Yld Gen  2M||||IX14069032-0|FRA|Curncy||||||||||
 CMM FRA 60-D Yld Gen  3M||||IX14069100-0|FRA|Curncy||||||||||

@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 22 06:16:01 EST 2011
-#Data Records=6252
+#Data Generated At: Wed Nov 23 06:16:25 EST 2011
+#Data Records=6250
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -1905,7 +1905,6 @@ BANK ACCEPT FUTR  Sep12|BAU2|MSE|485343840825|IX9466319-0|Financial commodity fu
 BANK ACCEPT FUTR  Sep13|BAU3|MSE|485339953092|IX11078665-0|Financial commodity future.|Comdty|BBG00161MGJ8||14055|14142|0||39513|//blp/mktdata/bsym/MSE/BAU3|//blp/mktdata/buid/MSE/IX11078665-0|//blp/mktdata/bsid/485339953092
 BANK ACCEPT FUTR  Sep14|BAU4|MSE|485339953095|IX13612081-0|Financial commodity future.|Comdty|BBG0024051D8||14055|14142|0||39513|//blp/mktdata/bsym/MSE/BAU4|//blp/mktdata/buid/MSE/IX13612081-0|//blp/mktdata/bsid/485339953095
 BFX Gold Futures  Apr12|BGOJ2|BFX|15711015112888|IX13858761-0|Financial commodity future.|Comdty|BBG002760H33||40532|40532|0||40585|//blp/mktdata/bsym/BFX/BGOJ2|//blp/mktdata/buid/BFX/IX13858761-0|//blp/mktdata/bsid/15711015112888
-BFX Gold Futures  Dec11|BGOZ1|BFX|15711012735536|IX13036021-0|Financial commodity future.|Comdty|BBG001V522N9||40532|40532|0||40585|//blp/mktdata/bsym/BFX/BGOZ1|//blp/mktdata/buid/BFX/IX13036021-0|//blp/mktdata/bsid/15711012735536
 BFX Gold Futures  Feb12|BGOG2|BFX|15711014045394|IX13450451-0|Financial commodity future.|Comdty|BBG0021C4M04||40532|40532|0||40585|//blp/mktdata/bsym/BFX/BGOG2|//blp/mktdata/buid/BFX/IX13450451-0|//blp/mktdata/bsid/15711014045394
 BRAZIL A BOND     Apr12|ZCJ2|eBMF|2074490280638|IX12456707-0|Financial commodity future.|Comdty|BBG001LZ6K69||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZCJ2|//blp/mktdata/buid/eBMF/IX12456707-0|//blp/mktdata/bsid/2074490280638
 BRAZIL A BOND     Jan12|ZCF2|eBMF|2074488848809|IX11806287-0|Financial commodity future.|Comdty|BBG001CTTPB1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ZCF2|//blp/mktdata/buid/eBMF/IX11806287-0|//blp/mktdata/bsid/2074488848809
@@ -2176,7 +2175,6 @@ Cotton Futures    Sep15|XCTU5|||IX14048405-0|Financial commodity future.|Comdty|
 Cotton Futures    Sep16|XCTU6|||IX14048421-0|Financial commodity future.|Comdty|BBG0028DFHJ4||14134|14134|0||39558|||
 Cotton Futures    Sep17|XCTU7|||IX14048437-0|Financial commodity future.|Comdty|BBG0028DFHN9||14134|14134|0||39558|||
 Crude Oil Future  Dec11|CIOZ1|NDX|1855449814505|IX13580022-0|Financial commodity future.|Comdty|BBG0022Q4RD7||27263|41925|0||39600|//blp/mktdata/bsym/NDX/CIOZ1|//blp/mktdata/buid/NDX/IX13580022-0|//blp/mktdata/bsid/1855449814505
-Crude Oil Future  Dec11|PKLZ1|NCE|10355190273831|IX13628633-0|Financial commodity future.|Comdty|BBG00244XMS7||36149|36149|0||0|//blp/mktdata/bsym/NCE/PKLZ1|//blp/mktdata/buid/NCE/IX13628633-0|//blp/mktdata/bsid/10355190273831
 Crude Oil Future  Feb12|CIOG2|NDX|1855450861446|IX14022750-0|Financial commodity future.|Comdty|BBG002848SR9||27263|41925|0||39600|//blp/mktdata/bsym/NDX/CIOG2|//blp/mktdata/buid/NDX/IX14022750-0|//blp/mktdata/bsid/1855450861446
 Crude Oil Future  Feb12|PKLG2|NCE|10355191291002|IX14067220-0|Financial commodity future.|Comdty|BBG0028W7LW7||36149|36149|0||0|//blp/mktdata/bsym/NCE/PKLG2|//blp/mktdata/buid/NCE/IX14067220-0|//blp/mktdata/bsid/10355191291002
 Crude Oil Future  Jan12|CIOF2|NDX|1855450349470|IX13780280-0|Financial commodity future.|Comdty|BBG0025N61D6||27263|41925|0||39600|//blp/mktdata/bsym/NDX/CIOF2|//blp/mktdata/buid/NDX/IX13780280-0|//blp/mktdata/bsid/1855450349470

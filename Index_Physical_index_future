@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 22 06:46:21 EST 2011
-#Data Records=6277
+#Data Generated At: Wed Nov 23 06:47:47 EST 2011
+#Data Records=6276
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -454,12 +454,6 @@ CAN HVY CRUD INDX Aug14|WCCQ4|cNYM|10028771503309|IX13198985-0|Physical index fu
 CAN HVY CRUD INDX Aug14|WCCQ4|cNYM|10028771503309|IX13198985-0|Physical index future.|Index|BBG001XX9MC7||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCQ4|//blp/mktdata/buid/cNYM/IX13198985-0|//blp/mktdata/bsid/10028771503309
 CAN HVY CRUD INDX Aug14|WCCQ4|eNYM|2117441744077|IX13198985-0|Physical index future.|Index|BBG001XX9MC7||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCQ4|//blp/mktdata/buid/eNYM/IX13198985-0|//blp/mktdata/bsid/2117441744077
 CAN HVY CRUD INDX Aug14|WCCQ4|eNYM|2117441744077|IX13198985-0|Physical index future.|Index|BBG001XX9MC7||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCQ4|//blp/mktdata/buid/eNYM/IX13198985-0|//blp/mktdata/bsid/2117441744077
-CAN HVY CRUD INDX Dec11|WCCZ1|NYM|1614925406212|IX10683733-0|Physical index future.|Index|BBG0012XLDQ2||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCZ1|//blp/mktdata/buid/NYM/IX10683733-0|//blp/mktdata/bsid/1614925406212
-CAN HVY CRUD INDX Dec11|WCCZ1|NYM|1614925406212|IX10683733-0|Physical index future.|Index|BBG0012XLDQ2||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCZ1|//blp/mktdata/buid/NYM/IX10683733-0|//blp/mktdata/bsid/1614925406212
-CAN HVY CRUD INDX Dec11|WCCZ1|cNYM|10028766339076|IX10683733-0|Physical index future.|Index|BBG0012XLDQ2||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCZ1|//blp/mktdata/buid/cNYM/IX10683733-0|//blp/mktdata/bsid/10028766339076
-CAN HVY CRUD INDX Dec11|WCCZ1|cNYM|10028766339076|IX10683733-0|Physical index future.|Index|BBG0012XLDQ2||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCZ1|//blp/mktdata/buid/cNYM/IX10683733-0|//blp/mktdata/bsid/10028766339076
-CAN HVY CRUD INDX Dec11|WCCZ1|eNYM|2117436579844|IX10683733-0|Physical index future.|Index|BBG0012XLDQ2||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCZ1|//blp/mktdata/buid/eNYM/IX10683733-0|//blp/mktdata/bsid/2117436579844
-CAN HVY CRUD INDX Dec11|WCCZ1|eNYM|2117436579844|IX10683733-0|Physical index future.|Index|BBG0012XLDQ2||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCZ1|//blp/mktdata/buid/eNYM/IX10683733-0|//blp/mktdata/bsid/2117436579844
 CAN HVY CRUD INDX Dec12|WCCZ2|NYM|1614925406224|IX10683781-0|Physical index future.|Index|BBG0012XLG58||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCZ2|//blp/mktdata/buid/NYM/IX10683781-0|//blp/mktdata/bsid/1614925406224
 CAN HVY CRUD INDX Dec12|WCCZ2|NYM|1614925406224|IX10683781-0|Physical index future.|Index|BBG0012XLG58||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCZ2|//blp/mktdata/buid/NYM/IX10683781-0|//blp/mktdata/bsid/1614925406224
 CAN HVY CRUD INDX Dec12|WCCZ2|cNYM|10028766339088|IX10683781-0|Physical index future.|Index|BBG0012XLG58||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCZ2|//blp/mktdata/buid/cNYM/IX10683781-0|//blp/mktdata/bsid/10028766339088
@@ -472,8 +466,12 @@ CAN HVY CRUD INDX Dec13|WCCZ3|cNYM|10028767720010|IX11499989-0|Physical index fu
 CAN HVY CRUD INDX Dec13|WCCZ3|cNYM|10028767720010|IX11499989-0|Physical index future.|Index|BBG00196ZR06||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCZ3|//blp/mktdata/buid/cNYM/IX11499989-0|//blp/mktdata/bsid/10028767720010
 CAN HVY CRUD INDX Dec13|WCCZ3|eNYM|2117437960778|IX11499989-0|Physical index future.|Index|BBG00196ZR06||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCZ3|//blp/mktdata/buid/eNYM/IX11499989-0|//blp/mktdata/bsid/2117437960778
 CAN HVY CRUD INDX Dec13|WCCZ3|eNYM|2117437960778|IX11499989-0|Physical index future.|Index|BBG00196ZR06||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCZ3|//blp/mktdata/buid/eNYM/IX11499989-0|//blp/mktdata/bsid/2117437960778
-CAN HVY CRUD INDX Dec14|WCCZ4|||IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|||
-CAN HVY CRUD INDX Dec14|WCCZ4|||IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|||
+CAN HVY CRUD INDX Dec14|WCCZ4|NYM|1614932860980|IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCZ4|//blp/mktdata/buid/NYM/IX14068936-0|//blp/mktdata/bsid/1614932860980
+CAN HVY CRUD INDX Dec14|WCCZ4|NYM|1614932860980|IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCZ4|//blp/mktdata/buid/NYM/IX14068936-0|//blp/mktdata/bsid/1614932860980
+CAN HVY CRUD INDX Dec14|WCCZ4|cNYM|10028773793844|IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCZ4|//blp/mktdata/buid/cNYM/IX14068936-0|//blp/mktdata/bsid/10028773793844
+CAN HVY CRUD INDX Dec14|WCCZ4|cNYM|10028773793844|IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCZ4|//blp/mktdata/buid/cNYM/IX14068936-0|//blp/mktdata/bsid/10028773793844
+CAN HVY CRUD INDX Dec14|WCCZ4|eNYM|2117444034612|IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCZ4|//blp/mktdata/buid/eNYM/IX14068936-0|//blp/mktdata/bsid/2117444034612
+CAN HVY CRUD INDX Dec14|WCCZ4|eNYM|2117444034612|IX14068936-0|Physical index future.|Index|BBG0028X14N9||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/WCCZ4|//blp/mktdata/buid/eNYM/IX14068936-0|//blp/mktdata/bsid/2117444034612
 CAN HVY CRUD INDX Feb12|WCCG2|NYM|1614925406214|IX10683741-0|Physical index future.|Index|BBG0012XLDX4||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCG2|//blp/mktdata/buid/NYM/IX10683741-0|//blp/mktdata/bsid/1614925406214
 CAN HVY CRUD INDX Feb12|WCCG2|NYM|1614925406214|IX10683741-0|Physical index future.|Index|BBG0012XLDX4||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WCCG2|//blp/mktdata/buid/NYM/IX10683741-0|//blp/mktdata/bsid/1614925406214
 CAN HVY CRUD INDX Feb12|WCCG2|cNYM|10028766339078|IX10683741-0|Physical index future.|Index|BBG0012XLDX4||14088|14088|0||39532|//blp/mktdata/bsym/cNYM/WCCG2|//blp/mktdata/buid/cNYM/IX10683741-0|//blp/mktdata/bsid/10028766339078
@@ -5741,6 +5739,7 @@ Snowfall Chicago  Jul20|SNCN0|CME|614199595953|IX11594320-0|Physical index futur
 Snowfall Chicago  Nov11|SNCX1|CME|614201430191|IX12477894-0|Physical index future.|Index|BBG001M2YMM8||14002|14002|0||39490|//blp/mktdata/bsym/CME/SNCX1|//blp/mktdata/buid/CME/IX12477894-0|//blp/mktdata/bsid/614201430191
 Stand Pacific CEBOSep12|JSWU2|US|399433928153|IX4490421-0|Physical index future.|Index|BBG000WFPZ87||14009|0|0||39495|//blp/mktdata/bsym/US/JSWU2|//blp/mktdata/buid/US/IX4490421-0|//blp/mktdata/bsid/399433928153
 TA BANK INDEX FUT Dec11|THZ1|IT|1086650950655|IX13674593-0|Physical index future.|Index|BBG0024N44Z9||14131|14131|0||39556|//blp/mktdata/bsym/IT/THZ1|//blp/mktdata/buid/IT/IX13674593-0|//blp/mktdata/bsid/1086650950655
+TA BANK INDEX FUT Feb12|THG2|IT|1086651897704|IX14078205-0|Physical index future.|Index|BBG0028ZHKS6||14131|14131|0||39556|//blp/mktdata/bsym/IT/THG2|//blp/mktdata/buid/IT/IX14078205-0|//blp/mktdata/bsid/1086651897704
 TA BANK INDEX FUT Jan12|THF2|IT|1086651463156|IX13858781-0|Physical index future.|Index|BBG002760HD2||14131|14131|0||39556|//blp/mktdata/bsym/IT/THF2|//blp/mktdata/buid/IT/IX13858781-0|//blp/mktdata/bsid/1086651463156
 TA BANK INDEX FUT Nov11|THX1|IT|1086650346982|IX13434325-0|Physical index future.|Index|BBG00215FBW6||14131|14131|0||39556|//blp/mktdata/bsym/IT/THX1|//blp/mktdata/buid/IT/IX13434325-0|//blp/mktdata/bsid/1086650346982
 TAIEX FUTURES     Dec11|FTZ1|FTX|1739481621251|IX11902420-0|Physical index future.|Index|BBG001DLDWS1||14149|14149|0||39565|//blp/mktdata/bsym/FTX/FTZ1|//blp/mktdata/buid/FTX/IX11902420-0|//blp/mktdata/bsid/1739481621251
