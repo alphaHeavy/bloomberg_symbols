@@ -1,5 +1,5 @@
-#Data Generated At: Wed Nov 23 06:34:41 EST 2011
-#Data Records=2942
+#Data Generated At: Thu Nov 24 06:36:00 EST 2011
+#Data Records=2991
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=FRA
 AED FRA             1X4||||IX1467524-0|FRA|Curncy||||||||||
 AED FRA             2X5||||IX1467528-0|FRA|Curncy||||||||||
@@ -217,6 +217,13 @@ BRL FRA 7x8||||IX9551052-0|FRA|Curncy||||||||||
 BRL FRA 8x9||||IX9551056-0|FRA|Curncy||||||||||
 BRL FRA 9x10||||IX9551060-0|FRA|Curncy||||||||||
 BRL FRA 9x12||||IX9550896-0|FRA|Curncy||||||||||
+BWP FRA 12x15||||IX14084480-0|FRA|Curncy||||||||||
+BWP FRA 15x18||||IX14084484-0|FRA|Curncy||||||||||
+BWP FRA 18x21||||IX14084488-0|FRA|Curncy||||||||||
+BWP FRA 21x24||||IX14084492-0|FRA|Curncy||||||||||
+BWP FRA 3x6||||IX14084468-0|FRA|Curncy||||||||||
+BWP FRA 6x9||||IX14084472-0|FRA|Curncy||||||||||
+BWP FRA 9x12||||IX14084476-0|FRA|Curncy||||||||||
 CAD FRA              0X3||||IX1441712-0|FRA|Curncy||||||||||
 CAD FRA              0X6||||IX1441716-0|FRA|Curncy||||||||||
 CAD FRA              1X2||||IX511208-0|FRA|Curncy||||||||||
@@ -1503,6 +1510,13 @@ GBP MPC FRA VS BASE 6TH||||IX6874419-0|FRA|Curncy||||||||||
 GBP MPC FRA VS BASE 7TH||||IX6874423-0|FRA|Curncy||||||||||
 GBP MPC FRA VS BASE 8TH||||IX6874427-0|FRA|Curncy||||||||||
 GBP MPC FRA VS BASE 9TH||||IX6874431-0|FRA|Curncy||||||||||
+GHS FRA 12x15||||IX14084512-0|FRA|Curncy||||||||||
+GHS FRA 15x18||||IX14084516-0|FRA|Curncy||||||||||
+GHS FRA 18x21||||IX14084520-0|FRA|Curncy||||||||||
+GHS FRA 21x24||||IX14084524-0|FRA|Curncy||||||||||
+GHS FRA 3x6||||IX14084500-0|FRA|Curncy||||||||||
+GHS FRA 6x9||||IX14084504-0|FRA|Curncy||||||||||
+GHS FRA 9x12||||IX14084508-0|FRA|Curncy||||||||||
 GRD FRA             1X4||||IX280707-0|FRA|Curncy||||||||||
 GRD FRA             1X7||||IX280715-0|FRA|Curncy||||||||||
 GRD FRA             2X5||||IX280709-0|FRA|Curncy||||||||||
@@ -1968,6 +1982,13 @@ KWD FRA KIBOR 3x9||||IX11335419-0|FRA|Curncy||||||||||
 KWD FRA KIBOR 4x10||||IX11335423-0|FRA|Curncy||||||||||
 KWD FRA KIBOR 5x11||||IX11335427-0|FRA|Curncy||||||||||
 KWD FRA KIBOR 6x12||||IX11335431-0|FRA|Curncy||||||||||
+MUR FRA 12x15||||IX14084540-0|FRA|Curncy||||||||||
+MUR FRA 15x18||||IX14084544-0|FRA|Curncy||||||||||
+MUR FRA 18x21||||IX14084548-0|FRA|Curncy||||||||||
+MUR FRA 21x24||||IX14084552-0|FRA|Curncy||||||||||
+MUR FRA 3x6||||IX14084528-0|FRA|Curncy||||||||||
+MUR FRA 6x9||||IX14084532-0|FRA|Curncy||||||||||
+MUR FRA 9x12||||IX14084536-0|FRA|Curncy||||||||||
 MXN FRA             1X2||||IX411961-0|FRA|Curncy||||||||||
 MXN FRA             1X4||||IX411969-0|FRA|Curncy||||||||||
 MXN FRA             2X3||||IX411963-0|FRA|Curncy||||||||||
@@ -2010,6 +2031,13 @@ MYR FRA 12x15||||IX4487031-0|FRA|Curncy||||||||||
 MYR FRA 6x18||||IX4487023-0|FRA|Curncy||||||||||
 MYR FRA 6x24||||IX4487027-0|FRA|Curncy||||||||||
 NAME|ID_BB_SEC_NUM_DES|FEED_SOURCE|ID_BB_SEC_NUM_SRC|ID_BB_UNIQUE|SECURITY_TYP|MARKET_SECTOR_DES|ID_BB_GLOBAL|COMPOSITE_ID_BB_GLOBAL|FEED_EID1|FEED_EID2|FEED_EID3|FEED_EID4|FEED_DELAYED_EID1|Subscription String 1|Subscription String 2|Subscription String 3
+NGN FRA 12x15||||IX14084628-0|FRA|Curncy||||||||||
+NGN FRA 15x18||||IX14084636-0|FRA|Curncy||||||||||
+NGN FRA 18x21||||IX14084696-0|FRA|Curncy||||||||||
+NGN FRA 21x24||||IX14084700-0|FRA|Curncy||||||||||
+NGN FRA 3x6||||IX14084560-0|FRA|Curncy||||||||||
+NGN FRA 6x9||||IX14084620-0|FRA|Curncy||||||||||
+NGN FRA 9x12||||IX14084624-0|FRA|Curncy||||||||||
 NLG FRA             1X10||||IX511536-0|FRA|Curncy||||||||||
 NLG FRA             1X13||||IX295836-0|FRA|Curncy||||||||||
 NLG FRA             1X2||||IX511524-0|FRA|Curncy||||||||||
@@ -2574,6 +2602,13 @@ TWD FRA             6X9||||IX367883-0|FRA|Curncy||||||||||
 TWD FRA             7X10||||IX3789935-0|FRA|Curncy||||||||||
 TWD FRA             8X11||||IX3789939-0|FRA|Curncy||||||||||
 TWD FRA             9X12||||IX452037-0|FRA|Curncy||||||||||
+TZS FRA 12x15||||IX14082924-0|FRA|Curncy||||||||||
+TZS FRA 15x18||||IX14082928-0|FRA|Curncy||||||||||
+TZS FRA 18x21||||IX14082932-0|FRA|Curncy||||||||||
+TZS FRA 21x24||||IX14082936-0|FRA|Curncy||||||||||
+TZS FRA 3x6||||IX14082912-0|FRA|Curncy||||||||||
+TZS FRA 6x9||||IX14082916-0|FRA|Curncy||||||||||
+TZS FRA 9x12||||IX14082920-0|FRA|Curncy||||||||||
 UAH FRA 12x15||||IX5643350-0|FRA|Curncy||||||||||
 UAH FRA 15x18||||IX5643354-0|FRA|Curncy||||||||||
 UAH FRA 18x21||||IX5643358-0|FRA|Curncy||||||||||
@@ -2582,6 +2617,13 @@ UAH FRA 21x24||||IX5643366-0|FRA|Curncy||||||||||
 UAH FRA 3x6||||IX5643370-0|FRA|Curncy||||||||||
 UAH FRA 6x9||||IX5643374-0|FRA|Curncy||||||||||
 UAH FRA 9x12||||IX5643378-0|FRA|Curncy||||||||||
+UGX FRA 12x15||||IX14082868-0|FRA|Curncy||||||||||
+UGX FRA 15x18||||IX14082872-0|FRA|Curncy||||||||||
+UGX FRA 18x21||||IX14082876-0|FRA|Curncy||||||||||
+UGX FRA 21x24||||IX14082880-0|FRA|Curncy||||||||||
+UGX FRA 3x6||||IX14082856-0|FRA|Curncy||||||||||
+UGX FRA 6x9||||IX14082860-0|FRA|Curncy||||||||||
+UGX FRA 9x12||||IX14082864-0|FRA|Curncy||||||||||
 USD 1 MONTH FRA     6x7||||IX1481267-0|FRA|Curncy||||||||||
 USD 1 MONTH FRA     7x8||||IX1481271-0|FRA|Curncy||||||||||
 USD 1 MONTH FRA     8x9||||IX1481275-0|FRA|Curncy||||||||||
@@ -2944,3 +2986,10 @@ ZAR FRA IMM        22X25||||IX906188-0|FRA|Curncy||||||||||
 ZAR FRA IMM        25X28||||IX906192-0|FRA|Curncy||||||||||
 ZAR FRA IMM        28X31||||IX906196-0|FRA|Curncy||||||||||
 ZAR FRA IMM        31X34||||IX906200-0|FRA|Curncy||||||||||
+ZMK FRA 12x15||||IX14082896-0|FRA|Curncy||||||||||
+ZMK FRA 15x18||||IX14082900-0|FRA|Curncy||||||||||
+ZMK FRA 18x21||||IX14082904-0|FRA|Curncy||||||||||
+ZMK FRA 21x24||||IX14082908-0|FRA|Curncy||||||||||
+ZMK FRA 3x6||||IX14082884-0|FRA|Curncy||||||||||
+ZMK FRA 6x9||||IX14082888-0|FRA|Curncy||||||||||
+ZMK FRA 9x12||||IX14082892-0|FRA|Curncy||||||||||

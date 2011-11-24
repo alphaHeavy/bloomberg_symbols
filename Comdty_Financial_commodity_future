@@ -1,5 +1,5 @@
-#Data Generated At: Wed Nov 23 06:16:25 EST 2011
-#Data Records=6250
+#Data Generated At: Thu Nov 24 06:17:47 EST 2011
+#Data Records=6247
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -328,12 +328,6 @@
 2YR OTR TREASURY  Mar12|Z2H2|cCBT|9977233861461|IX13919033-0|Financial commodity future.|Comdty|BBG0027LB197||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2H2|//blp/mktdata/buid/cCBT/IX13919033-0|//blp/mktdata/bsid/9977233861461
 2YR OTR TREASURY  Mar12|Z2H2|eCBT|2113148742485|IX13919033-0|Financial commodity future.|Comdty|BBG0027LB197||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2H2|//blp/mktdata/buid/eCBT/IX13919033-0|//blp/mktdata/bsid/2113148742485
 2YR OTR TREASURY  Mar12|Z2H2|eCBT|2113148742485|IX13919033-0|Financial commodity future.|Comdty|BBG0027LB197||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2H2|//blp/mktdata/buid/eCBT/IX13919033-0|//blp/mktdata/bsid/2113148742485
-2YR OTR TREASURY  Nov11|Z2X1|CBT|575548680515|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2X1|//blp/mktdata/buid/CBT/IX13295400-0|//blp/mktdata/bsid/575548680515
-2YR OTR TREASURY  Nov11|Z2X1|CBT|575548680515|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z2X1|//blp/mktdata/buid/CBT/IX13295400-0|//blp/mktdata/bsid/575548680515
-2YR OTR TREASURY  Nov11|Z2X1|cCBT|9977232091459|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2X1|//blp/mktdata/buid/cCBT/IX13295400-0|//blp/mktdata/bsid/9977232091459
-2YR OTR TREASURY  Nov11|Z2X1|cCBT|9977232091459|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z2X1|//blp/mktdata/buid/cCBT/IX13295400-0|//blp/mktdata/bsid/9977232091459
-2YR OTR TREASURY  Nov11|Z2X1|eCBT|2113146972483|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2X1|//blp/mktdata/buid/eCBT/IX13295400-0|//blp/mktdata/bsid/2113146972483
-2YR OTR TREASURY  Nov11|Z2X1|eCBT|2113146972483|IX13295400-0|Financial commodity future.|Comdty|BBG001YNDM79||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z2X1|//blp/mktdata/buid/eCBT/IX13295400-0|//blp/mktdata/bsid/2113146972483
 2YR TIIE SWAP FU  Dec11|SWDZ1|MDX|1743776292238|IX11742558-0|Financial commodity future.|Comdty|BBG001CGM977||14153|47510|0||39567|//blp/mktdata/bsym/MDX/SWDZ1|//blp/mktdata/buid/MDX/IX11742558-0|//blp/mktdata/bsid/1743776292238
 2YR TIIE SWAP FU  Jun12|SWDM2|MDX|1743779044679|IX13009897-0|Financial commodity future.|Comdty|BBG001S0XNM5||14153|47510|0||39567|//blp/mktdata/bsym/MDX/SWDM2|//blp/mktdata/buid/MDX/IX13009897-0|//blp/mktdata/bsid/1743779044679
 2YR TIIE SWAP FU  Mar12|SWDH2|MDX|1743777490268|IX12323532-0|Financial commodity future.|Comdty|BBG001KTQ342||14153|47510|0||39567|//blp/mktdata/bsym/MDX/SWDH2|//blp/mktdata/buid/MDX/IX12323532-0|//blp/mktdata/bsid/1743777490268
@@ -1093,6 +1087,7 @@
 6MO BUBOR FUTURE  Mar13|BXH3|BSE|1103826160515|IX11741502-0|Financial commodity future.|Comdty|BBG001CGJBJ3||14116|14116|0||39547|//blp/mktdata/bsym/BSE/BXH3|//blp/mktdata/buid/BSE/IX11741502-0|//blp/mktdata/bsid/1103826160515
 6MO BUBOR FUTURE  Sep12|BXU2|BSE|1103823720099|IX10540821-0|Financial commodity future.|Comdty|BBG0011TF167||14116|14116|0||39547|//blp/mktdata/bsym/BSE/BXU2|//blp/mktdata/buid/BSE/IX10540821-0|//blp/mktdata/bsid/1103823720099
 6MO BUBOR FUTURE  Sep13|BXU3|BSE|1103828914102|IX13008725-0|Financial commodity future.|Comdty|BBG001S0TTK9||14116|14116|0||39547|//blp/mktdata/bsym/BSE/BXU3|//blp/mktdata/buid/BSE/IX13008725-0|//blp/mktdata/bsid/1103828914102
+6yr RU FedBond FutMar12|RFPH2|RTS|1769551724486|IX14082836-0|Financial commodity future.|Comdty|BBG00293VJ94||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFPH2|//blp/mktdata/buid/RTS/IX14082836-0|//blp/mktdata/bsid/1769551724486
 7 Year Swap Futur Dec11|J7Z1|CBT|575544991797|IX11676985-0|Financial commodity future.|Comdty|BBG001BDTHK5||14001|14001|0||39489|//blp/mktdata/bsym/CBT/J7Z1|//blp/mktdata/buid/CBT/IX11676985-0|//blp/mktdata/bsid/575544991797
 7 Year Swap Futur Dec11|J7Z1|CBT|575544991797|IX11676985-0|Financial commodity future.|Comdty|BBG001BDTHK5||14001|14001|0||39489|//blp/mktdata/bsym/CBT/J7Z1|//blp/mktdata/buid/CBT/IX11676985-0|//blp/mktdata/bsid/575544991797
 7 Year Swap Futur Dec11|J7Z1|cCBT|9977228402741|IX11676985-0|Financial commodity future.|Comdty|BBG001BDTHK5||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/J7Z1|//blp/mktdata/buid/cCBT/IX11676985-0|//blp/mktdata/bsid/9977228402741
@@ -2093,6 +2088,8 @@ Corn Base Quequen May12|VBWK2|cMBA|10011587932162|IX11520016-0|Financial commodi
 Corn Base Quequen May12|VBWK2|cMBA|10011587932162|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWK2|//blp/mktdata/buid/cMBA/IX11520016-0|//blp/mktdata/bsid/10011587932162
 Corn Base Quequen May12|VBWK2|eMBA|3362978557954|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWK2|//blp/mktdata/buid/eMBA/IX11520016-0|//blp/mktdata/bsid/3362978557954
 Corn Base Quequen May12|VBWK2|eMBA|3362978557954|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWK2|//blp/mktdata/buid/eMBA/IX11520016-0|//blp/mktdata/bsid/3362978557954
+Corn Base Quequen May13|VBWK3|||IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|||
+Corn Base Quequen May13|VBWK3|||IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|||
 Corn Base Quequen Nov11|VBWX1|MBA|1735183494837|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX1|//blp/mktdata/buid/MBA/IX10435950-0|//blp/mktdata/bsid/1735183494837
 Corn Base Quequen Nov11|VBWX1|MBA|1735183494837|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX1|//blp/mktdata/buid/MBA/IX10435950-0|//blp/mktdata/bsid/1735183494837
 Corn Base Quequen Nov11|VBWX1|cMBA|10011585474229|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWX1|//blp/mktdata/buid/cMBA/IX10435950-0|//blp/mktdata/bsid/10011585474229

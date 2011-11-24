@@ -1,4 +1,4 @@
-#Data Generated At: Wed Nov 23 06:33:55 EST 2011
+#Data Generated At: Thu Nov 24 06:35:05 EST 2011
 #Data Records=28776
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=CAPS & FLOORS
 9 CAP PRM STK 9.0 2.5Y||||IX3404598-0|CAPS & FLOORS|Curncy||||||||||
@@ -7064,12 +7064,6 @@ EUR CAP STRIKE      9 YR||||IX686206-0|CAPS & FLOORS|Curncy||||||||||
 EUR CAP STRIKE     18M||||IX2387778-0|CAPS & FLOORS|Curncy||||||||||
 EUR CAP STRIKE     1Y/3M||||IX699036-0|CAPS & FLOORS|Curncy||||||||||
 EUR CAP VOL         2 YR||||IX456695-0|CAPS & FLOORS|Curncy||||||||||
-EUR CAP VOL        11 YR||||IX448033-0|CAPS & FLOORS|Curncy||||||||||
-EUR CAP VOL        12 YR||||IX448037-0|CAPS & FLOORS|Curncy||||||||||
-EUR CAP VOL        13 YR||||IX448039-0|CAPS & FLOORS|Curncy||||||||||
-EUR CAP VOL        14 YR||||IX448041-0|CAPS & FLOORS|Curncy||||||||||
-EUR CAP VOL        15 YR||||IX448043-0|CAPS & FLOORS|Curncy||||||||||
-EUR CAP VOL        20 YR||||IX2443884-0|CAPS & FLOORS|Curncy||||||||||
 EUR CAP VOL FWD/FWD 5X6||||IX474739-0|CAPS & FLOORS|Curncy||||||||||
 EUR CAP VOL FWD/FWD 7X6||||IX474741-0|CAPS & FLOORS|Curncy||||||||||
 EUR CAP VOL STK 1.5 10Y||||IX1314839-0|CAPS & FLOORS|Curncy||||||||||
@@ -7644,7 +7638,6 @@ EUR Cap 10Y SPOT 7%||||IX791349-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 10Y SPOT 7.75%||||IX9838558-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 10Y SPOT 8%||||IX791377-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 10Y SPOT 9%||||IX791405-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 10Y SPOT||||IX442179-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 10Y11Y||||IX12007441-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 10Y11Y||||IX3713151-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 10Y11Y||||IX3713155-0|CAPS & FLOORS|Curncy||||||||||
@@ -7751,7 +7744,6 @@ EUR Cap 1Y SPOT 7.5% 3M||||IX11145556-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 1Y SPOT 7.75%||||IX9840422-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 1Y SPOT 8%||||IX791359-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 1Y SPOT 9%||||IX791387-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 1Y SPOT||||IX442167-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 1Y10Y||||IX3711951-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 1Y10Y||||IX3711955-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 1Y11Y||||IX3711963-0|CAPS & FLOORS|Curncy||||||||||
@@ -7820,7 +7812,6 @@ EUR Cap 20Y35Y||||IX3713559-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 20Y35Y||||IX3713563-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 20Y40Y||||IX3713571-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 20Y40Y||||IX3713575-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 25Y SPOT||||IX6741818-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 25Y26Y||||IX12007073-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 25Y26Y||||IX12007525-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 25Y30Y||||IX12007193-0|CAPS & FLOORS|Curncy||||||||||
@@ -7840,7 +7831,6 @@ EUR Cap 2Y SPOT 7%||||IX791333-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y SPOT 7.75%||||IX9836706-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y SPOT 8%||||IX791361-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y SPOT 9%||||IX791389-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 2Y SPOT||||IX442169-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y10Y||||IX3712083-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y10Y||||IX3712087-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y11Y||||IX3712095-0|CAPS & FLOORS|Curncy||||||||||
@@ -7868,7 +7858,6 @@ EUR Cap 2Y8Y||||IX3712059-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y8Y||||IX3712063-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y9Y||||IX3712071-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 2Y9Y||||IX3712075-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 30Y SPOT||||IX6741822-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 30Y31Y||||IX12007197-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 30Y31Y||||IX12007549-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 30Y35Y||||IX12007201-0|CAPS & FLOORS|Curncy||||||||||
@@ -7887,7 +7876,6 @@ EUR Cap 3Y SPOT 7%||||IX791335-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 3Y SPOT 7.75%||||IX9836710-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 3Y SPOT 8%||||IX791363-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 3Y SPOT 9%||||IX791391-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 3Y SPOT||||IX442171-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 3Y10Y||||IX3712215-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 3Y10Y||||IX3712219-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 3Y11Y||||IX3712227-0|CAPS & FLOORS|Curncy||||||||||
@@ -7929,7 +7917,6 @@ EUR Cap 4Y SPOT 7%||||IX791337-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 4Y SPOT 7.75%||||IX9840426-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 4Y SPOT 8%||||IX791365-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 4Y SPOT 9%||||IX791393-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 4Y SPOT||||IX442173-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 4Y10Y||||IX3712347-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 4Y10Y||||IX3712351-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 4Y11Y||||IX3712359-0|CAPS & FLOORS|Curncy||||||||||
@@ -7971,7 +7958,6 @@ EUR Cap 5Y SPOT 7%||||IX791339-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 5Y SPOT 7.75%||||IX9840430-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 5Y SPOT 8%||||IX791367-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 5Y SPOT 9%||||IX791395-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 5Y SPOT||||IX442175-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 5Y10Y||||IX13518926-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 5Y10Y||||IX3712479-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 5Y10Y||||IX3712483-0|CAPS & FLOORS|Curncy||||||||||
@@ -8013,7 +7999,6 @@ EUR Cap 6Y SPOT 7%||||IX791341-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 6Y SPOT 7.75%||||IX9838542-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 6Y SPOT 8%||||IX791369-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 6Y SPOT 9%||||IX791397-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 6Y SPOT||||IX448003-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 6Y10Y||||IX3712611-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 6Y10Y||||IX3712615-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 6Y11Y||||IX12007381-0|CAPS & FLOORS|Curncy||||||||||
@@ -8055,7 +8040,6 @@ EUR Cap 7Y SPOT 7%||||IX791343-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 7Y SPOT 7.75%||||IX9838546-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 7Y SPOT 8%||||IX791371-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 7Y SPOT 9%||||IX791399-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 7Y SPOT||||IX442177-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 7Y10Y||||IX13418429-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 7Y10Y||||IX3712743-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 7Y10Y||||IX3712747-0|CAPS & FLOORS|Curncy||||||||||
@@ -8097,7 +8081,6 @@ EUR Cap 8Y SPOT 7%||||IX791345-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 8Y SPOT 7.75%||||IX9838550-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 8Y SPOT 8%||||IX791373-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 8Y SPOT 9%||||IX791401-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 8Y SPOT||||IX448029-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 8Y10Y||||IX3712875-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 8Y10Y||||IX3712879-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 8Y11Y||||IX3712887-0|CAPS & FLOORS|Curncy||||||||||
@@ -8138,7 +8121,6 @@ EUR Cap 9Y SPOT 7%||||IX791347-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y SPOT 7.75%||||IX9838554-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y SPOT 8%||||IX791375-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y SPOT 9%||||IX791403-0|CAPS & FLOORS|Curncy||||||||||
-EUR Cap 9Y SPOT||||IX448031-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y10Y||||IX12007429-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y10Y||||IX3713007-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y10Y||||IX3713011-0|CAPS & FLOORS|Curncy||||||||||
@@ -8165,6 +8147,24 @@ EUR Cap 9Y24Y||||IX3713127-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y24Y||||IX3713131-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y29Y||||IX3713139-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap 9Y29Y||||IX3713143-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     10Y||||IX442179-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     11Y||||IX448033-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     12Y||||IX448037-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     13Y||||IX448039-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     14Y||||IX448041-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     15R||||IX448043-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     1Y||||IX442167-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     20Y||||IX2443884-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     25Y||||IX6741818-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     2Y||||IX442169-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     30Y||||IX6741822-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     3Y||||IX442171-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     4Y||||IX442173-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     5Y||||IX442175-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     6Y||||IX448003-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     7Y||||IX442177-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     8Y||||IX448029-0|CAPS & FLOORS|Curncy||||||||||
+EUR Cap BVOL ATM     9Y||||IX448031-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap Strk v12  10Y15Y||||IX13516994-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap Strk v12  10Y20Y||||IX13517002-0|CAPS & FLOORS|Curncy||||||||||
 EUR Cap Strk v12  15Y20Y||||IX13516998-0|CAPS & FLOORS|Curncy||||||||||
@@ -8363,6 +8363,22 @@ EUR FLOOR ATM       8 YR||||IX686282-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR ATM       9 YR||||IX686280-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR ATM      18 MO||||IX2394616-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR ATM      1Y/3M||||IX697404-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  1 YR||||IX442181-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  2 YR||||IX442183-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  3 YR||||IX442185-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  4 YR||||IX442187-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  5 YR||||IX442189-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  6 YR||||IX447985-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  7 YR||||IX442191-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  8 YR||||IX447989-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM  9 YR||||IX447987-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM 10 YR||||IX442193-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM 11 YR||||IX447993-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM 12 YR||||IX447991-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM 13 YR||||IX447997-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM 14 YR||||IX448001-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM 15 YR||||IX447999-0|CAPS & FLOORS|Curncy||||||||||
+EUR FLOOR BVOL ATM 20 YR||||IX2443896-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR PreStk1.0  4YR||||IX1642562-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR PreStk1.0  5YR||||IX1642570-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR PreStk1.0  6YR||||IX1642574-0|CAPS & FLOORS|Curncy||||||||||
@@ -8627,22 +8643,6 @@ EUR FLOOR STRIKE    8 YR||||IX686260-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR STRIKE    9 YR||||IX686262-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR STRIKE   1Y/3M||||IX697706-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR STRIKE   1Y/6M||||IX2387782-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       1 YR||||IX442181-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       2 YR||||IX442183-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       3 YR||||IX442185-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       4 YR||||IX442187-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       5 YR||||IX442189-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       6 YR||||IX447985-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       7 YR||||IX442191-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       8 YR||||IX447989-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL       9 YR||||IX447987-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL      10 YR||||IX442193-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL      11 YR||||IX447993-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL      12 YR||||IX447991-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL      13 YR||||IX447997-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL      14 YR||||IX448001-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL      15 YR||||IX447999-0|CAPS & FLOORS|Curncy||||||||||
-EUR FLOOR VOL      20 YR||||IX2443896-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR VolStk1.0  2YR||||IX1642550-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR VolStk1.0  3YR||||IX1642558-0|CAPS & FLOORS|Curncy||||||||||
 EUR FLOOR VolStk1.0 1YR||||IX1642546-0|CAPS & FLOORS|Curncy||||||||||

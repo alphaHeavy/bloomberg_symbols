@@ -1,5 +1,5 @@
-#Data Generated At: Wed Nov 23 06:35:06 EST 2011
-#Data Records=13078
+#Data Generated At: Thu Nov 24 06:36:26 EST 2011
+#Data Records=13245
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -5407,20 +5407,6 @@ EUR-LVL SWAP     6Y||||IX11187026-0|SWAP|Curncy||||||||||
 EUR-LVL SWAP     7Y||||IX11187030-0|SWAP|Curncy||||||||||
 EUR-LVL SWAP     8Y||||IX11187034-0|SWAP|Curncy||||||||||
 EUR-LVL SWAP     9Y||||IX11187038-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SP 10Y10Y||||IX1352663-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SP 12Y12Y||||IX1352659-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SP 15Y15Y||||IX1352655-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SP 20Y20Y||||IX1352651-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SP 25Y25Y||||IX1352647-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SP 30Y30Y||||IX1352643-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 2YX2Y||||IX1352671-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 3YX3Y||||IX1352675-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 4YX4Y||||IX1352679-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 5YX5Y||||IX1352683-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 6YX6Y||||IX1352687-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 7YX7Y||||IX1352691-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 8YX8Y||||IX1352695-0|SWAP|Curncy||||||||||
-EUR-NOK X-SWAP SPR 9YX9Y||||IX1352699-0|SWAP|Curncy||||||||||
 EUR-RON SWAP        1 YR||||IX3220774-0|SWAP|Curncy||||||||||
 EUR-RON SWAP        2 YR||||IX3220778-0|SWAP|Curncy||||||||||
 EUR-RON SWAP        3 YR||||IX3220782-0|SWAP|Curncy||||||||||
@@ -5841,6 +5827,146 @@ FRTR 8 1/2  10/25/19 ASW6||||IX4738324-0|SWAP|Curncy||||||||||
 FRTR 8 1/2  12/26/12 ASW3||||IX12580710-0|SWAP|Curncy||||||||||
 FRTR 8 1/2  12/26/12 ASW6||||IX4738280-0|SWAP|Curncy||||||||||
 FRTR 8 1/4  04/25/22 ASW6||||IX4738332-0|SWAP|Curncy||||||||||
+GBP INFL SW FL   -1%  2Y||||IX8493444-0|SWAP|Curncy||||||||||
+GBP INFL SW FL   -1%  5Y||||IX8493452-0|SWAP|Curncy||||||||||
+GBP INFL SW FL   -1%  7Y||||IX8501345-0|SWAP|Curncy||||||||||
+GBP INFL SW FL   -1% 10Y||||IX8501349-0|SWAP|Curncy||||||||||
+GBP INFL SW FL   -1% 15Y||||IX8501353-0|SWAP|Curncy||||||||||
+GBP INFL SW FL   -1% 20Y||||IX8501365-0|SWAP|Curncy||||||||||
+GBP INFL SW FL   -1% 30Y||||IX8501361-0|SWAP|Curncy||||||||||
+GBP INFL SW FL -0.5%  2Y||||IX8493408-0|SWAP|Curncy||||||||||
+GBP INFL SW FL -0.5%  5Y||||IX8493416-0|SWAP|Curncy||||||||||
+GBP INFL SW FL -0.5%  7Y||||IX8493420-0|SWAP|Curncy||||||||||
+GBP INFL SW FL -0.5% 10Y||||IX8493424-0|SWAP|Curncy||||||||||
+GBP INFL SW FL -0.5% 15Y||||IX8493428-0|SWAP|Curncy||||||||||
+GBP INFL SW FL -0.5% 20Y||||IX8493432-0|SWAP|Curncy||||||||||
+GBP INFL SW FL -0.5% 30Y||||IX8493440-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.0%  2Y||||IX8493260-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.0%  5Y||||IX8493268-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.0%  7Y||||IX8493272-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.0% 10Y||||IX8493276-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.0% 15Y||||IX8493280-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.0% 20Y||||IX8493284-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.0% 30Y||||IX8493292-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.5%  2Y||||IX8493252-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.5%  5Y||||IX5548895-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.5%  7Y||||IX5548899-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.5% 10Y||||IX5548903-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.5% 15Y||||IX5548907-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.5% 20Y||||IX5548911-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 2.5% 30Y||||IX5548915-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.0%  2Y||||IX8493196-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.0%  5Y||||IX4216926-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.0%  7Y||||IX4231140-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.0% 10Y||||IX4216934-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.0% 15Y||||IX4216938-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.0% 20Y||||IX4216942-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.0% 30Y||||IX4216946-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.5%  2Y||||IX8493220-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.5%  5Y||||IX4216954-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.5%  7Y||||IX4231148-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.5% 10Y||||IX4216962-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.5% 15Y||||IX4216966-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.5% 20Y||||IX4216970-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 3.5% 30Y||||IX4216974-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.0%  2Y||||IX8493200-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.0%  5Y||||IX4216982-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.0%  7Y||||IX4231156-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.0% 10Y||||IX4216990-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.0% 15Y||||IX4216994-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.0% 20Y||||IX4216998-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.0% 30Y||||IX4217002-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.5%  2Y||||IX9480529-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.5%  5Y||||IX4217010-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.5%  7Y||||IX4231136-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.5% 10Y||||IX4217018-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.5% 15Y||||IX4217022-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.5% 20Y||||IX4217026-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 4.5% 30Y||||IX4217030-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.0%  2Y||||IX8493208-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.0%  5Y||||IX4217038-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.0%  7Y||||IX4231144-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.0% 10Y||||IX4217046-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.0% 15Y||||IX4217058-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.0% 20Y||||IX4217050-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.0% 30Y||||IX4217054-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.5%  2Y||||IX9480553-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.5%  5Y||||IX9480561-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.5%  7Y||||IX9480565-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.5% 10Y||||IX9480569-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.5% 15Y||||IX9480577-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.5% 20Y||||IX9480581-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 5.5% 30Y||||IX9480585-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 6.0%  2Y||||IX8776757-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 6.0%  5Y||||IX4217066-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 6.0%  7Y||||IX4231152-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 6.0% 10Y||||IX4217074-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 6.0% 15Y||||IX4217078-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 6.0% 20Y||||IX4217082-0|SWAP|Curncy||||||||||
+GBP INFL SWP CP 6.0% 30Y||||IX4217086-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.0%  2Y||||IX8493364-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.0%  5Y||||IX4217094-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.0%  7Y||||IX4230172-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.0% 10Y||||IX4217102-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.0% 15Y||||IX4217106-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.0% 20Y||||IX4217110-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.0% 30Y||||IX4217114-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.5%  2Y||||IX8493376-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.5%  5Y||||IX8493380-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.5%  7Y||||IX8493384-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.5% 10Y||||IX8493388-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.5% 15Y||||IX8493392-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.5% 20Y||||IX8493396-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 0.5% 30Y||||IX8493404-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.0%  2Y||||IX8493352-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.0%  5Y||||IX4217122-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.0%  7Y||||IX4231012-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.0% 10Y||||IX4217130-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.0% 15Y||||IX4217142-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.0% 20Y||||IX4217134-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.0% 30Y||||IX4217138-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.5%  2Y||||IX8493144-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.5%  5Y||||IX4217150-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.5%  7Y||||IX4231016-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.5% 10Y||||IX4217158-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.5% 15Y||||IX4217178-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.5% 20Y||||IX4217162-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 1.5% 30Y||||IX4217166-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.0%  2Y||||IX8493152-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.0%  5Y||||IX4217186-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.0%  7Y||||IX4231020-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.0% 10Y||||IX4217194-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.0% 15Y||||IX4217198-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.0% 20Y||||IX4217202-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.0% 30Y||||IX4217206-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.5%  2Y||||IX8493156-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.5%  5Y||||IX4217214-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.5%  7Y||||IX4231024-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.5% 10Y||||IX4217222-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.5% 15Y||||IX4217234-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.5% 20Y||||IX4217226-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 2.5% 30Y||||IX4217230-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.0%  2Y||||IX8779418-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.0%  5Y||||IX4217242-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.0%  7Y||||IX4231028-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.0% 10Y||||IX4217250-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.0% 15Y||||IX4217254-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.0% 20Y||||IX4217258-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.0% 30Y||||IX4217262-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.5%  2Y||||IX9480605-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.5%  5Y||||IX5548867-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.5%  7Y||||IX5548871-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.5% 10Y||||IX5548875-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.5% 15Y||||IX5548879-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.5% 20Y||||IX5548883-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 3.5% 30Y||||IX5548887-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 4.0%  2Y||||IX9480793-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 4.0%  5Y||||IX9480801-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 4.0%  7Y||||IX9480805-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 4.0% 10Y||||IX9480809-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 4.0% 15Y||||IX9480817-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 4.0% 20Y||||IX9480821-0|SWAP|Curncy||||||||||
+GBP INFL SWP FL 4.0% 30Y||||IX9480825-0|SWAP|Curncy||||||||||
 GBP SEMI-AN 10Y V 3M LIB||||IX3638621-0|SWAP|Curncy||||||||||
 GBP SEMI-AN 11Y V 3M LIB||||IX3638653-0|SWAP|Curncy||||||||||
 GBP SEMI-AN 12M V 3M LIB||||IX3638581-0|SWAP|Curncy||||||||||
@@ -6215,6 +6341,7 @@ GBP SWP ANN.Vs 3M LIB7MO||||IX9443484-0|SWAP|Curncy||||||||||
 GBP SWP ANN.Vs 3M LIB8MO||||IX9443488-0|SWAP|Curncy||||||||||
 GBP SWP ANN.Vs 3M LIB9MO||||IX9443492-0|SWAP|Curncy||||||||||
 GBP TI 0.625% MAR 40 ASW||||IX10019075-0|SWAP|Curncy||||||||||
+GBP TII 0.125% MAR29 ASW||||IX14082800-0|SWAP|Curncy||||||||||
 GBP TII 0.5% MAR50 ASW||||IX9537615-0|SWAP|Curncy||||||||||
 GBP TII 0.625% NOV42 ASW||||IX9190148-0|SWAP|Curncy||||||||||
 GBP TII 0.75%  NOV47 ASW||||IX5643510-0|SWAP|Curncy||||||||||
@@ -6296,6 +6423,12 @@ GGB Float  07/05/18 ASW6||||IX11261102-0|SWAP|Curncy||||||||||
 GGB Float 02/04/15 ASW6||||IX11910029-0|SWAP|Curncy||||||||||
 GGB Float 04/11/16 ASW6||||IX11910049-0|SWAP|Curncy||||||||||
 GGB Float 2/04/2015 ASW6||||IX10204429-0|SWAP|Curncy||||||||||
+GHS SWAP 10YR||||IX14085976-0|SWAP|Curncy||||||||||
+GHS SWAP 11YR||||IX14085980-0|SWAP|Curncy||||||||||
+GHS SWAP 12YR||||IX14085984-0|SWAP|Curncy||||||||||
+GHS SWAP 13YR||||IX14085988-0|SWAP|Curncy||||||||||
+GHS SWAP 14YR||||IX14085992-0|SWAP|Curncy||||||||||
+GHS SWAP 15YR||||IX14085996-0|SWAP|Curncy||||||||||
 GHS SWAP 1W||||IX9517494-0|SWAP|Curncy||||||||||
 GHS SWAP 1YR||||IX11692520-0|SWAP|Curncy||||||||||
 GHS SWAP 1YR||||IX9517514-0|SWAP|Curncy||||||||||
@@ -6306,6 +6439,10 @@ GHS SWAP 3W||||IX9517502-0|SWAP|Curncy||||||||||
 GHS SWAP 3YR||||IX11692528-0|SWAP|Curncy||||||||||
 GHS SWAP 4YR||||IX11692532-0|SWAP|Curncy||||||||||
 GHS SWAP 5YR||||IX11692536-0|SWAP|Curncy||||||||||
+GHS SWAP 6YR||||IX14085960-0|SWAP|Curncy||||||||||
+GHS SWAP 7YR||||IX14085964-0|SWAP|Curncy||||||||||
+GHS SWAP 8YR||||IX14085968-0|SWAP|Curncy||||||||||
+GHS SWAP 9YR||||IX14085972-0|SWAP|Curncy||||||||||
 GHS SWAP VS LIBOR 1YR||||IX11692600-0|SWAP|Curncy||||||||||
 GHS SWAP VS LIBOR 2YR||||IX11692604-0|SWAP|Curncy||||||||||
 GHS SWAP VS LIBOR 3YR||||IX11692608-0|SWAP|Curncy||||||||||
@@ -7570,6 +7707,11 @@ KES SWAP            7 YR||||IX1467500-0|SWAP|Curncy||||||||||
 KES SWAP            8 YR||||IX1467504-0|SWAP|Curncy||||||||||
 KES SWAP            9 YR||||IX1467508-0|SWAP|Curncy||||||||||
 KES SWAP           10 YR||||IX1467512-0|SWAP|Curncy||||||||||
+KES SWAP           11 YR||||IX14085052-0|SWAP|Curncy||||||||||
+KES SWAP           12 YR||||IX14085064-0|SWAP|Curncy||||||||||
+KES SWAP           13 YR||||IX14085068-0|SWAP|Curncy||||||||||
+KES SWAP           14 YR||||IX14085072-0|SWAP|Curncy||||||||||
+KES SWAP           15 YR||||IX14085076-0|SWAP|Curncy||||||||||
 KES SWAP VS LIBOR 1YR||||IX11692620-0|SWAP|Curncy||||||||||
 KES SWAP VS LIBOR 2YR||||IX11692624-0|SWAP|Curncy||||||||||
 KES SWAP VS LIBOR 3YR||||IX11692628-0|SWAP|Curncy||||||||||
@@ -10062,11 +10204,21 @@ TWD-USD X-CCY SWAP  7 YR||||IX369575-0|SWAP|Curncy||||||||||
 TWD-USD X-CCY SWAP  8 YR||||IX3215850-0|SWAP|Curncy||||||||||
 TWD-USD X-CCY SWAP  9 YR||||IX3215858-0|SWAP|Curncy||||||||||
 TWD-USD X-CCY SWAP 10 YR||||IX369573-0|SWAP|Curncy||||||||||
+TZS SWAP 10YR||||IX14085908-0|SWAP|Curncy||||||||||
+TZS SWAP 11YR||||IX14085912-0|SWAP|Curncy||||||||||
+TZS SWAP 12YR||||IX14085916-0|SWAP|Curncy||||||||||
+TZS SWAP 13YR||||IX14085920-0|SWAP|Curncy||||||||||
+TZS SWAP 14YR||||IX14085924-0|SWAP|Curncy||||||||||
+TZS SWAP 15YR||||IX14085928-0|SWAP|Curncy||||||||||
 TZS SWAP 1YR||||IX11692560-0|SWAP|Curncy||||||||||
 TZS SWAP 2YR||||IX11692564-0|SWAP|Curncy||||||||||
 TZS SWAP 3YR||||IX11692568-0|SWAP|Curncy||||||||||
 TZS SWAP 4YR||||IX11692572-0|SWAP|Curncy||||||||||
 TZS SWAP 5YR||||IX11692576-0|SWAP|Curncy||||||||||
+TZS SWAP 6YR||||IX14085892-0|SWAP|Curncy||||||||||
+TZS SWAP 7YR||||IX14085896-0|SWAP|Curncy||||||||||
+TZS SWAP 8YR||||IX14085900-0|SWAP|Curncy||||||||||
+TZS SWAP 9YR||||IX14085904-0|SWAP|Curncy||||||||||
 TZS SWAP VS LIBOR 1YR||||IX11692680-0|SWAP|Curncy||||||||||
 TZS SWAP VS LIBOR 2YR||||IX11692684-0|SWAP|Curncy||||||||||
 TZS SWAP VS LIBOR 3YR||||IX11692688-0|SWAP|Curncy||||||||||
@@ -10129,11 +10281,21 @@ UF vs CAMARA SWAP    7YR||||IX1211251-0|SWAP|Curncy||||||||||
 UF vs CAMARA SWAP    8YR||||IX1649172-0|SWAP|Curncy||||||||||
 UF vs CAMARA SWAP    9YR||||IX1649176-0|SWAP|Curncy||||||||||
 UF vs CAMARA SWAP   18MO||||IX9858454-0|SWAP|Curncy||||||||||
+UGX SWAP 10YR||||IX14085116-0|SWAP|Curncy||||||||||
+UGX SWAP 11YR||||IX14085120-0|SWAP|Curncy||||||||||
+UGX SWAP 12YR||||IX14085124-0|SWAP|Curncy||||||||||
+UGX SWAP 13YR||||IX14085128-0|SWAP|Curncy||||||||||
+UGX SWAP 14YR||||IX14085132-0|SWAP|Curncy||||||||||
+UGX SWAP 15YR||||IX14085136-0|SWAP|Curncy||||||||||
 UGX SWAP 1YR||||IX11692580-0|SWAP|Curncy||||||||||
 UGX SWAP 2YR||||IX11692584-0|SWAP|Curncy||||||||||
 UGX SWAP 3YR||||IX11692588-0|SWAP|Curncy||||||||||
 UGX SWAP 4YR||||IX11692592-0|SWAP|Curncy||||||||||
 UGX SWAP 5YR||||IX11692596-0|SWAP|Curncy||||||||||
+UGX SWAP 6YR||||IX14085100-0|SWAP|Curncy||||||||||
+UGX SWAP 7YR||||IX14085104-0|SWAP|Curncy||||||||||
+UGX SWAP 8YR||||IX14085108-0|SWAP|Curncy||||||||||
+UGX SWAP 9YR||||IX14085112-0|SWAP|Curncy||||||||||
 UGX SWAP VS LIBOR 1YR||||IX11692700-0|SWAP|Curncy||||||||||
 UGX SWAP VS LIBOR 2YR||||IX11692704-0|SWAP|Curncy||||||||||
 UGX SWAP VS LIBOR 3YR||||IX11692708-0|SWAP|Curncy||||||||||
@@ -13066,6 +13228,11 @@ ZAR SWAP VS LIBOR 8YR||||IX11692768-0|SWAP|Curncy||||||||||
 ZAR SWAP VS LIBOR 9YR||||IX11692772-0|SWAP|Curncy||||||||||
 ZMK SWAP            1 YR||||IX5645971-0|SWAP|Curncy||||||||||
 ZMK SWAP            10YR||||IX5646007-0|SWAP|Curncy||||||||||
+ZMK SWAP            11YR||||IX14085864-0|SWAP|Curncy||||||||||
+ZMK SWAP            12YR||||IX14085868-0|SWAP|Curncy||||||||||
+ZMK SWAP            13YR||||IX14085872-0|SWAP|Curncy||||||||||
+ZMK SWAP            14YR||||IX14085880-0|SWAP|Curncy||||||||||
+ZMK SWAP            15YR||||IX14085884-0|SWAP|Curncy||||||||||
 ZMK SWAP            18MO||||IX5645967-0|SWAP|Curncy||||||||||
 ZMK SWAP            2 YR||||IX5645975-0|SWAP|Curncy||||||||||
 ZMK SWAP            3 YR||||IX5645979-0|SWAP|Curncy||||||||||
