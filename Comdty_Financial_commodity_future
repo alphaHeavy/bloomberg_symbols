@@ -1,5 +1,5 @@
-#Data Generated At: Thu Nov 24 06:17:47 EST 2011
-#Data Records=6247
+#Data Generated At: Fri Nov 25 06:16:07 EST 2011
+#Data Records=6236
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -1028,12 +1028,6 @@
 5YR OTR TREASURY  Mar12|Z5H2|cCBT|9977233861487|IX13919045-0|Financial commodity future.|Comdty|BBG0027LB1L3||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5H2|//blp/mktdata/buid/cCBT/IX13919045-0|//blp/mktdata/bsid/9977233861487
 5YR OTR TREASURY  Mar12|Z5H2|eCBT|2113148742511|IX13919045-0|Financial commodity future.|Comdty|BBG0027LB1L3||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5H2|//blp/mktdata/buid/eCBT/IX13919045-0|//blp/mktdata/bsid/2113148742511
 5YR OTR TREASURY  Mar12|Z5H2|eCBT|2113148742511|IX13919045-0|Financial commodity future.|Comdty|BBG0027LB1L3||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5H2|//blp/mktdata/buid/eCBT/IX13919045-0|//blp/mktdata/bsid/2113148742511
-5YR OTR TREASURY  Nov11|Z5X1|CBT|575548680571|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5X1|//blp/mktdata/buid/CBT/IX13295412-0|//blp/mktdata/bsid/575548680571
-5YR OTR TREASURY  Nov11|Z5X1|CBT|575548680571|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/CBT/Z5X1|//blp/mktdata/buid/CBT/IX13295412-0|//blp/mktdata/bsid/575548680571
-5YR OTR TREASURY  Nov11|Z5X1|cCBT|9977232091515|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5X1|//blp/mktdata/buid/cCBT/IX13295412-0|//blp/mktdata/bsid/9977232091515
-5YR OTR TREASURY  Nov11|Z5X1|cCBT|9977232091515|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/cCBT/Z5X1|//blp/mktdata/buid/cCBT/IX13295412-0|//blp/mktdata/bsid/9977232091515
-5YR OTR TREASURY  Nov11|Z5X1|eCBT|2113146972539|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5X1|//blp/mktdata/buid/eCBT/IX13295412-0|//blp/mktdata/bsid/2113146972539
-5YR OTR TREASURY  Nov11|Z5X1|eCBT|2113146972539|IX13295412-0|Financial commodity future.|Comdty|BBG001YNDMB4||14001|14001|0||39489|//blp/mktdata/bsym/eCBT/Z5X1|//blp/mktdata/buid/eCBT/IX13295412-0|//blp/mktdata/bsid/2113146972539
 5YR SWAP FUT AON  Dec11|QDZ1|||IX12296120-0|Financial commodity future.|Comdty|BBG001KR2KH0||14001|14001|0||39489|||
 5YR SWAP FUT AON  Dec11|QDZ1|||IX12296120-0|Financial commodity future.|Comdty|BBG001KR2KH0||14001|14001|0||39489|||
 5YR SWAP FUT AON  Jun12|QDM2|||IX13612825-0|Financial commodity future.|Comdty|BBG002405D88||14001|14001|0||39489|||
@@ -2090,12 +2084,6 @@ Corn Base Quequen May12|VBWK2|eMBA|3362978557954|IX11520016-0|Financial commodit
 Corn Base Quequen May12|VBWK2|eMBA|3362978557954|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWK2|//blp/mktdata/buid/eMBA/IX11520016-0|//blp/mktdata/bsid/3362978557954
 Corn Base Quequen May13|VBWK3|||IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|||
 Corn Base Quequen May13|VBWK3|||IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|||
-Corn Base Quequen Nov11|VBWX1|MBA|1735183494837|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX1|//blp/mktdata/buid/MBA/IX10435950-0|//blp/mktdata/bsid/1735183494837
-Corn Base Quequen Nov11|VBWX1|MBA|1735183494837|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX1|//blp/mktdata/buid/MBA/IX10435950-0|//blp/mktdata/bsid/1735183494837
-Corn Base Quequen Nov11|VBWX1|cMBA|10011585474229|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWX1|//blp/mktdata/buid/cMBA/IX10435950-0|//blp/mktdata/bsid/10011585474229
-Corn Base Quequen Nov11|VBWX1|cMBA|10011585474229|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWX1|//blp/mktdata/buid/cMBA/IX10435950-0|//blp/mktdata/bsid/10011585474229
-Corn Base Quequen Nov11|VBWX1|eMBA|3362976100021|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWX1|//blp/mktdata/buid/eMBA/IX10435950-0|//blp/mktdata/bsid/3362976100021
-Corn Base Quequen Nov11|VBWX1|eMBA|3362976100021|IX10435950-0|Financial commodity future.|Comdty|BBG0010RY848||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWX1|//blp/mktdata/buid/eMBA/IX10435950-0|//blp/mktdata/bsid/3362976100021
 Corn Base Quequen Nov12|VBWX2|MBA|1735188686103|IX12792973-0|Financial commodity future.|Comdty|BBG001Q7M2Q6||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX2|//blp/mktdata/buid/MBA/IX12792973-0|//blp/mktdata/bsid/1735188686103
 Corn Base Quequen Nov12|VBWX2|MBA|1735188686103|IX12792973-0|Financial commodity future.|Comdty|BBG001Q7M2Q6||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX2|//blp/mktdata/buid/MBA/IX12792973-0|//blp/mktdata/bsid/1735188686103
 Corn Base Quequen Nov12|VBWX2|cMBA|10011590665495|IX12792973-0|Financial commodity future.|Comdty|BBG001Q7M2Q6||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWX2|//blp/mktdata/buid/cMBA/IX12792973-0|//blp/mktdata/bsid/10011590665495
@@ -4773,12 +4761,12 @@ NORDPOOL EUA FUTS Mar12|FUAH2|NPE|14684510155640|IX10479882-0|Financial commodit
 NORDPOOL EUA FUTS Mar13|FUAH3|NPE|14684510155651|IX10479914-0|Financial commodity future.|Comdty|BBG0011DBXT1||27805|27805|0||40170|//blp/mktdata/bsym/NPE/FUAH3|//blp/mktdata/buid/NPE/IX10479914-0|//blp/mktdata/bsid/14684510155651
 NORDPOOL EUA FUTS Sep12|FUAU2|NPE|14684510155642|IX10479890-0|Financial commodity future.|Comdty|BBG0011D9TJ4||27805|27805|0||40170|//blp/mktdata/bsym/NPE/FUAU2|//blp/mktdata/buid/NPE/IX10479890-0|//blp/mktdata/bsid/14684510155642
 NOX Annual V 2011 Dec11|YQAZ1|eGEV|19142674402196|IX6161525-0|Financial commodity future.|Comdty|BBG000QQ9JN7||43448|43448|0||43449|//blp/mktdata/bsym/eGEV/YQAZ1|//blp/mktdata/buid/eGEV/IX6161525-0|//blp/mktdata/bsid/19142674402196
+NSE 91 Day T-bill Apr12|JJBJ2|NSE|1760961793224|IX14084976-0|Financial commodity future.|Comdty|BBG002940SG8||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBJ2|//blp/mktdata/buid/NSE/IX14084976-0|//blp/mktdata/bsid/1760961793224
 NSE 91 Day T-bill Dec11|JJBZ1|NSE|1760958970209|IX13048377-0|Financial commodity future.|Comdty|BBG001V7N3R6||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBZ1|//blp/mktdata/buid/NSE/IX13048377-0|//blp/mktdata/bsid/1760958970209
 NSE 91 Day T-bill Feb12|JJBG2|NSE|1760961299609|IX13850468-0|Financial commodity future.|Comdty|BBG00271Q435||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBG2|//blp/mktdata/buid/NSE/IX13850468-0|//blp/mktdata/bsid/1760961299609
 NSE 91 Day T-bill Jan12|JJBF2|NSE|1760960835130|IX13673321-0|Financial commodity future.|Comdty|BBG0024MYPR0||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBF2|//blp/mktdata/buid/NSE/IX13673321-0|//blp/mktdata/bsid/1760960835130
 NSE 91 Day T-bill Jun12|JJBM2|NSE|1760961118070|IX13800698-0|Financial commodity future.|Comdty|BBG0025X32T8||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBM2|//blp/mktdata/buid/NSE/IX13800698-0|//blp/mktdata/bsid/1760961118070
 NSE 91 Day T-bill Mar12|JJBH2|NSE|1760961118069|IX13800670-0|Financial commodity future.|Comdty|BBG0025X2Y37||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBH2|//blp/mktdata/buid/NSE/IX13800670-0|//blp/mktdata/bsid/1760961118069
-NSE 91 Day T-bill Nov11|JJBX1|NSE|1760959534640|IX13800598-0|Financial commodity future.|Comdty|BBG001Y70FS0||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JJBX1|//blp/mktdata/buid/NSE/IX13800598-0|//blp/mktdata/bsid/1760959534640
 NSE I/R Future    Dec11|JKZ1|NSE|1760958964282|IX13044138-0|Financial commodity future.|Comdty|BBG001V6MLG1||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JKZ1|//blp/mktdata/buid/NSE/IX13044138-0|//blp/mktdata/bsid/1760958964282
 NSE I/R Future    Mar12|JKH2|NSE|1760960834031|IX13673229-0|Financial commodity future.|Comdty|BBG0024MYNM0||40371|40372|0||40763|//blp/mktdata/bsym/NSE/JKH2|//blp/mktdata/buid/NSE/IX13673229-0|//blp/mktdata/bsid/1760960834031
 NY 1% v GC 3%     Apr12|VRAJ2|NYM|1614917813349|IX8736928-0|Financial commodity future.|Comdty|BBG000XTPX45||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VRAJ2|//blp/mktdata/buid/NYM/IX8736928-0|//blp/mktdata/bsid/1614917813349
@@ -5208,6 +5196,7 @@ ONE-DAY BANK DEP  Apr14|ODJ4|eBMF|2074470379409|IX4184794-0|Financial commodity 
 ONE-DAY BANK DEP  Apr15|ODJ5|eBMF|2074477218090|IX7818163-0|Financial commodity future.|Comdty|BBG000X7H197||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODJ5|//blp/mktdata/buid/eBMF/IX7818163-0|//blp/mktdata/bsid/2074477218090
 ONE-DAY BANK DEP  Apr16|ODJ6|eBMF|2074488826587|IX12012898-0|Financial commodity future.|Comdty|BBG001HSG7H6||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODJ6|//blp/mktdata/buid/eBMF/IX12012898-0|//blp/mktdata/bsid/2074488826587
 ONE-DAY BANK DEP  Apr17|ODJ17|eBMF|2074486651476|IX10605301-0|Financial commodity future.|Comdty|BBG0012HJT85||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODJ17|//blp/mktdata/buid/eBMF/IX10605301-0|//blp/mktdata/bsid/2074486651476
+ONE-DAY BANK DEP  Apr18|ODJ18|eBMF|2074494420717|IX14089428-0|Financial commodity future.|Comdty|BBG00295X0F1||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODJ18|//blp/mktdata/buid/eBMF/IX14089428-0|//blp/mktdata/bsid/2074494420717
 ONE-DAY BANK DEP  Dec11|ODZ1|eBMF|2074492192580|IX13259019-0|Financial commodity future.|Comdty|BBG001YCZ2K8||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODZ1|//blp/mktdata/buid/eBMF/IX13259019-0|//blp/mktdata/bsid/2074492192580
 ONE-DAY BANK DEP  Feb12|ODG2|eBMF|2074493499379|IX13691253-0|Financial commodity future.|Comdty|BBG0024TZCR3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODG2|//blp/mktdata/buid/eBMF/IX13691253-0|//blp/mktdata/bsid/2074493499379
 ONE-DAY BANK DEP  Jan12|ODF2|eBMF|2074469543917|IX1863599-0|Financial commodity future.|Comdty|BBG000PVGDD3||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/ODF2|//blp/mktdata/buid/eBMF/IX1863599-0|//blp/mktdata/bsid/2074469543917
