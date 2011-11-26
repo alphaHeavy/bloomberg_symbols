@@ -1,5 +1,5 @@
-#Data Generated At: Fri Nov 25 06:47:05 EST 2011
-#Data Records=460
+#Data Generated At: Sat Nov 26 06:34:46 EST 2011
+#Data Records=461
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Dec11|AEAZ1|LIF|609910464702|IX14052437-0|Financial index future.|Index|BBG0028DRRR0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAZ1|//blp/mktdata/buid/LIF/IX14052437-0|//blp/mktdata/bsid/609910464702
@@ -49,6 +49,7 @@ CAC 3MO VAR       Dec11|CAYZ1|LIF|609909399559|IX13594954-0|Financial index futu
 CBOE MINI VIX FUT Dec11|MVIZ1|CBF|773118225165|IX13622746-0|Financial index future.|Index|BBG00242FHH4||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIZ1|//blp/mktdata/buid/CBF/IX13622746-0|//blp/mktdata/bsid/773118225165
 CBOE MINI VIX FUT Feb12|MVIG2|CBF|773119110697|IX14025442-0|Financial index future.|Index|BBG00284WZD1||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIG2|//blp/mktdata/buid/CBF/IX14025442-0|//blp/mktdata/bsid/773119110697
 CBOE MINI VIX FUT Jan12|MVIF2|CBF|773118639964|IX13803226-0|Financial index future.|Index|BBG0025XBG27||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIF2|//blp/mktdata/buid/CBF/IX13803226-0|//blp/mktdata/bsid/773118639964
+CNX Infra Index ftJan12|CNIF2|||IX14089894-0|Financial index future.|Index|||29654|29655|0||39638|||
 COLCAP Index Fut  Dec11|CAPZ1|CDE|7679420795778|IX11594528-0|Financial index future.|Index|BBG0019VM6F5||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPZ1|//blp/mktdata/buid/CDE/IX11594528-0|//blp/mktdata/bsid/7679420795778
 COLCAP Index Fut  Jun12|CAPM2|CDE|7679423549678|IX12863076-0|Financial index future.|Index|BBG001QQHKF2||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPM2|//blp/mktdata/buid/CDE/IX12863076-0|//blp/mktdata/bsid/7679423549678
 COLCAP Index Fut  Mar12|CAPH2|CDE|7679422132505|IX12205752-0|Financial index future.|Index|BBG001KFN862||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPH2|//blp/mktdata/buid/CDE/IX12205752-0|//blp/mktdata/bsid/7679422132505
@@ -365,8 +366,8 @@ NIKKEI DIVIDEND   Dec20|MNDZ0|cSGX|10037355559112|IX12516136-0|Financial index f
 NIKKEI DIVIDEND   Dec20|MNDZ0|eSGX|2108845930696|IX12516136-0|Financial index future.|Index|BBG001MBV0K1||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/MNDZ0|//blp/mktdata/buid/eSGX/IX12516136-0|//blp/mktdata/bsid/2108845930696
 NIKKEI DIVIDEND   Dec20|MNDZ0|eSGX|2108845930696|IX12516136-0|Financial index future.|Index|BBG001MBV0K1||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/MNDZ0|//blp/mktdata/buid/eSGX/IX12516136-0|//blp/mktdata/bsid/2108845930696
 Nifty Midcap 50   Dec11|IMCZ1|NSE|1760960857937|IX13680724-0|Financial index future.|Index|BBG0024QGNQ7||29654|29655|0||39638|//blp/mktdata/bsym/NSE/IMCZ1|//blp/mktdata/buid/NSE/IX13680724-0|//blp/mktdata/bsid/1760960857937
+Nifty Midcap 50   Feb12|IMCG2|NSE|1760961816850|IX14093214-0|Financial index future.|Index|BBG0029764X9||29654|29655|0||39638|//blp/mktdata/bsym/NSE/IMCG2|//blp/mktdata/buid/NSE/IX14093214-0|//blp/mktdata/bsid/1760961816850
 Nifty Midcap 50   Jan12|IMCF2|NSE|1760961299606|IX13850440-0|Financial index future.|Index|BBG00271Q3W5||29654|29655|0||39638|//blp/mktdata/bsym/NSE/IMCF2|//blp/mktdata/buid/NSE/IX13850440-0|//blp/mktdata/bsid/1760961299606
-Nifty Midcap 50   Nov11|IMCX1|NSE|1760960237229|IX13440334-0|Financial index future.|Index|BBG00217R7G6||29654|29655|0||39638|//blp/mktdata/bsym/NSE/IMCX1|//blp/mktdata/buid/NSE/IX13440334-0|//blp/mktdata/bsid/1760960237229
 Norilsk Nickel Fu Dec11|MMCZ1|||IX11684383-0|Financial index future.|Index|BBG001BJVJR8||14134|14134|0||39558|||
 Norilsk Nickel Fu Jun12|MMCM2|||IX12943194-0|Financial index future.|Index|BBG001R22JG2||14134|14134|0||39558|||
 Norilsk Nickel Fu Mar12|MMCH2|||IX12292259-0|Financial index future.|Index|BBG001KQZZD7||14134|14134|0||39558|||

@@ -1,5 +1,5 @@
-#Data Generated At: Fri Nov 25 06:34:22 EST 2011
-#Data Records=13245
+#Data Generated At: Sat Nov 26 06:22:13 EST 2011
+#Data Records=13407
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -3220,6 +3220,20 @@ EUR SO 10/2 ATM      15Y||||IX12615105-0|SWAP|Curncy||||||||||
 EUR SO 10/2 ATM      18M||||IX12615053-0|SWAP|Curncy||||||||||
 EUR SO 10/2 ATM      20Y||||IX12615101-0|SWAP|Curncy||||||||||
 EUR SO 10/2 ATM      30Y||||IX13141808-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      1M||||IX14107014-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      1W||||IX14107010-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      1Y||||IX14107030-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      2Y||||IX14107034-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      3M||||IX14107018-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      3Y||||IX14107038-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      4Y||||IX14107042-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      5Y||||IX14107046-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      6M||||IX14107022-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      7Y||||IX14107050-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM      9M||||IX14107026-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM     10Y||||IX14107054-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM     20Y||||IX14107058-0|SWAP|Curncy||||||||||
+EUR SO 10/2 FPRM     30Y||||IX14107062-0|SWAP|Curncy||||||||||
 EUR SO 10/2 FWD       1M||||IX12614017-0|SWAP|Curncy||||||||||
 EUR SO 10/2 FWD       1W||||IX13233299-0|SWAP|Curncy||||||||||
 EUR SO 10/2 FWD       1Y||||IX12614005-0|SWAP|Curncy||||||||||
@@ -3519,6 +3533,20 @@ EUR SO 30/10 ATM     15Y||||IX12614957-0|SWAP|Curncy||||||||||
 EUR SO 30/10 ATM     18M||||IX12614909-0|SWAP|Curncy||||||||||
 EUR SO 30/10 ATM     20Y||||IX12614953-0|SWAP|Curncy||||||||||
 EUR SO 30/10 ATM     30Y||||IX13141820-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     1M||||IX14106902-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     1W||||IX14106898-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     1Y||||IX14106918-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     2Y||||IX14106922-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     3M||||IX14106906-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     3Y||||IX14106926-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     4Y||||IX14106930-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     5Y||||IX14106934-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     6M||||IX14106910-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     7Y||||IX14106938-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM     9M||||IX14106914-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM    10Y||||IX14106942-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM    20Y||||IX14106946-0|SWAP|Curncy||||||||||
+EUR SO 30/10 FPRM    30Y||||IX14106950-0|SWAP|Curncy||||||||||
 EUR SO 30/10 FWD      1M||||IX12614101-0|SWAP|Curncy||||||||||
 EUR SO 30/10 FWD      1W||||IX13233315-0|SWAP|Curncy||||||||||
 EUR SO 30/10 FWD      1Y||||IX12614113-0|SWAP|Curncy||||||||||
@@ -3728,6 +3756,20 @@ EUR SO 30/2 ATM      15Y||||IX12615033-0|SWAP|Curncy||||||||||
 EUR SO 30/2 ATM      18M||||IX12614981-0|SWAP|Curncy||||||||||
 EUR SO 30/2 ATM      20Y||||IX12615029-0|SWAP|Curncy||||||||||
 EUR SO 30/2 ATM      30Y||||IX13141816-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      1M||||IX14106958-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      1W||||IX14106954-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      1Y||||IX14106974-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      2Y||||IX14106978-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      3M||||IX14106962-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      3Y||||IX14106982-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      4Y||||IX14106986-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      5Y||||IX14106990-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      6M||||IX14106966-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      7Y||||IX14106994-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM      9M||||IX14106970-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM     10Y||||IX14106998-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM     20Y||||IX14107002-0|SWAP|Curncy||||||||||
+EUR SO 30/2 FPRM     30Y||||IX14107006-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD       1M||||IX12614029-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD       1W||||IX13233303-0|SWAP|Curncy||||||||||
 EUR SO 30/2 FWD       1Y||||IX12614041-0|SWAP|Curncy||||||||||
@@ -4438,6 +4480,17 @@ EUR SO P 30/2 FWD    15Y||||IX13693281-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 FWD    18M||||IX13693245-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 FWD    20Y||||IX13693297-0|SWAP|Curncy||||||||||
 EUR SO P 30/2 FWD    30Y||||IX13693289-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM    1Y||||IX14106742-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM    2Y||||IX14106750-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM    5Y||||IX14106754-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM   10Y||||IX14106758-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM   18M||||IX14106746-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM   20Y||||IX14106762-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM   30Y||||IX14106766-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM  1Y2Y||||IX14106770-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM  2Y4Y||||IX14106774-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM  2Y5Y||||IX14106778-0|SWAP|Curncy||||||||||
+EUR SO P10/2  FPRM 5Y10Y||||IX14106782-0|SWAP|Curncy||||||||||
 EUR SO P10/2 -10 10Y15Y||||IX13801138-0|SWAP|Curncy||||||||||
 EUR SO P10/2 -10 10Y20Y||||IX13801906-0|SWAP|Curncy||||||||||
 EUR SO P10/2 -10 1Y2Y||||IX13800870-0|SWAP|Curncy||||||||||
@@ -4510,6 +4563,8 @@ EUR SO P10/2 ATM 2Y4Y||||IX13800734-0|SWAP|Curncy||||||||||
 EUR SO P10/2 ATM 2Y5Y||||IX13801866-0|SWAP|Curncy||||||||||
 EUR SO P10/2 ATM 5Y10Y||||IX13800742-0|SWAP|Curncy||||||||||
 EUR SO P10/2 ATM 5Y15Y||||IX13800746-0|SWAP|Curncy||||||||||
+EUR SO P10/2 FPRM 10Y15Y||||IX14106786-0|SWAP|Curncy||||||||||
+EUR SO P10/2 FPRM 20Y30Y||||IX14106790-0|SWAP|Curncy||||||||||
 EUR SO P10/2 FWD 10Y15Y||||IX13800838-0|SWAP|Curncy||||||||||
 EUR SO P10/2 FWD 10Y20Y||||IX13800854-0|SWAP|Curncy||||||||||
 EUR SO P10/2 FWD 1Y2Y||||IX13800766-0|SWAP|Curncy||||||||||
@@ -4586,6 +4641,17 @@ EUR SO P30/10 ATM 2Y4Y||||IX13801146-0|SWAP|Curncy||||||||||
 EUR SO P30/10 ATM 2Y5Y||||IX13801150-0|SWAP|Curncy||||||||||
 EUR SO P30/10 ATM 5Y10Y||||IX13801154-0|SWAP|Curncy||||||||||
 EUR SO P30/10 ATM 5Y15Y||||IX13801158-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM    1Y||||IX14106846-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM    2Y||||IX14106854-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM    5Y||||IX14106858-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM   10Y||||IX14106862-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM   18M||||IX14106850-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM   20Y||||IX14106866-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM   30Y||||IX14106870-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM  1Y2Y||||IX14106874-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM  2Y4Y||||IX14106878-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM  2Y5Y||||IX14106882-0|SWAP|Curncy||||||||||
+EUR SO P30/10 FPRM 5Y10Y||||IX14106886-0|SWAP|Curncy||||||||||
 EUR SO P30/10 FWD 10Y15Y||||IX13801194-0|SWAP|Curncy||||||||||
 EUR SO P30/10 FWD 10Y20Y||||IX13801198-0|SWAP|Curncy||||||||||
 EUR SO P30/10 FWD 1Y2Y||||IX13801174-0|SWAP|Curncy||||||||||
@@ -4649,6 +4715,7 @@ EUR SO P30/2  75   5Y15Y||||IX13848372-0|SWAP|Curncy||||||||||
 EUR SO P30/2  75  10Y15Y||||IX13850032-0|SWAP|Curncy||||||||||
 EUR SO P30/2  75  10Y20Y||||IX13850064-0|SWAP|Curncy||||||||||
 EUR SO P30/2  75  1Y2Y||||IX13843351-0|SWAP|Curncy||||||||||
+EUR SO P30/2  FPRM    1Y||||IX14106794-0|SWAP|Curncy||||||||||
 EUR SO P30/2 -10 10Y15Y||||IX13848388-0|SWAP|Curncy||||||||||
 EUR SO P30/2 -10 10Y20Y||||IX13850048-0|SWAP|Curncy||||||||||
 EUR SO P30/2 -10 1Y2Y||||IX13843327-0|SWAP|Curncy||||||||||
@@ -4670,6 +4737,18 @@ EUR SO P30/2 ATM 2Y4Y||||IX13843107-0|SWAP|Curncy||||||||||
 EUR SO P30/2 ATM 2Y5Y||||IX13843111-0|SWAP|Curncy||||||||||
 EUR SO P30/2 ATM 5Y10Y||||IX13843115-0|SWAP|Curncy||||||||||
 EUR SO P30/2 ATM 5Y15Y||||IX13843119-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM     2Y||||IX14106802-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM     5Y||||IX14106806-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM    10Y||||IX14106810-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM    18M||||IX14106798-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM    20Y||||IX14106814-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM    30Y||||IX14106818-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM   1Y2Y||||IX14106822-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM   2Y4Y||||IX14106826-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM   2Y5Y||||IX14106830-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM  5Y10Y||||IX14106834-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM 10Y15Y||||IX14106838-0|SWAP|Curncy||||||||||
+EUR SO P30/2 FPRM 20Y30Y||||IX14106842-0|SWAP|Curncy||||||||||
 EUR SO P30/2 FWD 10Y15Y||||IX13843203-0|SWAP|Curncy||||||||||
 EUR SO P30/2 FWD 10Y20Y||||IX13843223-0|SWAP|Curncy||||||||||
 EUR SO P30/2 FWD 1Y2Y||||IX13843135-0|SWAP|Curncy||||||||||
@@ -4678,6 +4757,8 @@ EUR SO P30/2 FWD 2Y4Y||||IX13843139-0|SWAP|Curncy||||||||||
 EUR SO P30/2 FWD 2Y5Y||||IX13843151-0|SWAP|Curncy||||||||||
 EUR SO P30/2 FWD 5Y10Y||||IX13843155-0|SWAP|Curncy||||||||||
 EUR SO P30/2 FWD 5Y15Y||||IX13843163-0|SWAP|Curncy||||||||||
+EUR SOP30/10 FPRM 10Y15Y||||IX14106890-0|SWAP|Curncy||||||||||
+EUR SOP30/10 FPRM 20Y30Y||||IX14106894-0|SWAP|Curncy||||||||||
 EUR SPRD ON SPRD OPT 10Y||||IX13520042-0|SWAP|Curncy||||||||||
 EUR SPRD ON SPRD OPT 1M||||IX13520002-0|SWAP|Curncy||||||||||
 EUR SPRD ON SPRD OPT 1W||||IX13519998-0|SWAP|Curncy||||||||||
@@ -10574,6 +10655,20 @@ USD SO 10/2 ATM      15Y||||IX13927509-0|SWAP|Curncy||||||||||
 USD SO 10/2 ATM      18M||||IX13927505-0|SWAP|Curncy||||||||||
 USD SO 10/2 ATM      20Y||||IX13149101-0|SWAP|Curncy||||||||||
 USD SO 10/2 ATM      30Y||||IX13149097-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      1M||||IX14107070-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      1W||||IX14107066-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      1Y||||IX14107086-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      2Y||||IX14107090-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      3Y||||IX14107094-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      4Y||||IX14107098-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      5Y||||IX14107102-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      6M||||IX14107078-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      7Y||||IX14107106-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM      9M||||IX14107082-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM     10Y||||IX14107110-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM     20Y||||IX14107114-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM     30Y||||IX14107118-0|SWAP|Curncy||||||||||
+USD SO 10/2 FPRM     3M||||IX14107074-0|SWAP|Curncy||||||||||
 USD SO 10/2 FWD       1M||||IX13234147-0|SWAP|Curncy||||||||||
 USD SO 10/2 FWD       1W||||IX13234143-0|SWAP|Curncy||||||||||
 USD SO 10/2 FWD       1Y||||IX13234167-0|SWAP|Curncy||||||||||
@@ -10768,6 +10863,20 @@ USD SO 30/10 ATM     15Y||||IX13927525-0|SWAP|Curncy||||||||||
 USD SO 30/10 ATM     18M||||IX13927521-0|SWAP|Curncy||||||||||
 USD SO 30/10 ATM     20Y||||IX13234131-0|SWAP|Curncy||||||||||
 USD SO 30/10 ATM     30Y||||IX13234139-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     1W||||IX14107178-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     1Y||||IX14107198-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     2Y||||IX14107202-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     3M||||IX14107186-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     4Y||||IX14107210-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     5Y||||IX14107214-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     6M||||IX14107190-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     7Y||||IX14107218-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM     9M||||IX14107194-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM    10Y||||IX14107222-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM    1M||||IX14107182-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM    20Y||||IX14107226-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM    30Y||||IX14107230-0|SWAP|Curncy||||||||||
+USD SO 30/10 FPRM    3Y||||IX14107206-0|SWAP|Curncy||||||||||
 USD SO 30/10 FWD      1M||||IX13240589-0|SWAP|Curncy||||||||||
 USD SO 30/10 FWD      1W||||IX13240593-0|SWAP|Curncy||||||||||
 USD SO 30/10 FWD      1Y||||IX13240609-0|SWAP|Curncy||||||||||
@@ -10852,6 +10961,20 @@ USD SO 30/2 ATM      15Y||||IX13927517-0|SWAP|Curncy||||||||||
 USD SO 30/2 ATM      18M||||IX13927513-0|SWAP|Curncy||||||||||
 USD SO 30/2 ATM      20Y||||IX13149149-0|SWAP|Curncy||||||||||
 USD SO 30/2 ATM      30Y||||IX13149161-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      1M||||IX14107126-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      1W||||IX14107122-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      1Y||||IX14107142-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      3M||||IX14107130-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      3Y||||IX14107150-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      4Y||||IX14107154-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      5Y||||IX14107158-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      6M||||IX14107134-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      7Y||||IX14107162-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM      9M||||IX14107138-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM     10Y||||IX14107166-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM     20Y||||IX14107170-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM     2Y||||IX14107146-0|SWAP|Curncy||||||||||
+USD SO 30/2 FPRM     30Y||||IX14107174-0|SWAP|Curncy||||||||||
 USD SO 30/2 FWD       1M||||IX13234203-0|SWAP|Curncy||||||||||
 USD SO 30/2 FWD       1W||||IX13234195-0|SWAP|Curncy||||||||||
 USD SO 30/2 FWD       1Y||||IX13234223-0|SWAP|Curncy||||||||||
@@ -11678,6 +11801,10 @@ USD SO P 30/2 FWD    30Y||||IX13771045-0|SWAP|Curncy||||||||||
 USD SO P10/2  1Y2Y||||IX13850880-0|SWAP|Curncy||||||||||
 USD SO P10/2  2Y4Y||||IX13850796-0|SWAP|Curncy||||||||||
 USD SO P10/2  2Y5Y||||IX13850936-0|SWAP|Curncy||||||||||
+USD SO P10/2  FPRM  1Y2Y||||IX14106718-0|SWAP|Curncy||||||||||
+USD SO P10/2  FPRM  2Y4Y||||IX14106722-0|SWAP|Curncy||||||||||
+USD SO P10/2  FPRM  2Y5Y||||IX14106726-0|SWAP|Curncy||||||||||
+USD SO P10/2  FPRM 5Y10Y||||IX14106730-0|SWAP|Curncy||||||||||
 USD SO P10/2 +100 10Y15Y||||IX13851040-0|SWAP|Curncy||||||||||
 USD SO P10/2 +100 1Y2Y||||IX13850900-0|SWAP|Curncy||||||||||
 USD SO P10/2 +100 20Y30Y||||IX13851104-0|SWAP|Curncy||||||||||
@@ -11745,6 +11872,13 @@ USD SO P10/2 ATM 2Y4Y||||IX13850820-0|SWAP|Curncy||||||||||
 USD SO P10/2 ATM 2Y5Y||||IX13850816-0|SWAP|Curncy||||||||||
 USD SO P10/2 ATM 5Y10Y||||IX13850824-0|SWAP|Curncy||||||||||
 USD SO P10/2 ATM 5Y15Y||||IX13850832-0|SWAP|Curncy||||||||||
+USD SO P10/2 FPRM     1Y||||IX14106390-0|SWAP|Curncy||||||||||
+USD SO P10/2 FPRM     2Y||||IX14106398-0|SWAP|Curncy||||||||||
+USD SO P10/2 FPRM     5Y||||IX14106402-0|SWAP|Curncy||||||||||
+USD SO P10/2 FPRM    10Y||||IX14106406-0|SWAP|Curncy||||||||||
+USD SO P10/2 FPRM    18M||||IX14106394-0|SWAP|Curncy||||||||||
+USD SO P10/2 FPRM    20Y||||IX14106410-0|SWAP|Curncy||||||||||
+USD SO P10/2 FPRM    30Y||||IX14106414-0|SWAP|Curncy||||||||||
 USD SO P10/2 FWD 10Y15Y||||IX13850864-0|SWAP|Curncy||||||||||
 USD SO P10/2 FWD 10Y20Y||||IX13850868-0|SWAP|Curncy||||||||||
 USD SO P10/2 FWD 1Y2Y||||IX13850844-0|SWAP|Curncy||||||||||
@@ -11826,6 +11960,17 @@ USD SO P30/10 ATM 1Y2Y||||IX13783568-0|SWAP|Curncy||||||||||
 USD SO P30/10 ATM 20Y30Y||||IX13783588-0|SWAP|Curncy||||||||||
 USD SO P30/10 ATM 2Y5Y||||IX13783576-0|SWAP|Curncy||||||||||
 USD SO P30/10 ATM 5Y15Y||||IX13783584-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM    1Y||||IX14106446-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM    2Y||||IX14106454-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM    5Y||||IX14106458-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM   10Y||||IX14106462-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM   18M||||IX14106450-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM   20Y||||IX14106466-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM   30Y||||IX14106470-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM  1Y2Y||||IX14106474-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM  2Y4Y||||IX14106478-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM  2Y5Y||||IX14106482-0|SWAP|Curncy||||||||||
+USD SO P30/10 FPRM 5Y10Y||||IX14106486-0|SWAP|Curncy||||||||||
 USD SO P30/10 FWD 10Y15Y||||IX13783620-0|SWAP|Curncy||||||||||
 USD SO P30/10 FWD 10Y20Y||||IX13783616-0|SWAP|Curncy||||||||||
 USD SO P30/10 FWD 1Y2Y||||IX13783600-0|SWAP|Curncy||||||||||
@@ -11883,6 +12028,10 @@ USD SO P30/2  -25  5Y15Y||||IX13823672-0|SWAP|Curncy||||||||||
 USD SO P30/2  -25 10Y15Y||||IX13823704-0|SWAP|Curncy||||||||||
 USD SO P30/2  -25 10Y20Y||||IX13823764-0|SWAP|Curncy||||||||||
 USD SO P30/2  -25 20Y30Y||||IX13823776-0|SWAP|Curncy||||||||||
+USD SO P30/2  FPRM  1Y2Y||||IX14106694-0|SWAP|Curncy||||||||||
+USD SO P30/2  FPRM  2Y4Y||||IX14106698-0|SWAP|Curncy||||||||||
+USD SO P30/2  FPRM  2Y5Y||||IX14106702-0|SWAP|Curncy||||||||||
+USD SO P30/2  FPRM 5Y10Y||||IX14106706-0|SWAP|Curncy||||||||||
 USD SO P30/2 +100  5Y15Y||||IX13823676-0|SWAP|Curncy||||||||||
 USD SO P30/2 +100 10Y15Y||||IX13823708-0|SWAP|Curncy||||||||||
 USD SO P30/2 +100 10Y20Y||||IX13823740-0|SWAP|Curncy||||||||||
@@ -11906,6 +12055,13 @@ USD SO P30/2 ATM   5Y15Y||||IX13811933-0|SWAP|Curncy||||||||||
 USD SO P30/2 ATM  10Y15Y||||IX13811941-0|SWAP|Curncy||||||||||
 USD SO P30/2 ATM  10Y20Y||||IX13811937-0|SWAP|Curncy||||||||||
 USD SO P30/2 ATM  20Y30Y||||IX13811945-0|SWAP|Curncy||||||||||
+USD SO P30/2 FPRM     1Y||||IX14106418-0|SWAP|Curncy||||||||||
+USD SO P30/2 FPRM     2Y||||IX14106426-0|SWAP|Curncy||||||||||
+USD SO P30/2 FPRM     5Y||||IX14106430-0|SWAP|Curncy||||||||||
+USD SO P30/2 FPRM    10Y||||IX14106434-0|SWAP|Curncy||||||||||
+USD SO P30/2 FPRM    18M||||IX14106422-0|SWAP|Curncy||||||||||
+USD SO P30/2 FPRM    20Y||||IX14106438-0|SWAP|Curncy||||||||||
+USD SO P30/2 FPRM    30Y||||IX14106442-0|SWAP|Curncy||||||||||
 USD SO P30/2 FWD    1Y2Y||||IX13811949-0|SWAP|Curncy||||||||||
 USD SO P30/2 FWD    2Y4Y||||IX13811953-0|SWAP|Curncy||||||||||
 USD SO P30/2 FWD    2Y5Y||||IX13811961-0|SWAP|Curncy||||||||||
@@ -11914,6 +12070,12 @@ USD SO P30/2 FWD   5Y15Y||||IX13811969-0|SWAP|Curncy||||||||||
 USD SO P30/2 FWD  10Y15Y||||IX13811965-0|SWAP|Curncy||||||||||
 USD SO P30/2 FWD  10Y20Y||||IX13811977-0|SWAP|Curncy||||||||||
 USD SO P30/2 FWD  20Y30Y||||IX13811973-0|SWAP|Curncy||||||||||
+USD SOP10/2  FPRM 10Y15Y||||IX14106734-0|SWAP|Curncy||||||||||
+USD SOP10/2  FPRM 20Y30Y||||IX14106738-0|SWAP|Curncy||||||||||
+USD SOP30/10 FPRM 10Y15Y||||IX14106490-0|SWAP|Curncy||||||||||
+USD SOP30/10 FPRM 20Y30Y||||IX14106494-0|SWAP|Curncy||||||||||
+USD SOP30/2  FPRM 10Y15Y||||IX14106710-0|SWAP|Curncy||||||||||
+USD SOP30/2  FPRM 20Y30Y||||IX14106714-0|SWAP|Curncy||||||||||
 USD SPRD ON SPRD OPT 10Y||||IX13526311-0|SWAP|Curncy||||||||||
 USD SPRD ON SPRD OPT 1M||||IX13526267-0|SWAP|Curncy||||||||||
 USD SPRD ON SPRD OPT 1W||||IX13526319-0|SWAP|Curncy||||||||||
