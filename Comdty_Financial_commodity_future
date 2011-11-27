@@ -1,5 +1,5 @@
-#Data Generated At: Sat Nov 26 06:04:04 EST 2011
-#Data Records=6237
+#Data Generated At: Sun Nov 27 05:55:28 EST 2011
+#Data Records=6238
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -1991,7 +1991,6 @@ CUPOM CAMBIAL FT  Oct13|XPV3|||IX3961430-0|Financial commodity future.|Comdty|BB
 CUPOM CAMBIAL FT  Oct14|XPV4|||IX4992907-0|Financial commodity future.|Comdty|BBG000WLCLH9||14098|14098|0||39537|||
 CUPOM CAMBIAL FT  Oct15|XPV5|||IX10837090-0|Financial commodity future.|Comdty|BBG0014N3BG7||14098|14098|0||39537|||
 CUPOM CAMBIAL FT  Oct16|XPV16|||IX13691333-0|Financial commodity future.|Comdty|BBG0024TZD73||14098|14098|0||39537|||
-Carbon Credit CER Nov11|CRRX1|MCI|1864037767364|IX12818303-0|Financial commodity future.|Comdty|BBG001QGD0V4||27910|36595|0||39619|//blp/mktdata/bsym/MCI/CRRX1|//blp/mktdata/buid/MCI/IX12818303-0|//blp/mktdata/bsid/1864037767364
 Carbon Credit Fut Dec14|CCCZ4|MCI|1864035213809|IX11691464-0|Financial commodity future.|Comdty|BBG001BN1RV9||27910|36595|0||39619|//blp/mktdata/bsym/MCI/CCCZ4|//blp/mktdata/buid/MCI/IX11691464-0|//blp/mktdata/bsid/1864035213809
 Carbon Credits FutDec11|CCCZ1|MCI|1864020406232|IX5887034-0|Financial commodity future.|Comdty|BBG000T8TD91||27910|36595|0||39619|//blp/mktdata/bsym/MCI/CCCZ1|//blp/mktdata/buid/MCI/IX5887034-0|//blp/mktdata/bsid/1864020406232
 Carbon Credits FutDec12|CCCZ2|MCI|1864021708341|IX5887038-0|Financial commodity future.|Comdty|BBG000T8TDX4||27910|36595|0||39619|//blp/mktdata/bsym/MCI/CCCZ2|//blp/mktdata/buid/MCI/IX5887038-0|//blp/mktdata/bsid/1864021708341
@@ -2082,8 +2081,12 @@ Corn Base Quequen May12|VBWK2|cMBA|10011587932162|IX11520016-0|Financial commodi
 Corn Base Quequen May12|VBWK2|cMBA|10011587932162|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWK2|//blp/mktdata/buid/cMBA/IX11520016-0|//blp/mktdata/bsid/10011587932162
 Corn Base Quequen May12|VBWK2|eMBA|3362978557954|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWK2|//blp/mktdata/buid/eMBA/IX11520016-0|//blp/mktdata/bsid/3362978557954
 Corn Base Quequen May12|VBWK2|eMBA|3362978557954|IX11520016-0|Financial commodity future.|Comdty|BBG0019K2FW2||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWK2|//blp/mktdata/buid/eMBA/IX11520016-0|//blp/mktdata/bsid/3362978557954
-Corn Base Quequen May13|VBWK3|||IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|||
-Corn Base Quequen May13|VBWK3|||IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|||
+Corn Base Quequen May13|VBWK3|MBA|1735192004334|IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWK3|//blp/mktdata/buid/MBA/IX14087784-0|//blp/mktdata/bsid/1735192004334
+Corn Base Quequen May13|VBWK3|MBA|1735192004334|IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWK3|//blp/mktdata/buid/MBA/IX14087784-0|//blp/mktdata/bsid/1735192004334
+Corn Base Quequen May13|VBWK3|cMBA|10011593983726|IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWK3|//blp/mktdata/buid/cMBA/IX14087784-0|//blp/mktdata/bsid/10011593983726
+Corn Base Quequen May13|VBWK3|cMBA|10011593983726|IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWK3|//blp/mktdata/buid/cMBA/IX14087784-0|//blp/mktdata/bsid/10011593983726
+Corn Base Quequen May13|VBWK3|eMBA|3362984609518|IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWK3|//blp/mktdata/buid/eMBA/IX14087784-0|//blp/mktdata/bsid/3362984609518
+Corn Base Quequen May13|VBWK3|eMBA|3362984609518|IX14087784-0|Financial commodity future.|Comdty|BBG00294NPC3||14145|0|0||39563|//blp/mktdata/bsym/eMBA/VBWK3|//blp/mktdata/buid/eMBA/IX14087784-0|//blp/mktdata/bsid/3362984609518
 Corn Base Quequen Nov12|VBWX2|MBA|1735188686103|IX12792973-0|Financial commodity future.|Comdty|BBG001Q7M2Q6||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX2|//blp/mktdata/buid/MBA/IX12792973-0|//blp/mktdata/bsid/1735188686103
 Corn Base Quequen Nov12|VBWX2|MBA|1735188686103|IX12792973-0|Financial commodity future.|Comdty|BBG001Q7M2Q6||14145|0|0||39563|//blp/mktdata/bsym/MBA/VBWX2|//blp/mktdata/buid/MBA/IX12792973-0|//blp/mktdata/bsid/1735188686103
 Corn Base Quequen Nov12|VBWX2|cMBA|10011590665495|IX12792973-0|Financial commodity future.|Comdty|BBG001Q7M2Q6||14145|0|0||39563|//blp/mktdata/bsym/cMBA/VBWX2|//blp/mktdata/buid/cMBA/IX12792973-0|//blp/mktdata/bsid/10011590665495
@@ -3931,7 +3934,6 @@ Indonesia Coal SwpJul12|MCWN2|eNYM|2117440385772|IX12655843-0|Financial commodit
 Indonesia Coal SwpJun12|MCWM2|eNYM|2117440385771|IX12655839-0|Financial commodity future.|Comdty|BBG001P09K05||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWM2|//blp/mktdata/buid/eNYM/IX12655839-0|//blp/mktdata/bsid/2117440385771
 Indonesia Coal SwpMar12|MCWH2|eNYM|2117440385768|IX12655827-0|Financial commodity future.|Comdty|BBG001P09JX2||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWH2|//blp/mktdata/buid/eNYM/IX12655827-0|//blp/mktdata/bsid/2117440385768
 Indonesia Coal SwpMay12|MCWK2|eNYM|2117440385770|IX12655835-0|Financial commodity future.|Comdty|BBG001P09JZ0||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWK2|//blp/mktdata/buid/eNYM/IX12655835-0|//blp/mktdata/bsid/2117440385770
-Indonesia Coal SwpNov11|MCWX1|eNYM|2117440385764|IX12655811-0|Financial commodity future.|Comdty|BBG001P09JS8||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWX1|//blp/mktdata/buid/eNYM/IX12655811-0|//blp/mktdata/bsid/2117440385764
 Indonesia Coal SwpNov12|MCWX2|eNYM|2117440385776|IX12655859-0|Financial commodity future.|Comdty|BBG001P09K50||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWX2|//blp/mktdata/buid/eNYM/IX12655859-0|//blp/mktdata/bsid/2117440385776
 Indonesia Coal SwpOct12|MCWV2|eNYM|2117440385775|IX12655855-0|Financial commodity future.|Comdty|BBG001P09K41||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWV2|//blp/mktdata/buid/eNYM/IX12655855-0|//blp/mktdata/bsid/2117440385775
 Indonesia Coal SwpSep12|MCWU2|eNYM|2117440385774|IX12655851-0|Financial commodity future.|Comdty|BBG001P09K32||14088|14088|0||39532|//blp/mktdata/bsym/eNYM/MCWU2|//blp/mktdata/buid/eNYM/IX12655851-0|//blp/mktdata/bsid/2117440385774
@@ -5031,7 +5033,6 @@ Nitrogen Fin. Fut Feb12|FNIG2|||IX14105746-0|Financial commodity future.|Comdty|
 Nitrogen Fin. Fut Jan12|FNIF2|CCX|2559825253184|IX13859745-0|Financial commodity future.|Comdty|BBG00276C4C9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIF2|//blp/mktdata/buid/CCX/IX13859745-0|//blp/mktdata/bsid/2559825253184
 Nitrogen Fin. Fut Jun12|FNIM2|CCX|2559820109812|IX11769248-0|Financial commodity future.|Comdty|BBG001CN6PN6||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIM2|//blp/mktdata/buid/CCX/IX11769248-0|//blp/mktdata/bsid/2559820109812
 Nitrogen Fin. Fut Mar13|FNIH3|CCX|2559824747998|IX13668140-0|Financial commodity future.|Comdty|BBG0024LG051||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIH3|//blp/mktdata/buid/CCX/IX13668140-0|//blp/mktdata/bsid/2559824747998
-Nitrogen Fin. Fut Nov11|FNIX1|CCX|2559824184664|IX13451879-0|Financial commodity future.|Comdty|BBG0021CCSJ2||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIX1|//blp/mktdata/buid/CCX/IX13451879-0|//blp/mktdata/bsid/2559824184664
 Nitrogen Fin. Fut Sep12|FNIU2|CCX|2559811296498|IX8557842-0|Financial commodity future.|Comdty|BBG000T98QZ4||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU2|//blp/mktdata/buid/CCX/IX8557842-0|//blp/mktdata/bsid/2559811296498
 Nitrogen Fin. Fut Sep13|FNIU3|CCX|2559816453677|IX10212591-0|Financial commodity future.|Comdty|BBG000ZDRSB9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU3|//blp/mktdata/buid/CCX/IX10212591-0|//blp/mktdata/bsid/2559816453677
 Nitrogen Fin. Fut Sep14|FNIU4|CCX|2559821524612|IX12426641-0|Financial commodity future.|Comdty|BBG001LT1Z38||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU4|//blp/mktdata/buid/CCX/IX12426641-0|//blp/mktdata/bsid/2559821524612

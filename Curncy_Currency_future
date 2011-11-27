@@ -1,4 +1,4 @@
-#Data Generated At: Sat Nov 26 06:21:23 EST 2011
+#Data Generated At: Sun Nov 27 06:12:59 EST 2011
 #Data Records=4552
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Nov11|ADCX1|YLX|8744578121076|IX13843087-0|Currency future.|Curncy|BBG0026ZDV08||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCX1|//blp/mktdata/buid/YLX/IX13843087-0|//blp/mktdata/bsid/8744578121076
@@ -1926,7 +1926,7 @@ EURO CURR FUT     Sep12|KIU2|KOFX|1748075770280|IX13607369-0|Currency future.|Cu
 EURO E-MINI FUT   Dec11|EEZ1|eCME|2078786290881|IX12933713-0|Currency future.|Curncy|BBG001R08CC9||14002|14002|0||39490|//blp/mktdata/bsym/eCME/EEZ1|//blp/mktdata/buid/eCME/IX12933713-0|//blp/mktdata/bsid/2078786290881
 EURO E-MINI FUT   Mar12|EEH2|eCME|2078788024718|IX13545369-0|Currency future.|Curncy|BBG0022FWW03||14002|14002|0||39490|//blp/mktdata/bsym/eCME/EEH2|//blp/mktdata/buid/eCME/IX13545369-0|//blp/mktdata/bsid/2078788024718
 EURO EX RATE FUT  Dec11|FOZ1|PW|1095236176353|IX12105029-0|Currency future.|Curncy|BBG001J7M550||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOZ1|//blp/mktdata/buid/PW/IX12105029-0|//blp/mktdata/bsid/1095236176353
-EURO EX RATE FUT  Feb12|FOG2|||IX14094158-0|Currency future.|Curncy|BBG002978680||14083|14083|0||39529|||
+EURO EX RATE FUT  Feb12|FOG2|PW|1095241888494|IX14094158-0|Currency future.|Curncy|BBG002978680||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOG2|//blp/mktdata/buid/PW/IX14094158-0|//blp/mktdata/bsid/1095241888494
 EURO EX RATE FUT  Jan12|FOF2|PW|1095241418741|IX13870726-0|Currency future.|Curncy|BBG0027BQZ52||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOF2|//blp/mktdata/buid/PW/IX13870726-0|//blp/mktdata/bsid/1095241418741
 EURO EX RATE FUT  Jun12|FOM2|PW|1095238936812|IX13016442-0|Currency future.|Curncy|BBG001S376Z1||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOM2|//blp/mktdata/buid/PW/IX13016442-0|//blp/mktdata/bsid/1095238936812
 EURO EX RATE FUT  Mar12|FOH2|PW|1095237570223|IX12385861-0|Currency future.|Curncy|BBG001LPWLW1||14083|14083|0||39529|//blp/mktdata/bsym/PW/FOH2|//blp/mktdata/buid/PW/IX12385861-0|//blp/mktdata/bsid/1095237570223
@@ -4221,7 +4221,7 @@ USD CAD Million   Jun12|ISCM2|eNYB|2100261142418|IX12944102-0|Currency future.|C
 USD CAD Million   Mar12|ISCH2|eNYB|2100259750461|IX12312915-0|Currency future.|Curncy|BBG001KSCF42||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ISCH2|//blp/mktdata/buid/eNYB/IX12312915-0|//blp/mktdata/bsid/2100259750461
 USD CAD Million   Sep12|ISCU2|eNYB|2100263119624|IX13622698-0|Currency future.|Curncy|BBG00242FH11||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/ISCU2|//blp/mktdata/buid/eNYB/IX13622698-0|//blp/mktdata/bsid/2100263119624
 USD EX RATE FUT   Dec11|FSZ1|PW|1095236176365|IX11747547-0|Currency future.|Curncy|BBG001CK0YD0||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSZ1|//blp/mktdata/buid/PW/IX11747547-0|//blp/mktdata/bsid/1095236176365
-USD EX RATE FUT   Feb12|FSG2|||IX14094154-0|Currency future.|Curncy|BBG002978671||14083|14083|0||39529|||
+USD EX RATE FUT   Feb12|FSG2|PW|1095241888493|IX14094154-0|Currency future.|Curncy|BBG002978671||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSG2|//blp/mktdata/buid/PW/IX14094154-0|//blp/mktdata/bsid/1095241888493
 USD EX RATE FUT   Jan12|FSF2|PW|1095241423332|IX13870730-0|Currency future.|Curncy|BBG0027BQZ61||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSF2|//blp/mktdata/buid/PW/IX13870730-0|//blp/mktdata/bsid/1095241423332
 USD EX RATE FUT   Jun12|FSM2|PW|1095238936820|IX13016506-0|Currency future.|Curncy|BBG001S377K5||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSM2|//blp/mktdata/buid/PW/IX13016506-0|//blp/mktdata/bsid/1095238936820
 USD EX RATE FUT   Mar12|FSH2|PW|1095237570233|IX12385829-0|Currency future.|Curncy|BBG001LPWLM2||14083|14083|0||39529|//blp/mktdata/bsym/PW/FSH2|//blp/mktdata/buid/PW/IX12385829-0|//blp/mktdata/bsid/1095237570233
