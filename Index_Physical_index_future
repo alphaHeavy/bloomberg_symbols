@@ -1,4 +1,4 @@
-#Data Generated At: Sun Nov 27 06:27:13 EST 2011
+#Data Generated At: Mon Nov 28 06:48:48 EST 2011
 #Data Records=6281
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
@@ -898,10 +898,10 @@ CMX GVXX Vol Fut  Feb12|DVIG2|eCMX|2083078734950|IX11760599-0|Physical index fut
 CMX GVXX Vol Fut  Jun12|DVIM2|eCMX|2083080564277|IX12613525-0|Physical index future.|Index|BBG001NMDPZ5||14004|14004|0||39492|//blp/mktdata/bsym/eCMX/DVIM2|//blp/mktdata/buid/eCMX/IX12613525-0|//blp/mktdata/bsid/2083080564277
 CMX GVXX Vol Fut  Oct12|DVIV2|eCMX|2083082815178|IX13451855-0|Physical index future.|Index|BBG0021CCSD8||14004|14004|0||39492|//blp/mktdata/bsym/eCMX/DVIV2|//blp/mktdata/buid/eCMX/IX13451855-0|//blp/mktdata/bsid/2083082815178
 CNX Infra Index ftDec11|CNIZ1|NSE|1760961827181|IX14089436-0|Physical index future.|Index|BBG00295X4M5||29654|29655|0||39638|//blp/mktdata/bsym/NSE/CNIZ1|//blp/mktdata/buid/NSE/IX14089436-0|//blp/mktdata/bsid/1760961827181
-CNX Infra Index ftFeb12|CNIG2|||IX14095738-0|Physical index future.|Index|BBG0029BR573||29654|29655|0||39638|||
+CNX Infra Index ftFeb12|CNIG2|NSE|1760961834143|IX14095738-0|Physical index future.|Index|BBG0029BR573||29654|29655|0||39638|//blp/mktdata/bsym/NSE/CNIG2|//blp/mktdata/buid/NSE/IX14095738-0|//blp/mktdata/bsid/1760961834143
 CNX PSE Index ftr Dec11|CNPZ1|NSE|1760961827195|IX14089432-0|Physical index future.|Index|BBG00295X4J9||29654|29655|0||39638|//blp/mktdata/bsym/NSE/CNPZ1|//blp/mktdata/buid/NSE/IX14089432-0|//blp/mktdata/bsid/1760961827195
-CNX PSE Index ftr Feb12|CNPG2|||IX14095750-0|Physical index future.|Index|BBG0029BR5G3||29654|29655|0||39638|||
-CNX PSE Index ftr Jan12|CNPF2|||IX14095746-0|Physical index future.|Index|BBG0029BR5F4||29654|29655|0||39638|||
+CNX PSE Index ftr Feb12|CNPG2|NSE|1760961834145|IX14095750-0|Physical index future.|Index|BBG0029BR5G3||29654|29655|0||39638|//blp/mktdata/bsym/NSE/CNPG2|//blp/mktdata/buid/NSE/IX14095750-0|//blp/mktdata/bsid/1760961834145
+CNX PSE Index ftr Jan12|CNPF2|NSE|1760961834144|IX14095746-0|Physical index future.|Index|BBG0029BR5F4||29654|29655|0||39638|//blp/mktdata/bsym/NSE/CNPF2|//blp/mktdata/buid/NSE/IX14095746-0|//blp/mktdata/bsid/1760961834144
 COFFEE INDEX FUT  Jan12|XFF2|||IX11841885-0|Physical index future.|Index|BBG001D3GTN0||14222|0|0||39590|||
 COFFEE INDEX FUT  Jul12|XFN2|||IX13113317-0|Physical index future.|Index|BBG001WB4F81||14222|0|0||39590|||
 COFFEE INDEX FUT  Mar12|XFH2|||IX12268088-0|Physical index future.|Index|BBG001KNJWF7||14222|0|0||39590|||
@@ -1382,13 +1382,13 @@ E-Mini S&P 500 Eu Jun12|RURM2|eCME|2078784986018|IX12345948-0|Physical index fut
 E-Mini S&P 500 Eu Mar12|RURH2|eCME|2078783619734|IX11718178-0|Physical index future.|Index|BBG001BWLZB1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RURH2|//blp/mktdata/buid/eCME/IX11718178-0|//blp/mktdata/bsid/2078783619734
 E-Mini S&P 500 Eu Sep12|RURU2|eCME|2078786349692|IX12979663-0|Physical index future.|Index|BBG001R78FL7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RURU2|//blp/mktdata/buid/eCME/IX12979663-0|//blp/mktdata/bsid/2078786349692
 E-micro S&PCNX Ni Dec11|MNCZ1|eCME|2078783789368|IX11783170-0|Physical index future.|Index|BBG001CSL883||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNCZ1|//blp/mktdata/buid/eCME/IX11783170-0|//blp/mktdata/bsid/2078783789368
-E-micro S&PCNX Ni Feb12|MNCG2|||IX14105738-0|Physical index future.|Index|BBG0029BPTN5||14002|14002|0||39490|||
+E-micro S&PCNX Ni Feb12|MNCG2|eCME|2078789427454|IX14105738-0|Physical index future.|Index|BBG0029BPTN5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNCG2|//blp/mktdata/buid/eCME/IX14105738-0|//blp/mktdata/bsid/2078789427454
 E-micro S&PCNX Ni Jan12|MNCF2|eCME|2078788886842|IX13852208-0|Physical index future.|Index|BBG002723W09||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNCF2|//blp/mktdata/buid/eCME/IX13852208-0|//blp/mktdata/bsid/2078788886842
 E-micro S&PCNX Ni Jun12|MNCM2|eCME|2078786582397|IX13068930-0|Physical index future.|Index|BBG001VDF025||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNCM2|//blp/mktdata/buid/eCME/IX13068930-0|//blp/mktdata/bsid/2078786582397
 E-micro S&PCNX Ni Mar12|MNCH2|eCME|2078785248282|IX12456891-0|Physical index future.|Index|BBG001LZ6LR4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNCH2|//blp/mktdata/buid/eCME/IX12456891-0|//blp/mktdata/bsid/2078785248282
 E-micro S&PCNX Ni Sep12|MNCU2|eCME|2078788444649|IX13682844-0|Physical index future.|Index|BBG0024R17Z6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNCU2|//blp/mktdata/buid/eCME/IX13682844-0|//blp/mktdata/bsid/2078788444649
 E-mini S&PCNX Nif Dec11|MNEZ1|eCME|2078783794146|IX11783166-0|Physical index future.|Index|BBG001CSL874||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNEZ1|//blp/mktdata/buid/eCME/IX11783166-0|//blp/mktdata/bsid/2078783794146
-E-mini S&PCNX Nif Feb12|MNEG2|||IX14105734-0|Physical index future.|Index|BBG0029BPTM6||14002|14002|0||39490|||
+E-mini S&PCNX Nif Feb12|MNEG2|eCME|2078789427453|IX14105734-0|Physical index future.|Index|BBG0029BPTM6||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNEG2|//blp/mktdata/buid/eCME/IX14105734-0|//blp/mktdata/bsid/2078789427453
 E-mini S&PCNX Nif Jan12|MNEF2|eCME|2078788886841|IX13852212-0|Physical index future.|Index|BBG002723W18||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNEF2|//blp/mktdata/buid/eCME/IX13852212-0|//blp/mktdata/bsid/2078788886841
 E-mini S&PCNX Nif Jun12|MNEM2|eCME|2078786582396|IX13068926-0|Physical index future.|Index|BBG001VDF016||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNEM2|//blp/mktdata/buid/eCME/IX13068926-0|//blp/mktdata/bsid/2078786582396
 E-mini S&PCNX Nif Mar12|MNEH2|eCME|2078785248281|IX12456887-0|Physical index future.|Index|BBG001LZ6LQ5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/MNEH2|//blp/mktdata/buid/eCME/IX12456887-0|//blp/mktdata/bsid/2078785248281
