@@ -1,5 +1,5 @@
-#Data Generated At: Mon Nov 28 06:17:46 EST 2011
-#Data Records=6236
+#Data Generated At: Tue Nov 29 06:16:36 EST 2011
+#Data Records=6240
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -1642,6 +1642,7 @@
 90DAY STERLING FU Sep16|L U6|LIF|609903641613|IX11100159-0|Financial commodity future.|Comdty|BBG00163Z210||27267|27268|0||40559|//blp/mktdata/bsym/LIF/L U6|//blp/mktdata/buid/LIF/IX11100159-0|//blp/mktdata/bsid/609903641613
 90DAY STERLING FU Sep17|L U7|LIF|609885725454|IX13630589-0|Financial commodity future.|Comdty|BBG002455SQ4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/L U7|//blp/mktdata/buid/LIF/IX13630589-0|//blp/mktdata/bsid/609885725454
 ATF Future        Dec11|ATBZ1|MCI|1864040543738|IX13857721-0|Financial commodity future.|Comdty|BBG00275RPJ1||27910|36595|0||39619|//blp/mktdata/bsym/MCI/ATBZ1|//blp/mktdata/buid/MCI/IX13857721-0|//blp/mktdata/bsid/1864040543738
+ATF Future        Jan12|ATBF2|MCI|1864041072961|IX14112244-0|Financial commodity future.|Comdty|BBG0029D0K57||27910|36595|0||39619|//blp/mktdata/bsym/MCI/ATBF2|//blp/mktdata/buid/MCI/IX14112244-0|//blp/mktdata/bsid/1864041072961
 AU/US 10Y BND SPD Dec11|UXZ1|SFE|1176845461012|IX13755191-0|Financial commodity future.|Comdty|BBG0025C1VB1||14016|14016|0||40067|//blp/mktdata/bsym/SFE/UXZ1|//blp/mktdata/buid/SFE/IX13755191-0|//blp/mktdata/bsid/1176845461012
 AU/US 10Y BND SPD Dec11|UXZ1|SFE|1176845461012|IX13755191-0|Financial commodity future.|Comdty|BBG0025C1VB1||14016|14016|0||40067|//blp/mktdata/bsym/SFE/UXZ1|//blp/mktdata/buid/SFE/IX13755191-0|//blp/mktdata/bsid/1176845461012
 AU/US 10Y BND SPD Dec11|UXZ1|cSFE|10033068025364|IX13755191-0|Financial commodity future.|Comdty|BBG0025C1VB1||14016|14016|0||40067|//blp/mktdata/bsym/cSFE/UXZ1|//blp/mktdata/buid/cSFE/IX13755191-0|//blp/mktdata/bsid/10033068025364
@@ -3471,7 +3472,9 @@ FIXED GOV'T BOND  Mar14|MAH4|MDX|1743777738379|IX12426677-0|Financial commodity 
 FIXED GOV'T BOND  Sep12|MAU2|MDX|1743769613679|IX9530853-0|Financial commodity future.|Comdty|BBG000LN43Q6||14153|47510|0||39567|//blp/mktdata/bsym/MDX/MAU2|//blp/mktdata/buid/MDX/IX9530853-0|//blp/mktdata/bsid/1743769613679
 FIXED GOV'T BOND  Sep13|MAU3|MDX|1743775189066|IX11187304-0|Financial commodity future.|Comdty|BBG0016VGHJ7||14153|47510|0||39567|//blp/mktdata/bsym/MDX/MAU3|//blp/mktdata/buid/MDX/IX11187304-0|//blp/mktdata/bsid/1743775189066
 FIXED GOV'T BOND  Sep14|MAU4|MDX|1743780954224|IX13668208-0|Financial commodity future.|Comdty|BBG0024LG0F0||14153|47510|0||39567|//blp/mktdata/bsym/MDX/MAU4|//blp/mktdata/buid/MDX/IX13668208-0|//blp/mktdata/bsid/1743780954224
+FRA CUPOM CAMBIAL Jan17|FRCF7|||IX14118132-0|Financial commodity future.|Comdty|BBG0029FBZH4||14098|14098|0||39537|||
 FRA CUPOM CAMBIAL Mar12|FRCH2|||IX13675213-0|Financial commodity future.|Comdty|BBG0024N7H69||14098|14098|0||39537|||
+FRA CUPOM CAMBIAL May12|FRCK2|||IX14118128-0|Financial commodity future.|Comdty|BBG0029FBZG5||14098|14098|0||39537|||
 GC ULSD v GC Jet  Apr12|VVAJ2|NYM|1614917813350|IX8736932-0|Financial commodity future.|Comdty|BBG000XTPXL6||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VVAJ2|//blp/mktdata/buid/NYM/IX8736932-0|//blp/mktdata/bsid/1614917813350
 GC ULSD v GC Jet  Apr13|VVAJ3|NYM|1614924113621|IX10322146-0|Financial commodity future.|Comdty|BBG000V0JDD1||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VVAJ3|//blp/mktdata/buid/NYM/IX10322146-0|//blp/mktdata/bsid/1614924113621
 GC ULSD v GC Jet  Apr14|VVAJ4|NYM|1614929204198|IX12648569-0|Financial commodity future.|Comdty|BBG001NY3S75||14088|14088|0||39532|//blp/mktdata/bsym/NYM/VVAJ4|//blp/mktdata/buid/NYM/IX12648569-0|//blp/mktdata/bsid/1614929204198
@@ -4656,6 +4659,7 @@ NCG Base Month Fu Apr12|XMEJ2|EEE|1765255822067|IX13674673-0|Financial commodity
 NCG Base Month Fu Dec11|XMEZ1|EEE|1765253529089|IX12822839-0|Financial commodity future.|Comdty|BBG001QJ06K1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEZ1|//blp/mktdata/buid/EEE/IX12822839-0|//blp/mktdata/bsid/1765253529089
 NCG Base Month Fu Feb12|XMEG2|EEE|1765254514195|IX13240125-0|Financial commodity future.|Comdty|BBG001Y7FRK6||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEG2|//blp/mktdata/buid/EEE/IX13240125-0|//blp/mktdata/bsid/1765254514195
 NCG Base Month Fu Jan12|XMEF2|EEE|1765253937704|IX13045538-0|Financial commodity future.|Comdty|BBG001V718Q0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEF2|//blp/mktdata/buid/EEE/IX13045538-0|//blp/mktdata/bsid/1765253937704
+NCG Base Month Fu Jun12|XMEM2|||IX14117088-0|Financial commodity future.|Comdty|BBG0029DY8Y5||26852|26852|0||39597|||
 NCG Base Month Fu Mar12|XMEH2|EEE|1765255258393|IX13463429-0|Financial commodity future.|Comdty|BBG0021F5K19||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEH2|//blp/mktdata/buid/EEE/IX13463429-0|//blp/mktdata/bsid/1765255258393
 NCG Base Month Fu May12|XMEK2|EEE|1765256341471|IX13870734-0|Financial commodity future.|Comdty|BBG0027BQZ70||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEK2|//blp/mktdata/buid/EEE/IX13870734-0|//blp/mktdata/bsid/1765256341471
 NCG Base Month Fu Nov11|XMEX1|EEE|1765253018347|IX12628311-0|Financial commodity future.|Comdty|BBG001NQ0QN1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEX1|//blp/mktdata/buid/EEE/IX12628311-0|//blp/mktdata/bsid/1765253018347

@@ -1,5 +1,5 @@
-#Data Generated At: Mon Nov 28 06:34:58 EST 2011
-#Data Records=28776
+#Data Generated At: Tue Nov 29 06:33:37 EST 2011
+#Data Records=28821
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=CAPS & FLOORS
 9 CAP PRM STK 9.0 2.5Y||||IX3404598-0|CAPS & FLOORS|Curncy||||||||||
 AED CAP ATM         1 YR||||IX9024372-0|CAPS & FLOORS|Curncy||||||||||
@@ -3785,6 +3785,13 @@ CNY Cap 3Y SPOT||||IX4051006-0|CAPS & FLOORS|Curncy||||||||||
 CNY Cap 4Y SPOT||||IX6055180-0|CAPS & FLOORS|Curncy||||||||||
 CNY Cap 5Y SPOT||||IX4051010-0|CAPS & FLOORS|Curncy||||||||||
 CNY Cap 7Y SPOT||||IX4051014-0|CAPS & FLOORS|Curncy||||||||||
+CNY Cp/Fl NorVol 10Y||||IX14114172-0|CAPS & FLOORS|Curncy||||||||||
+CNY Cp/Fl NorVol 1Y||||IX14114148-0|CAPS & FLOORS|Curncy||||||||||
+CNY Cp/Fl NorVol 2Y||||IX14114152-0|CAPS & FLOORS|Curncy||||||||||
+CNY Cp/Fl NorVol 3Y||||IX14114156-0|CAPS & FLOORS|Curncy||||||||||
+CNY Cp/Fl NorVol 4Y||||IX14114160-0|CAPS & FLOORS|Curncy||||||||||
+CNY Cp/Fl NorVol 5Y||||IX14114164-0|CAPS & FLOORS|Curncy||||||||||
+CNY Cp/Fl NorVol 7Y||||IX14114168-0|CAPS & FLOORS|Curncy||||||||||
 CNYR CAP ATM        1 YR||||IX6111403-0|CAPS & FLOORS|Curncy||||||||||
 CNYR CAP ATM        2 YR||||IX6111407-0|CAPS & FLOORS|Curncy||||||||||
 CNYR CAP ATM        3 YR||||IX6111411-0|CAPS & FLOORS|Curncy||||||||||
@@ -12209,6 +12216,13 @@ HKD Cap 9Y SPOT 9%||||IX3547022-0|CAPS & FLOORS|Curncy||||||||||
 HKD Cap 9Y SPOT 9.5%||||IX3547026-0|CAPS & FLOORS|Curncy||||||||||
 HKD Cap 9Y SPOT||||IX12727103-0|CAPS & FLOORS|Curncy||||||||||
 HKD Cap 9Y SPOT||||IX3547074-0|CAPS & FLOORS|Curncy||||||||||
+HKD Cp/Fl NorVol 10Y||||IX14114076-0|CAPS & FLOORS|Curncy||||||||||
+HKD Cp/Fl NorVol 1Y||||IX14114052-0|CAPS & FLOORS|Curncy||||||||||
+HKD Cp/Fl NorVol 2Y||||IX14114056-0|CAPS & FLOORS|Curncy||||||||||
+HKD Cp/Fl NorVol 3Y||||IX14114060-0|CAPS & FLOORS|Curncy||||||||||
+HKD Cp/Fl NorVol 4Y||||IX14114064-0|CAPS & FLOORS|Curncy||||||||||
+HKD Cp/Fl NorVol 5Y||||IX14114068-0|CAPS & FLOORS|Curncy||||||||||
+HKD Cp/Fl NorVol 7Y||||IX14114072-0|CAPS & FLOORS|Curncy||||||||||
 HKD FLOOR ATM       1 YR||||IX4157132-0|CAPS & FLOORS|Curncy||||||||||
 HKD FLOOR ATM       2 YR||||IX4154787-0|CAPS & FLOORS|Curncy||||||||||
 HKD FLOOR ATM       3 YR||||IX4189129-0|CAPS & FLOORS|Curncy||||||||||
@@ -16222,6 +16236,15 @@ KRW Cap 9Y SPOT 8.5%||||IX3550130-0|CAPS & FLOORS|Curncy||||||||||
 KRW Cap 9Y SPOT 9%||||IX3550134-0|CAPS & FLOORS|Curncy||||||||||
 KRW Cap 9Y SPOT 9.5%||||IX3550138-0|CAPS & FLOORS|Curncy||||||||||
 KRW Cap 9Y SPOT||||IX3550186-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 10Y||||IX14114012-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 12Y||||IX14114016-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 15Y||||IX14114020-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 1Y||||IX14113988-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 2Y||||IX14113992-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 3Y||||IX14113996-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 4Y||||IX14114000-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 5Y||||IX14114004-0|CAPS & FLOORS|Curncy||||||||||
+KRW Cp/Fl NorVol 7Y||||IX14114008-0|CAPS & FLOORS|Curncy||||||||||
 KRW FLOOR ATM       1 YR||||IX8228682-0|CAPS & FLOORS|Curncy||||||||||
 KRW FLOOR ATM       10YR||||IX8228706-0|CAPS & FLOORS|Curncy||||||||||
 KRW FLOOR ATM       2 YR||||IX8228686-0|CAPS & FLOORS|Curncy||||||||||
@@ -17616,6 +17639,7 @@ MYR Cap 9Y SPOT 8.5%||||IX3556602-0|CAPS & FLOORS|Curncy||||||||||
 MYR Cap 9Y SPOT 9%||||IX3556606-0|CAPS & FLOORS|Curncy||||||||||
 MYR Cap 9Y SPOT 9.5%||||IX3556610-0|CAPS & FLOORS|Curncy||||||||||
 MYR Cap 9Y SPOT||||IX3556658-0|CAPS & FLOORS|Curncy||||||||||
+MYR Cp/Fl NorVol 10Y||||IX14114204-0|CAPS & FLOORS|Curncy||||||||||
 MYR FLOOR ATM        1YR||||IX8228738-0|CAPS & FLOORS|Curncy||||||||||
 MYR FLOOR ATM        2YR||||IX8228742-0|CAPS & FLOORS|Curncy||||||||||
 MYR FLOOR ATM        3YR||||IX8228746-0|CAPS & FLOORS|Curncy||||||||||
@@ -23332,6 +23356,13 @@ SGD Cap 9Y SPOT 8.5%||||IX3562806-0|CAPS & FLOORS|Curncy||||||||||
 SGD Cap 9Y SPOT 9%||||IX3562810-0|CAPS & FLOORS|Curncy||||||||||
 SGD Cap 9Y SPOT 9.5%||||IX3562814-0|CAPS & FLOORS|Curncy||||||||||
 SGD Cap 9Y SPOT||||IX3562862-0|CAPS & FLOORS|Curncy||||||||||
+SGD Cp/Fl NorVol 10Y||||IX14114132-0|CAPS & FLOORS|Curncy||||||||||
+SGD Cp/Fl NorVol 1Y||||IX14114084-0|CAPS & FLOORS|Curncy||||||||||
+SGD Cp/Fl NorVol 2Y||||IX14114092-0|CAPS & FLOORS|Curncy||||||||||
+SGD Cp/Fl NorVol 3Y||||IX14114108-0|CAPS & FLOORS|Curncy||||||||||
+SGD Cp/Fl NorVol 4Y||||IX14114112-0|CAPS & FLOORS|Curncy||||||||||
+SGD Cp/Fl NorVol 5Y||||IX14114120-0|CAPS & FLOORS|Curncy||||||||||
+SGD Cp/Fl NorVol 7Y||||IX14114124-0|CAPS & FLOORS|Curncy||||||||||
 SGD FLOOR ATM       1 YR||||IX8227282-0|CAPS & FLOORS|Curncy||||||||||
 SGD FLOOR ATM       10YR||||IX8227306-0|CAPS & FLOORS|Curncy||||||||||
 SGD FLOOR ATM       2 YR||||IX8227286-0|CAPS & FLOORS|Curncy||||||||||
@@ -24046,6 +24077,13 @@ THB Cap 9Y SPOT 8.5%||||IX3566026-0|CAPS & FLOORS|Curncy||||||||||
 THB Cap 9Y SPOT 9%||||IX3566030-0|CAPS & FLOORS|Curncy||||||||||
 THB Cap 9Y SPOT 9.5%||||IX3566034-0|CAPS & FLOORS|Curncy||||||||||
 THB Cap 9Y SPOT||||IX3566082-0|CAPS & FLOORS|Curncy||||||||||
+THB Cp/Fl NorVol 10Y||||IX14114200-0|CAPS & FLOORS|Curncy||||||||||
+THB Cp/Fl NorVol 1Y||||IX14114176-0|CAPS & FLOORS|Curncy||||||||||
+THB Cp/Fl NorVol 2Y||||IX14114180-0|CAPS & FLOORS|Curncy||||||||||
+THB Cp/Fl NorVol 3Y||||IX14114184-0|CAPS & FLOORS|Curncy||||||||||
+THB Cp/Fl NorVol 4Y||||IX14114188-0|CAPS & FLOORS|Curncy||||||||||
+THB Cp/Fl NorVol 5Y||||IX14114192-0|CAPS & FLOORS|Curncy||||||||||
+THB Cp/Fl NorVol 7Y||||IX14114196-0|CAPS & FLOORS|Curncy||||||||||
 THB FLOOR ATM        1YR||||IX8228770-0|CAPS & FLOORS|Curncy||||||||||
 THB FLOOR ATM        2YR||||IX8228774-0|CAPS & FLOORS|Curncy||||||||||
 THB FLOOR ATM        3YR||||IX8228778-0|CAPS & FLOORS|Curncy||||||||||
@@ -25117,6 +25155,13 @@ TWD Cap 9Y SPOT 8.5%||||IX3569422-0|CAPS & FLOORS|Curncy||||||||||
 TWD Cap 9Y SPOT 9%||||IX3569426-0|CAPS & FLOORS|Curncy||||||||||
 TWD Cap 9Y SPOT 9.5%||||IX3569430-0|CAPS & FLOORS|Curncy||||||||||
 TWD Cap 9Y SPOT||||IX3569478-0|CAPS & FLOORS|Curncy||||||||||
+TWD Cp/Fl NorVol 10Y||||IX14114024-0|CAPS & FLOORS|Curncy||||||||||
+TWD Cp/Fl NorVol 1Y||||IX14114028-0|CAPS & FLOORS|Curncy||||||||||
+TWD Cp/Fl NorVol 2Y||||IX14114032-0|CAPS & FLOORS|Curncy||||||||||
+TWD Cp/Fl NorVol 3Y||||IX14114036-0|CAPS & FLOORS|Curncy||||||||||
+TWD Cp/Fl NorVol 4Y||||IX14114040-0|CAPS & FLOORS|Curncy||||||||||
+TWD Cp/Fl NorVol 5Y||||IX14114044-0|CAPS & FLOORS|Curncy||||||||||
+TWD Cp/Fl NorVol 7Y||||IX14114048-0|CAPS & FLOORS|Curncy||||||||||
 TWD FLOOR ATM        1YR||||IX8228714-0|CAPS & FLOORS|Curncy||||||||||
 TWD FLOOR ATM        2YR||||IX8228718-0|CAPS & FLOORS|Curncy||||||||||
 TWD FLOOR ATM        3YR||||IX8228722-0|CAPS & FLOORS|Curncy||||||||||
