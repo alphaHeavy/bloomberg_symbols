@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 29 06:16:36 EST 2011
-#Data Records=6240
+#Data Generated At: Wed Nov 30 06:17:30 EST 2011
+#Data Records=6241
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -3996,6 +3996,7 @@ LME HG AliTAPO No Dec14|LAWZ4|LME|661437891148|IX9541064-0|Financial commodity f
 LME HG AliTAPO No Dec15|LAWZ5|LME|661443447385|IX11201446-0|Financial commodity future.|Comdty|BBG0016XG8F7||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWZ5|//blp/mktdata/buid/LME/IX11201446-0|//blp/mktdata/bsid/661443447385
 LME HG AliTAPO No Dec16|LAWZ6|LME|661449231183|IX13682172-0|Financial commodity future.|Comdty|BBG0024QXFD9||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWZ6|//blp/mktdata/buid/LME/IX13682172-0|//blp/mktdata/bsid/661449231183
 LME HG AliTAPO No Feb16|LAWG6|LME|661444186983|IX11550865-0|Financial commodity future.|Comdty|BBG0019Q1XG9||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWG6|//blp/mktdata/buid/LME/IX11550865-0|//blp/mktdata/bsid/661444186983
+LME HG AliTAPO No Feb17|LAWG7|||IX14127177-0|Financial commodity future.|Comdty|BBG0029HL3J8||14059|0|0||14197|||
 LME HG AliTAPO No Jan15|LAWF5|LME|661438437422|IX9644533-0|Financial commodity future.|Comdty|BBG000Y6BJR5||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWF5|//blp/mktdata/buid/LME/IX9644533-0|//blp/mktdata/bsid/661438437422
 LME HG AliTAPO No Jul15|LAWN5|LME|661441314092|IX10317441-0|Financial commodity future.|Comdty|BBG000ZNWBR1||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWN5|//blp/mktdata/buid/LME/IX10317441-0|//blp/mktdata/bsid/661441314092
 LME HG AliTAPO No Jul16|LAWN6|LME|661446460350|IX12645329-0|Financial commodity future.|Comdty|BBG001NY1CS9||14059|0|0||14197|//blp/mktdata/bsym/LME/LAWN6|//blp/mktdata/buid/LME/IX12645329-0|//blp/mktdata/bsid/661446460350
@@ -4048,6 +4049,7 @@ LME Lead TAPO Not Aug12|LTWQ2|LME|661446930002|IX12822895-0|Financial commodity 
 LME Lead TAPO Not Dec11|LTWZ1|LME|661443447388|IX11201402-0|Financial commodity future.|Comdty|BBG0016XG812||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWZ1|//blp/mktdata/buid/LME/IX11201402-0|//blp/mktdata/bsid/661443447388
 LME Lead TAPO Not Dec12|LTWZ2|LME|661449231186|IX13682224-0|Financial commodity future.|Comdty|BBG0024QXFS3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWZ2|//blp/mktdata/buid/LME/IX13682224-0|//blp/mktdata/bsid/661449231186
 LME Lead TAPO Not Feb12|LTWG2|LME|661444186985|IX11550805-0|Financial commodity future.|Comdty|BBG0019Q1WW3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWG2|//blp/mktdata/buid/LME/IX11550805-0|//blp/mktdata/bsid/661444186985
+LME Lead TAPO Not Feb13|LTWG3|||IX14126977-0|Financial commodity future.|Comdty|BBG0029HL1X6||14059|0|0||14197|||
 LME Lead TAPO Not Jan12|LTWF2|LME|661443796182|IX11364755-0|Financial commodity future.|Comdty|BBG001891JC3||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWF2|//blp/mktdata/buid/LME/IX11364755-0|//blp/mktdata/bsid/661443796182
 LME Lead TAPO Not Jan13|LTWF3|LME|661449750003|IX13881479-0|Financial commodity future.|Comdty|BBG0027DZNR1||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWF3|//blp/mktdata/buid/LME/IX13881479-0|//blp/mktdata/bsid/661449750003
 LME Lead TAPO Not Jul12|LTWN2|LME|661446428478|IX12637468-0|Financial commodity future.|Comdty|BBG001NVKS45||14059|0|0||14197|//blp/mktdata/bsym/LME/LTWN2|//blp/mktdata/buid/LME/IX12637468-0|//blp/mktdata/bsid/661446428478
@@ -4659,10 +4661,9 @@ NCG Base Month Fu Apr12|XMEJ2|EEE|1765255822067|IX13674673-0|Financial commodity
 NCG Base Month Fu Dec11|XMEZ1|EEE|1765253529089|IX12822839-0|Financial commodity future.|Comdty|BBG001QJ06K1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEZ1|//blp/mktdata/buid/EEE/IX12822839-0|//blp/mktdata/bsid/1765253529089
 NCG Base Month Fu Feb12|XMEG2|EEE|1765254514195|IX13240125-0|Financial commodity future.|Comdty|BBG001Y7FRK6||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEG2|//blp/mktdata/buid/EEE/IX13240125-0|//blp/mktdata/bsid/1765254514195
 NCG Base Month Fu Jan12|XMEF2|EEE|1765253937704|IX13045538-0|Financial commodity future.|Comdty|BBG001V718Q0||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEF2|//blp/mktdata/buid/EEE/IX13045538-0|//blp/mktdata/bsid/1765253937704
-NCG Base Month Fu Jun12|XMEM2|||IX14117088-0|Financial commodity future.|Comdty|BBG0029DY8Y5||26852|26852|0||39597|||
+NCG Base Month Fu Jun12|XMEM2|EEE|1765256838911|IX14117088-0|Financial commodity future.|Comdty|BBG0029DY8Y5||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEM2|//blp/mktdata/buid/EEE/IX14117088-0|//blp/mktdata/bsid/1765256838911
 NCG Base Month Fu Mar12|XMEH2|EEE|1765255258393|IX13463429-0|Financial commodity future.|Comdty|BBG0021F5K19||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEH2|//blp/mktdata/buid/EEE/IX13463429-0|//blp/mktdata/bsid/1765255258393
 NCG Base Month Fu May12|XMEK2|EEE|1765256341471|IX13870734-0|Financial commodity future.|Comdty|BBG0027BQZ70||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEK2|//blp/mktdata/buid/EEE/IX13870734-0|//blp/mktdata/bsid/1765256341471
-NCG Base Month Fu Nov11|XMEX1|EEE|1765253018347|IX12628311-0|Financial commodity future.|Comdty|BBG001NQ0QN1||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XMEX1|//blp/mktdata/buid/EEE/IX12628311-0|//blp/mktdata/bsid/1765253018347
 NCG Base Quarter  Apr12|XQEJ2|EEE|1765248904082|IX10582161-0|Financial commodity future.|Comdty|BBG0012C1T67||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEJ2|//blp/mktdata/buid/EEE/IX10582161-0|//blp/mktdata/bsid/1765248904082
 NCG Base Quarter  Apr13|XQEJ3|EEE|1765253937365|IX13045590-0|Financial commodity future.|Comdty|BBG001V71924||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEJ3|//blp/mktdata/buid/EEE/IX13045590-0|//blp/mktdata/bsid/1765253937365
 NCG Base Quarter  Jan12|XQEF2|EEE|1765247526167|IX10216837-0|Financial commodity future.|Comdty|BBG000ZDSJ19||26852|26852|0||39597|//blp/mktdata/bsym/EEE/XQEF2|//blp/mktdata/buid/EEE/IX10216837-0|//blp/mktdata/bsid/1765247526167

@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 29 06:33:37 EST 2011
-#Data Records=28821
+#Data Generated At: Wed Nov 30 06:34:35 EST 2011
+#Data Records=28836
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=CAPS & FLOORS
 9 CAP PRM STK 9.0 2.5Y||||IX3404598-0|CAPS & FLOORS|Curncy||||||||||
 AED CAP ATM         1 YR||||IX9024372-0|CAPS & FLOORS|Curncy||||||||||
@@ -13503,6 +13503,15 @@ INR CAP VOL         5 YR||||IX2079912-0|CAPS & FLOORS|Curncy||||||||||
 INR CAP VOL         6 YR||||IX2974079-0|CAPS & FLOORS|Curncy||||||||||
 INR CAP VOL         7 YR||||IX2079916-0|CAPS & FLOORS|Curncy||||||||||
 INR CAP VOL        10 YR||||IX2079920-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 10Y||||IX14120229-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 12Y||||IX14120233-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 15Y||||IX14120237-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 1Y||||IX14120205-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 2Y||||IX14120209-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 3Y||||IX14120213-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 4Y||||IX14120217-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 5Y||||IX14120221-0|CAPS & FLOORS|Curncy||||||||||
+INR Cp/Fl NorVol 7Y||||IX14120225-0|CAPS & FLOORS|Curncy||||||||||
 INR FLOOR ATM        1YR||||IX8229118-0|CAPS & FLOORS|Curncy||||||||||
 INR FLOOR ATM        2YR||||IX8229122-0|CAPS & FLOORS|Curncy||||||||||
 INR FLOOR ATM        3YR||||IX8229126-0|CAPS & FLOORS|Curncy||||||||||
@@ -17640,6 +17649,12 @@ MYR Cap 9Y SPOT 9%||||IX3556606-0|CAPS & FLOORS|Curncy||||||||||
 MYR Cap 9Y SPOT 9.5%||||IX3556610-0|CAPS & FLOORS|Curncy||||||||||
 MYR Cap 9Y SPOT||||IX3556658-0|CAPS & FLOORS|Curncy||||||||||
 MYR Cp/Fl NorVol 10Y||||IX14114204-0|CAPS & FLOORS|Curncy||||||||||
+MYR Cp/Fl NorVol 1Y||||IX14120181-0|CAPS & FLOORS|Curncy||||||||||
+MYR Cp/Fl NorVol 2Y||||IX14120185-0|CAPS & FLOORS|Curncy||||||||||
+MYR Cp/Fl NorVol 3Y||||IX14120189-0|CAPS & FLOORS|Curncy||||||||||
+MYR Cp/Fl NorVol 4Y||||IX14120193-0|CAPS & FLOORS|Curncy||||||||||
+MYR Cp/Fl NorVol 5Y||||IX14120197-0|CAPS & FLOORS|Curncy||||||||||
+MYR Cp/Fl NorVol 7Y||||IX14120201-0|CAPS & FLOORS|Curncy||||||||||
 MYR FLOOR ATM        1YR||||IX8228738-0|CAPS & FLOORS|Curncy||||||||||
 MYR FLOOR ATM        2YR||||IX8228742-0|CAPS & FLOORS|Curncy||||||||||
 MYR FLOOR ATM        3YR||||IX8228746-0|CAPS & FLOORS|Curncy||||||||||

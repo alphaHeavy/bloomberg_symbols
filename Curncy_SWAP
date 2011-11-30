@@ -1,5 +1,5 @@
-#Data Generated At: Tue Nov 29 06:34:45 EST 2011
-#Data Records=13423
+#Data Generated At: Wed Nov 30 06:35:37 EST 2011
+#Data Records=13461
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -708,6 +708,8 @@ BKO  3   03/14/08 ASW6||||IX4738404-0|SWAP|Curncy||||||||||
 BKO  3 1/4 06/13/08 ASW6||||IX4738412-0|SWAP|Curncy||||||||||
 BKO  4   3/4 06/11/10 ASW6||||IX7542018-0|SWAP|Curncy||||||||||
 BKO 0 03/12/10 ASW6||||IX6138744-0|SWAP|Curncy||||||||||
+BKO 0 1/4  12/13/13 ASW3||||IX14127761-0|SWAP|Curncy||||||||||
+BKO 0 1/4  12/13/13 ASW6||||IX14127757-0|SWAP|Curncy||||||||||
 BKO 0.5 6/15/12   ASW6||||IX10368342-0|SWAP|Curncy||||||||||
 BKO 0.75 13/09/2013 ASW6||||IX13477488-0|SWAP|Curncy||||||||||
 BKO 0.750 9/14/2012 ASW6||||IX10836778-0|SWAP|Curncy||||||||||
@@ -1240,7 +1242,9 @@ BTNS 1 1/2 09/12/11 ASW6||||IX9635356-0|SWAP|Curncy||||||||||
 BTNS 2 1/2  07/12/10 ASW6||||IX4698998-0|SWAP|Curncy||||||||||
 BTNS 2 1/2 01/12/14  MM6||||IX9649997-0|SWAP|Curncy||||||||||
 BTNS 2 3/4  03/12/08 ASW6||||IX4738200-0|SWAP|Curncy||||||||||
+BTNS 2.0  9/25/13 ASW3||||IX14127849-0|SWAP|Curncy||||||||||
 BTNS 2.0  9/25/13 ASW6||||IX13015402-0|SWAP|Curncy||||||||||
+BTNS 2.50   7/25/16 ASW3||||IX14127861-0|SWAP|Curncy||||||||||
 BTNS 2.500  7/25/16 ASW6||||IX13015418-0|SWAP|Curncy||||||||||
 BTNS 3     07/12/08 ASW6||||IX4738208-0|SWAP|Curncy||||||||||
 BTNS 3    01/12/10 ASW6||||IX4738244-0|SWAP|Curncy||||||||||
@@ -1356,6 +1360,11 @@ BUND 2.50 01/04/21 ASW6||||IX11910057-0|SWAP|Curncy||||||||||
 BUND 3.50 07/04/19 ASW6||||IX9062539-0|SWAP|Curncy||||||||||
 BWP SWAP            1 YR||||IX5645927-0|SWAP|Curncy||||||||||
 BWP SWAP            10YR||||IX5645963-0|SWAP|Curncy||||||||||
+BWP SWAP            11YR||||IX14127581-0|SWAP|Curncy||||||||||
+BWP SWAP            12YR||||IX14127585-0|SWAP|Curncy||||||||||
+BWP SWAP            13YR||||IX14127573-0|SWAP|Curncy||||||||||
+BWP SWAP            14YR||||IX14127577-0|SWAP|Curncy||||||||||
+BWP SWAP            15YR||||IX14126065-0|SWAP|Curncy||||||||||
 BWP SWAP            18MO||||IX5645923-0|SWAP|Curncy||||||||||
 BWP SWAP            2 YR||||IX5645931-0|SWAP|Curncy||||||||||
 BWP SWAP            3 YR||||IX5645935-0|SWAP|Curncy||||||||||
@@ -2349,11 +2358,15 @@ DBR  4 1/8 07/04/08 ASW6||||IX4738416-0|SWAP|Curncy||||||||||
 DBR  4 3/4 07/04/08 ASW6||||IX4738420-0|SWAP|Curncy||||||||||
 DBR  5 1/4 01/04/08 ASW6||||IX4738396-0|SWAP|Curncy||||||||||
 DBR 0,99 01/04/20 ASW6||||IX9996198-0|SWAP|Curncy||||||||||
+DBR 2 1/4  09/04/21 ASW3||||IX14127745-0|SWAP|Curncy||||||||||
+DBR 2 1/4  09/04/21 ASW6||||IX14127741-0|SWAP|Curncy||||||||||
 DBR 2.25 09/04/2020 ASW6||||IX10876404-0|SWAP|Curncy||||||||||
 DBR 3  07/04/20  ASW6||||IX10945637-0|SWAP|Curncy||||||||||
 DBR 3 1/2 01/04/16   MM6||||IX9650173-0|SWAP|Curncy||||||||||
 DBR 3 1/2 01/04/16 ASW6||||IX4700206-0|SWAP|Curncy||||||||||
 DBR 3 1/2 07/04/19   MM6||||IX9835171-0|SWAP|Curncy||||||||||
+DBR 3 1/4  07/04/42 ASW3||||IX14127729-0|SWAP|Curncy||||||||||
+DBR 3 1/4  07/04/42 ASW6||||IX14127725-0|SWAP|Curncy||||||||||
 DBR 3 1/4 07/04/15   MM6||||IX9650169-0|SWAP|Curncy||||||||||
 DBR 3 1/4 07/04/15 ASW6||||IX4739716-0|SWAP|Curncy||||||||||
 DBR 3 3/4 01/04/09 ASW6||||IX4738436-0|SWAP|Curncy||||||||||
@@ -2388,6 +2401,8 @@ DBR 4 1/4 07/04/18   MM6||||IX9650193-0|SWAP|Curncy||||||||||
 DBR 4 1/4 07/04/18 ASW6||||IX7062678-0|SWAP|Curncy||||||||||
 DBR 4 1/4 07/04/39   MM6||||IX9650233-0|SWAP|Curncy||||||||||
 DBR 4 1/4 07/04/39 ASW6||||IX4748514-0|SWAP|Curncy||||||||||
+DBR 4 3/4  07/04/40 ASW3||||IX14127733-0|SWAP|Curncy||||||||||
+DBR 4 3/4  07/04/40 ASW6||||IX14127737-0|SWAP|Curncy||||||||||
 DBR 4 3/4 07/04/28   MM6||||IX9650213-0|SWAP|Curncy||||||||||
 DBR 4 3/4 07/04/28 ASW6||||IX4740024-0|SWAP|Curncy||||||||||
 DBR 4 3/4 07/04/34   MM6||||IX9650225-0|SWAP|Curncy||||||||||
@@ -5839,7 +5854,9 @@ FRTR 3 3/4  04/25/21 ASW6||||IX4738328-0|SWAP|Curncy||||||||||
 FRTR 3 3/4 04/25/17  MM6||||IX9650029-0|SWAP|Curncy||||||||||
 FRTR 3 3/4 04/25/21  MM6||||IX9650053-0|SWAP|Curncy||||||||||
 FRTR 3 3/4 10/25/19  MM6||||IX9650049-0|SWAP|Curncy||||||||||
+FRTR 3.25 10/25/21 ASW3||||IX14127845-0|SWAP|Curncy||||||||||
 FRTR 3.25 10/25/21 ASW6||||IX13015450-0|SWAP|Curncy||||||||||
+FRTR 3.5  04/25/26  ASW3||||IX14127841-0|SWAP|Curncy||||||||||
 FRTR 3.5  04/25/26  ASW6||||IX11152828-0|SWAP|Curncy||||||||||
 FRTR 4     04/25/18 ASW6||||IX6274334-0|SWAP|Curncy||||||||||
 FRTR 4     04/25/18 ASW6||||IX6577502-0|SWAP|Curncy||||||||||
@@ -5856,12 +5873,15 @@ FRTR 4    04/25/14 ASW6||||IX4738292-0|SWAP|Curncy||||||||||
 FRTR 4    10/25/09 ASW6||||IX4738240-0|SWAP|Curncy||||||||||
 FRTR 4    10/25/14 ASW6||||IX4738296-0|SWAP|Curncy||||||||||
 FRTR 4   04/25/55 ASW6||||IX4738368-0|SWAP|Curncy||||||||||
+FRTR 4   10/25/38 ASW3||||IX14127837-0|SWAP|Curncy||||||||||
 FRTR 4   10/25/38 ASW6||||IX4738364-0|SWAP|Curncy||||||||||
 FRTR 4 04/25/13   MM6||||IX9649985-0|SWAP|Curncy||||||||||
 FRTR 4 04/25/14   MM6||||IX9650001-0|SWAP|Curncy||||||||||
 FRTR 4 04/25/18   MM6||||IX9650037-0|SWAP|Curncy||||||||||
 FRTR 4 04/25/55   MM6||||IX9650089-0|SWAP|Curncy||||||||||
 FRTR 4 1/2 04/25/41  MM6||||IX9650085-0|SWAP|Curncy||||||||||
+FRTR 4 1/2 04/25/41 ASW3||||IX14127833-0|SWAP|Curncy||||||||||
+FRTR 4 1/2 04/25/41 ASW6||||IX14127829-0|SWAP|Curncy||||||||||
 FRTR 4 1/4  04/25/19 ASW3||||IX12580702-0|SWAP|Curncy||||||||||
 FRTR 4 1/4  04/25/19 ASW6||||IX12675329-0|SWAP|Curncy||||||||||
 FRTR 4 1/4  04/25/19 ASW6||||IX4738320-0|SWAP|Curncy||||||||||
@@ -8552,6 +8572,22 @@ NOK-USD SWAP        6 MO||||IX296030-0|SWAP|Curncy||||||||||
 NOK-USD SWAP        7 MO||||IX9935870-0|SWAP|Curncy||||||||||
 NOK-USD SWAP        8 MO||||IX9935874-0|SWAP|Curncy||||||||||
 NOK-USD SWAP        9 MO||||IX296032-0|SWAP|Curncy||||||||||
+NTHR 3 1/2 07/15/20 ASW3||||IX14127805-0|SWAP|Curncy||||||||||
+NTHR 3 1/2 07/15/20 ASW6||||IX14127809-0|SWAP|Curncy||||||||||
+NTHR 3 1/4 07/15/15 ASW3||||IX14127821-0|SWAP|Curncy||||||||||
+NTHR 3 1/4 07/15/15 ASW6||||IX14127825-0|SWAP|Curncy||||||||||
+NTHR 3 1/4 07/15/21 ASW3||||IX14127801-0|SWAP|Curncy||||||||||
+NTHR 3 1/4 07/15/21 ASW6||||IX14127797-0|SWAP|Curncy||||||||||
+NTHR 3 3/4 01/15/23 ASW3||||IX14127789-0|SWAP|Curncy||||||||||
+NTHR 3 3/4 01/15/23 ASW6||||IX14127793-0|SWAP|Curncy||||||||||
+NTHR 3 3/4 01/15/42 ASW3||||IX14127769-0|SWAP|Curncy||||||||||
+NTHR 3 3/4 01/15/42 ASW6||||IX14127765-0|SWAP|Curncy||||||||||
+NTHR 4     01/15/37 ASW3||||IX14127773-0|SWAP|Curncy||||||||||
+NTHR 4     01/15/37 ASW6||||IX14127777-0|SWAP|Curncy||||||||||
+NTHR 4     07/15/16 ASW3||||IX14127817-0|SWAP|Curncy||||||||||
+NTHR 4     07/15/16 ASW6||||IX14127813-0|SWAP|Curncy||||||||||
+NTHR 5 1/2 01/15/28 ASW3||||IX14127785-0|SWAP|Curncy||||||||||
+NTHR 5 1/2 01/15/28 ASW6||||IX14127781-0|SWAP|Curncy||||||||||
 NTLR 3 1/2 07/15/20 ASW6||||IX10080690-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD  1Y2Y||||IX13735131-0|SWAP|Curncy||||||||||
 NZD IRS SWAP SPRD 1Y10Y||||IX13735163-0|SWAP|Curncy||||||||||
@@ -8718,6 +8754,8 @@ OBL  4 1/2 08/17/07 ASW6||||IX4738372-0|SWAP|Curncy||||||||||
 OBL  4 1/4 02/15/08 ASW6||||IX4738400-0|SWAP|Curncy||||||||||
 OBL  4 3/4  04/13/12 ASW3||||IX4409714-0|SWAP|Curncy||||||||||
 OBL 0.000 02/26/16  ASW6||||IX11841901-0|SWAP|Curncy||||||||||
+OBL 1 1/4  10/14/16 ASW3||||IX14127749-0|SWAP|Curncy||||||||||
+OBL 1 1/4  10/14/16 ASW6||||IX14127753-0|SWAP|Curncy||||||||||
 OBL 1 3/4  10/09/15 ASW6||||IX11261090-0|SWAP|Curncy||||||||||
 OBL 1.25%  10/14/16 ASW6||||IX13703683-0|SWAP|Curncy||||||||||
 OBL 2 1/2 10/08/10   MM6||||IX9650093-0|SWAP|Curncy||||||||||
