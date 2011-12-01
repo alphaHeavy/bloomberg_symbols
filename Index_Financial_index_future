@@ -1,5 +1,5 @@
-#Data Generated At: Wed Nov 30 06:48:10 EST 2011
-#Data Records=461
+#Data Generated At: Thu Dec 1 06:46:43 EST 2011
+#Data Records=463
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
 AEX 1MO VAR       Dec11|AEAZ1|LIF|609910464702|IX14052437-0|Financial index future.|Index|BBG0028DRRR0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/AEAZ1|//blp/mktdata/buid/LIF/IX14052437-0|//blp/mktdata/bsid/609910464702
@@ -69,6 +69,7 @@ Credit IN EVT S3  Dec12|CCDZ2|eCME|2078766093472|IX4421341-0|Financial index fut
 Credit IN EVT S3  Jun12|CCDM2|eCME|2078766093471|IX4419501-0|Financial index future.|Index|BBG000WCQWG1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDM2|//blp/mktdata/buid/eCME/IX4419501-0|//blp/mktdata/bsid/2078766093471
 Crude ME Sour1Min Feb12|MECG2|ICE|1172550881082|IX13896425-0|Financial index future.|Index|BBG0027GF7J0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECG2|//blp/mktdata/buid/ICE/IX13896425-0|//blp/mktdata/bsid/1172550881082
 Crude ME Sour1Min Jan12|MECF2|ICE|1172550367321|IX13689873-0|Financial index future.|Index|BBG0024TVZH7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECF2|//blp/mktdata/buid/ICE/IX13689873-0|//blp/mktdata/bsid/1172550367321
+Crude ME Sour1Min Mar12|MECH2|||IX14135556-0|Financial index future.|Index|BBG0029KZ958||30022|30022|0||40087|||
 Crude WTI Sing1Mi Feb12|WACG2|ICE|1172551069193|IX14024714-0|Financial index future.|Index|BBG00284SZW5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACG2|//blp/mktdata/buid/ICE/IX14024714-0|//blp/mktdata/bsid/1172551069193
 Crude WTI Sing1Mi Jan12|WACF2|ICE|1172550553891|IX13781708-0|Financial index future.|Index|BBG0025NL5V0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACF2|//blp/mktdata/buid/ICE/IX13781708-0|//blp/mktdata/bsid/1172550553891
 DJ Sustainability Dec11|DJSZ1|CCX|2559819936996|IX11707249-0|Financial index future.|Index|BBG001BSYHX2||30499|30499|0||40090|//blp/mktdata/bsym/CCX/DJSZ1|//blp/mktdata/buid/CCX/IX11707249-0|//blp/mktdata/bsid/2559819936996
@@ -162,6 +163,12 @@ MSCI Asia Apex 50 Dec11|APEZ1|cSGX|10037360966327|IX13051841-0|Financial index f
 MSCI Asia Apex 50 Dec11|APEZ1|cSGX|10037360966327|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEZ1|//blp/mktdata/buid/cSGX/IX13051841-0|//blp/mktdata/bsid/10037360966327
 MSCI Asia Apex 50 Dec11|APEZ1|eSGX|2108851337911|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEZ1|//blp/mktdata/buid/eSGX/IX13051841-0|//blp/mktdata/bsid/2108851337911
 MSCI Asia Apex 50 Dec11|APEZ1|eSGX|2108851337911|IX13051841-0|Financial index future.|Index|BBG001V8VV84||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEZ1|//blp/mktdata/buid/eSGX/IX13051841-0|//blp/mktdata/bsid/2108851337911
+MSCI Asia Apex 50 Feb12|APEG2|SGX|889083518918|IX14124653-0|Financial index future.|Index|BBG0029H7VM8||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEG2|//blp/mktdata/buid/SGX/IX14124653-0|//blp/mktdata/bsid/889083518918
+MSCI Asia Apex 50 Feb12|APEG2|SGX|889083518918|IX14124653-0|Financial index future.|Index|BBG0029H7VM8||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEG2|//blp/mktdata/buid/SGX/IX14124653-0|//blp/mktdata/bsid/889083518918
+MSCI Asia Apex 50 Feb12|APEG2|cSGX|10037363859398|IX14124653-0|Financial index future.|Index|BBG0029H7VM8||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEG2|//blp/mktdata/buid/cSGX/IX14124653-0|//blp/mktdata/bsid/10037363859398
+MSCI Asia Apex 50 Feb12|APEG2|cSGX|10037363859398|IX14124653-0|Financial index future.|Index|BBG0029H7VM8||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEG2|//blp/mktdata/buid/cSGX/IX14124653-0|//blp/mktdata/bsid/10037363859398
+MSCI Asia Apex 50 Feb12|APEG2|eSGX|2108854230982|IX14124653-0|Financial index future.|Index|BBG0029H7VM8||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEG2|//blp/mktdata/buid/eSGX/IX14124653-0|//blp/mktdata/bsid/2108854230982
+MSCI Asia Apex 50 Feb12|APEG2|eSGX|2108854230982|IX14124653-0|Financial index future.|Index|BBG0029H7VM8||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEG2|//blp/mktdata/buid/eSGX/IX14124653-0|//blp/mktdata/bsid/2108854230982
 MSCI Asia Apex 50 Jan12|APEF2|SGX|889083012891|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEF2|//blp/mktdata/buid/SGX/IX13878355-0|//blp/mktdata/bsid/889083012891
 MSCI Asia Apex 50 Jan12|APEF2|SGX|889083012891|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEF2|//blp/mktdata/buid/SGX/IX13878355-0|//blp/mktdata/bsid/889083012891
 MSCI Asia Apex 50 Jan12|APEF2|cSGX|10037363353371|IX13878355-0|Financial index future.|Index|BBG0027DRCZ5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEF2|//blp/mktdata/buid/cSGX/IX13878355-0|//blp/mktdata/bsid/10037363353371
@@ -174,12 +181,6 @@ MSCI Asia Apex 50 Mar12|APEH2|cSGX|10037362844105|IX13680604-0|Financial index f
 MSCI Asia Apex 50 Mar12|APEH2|cSGX|10037362844105|IX13680604-0|Financial index future.|Index|BBG0024QGLT8||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEH2|//blp/mktdata/buid/cSGX/IX13680604-0|//blp/mktdata/bsid/10037362844105
 MSCI Asia Apex 50 Mar12|APEH2|eSGX|2108853215689|IX13680604-0|Financial index future.|Index|BBG0024QGLT8||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEH2|//blp/mktdata/buid/eSGX/IX13680604-0|//blp/mktdata/bsid/2108853215689
 MSCI Asia Apex 50 Mar12|APEH2|eSGX|2108853215689|IX13680604-0|Financial index future.|Index|BBG0024QGLT8||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEH2|//blp/mktdata/buid/eSGX/IX13680604-0|//blp/mktdata/bsid/2108853215689
-MSCI Asia Apex 50 Nov11|APEX1|SGX|889081923528|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEX1|//blp/mktdata/buid/SGX/IX13461437-0|//blp/mktdata/bsid/889081923528
-MSCI Asia Apex 50 Nov11|APEX1|SGX|889081923528|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/SGX/APEX1|//blp/mktdata/buid/SGX/IX13461437-0|//blp/mktdata/bsid/889081923528
-MSCI Asia Apex 50 Nov11|APEX1|cSGX|10037362264008|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEX1|//blp/mktdata/buid/cSGX/IX13461437-0|//blp/mktdata/bsid/10037362264008
-MSCI Asia Apex 50 Nov11|APEX1|cSGX|10037362264008|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/APEX1|//blp/mktdata/buid/cSGX/IX13461437-0|//blp/mktdata/bsid/10037362264008
-MSCI Asia Apex 50 Nov11|APEX1|eSGX|2108852635592|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEX1|//blp/mktdata/buid/eSGX/IX13461437-0|//blp/mktdata/bsid/2108852635592
-MSCI Asia Apex 50 Nov11|APEX1|eSGX|2108852635592|IX13461437-0|Financial index future.|Index|BBG0021F0VX5||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/APEX1|//blp/mktdata/buid/eSGX/IX13461437-0|//blp/mktdata/bsid/2108852635592
 MSCI EUR AUTO COM Apr12|MACJ2|LIF|609910401480|IX14051897-0|Financial index future.|Index|BBG0028DRMR1||27267|27268|0||40559|//blp/mktdata/bsym/LIF/MACJ2|//blp/mktdata/buid/LIF/IX14051897-0|//blp/mktdata/bsid/609910401480
 MSCI EUR AUTO COM Dec12|MACZ2|LIF|609904784053|IX11705197-0|Financial index future.|Index|BBG001BS6FC0||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACZ2|//blp/mktdata/buid/LIF/IX11705197-0|//blp/mktdata/bsid/609904784053
 MSCI EUR AUTO COM Feb12|MACG2|LIF|609909909746|IX13822172-0|Financial index future.|Index|BBG0026257G6||27269|27270|0||39605|//blp/mktdata/bsym/LIF/MACG2|//blp/mktdata/buid/LIF/IX13822172-0|//blp/mktdata/bsid/609909909746
@@ -385,6 +386,7 @@ OMX Benchmark Fut Mar12|OSBH2|SS|450995538857|IX13595170-0|Financial index futur
 PLZL Future       Dec11|PLLZ1|||IX11684335-0|Financial index future.|Index|BBG001BJVJC4||14134|14134|0||39558|||
 PMI Group CEBO    Dec11|PMIZ1|US|399452604497|IX12230256-0|Financial index future.|Index|BBG001KKV381||14009|0|0||39495|//blp/mktdata/bsym/US/PMIZ1|//blp/mktdata/buid/US/IX12230256-0|//blp/mktdata/bsid/399452604497
 ROSN Future       Dec11|ROSZ1|||IX13307245-0|Financial index future.|Index|BBG001YR1L39||14134|14134|0||39558|||
+ROSN Future       Mar12|ROSH2|||IX14131972-0|Financial index future.|Index|BBG0029K7F82||14134|14134|0||39558|||
 RTS ConsRet IdxFu Dec11|COAZ1|RTS|1769545923203|IX11684351-0|Financial index future.|Index|BBG001BJVJH9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/COAZ1|//blp/mktdata/buid/RTS/IX11684351-0|//blp/mktdata/bsid/1769545923203
 RTS ConsRet IdxFu Jun12|COAM2|RTS|1769548660893|IX12943202-0|Financial index future.|Index|BBG001R22JJ9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/COAM2|//blp/mktdata/buid/RTS/IX12943202-0|//blp/mktdata/bsid/1769548660893
 RTS ConsRet IdxFu Mar12|COAH2|RTS|1769547252148|IX12292315-0|Financial index future.|Index|BBG001KQZZS1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/COAH2|//blp/mktdata/buid/RTS/IX12292315-0|//blp/mktdata/bsid/1769547252148
