@@ -1,4 +1,4 @@
-#Data Generated At: Thu Dec 1 06:46:43 EST 2011
+#Data Generated At: Fri Dec 2 06:46:47 EST 2011
 #Data Records=463
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Financial index future.
 ADVANCED MCRO CEBODec11|AMDZ1|US|399452593040|IX12215829-0|Financial index future.|Index|BBG001KJN3V7||14009|0|0||39495|//blp/mktdata/bsym/US/AMDZ1|//blp/mktdata/buid/US/IX12215829-0|//blp/mktdata/bsid/399452593040
@@ -51,6 +51,7 @@ CBOE MINI VIX FUT Feb12|MVIG2|CBF|773119110697|IX14025442-0|Financial index futu
 CBOE MINI VIX FUT Jan12|MVIF2|CBF|773118639964|IX13803226-0|Financial index future.|Index|BBG0025XBG27||14204|44383|0||39587|//blp/mktdata/bsym/CBF/MVIF2|//blp/mktdata/buid/CBF/IX13803226-0|//blp/mktdata/bsid/773118639964
 CNX Infra Index ftJan12|CNIF2|NSE|1760961827154|IX14089894-0|Financial index future.|Index|BBG0029BR564||29654|29655|0||39638|//blp/mktdata/bsym/NSE/CNIF2|//blp/mktdata/buid/NSE/IX14089894-0|//blp/mktdata/bsid/1760961827154
 COLCAP Index Fut  Dec11|CAPZ1|CDE|7679420795778|IX11594528-0|Financial index future.|Index|BBG0019VM6F5||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPZ1|//blp/mktdata/buid/CDE/IX11594528-0|//blp/mktdata/bsid/7679420795778
+COLCAP Index Fut  Dec12|CAPZ2|||IX14147349-0|Financial index future.|Index|BBG0029PQK07||34657|39759|39760||39689|||
 COLCAP Index Fut  Jun12|CAPM2|CDE|7679423549678|IX12863076-0|Financial index future.|Index|BBG001QQHKF2||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPM2|//blp/mktdata/buid/CDE/IX12863076-0|//blp/mktdata/bsid/7679423549678
 COLCAP Index Fut  Mar12|CAPH2|CDE|7679422132505|IX12205752-0|Financial index future.|Index|BBG001KFN862||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPH2|//blp/mktdata/buid/CDE/IX12205752-0|//blp/mktdata/bsid/7679422132505
 COLCAP Index Fut  Sep12|CAPU2|CDE|7679425280141|IX13491281-0|Financial index future.|Index|BBG0021PLWY7||34657|39759|39760||39689|//blp/mktdata/bsym/CDE/CAPU2|//blp/mktdata/buid/CDE/IX13491281-0|//blp/mktdata/bsid/7679425280141
@@ -68,8 +69,7 @@ Citigroup Cebo    Dec14|CIDZ4|US|399456173069|IX13660653-0|Financial index futur
 Credit IN EVT S3  Dec12|CCDZ2|eCME|2078766093472|IX4421341-0|Financial index future.|Index|BBG000WCQWP1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDZ2|//blp/mktdata/buid/eCME/IX4421341-0|//blp/mktdata/bsid/2078766093472
 Credit IN EVT S3  Jun12|CCDM2|eCME|2078766093471|IX4419501-0|Financial index future.|Index|BBG000WCQWG1||14002|14002|0||39490|//blp/mktdata/bsym/eCME/CCDM2|//blp/mktdata/buid/eCME/IX4419501-0|//blp/mktdata/bsid/2078766093471
 Crude ME Sour1Min Feb12|MECG2|ICE|1172550881082|IX13896425-0|Financial index future.|Index|BBG0027GF7J0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECG2|//blp/mktdata/buid/ICE/IX13896425-0|//blp/mktdata/bsid/1172550881082
-Crude ME Sour1Min Jan12|MECF2|ICE|1172550367321|IX13689873-0|Financial index future.|Index|BBG0024TVZH7||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECF2|//blp/mktdata/buid/ICE/IX13689873-0|//blp/mktdata/bsid/1172550367321
-Crude ME Sour1Min Mar12|MECH2|||IX14135556-0|Financial index future.|Index|BBG0029KZ958||30022|30022|0||40087|||
+Crude ME Sour1Min Mar12|MECH2|ICE|1172551382853|IX14135556-0|Financial index future.|Index|BBG0029KZ958||30022|30022|0||40087|//blp/mktdata/bsym/ICE/MECH2|//blp/mktdata/buid/ICE/IX14135556-0|//blp/mktdata/bsid/1172551382853
 Crude WTI Sing1Mi Feb12|WACG2|ICE|1172551069193|IX14024714-0|Financial index future.|Index|BBG00284SZW5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACG2|//blp/mktdata/buid/ICE/IX14024714-0|//blp/mktdata/bsid/1172551069193
 Crude WTI Sing1Mi Jan12|WACF2|ICE|1172550553891|IX13781708-0|Financial index future.|Index|BBG0025NL5V0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/WACF2|//blp/mktdata/buid/ICE/IX13781708-0|//blp/mktdata/bsid/1172550553891
 DJ Sustainability Dec11|DJSZ1|CCX|2559819936996|IX11707249-0|Financial index future.|Index|BBG001BSYHX2||30499|30499|0||40090|//blp/mktdata/bsym/CCX/DJSZ1|//blp/mktdata/buid/CCX/IX11707249-0|//blp/mktdata/bsid/2559819936996
