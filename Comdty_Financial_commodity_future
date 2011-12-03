@@ -1,5 +1,5 @@
-#Data Generated At: Fri Dec 2 06:16:36 EST 2011
-#Data Records=6221
+#Data Generated At: Sat Dec 3 06:03:56 EST 2011
+#Data Records=6219
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -3570,7 +3570,6 @@ GLOBAL 2040 BOND  Jan12|BGF2|eBMF|2074486588091|IX10597237-0|Financial commodity
 GLOBAL 2040 BOND  Jan13|BGF3|eBMF|2074491612667|IX13068550-0|Financial commodity future.|Comdty|BBG001VDDX52||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/BGF3|//blp/mktdata/buid/eBMF/IX13068550-0|//blp/mktdata/bsid/2074491612667
 GLOBAL 2040 BOND  Jul12|BGN2|eBMF|2074488849788|IX11803051-0|Financial commodity future.|Comdty|BBG001CTSW18||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/BGN2|//blp/mktdata/buid/eBMF/IX11803051-0|//blp/mktdata/bsid/2074488849788
 GLOBAL 2040 BOND  Oct12|BGV2|eBMF|2074490280837|IX12455203-0|Financial commodity future.|Comdty|BBG001LZ65S8||14098|14098|0||39537|//blp/mktdata/bsym/eBMF/BGV2|//blp/mktdata/buid/eBMF/IX12455203-0|//blp/mktdata/bsid/2074490280837
-GM EUA MNTHLY     Dec11|FPPZ1|NPE|14684493614955|IX3442123-0|Financial commodity future.|Comdty|BBG000VYBBY6||27805|27805|0||40170|//blp/mktdata/bsym/NPE/FPPZ1|//blp/mktdata/buid/NPE/IX3442123-0|//blp/mktdata/bsid/14684493614955
 GM EUA MNTHLY     Dec12|FPPZ2|NPE|14684493614956|IX3442127-0|Financial commodity future.|Comdty|BBG000VYBC74||27805|27805|0||40170|//blp/mktdata/bsym/NPE/FPPZ2|//blp/mktdata/buid/NPE/IX3442127-0|//blp/mktdata/bsid/14684493614956
 GM EUA MNTHLY     Dec13|FPPZ3|NPE|14684504692189|IX9152995-0|Financial commodity future.|Comdty|BBG000PY00P9||27805|27805|0||40170|//blp/mktdata/bsym/NPE/FPPZ3|//blp/mktdata/buid/NPE/IX9152995-0|//blp/mktdata/bsid/14684504692189
 GM EUA MNTHLY     Dec14|FPPZ4|NPE|14684504692190|IX9152999-0|Financial commodity future.|Comdty|BBG000VV6G95||27805|27805|0||40170|//blp/mktdata/bsym/NPE/FPPZ4|//blp/mktdata/buid/NPE/IX9152999-0|//blp/mktdata/bsid/14684504692190
@@ -5029,7 +5028,6 @@ Nitrogen Fin. Fut Mar13|FNIH3|CCX|2559824747998|IX13668140-0|Financial commodity
 Nitrogen Fin. Fut Sep12|FNIU2|CCX|2559811296498|IX8557842-0|Financial commodity future.|Comdty|BBG000T98QZ4||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU2|//blp/mktdata/buid/CCX/IX8557842-0|//blp/mktdata/bsid/2559811296498
 Nitrogen Fin. Fut Sep13|FNIU3|CCX|2559816453677|IX10212591-0|Financial commodity future.|Comdty|BBG000ZDRSB9||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU3|//blp/mktdata/buid/CCX/IX10212591-0|//blp/mktdata/bsid/2559816453677
 Nitrogen Fin. Fut Sep14|FNIU4|CCX|2559821524612|IX12426641-0|Financial commodity future.|Comdty|BBG001LT1Z38||30499|30499|0||40090|//blp/mktdata/bsym/CCX/FNIU4|//blp/mktdata/buid/CCX/IX12426641-0|//blp/mktdata/bsid/2559821524612
-NordPool CER      Dec11|CXOZ1|NPE|14684495372596|IX4472662-0|Financial commodity future.|Comdty|BBG000WF2L65||27805|27805|0||40170|//blp/mktdata/bsym/NPE/CXOZ1|//blp/mktdata/buid/NPE/IX4472662-0|//blp/mktdata/bsid/14684495372596
 NordPool CER      Dec12|CXOZ2|NPE|14684495091965|IX4472666-0|Financial commodity future.|Comdty|BBG000WF2LM7||27805|27805|0||40170|//blp/mktdata/bsym/NPE/CXOZ2|//blp/mktdata/buid/NPE/IX4472666-0|//blp/mktdata/bsid/14684495091965
 O/N Call Rate Fut Apr12|ONTJ2|TFX|2018655782165|IX12500429-0|Financial commodity future.|Comdty|BBG001M81W12||14070|14070|0||39522|//blp/mktdata/bsym/TFX/ONTJ2|//blp/mktdata/buid/TFX/IX12500429-0|//blp/mktdata/bsid/2018655782165
 O/N Call Rate Fut Aug12|ONTQ2|TFX|2018657730178|IX13306813-0|Financial commodity future.|Comdty|BBG001YQTR29||14070|14070|0||39522|//blp/mktdata/bsym/TFX/ONTQ2|//blp/mktdata/buid/TFX/IX13306813-0|//blp/mktdata/bsid/2018657730178

@@ -1,5 +1,5 @@
-#Data Generated At: Fri Dec 2 06:33:32 EST 2011
-#Data Records=4526
+#Data Generated At: Sat Dec 3 06:21:12 EST 2011
+#Data Records=4529
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Dec11|ADCZ1|YLX|8744578738411|IX14135580-0|Currency future.|Curncy|BBG0029KZ9D9||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCZ1|//blp/mktdata/buid/YLX/IX14135580-0|//blp/mktdata/bsid/8744578738411
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -3365,7 +3365,6 @@ NFXWC Chinese Yua Mar12|CYYH2|NFX|9801137547684|IX12979503-0|Currency future.|Cu
 NFXWC Korean Won  Dec11|KWAZ1|NFX|9801136184245|IX12346156-0|Currency future.|Curncy|BBG001KY4RP9||36261|0|0||39707|//blp/mktdata/bsym/NFX/KWAZ1|//blp/mktdata/buid/NFX/IX12346156-0|//blp/mktdata/bsid/9801136184245
 NFXWC Korean Won  Jun12|KWAM2|NFX|9801139345054|IX13596222-0|Currency future.|Curncy|BBG0022W06H0||36261|0|0||39707|//blp/mktdata/bsym/NFX/KWAM2|//blp/mktdata/buid/NFX/IX13596222-0|//blp/mktdata/bsid/9801139345054
 NFXWC Korean Won  Mar12|KWAH2|NFX|9801137547686|IX12979511-0|Currency future.|Curncy|BBG001R78DT4||36261|0|0||39707|//blp/mktdata/bsym/NFX/KWAH2|//blp/mktdata/buid/NFX/IX12979511-0|//blp/mktdata/bsid/9801137547686
-NFXWC Mexican Pes Dec11|MEPZ1|NFX|9801135951508|IX12189093-0|Currency future.|Curncy|BBG001K94T89||36261|0|0||39707|//blp/mktdata/bsym/NFX/MEPZ1|//blp/mktdata/buid/NFX/IX12189093-0|//blp/mktdata/bsid/9801135951508
 NFXWC Mexican Pes Jun12|MEPM2|NFX|9801139133883|IX13491277-0|Currency future.|Curncy|BBG0021PLWV0||36261|0|0||39707|//blp/mktdata/bsym/NFX/MEPM2|//blp/mktdata/buid/NFX/IX13491277-0|//blp/mktdata/bsid/9801139133883
 NFXWC Mexican Pes Mar12|MEPH2|NFX|9801137378445|IX12855431-0|Currency future.|Curncy|BBG001QMJC12||36261|0|0||39707|//blp/mktdata/bsym/NFX/MEPH2|//blp/mktdata/buid/NFX/IX12855431-0|//blp/mktdata/bsid/9801137378445
 NFXWC Mexican Pes Sep12|MEPU2|||IX14147389-0|Currency future.|Curncy|BBG0029PQKG0||36261|0|0||39707|||
@@ -4241,8 +4240,10 @@ USD Future EMTA W Sep12|DESU2|RFX|7743850330394|IX13691069-0|Currency future.|Cu
 USD Future Retail Apr12|DRRJ2|RFX|7743847133586|IX12473002-0|Currency future.|Curncy|BBG001M272T5||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRJ2|//blp/mktdata/buid/RFX/IX12473002-0|//blp/mktdata/bsid/7743847133586
 USD Future Retail Aug12|DRRQ2|RFX|7743849290405|IX13351001-0|Currency future.|Curncy|BBG001ZCXH53||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRQ2|//blp/mktdata/buid/RFX/IX13351001-0|//blp/mktdata/bsid/7743849290405
 USD Future Retail Dec11|DRRZ1|RFX|7743843001883|IX10483327-0|Currency future.|Curncy|BBG0011G9TY0||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRZ1|//blp/mktdata/buid/RFX/IX10483327-0|//blp/mktdata/bsid/7743843001883
+USD Future Retail Dec12|DRRZ2|||IX14148213-0|Currency future.|Curncy|BBG0029RDRS2||34878|34878|0||0|||
 USD Future Retail Feb12|DRRG2|RFX|7743846577935|IX12178099-0|Currency future.|Curncy|BBG001K7NS20||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRG2|//blp/mktdata/buid/RFX/IX12178099-0|//blp/mktdata/bsid/7743846577935
 USD Future Retail Jan12|DRRF2|RFX|7743844933757|IX11403816-0|Currency future.|Curncy|BBG0018L0V03||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRF2|//blp/mktdata/buid/RFX/IX11403816-0|//blp/mktdata/bsid/7743844933757
+USD Future Retail Jan13|DRRF3|||IX14148221-0|Currency future.|Curncy|BBG0029RDRV8||34878|34878|0||0|||
 USD Future Retail Jul12|DRRN2|RFX|7743848480100|IX13082681-0|Currency future.|Curncy|BBG001VHL617||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRN2|//blp/mktdata/buid/RFX/IX13082681-0|//blp/mktdata/bsid/7743848480100
 USD Future Retail Jun12|DRRM2|RFX|7743848445550|IX13068562-0|Currency future.|Curncy|BBG001VDDX89||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRM2|//blp/mktdata/buid/RFX/IX13068562-0|//blp/mktdata/bsid/7743848445550
 USD Future Retail Mar12|DRRH2|RFX|7743846275530|IX12072042-0|Currency future.|Curncy|BBG001J1RX20||34878|34878|0||0|//blp/mktdata/bsym/RFX/DRRH2|//blp/mktdata/buid/RFX/IX12072042-0|//blp/mktdata/bsid/7743846275530
@@ -4253,8 +4254,10 @@ USD Future Retail Sep12|DRRU2|RFX|7743849789587|IX13492109-0|Currency future.|Cu
 USD Future(ROFEX) Apr12|DUSJ2|RFX|7743845173643|IX11507383-0|Currency future.|Curncy|BBG0019HRZY6||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSJ2|//blp/mktdata/buid/RFX/IX11507383-0|//blp/mktdata/bsid/7743845173643
 USD Future(ROFEX) Aug12|DUSQ2|RFX|7743849044035|IX13275446-0|Currency future.|Curncy|BBG001YFWM84||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSQ2|//blp/mktdata/buid/RFX/IX13275446-0|//blp/mktdata/bsid/7743849044035
 USD Future(ROFEX) Dec11|DUSZ1|RFX|7743843097656|IX10524983-0|Currency future.|Curncy|BBG000HC4YC2||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSZ1|//blp/mktdata/buid/RFX/IX10524983-0|//blp/mktdata/bsid/7743843097656
+USD Future(ROFEX) Dec12|DUSZ2|||IX14148217-0|Currency future.|Curncy|BBG0029RDRT1||34878|34878|0||0|||
 USD Future(ROFEX) Feb12|DUSG2|RFX|7743844562167|IX11234446-0|Currency future.|Curncy|BBG00171L2Q1||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSG2|//blp/mktdata/buid/RFX/IX11234446-0|//blp/mktdata/bsid/7743844562167
 USD Future(ROFEX) Jan12|DUSF2|RFX|7743843867583|IX10797992-0|Currency future.|Curncy|BBG0014H1N21||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSF2|//blp/mktdata/buid/RFX/IX10797992-0|//blp/mktdata/bsid/7743843867583
+USD Future(ROFEX) Jan13|DUSF3|||IX14148225-0|Currency future.|Curncy|BBG0029RDRW7||34878|34878|0||0|||
 USD Future(ROFEX) Jul12|DUSN2|RFX|7743848480099|IX13082689-0|Currency future.|Curncy|BBG001VHL653||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSN2|//blp/mktdata/buid/RFX/IX13082689-0|//blp/mktdata/bsid/7743848480099
 USD Future(ROFEX) Jun12|DUSM2|RFX|7743845173644|IX11507387-0|Currency future.|Curncy|BBG0019HRZZ5||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSM2|//blp/mktdata/buid/RFX/IX11507387-0|//blp/mktdata/bsid/7743845173644
 USD Future(ROFEX) Mar12|DUSH2|RFX|7743845173642|IX11507379-0|Currency future.|Curncy|BBG0019HRZX7||34878|34878|0||0|//blp/mktdata/bsym/RFX/DUSH2|//blp/mktdata/buid/RFX/IX11507379-0|//blp/mktdata/bsid/7743845173642
