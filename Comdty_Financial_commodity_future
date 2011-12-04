@@ -1,4 +1,4 @@
-#Data Generated At: Sat Dec 3 06:03:56 EST 2011
+#Data Generated At: Sun Dec 4 05:55:16 EST 2011
 #Data Records=6219
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -560,7 +560,7 @@
 30-DAY INTERBANK  Sep12|IBU2|cSFE|10033064676530|IX12449826-0|Financial commodity future.|Comdty|BBG001LYRD65||14016|14016|0||40067|//blp/mktdata/bsym/cSFE/IBU2|//blp/mktdata/buid/cSFE/IX12449826-0|//blp/mktdata/bsid/10033064676530
 30-DAY INTERBANK  Sep12|IBU2|eSFE|2104555048114|IX12449826-0|Financial commodity future.|Comdty|BBG001LYRD65||14016|14016|0||40067|//blp/mktdata/bsym/eSFE/IBU2|//blp/mktdata/buid/eSFE/IX12449826-0|//blp/mktdata/bsid/2104555048114
 30-DAY INTERBANK  Sep12|IBU2|eSFE|2104555048114|IX12449826-0|Financial commodity future.|Comdty|BBG001LYRD65||14016|14016|0||40067|//blp/mktdata/bsym/eSFE/IBU2|//blp/mktdata/buid/eSFE/IX12449826-0|//blp/mktdata/bsid/2104555048114
-30DAY OVRNITE FUT Apr12|OUJ2|||IX14137652-0|Financial commodity future.|Comdty|BBG0029L52Y2||14055|14142|0||39513|||
+30DAY OVRNITE FUT Apr12|OUJ2|MSE|485356610293|IX14137652-0|Financial commodity future.|Comdty|BBG0029L52Y2||14055|14142|0||39513|//blp/mktdata/bsym/MSE/OUJ2|//blp/mktdata/buid/MSE/IX14137652-0|//blp/mktdata/bsid/485356610293
 30DAY OVRNITE FUT Dec11|OUZ1|MSE|485350951085|IX11806347-0|Financial commodity future.|Comdty|BBG001CTTPK1||14055|14142|0||39513|//blp/mktdata/bsym/MSE/OUZ1|//blp/mktdata/buid/MSE/IX11806347-0|//blp/mktdata/bsid/485350951085
 30DAY OVRNITE FUT Feb12|OUG2|MSE|485356113729|IX13899881-0|Financial commodity future.|Comdty|BBG0027GKSS8||14055|14142|0||39513|//blp/mktdata/bsym/MSE/OUG2|//blp/mktdata/buid/MSE/IX13899881-0|//blp/mktdata/bsid/485356113729
 30DAY OVRNITE FUT Jan12|OUF2|MSE|485355038175|IX13482588-0|Financial commodity future.|Comdty|BBG0021LCLB5||14055|14142|0||39513|//blp/mktdata/bsym/MSE/OUF2|//blp/mktdata/buid/MSE/IX13482588-0|//blp/mktdata/bsid/485355038175
@@ -5685,9 +5685,9 @@ Swedish 2yr Futur Dec11|LQZ1|SSE|15380299639518|IX12757865-0|Financial commodity
 Swedish 2yr Futur Mar12|LQH2|SSE|15380301837642|IX13582386-0|Financial commodity future.|Comdty|BBG0022QPJT5||39827|39827|0||40171|//blp/mktdata/bsym/SSE/LQH2|//blp/mktdata/buid/SSE/IX13582386-0|//blp/mktdata/bsid/15380301837642
 Swedish 5yr Futs  Dec11|LOZ1|SSE|15380299639530|IX12757853-0|Financial commodity future.|Comdty|BBG001PM2QZ3||39827|39827|0||40171|//blp/mktdata/bsym/SSE/LOZ1|//blp/mktdata/buid/SSE/IX12757853-0|//blp/mktdata/bsid/15380299639530
 Swedish 5yr Futs  Mar12|LOH2|SSE|15380301829289|IX13582382-0|Financial commodity future.|Comdty|BBG0022QPJS6||39827|39827|0||40171|//blp/mktdata/bsym/SSE/LOH2|//blp/mktdata/buid/SSE/IX13582382-0|//blp/mktdata/bsid/15380301829289
-T BENCHMARK 239F  Jan12|BPTF2|TKD|115988926377|IX13896353-0|Financial commodity future.|Comdty|BBG0027GF6Z4||27809|27809|0||39613|//blp/mktdata/bsym/TKD/BPTF2|//blp/mktdata/buid/TKD/IX13896353-0|//blp/mktdata/bsid/115988926377
+T BENCHMARK 239F  Jan12|BPTF2|||IX13896353-0|Financial commodity future.|Comdty|BBG0027GF6Z4||27809|27809|0||39613|||
 T BENCHMARK 240F  Jan12|BPRF2|TKD|115987104643|IX13256171-0|Financial commodity future.|Comdty|BBG001YCX408||27809|27809|0||39613|//blp/mktdata/bsym/TKD/BPRF2|//blp/mktdata/buid/TKD/IX13256171-0|//blp/mktdata/bsid/115987104643
-T BENCHMARK 243F  Jan12|BPLF2|||IX14145525-0|Financial commodity future.|Comdty|BBG0029P5353||27809|27809|0||39613|||
+T BENCHMARK 243F  Jan12|BPLF2|TKD|115989448423|IX14145525-0|Financial commodity future.|Comdty|BBG0029P5353||27809|27809|0||39613|//blp/mktdata/bsym/TKD/BPLF2|//blp/mktdata/buid/TKD/IX14145525-0|//blp/mktdata/bsid/115989448423
 TAIFEX 10Y BOND   Dec11|GBZ1|FTX|1739482414746|IX12245154-0|Financial commodity future.|Comdty|BBG001KLRF96||14149|14149|0||39565|//blp/mktdata/bsym/FTX/GBZ1|//blp/mktdata/buid/FTX/IX12245154-0|//blp/mktdata/bsid/1739482414746
 TAIFEX 10Y BOND   Jun12|GBM2|FTX|1739485670409|IX13571081-0|Financial commodity future.|Comdty|BBG0022LWZ49||14149|14149|0||39565|//blp/mktdata/bsym/FTX/GBM2|//blp/mktdata/buid/FTX/IX13571081-0|//blp/mktdata/bsid/1739485670409
 TAIFEX 10Y BOND   Mar12|GBH2|FTX|1739483827460|IX12897181-0|Financial commodity future.|Comdty|BBG001QWMTM6||14149|14149|0||39565|//blp/mktdata/bsym/FTX/GBH2|//blp/mktdata/buid/FTX/IX12897181-0|//blp/mktdata/bsid/1739483827460
