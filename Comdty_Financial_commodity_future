@@ -1,5 +1,5 @@
-#Data Generated At: Tue Dec 6 06:16:56 EST 2011
-#Data Records=6221
+#Data Generated At: Wed Dec 7 06:16:52 EST 2011
+#Data Records=6219
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
 10 Y INT RATE SWP Dec11|XJZ1|SFE|1176843132087|IX12905858-0|Financial commodity future.|Comdty|BBG001QY8YW6||14016|14016|0||40067|//blp/mktdata/bsym/SFE/XJZ1|//blp/mktdata/buid/SFE/IX12905858-0|//blp/mktdata/bsid/1176843132087
@@ -334,8 +334,7 @@
 2YR TIIE SWAP FU  Sep12|SWDU2|MDX|1743780853162|IX13631465-0|Financial commodity future.|Comdty|BBG0024594C8||14153|47510|0||39567|//blp/mktdata/bsym/MDX/SWDU2|//blp/mktdata/buid/MDX/IX13631465-0|//blp/mktdata/bsid/1743780853162
 2YR US$ SWAPNOTE  Dec11|UZZ1|LIF|609907474228|IX12930097-0|Financial commodity future.|Comdty|BBG001R068L0||27267|27268|0||40559|//blp/mktdata/bsym/LIF/UZZ1|//blp/mktdata/buid/LIF/IX12930097-0|//blp/mktdata/bsid/609907474228
 2YR US$ SWAPNOTE  Mar12|UZH2|LIF|609909440589|IX13608853-0|Financial commodity future.|Comdty|BBG0024010D4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/UZH2|//blp/mktdata/buid/LIF/IX13608853-0|//blp/mktdata/bsid/609909440589
-2yr RU FedBond Fu Jun12|RFTM2|||IX14167288-0|Financial commodity future.|Comdty|BBG0029VHGB1||14134|14134|0||39558|||
-2yr RU FedBond FutDec11|RFTZ1|RTS|1769550241154|IX13468389-0|Financial commodity future.|Comdty|BBG0021H09P9||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFTZ1|//blp/mktdata/buid/RTS/IX13468389-0|//blp/mktdata/bsid/1769550241154
+2yr RU FedBond Fu Jun12|RFTM2|RTS|1769551914226|IX14167288-0|Financial commodity future.|Comdty|BBG0029VHGB1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFTM2|//blp/mktdata/buid/RTS/IX14167288-0|//blp/mktdata/bsid/1769551914226
 2yr RU FedBond FutMar12|RFTH2|RTS|1769551566446|IX14048013-0|Financial commodity future.|Comdty|BBG0028DD539||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFTH2|//blp/mktdata/buid/RTS/IX14048013-0|//blp/mktdata/bsid/1769551566446
 3 MONTH CIBOR     Dec11|CIBZ1|COPE|532594118289|IX10976474-0|Financial commodity future.|Comdty|BBG0015NZPZ9||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBZ1|//blp/mktdata/buid/COPE/IX10976474-0|//blp/mktdata/bsid/532594118289
 3 MONTH CIBOR     Dec12|CIBZ2|COPE|532595711615|IX11670221-0|Financial commodity future.|Comdty|BBG001D9N9K6||39827|0|0||40171|//blp/mktdata/bsym/COPE/CIBZ2|//blp/mktdata/buid/COPE/IX11670221-0|//blp/mktdata/bsid/532595711615
@@ -947,7 +946,6 @@
 3Y BOND-NIGHT OPT Mar12|OKH2|||IX13580090-0|Financial commodity future.|Comdty|BBG0022Q4TY0||14016|14016|0||40067|||
 3YR EUR$ BNDL NYL Dec11|BDBZ1|eNYL|8181936802829|IX13612053-0|Financial commodity future.|Comdty|BBG002405166||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/BDBZ1|//blp/mktdata/buid/eNYL/IX13612053-0|//blp/mktdata/bsid/8181936802829
 4YR EUR$ BNDL NYL Dec11|BDCZ1|eNYL|8181936802828|IX13612049-0|Financial commodity future.|Comdty|BBG002405157||35083|35083|0||39698|//blp/mktdata/bsym/eNYL/BDCZ1|//blp/mktdata/buid/eNYL/IX13612049-0|//blp/mktdata/bsid/8181936802828
-4yr RU FedBond FutDec11|RFRZ1|RTS|1769550241153|IX13468385-0|Financial commodity future.|Comdty|BBG0021GYXY1||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFRZ1|//blp/mktdata/buid/RTS/IX13468385-0|//blp/mktdata/bsid/1769550241153
 4yr RU FedBond FutMar12|RFRH2|RTS|1769551566447|IX14048281-0|Financial commodity future.|Comdty|BBG0028DDD14||14134|14134|0||39558|//blp/mktdata/bsym/RTS/RFRH2|//blp/mktdata/buid/RTS/IX14048281-0|//blp/mktdata/bsid/1769551566447
 5 YEAR SWAP FUTR  Jun13|S5M3|eCME|2078783842924|IX11825206-0|Financial commodity future.|Comdty|BBG001CXB552||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5M3|//blp/mktdata/buid/eCME/IX11825206-0|//blp/mktdata/bsid/2078783842924
 5 YEAR SWAP FUTR  Mar12|S5H2|eCME|2078788508015|IX13714272-0|Financial commodity future.|Comdty|BBG0024ZNZW5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/S5H2|//blp/mktdata/buid/eCME/IX13714272-0|//blp/mktdata/bsid/2078788508015
@@ -3587,7 +3585,6 @@ GPL Base Year     Jan14|TYEF4|EEE|1765237430939|IX6299154-0|Financial commodity 
 GPL Base Year     Jan15|TYEF5|EEE|1765240356356|IX8130600-0|Financial commodity future.|Comdty|BBG000XF1RL5||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TYEF5|//blp/mktdata/buid/EEE/IX8130600-0|//blp/mktdata/bsid/1765240356356
 GPL Base Year     Jan16|TYEF6|EEE|1765245906600|IX9893557-0|Financial commodity future.|Comdty|BBG000Z17BM2||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TYEF6|//blp/mktdata/buid/EEE/IX9893557-0|//blp/mktdata/bsid/1765245906600
 GPL Base Year     Jan17|TYEF7|EEE|1765251160056|IX11768336-0|Financial commodity future.|Comdty|BBG001CN5D90||26852|26852|0||39597|//blp/mktdata/bsym/EEE/TYEF7|//blp/mktdata/buid/EEE/IX11768336-0|//blp/mktdata/bsid/1765251160056
-GREEK 10Y BOND EUR  Dec11|WDZ1|GA|1602044831239|IX12869521-0|Financial commodity future.|Comdty|BBG001QRLYL8||14160|14123|0||39573|//blp/mktdata/bsym/GA/WDZ1|//blp/mktdata/buid/GA/IX12869521-0|//blp/mktdata/bsid/1602044831239
 GREEK 10Y BOND EUR  Jun12|WDM2|GA|1602048174042|IX14167284-0|Financial commodity future.|Comdty|BBG0029VHG94||14160|14123|0||39573|//blp/mktdata/bsym/GA/WDM2|//blp/mktdata/buid/GA/IX14167284-0|//blp/mktdata/bsid/1602048174042
 Gasoil .1 NW v IC Apr12|WTAJ2|NYM|1614917813341|IX8736856-0|Financial commodity future.|Comdty|BBG000XTN2S9||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WTAJ2|//blp/mktdata/buid/NYM/IX8736856-0|//blp/mktdata/bsid/1614917813341
 Gasoil .1 NW v IC Apr13|WTAJ3|NYM|1614924113617|IX10321898-0|Financial commodity future.|Comdty|BBG000R54KG2||14088|14088|0||39532|//blp/mktdata/bsym/NYM/WTAJ3|//blp/mktdata/buid/NYM/IX10321898-0|//blp/mktdata/bsid/1614924113617
@@ -3859,6 +3856,7 @@ Gold Cash         Feb12|VOYG2|SME|18223567480158|IX12517896-0|Financial commodit
 Gold Cash         Jun12|VOYM2|SME|18223568206504|IX12821471-0|Financial commodity future.|Comdty|BBG001QHVTS3||38924|38924|0||40935|//blp/mktdata/bsym/SME/VOYM2|//blp/mktdata/buid/SME/IX12821471-0|//blp/mktdata/bsid/18223568206504
 Gold Cash         Oct12|VOYV2|SME|18223570510275|IX13680628-0|Financial commodity future.|Comdty|BBG0024QGM34||38924|38924|0||40935|//blp/mktdata/bsym/SME/VOYV2|//blp/mktdata/buid/SME/IX13680628-0|//blp/mktdata/bsid/18223570510275
 Gold Guinea Futur Dec11|IUDZ1|MCI|1864040606798|IX13893041-0|Financial commodity future.|Comdty|BBG0027G5F30||27910|36595|0||39619|//blp/mktdata/bsym/MCI/IUDZ1|//blp/mktdata/buid/MCI/IX13893041-0|//blp/mktdata/bsid/1864040606798
+Gold Guinea Futur Feb12|IUDG2|||IX14170041-0|Financial commodity future.|Comdty|BBG0029X3SL5||27910|36595|0||39619|||
 Gold Guinea Futur Jan12|IUDF2|MCI|1864041111218|IX14133336-0|Financial commodity future.|Comdty|BBG0029KG0V9||27910|36595|0||39619|//blp/mktdata/bsym/MCI/IUDF2|//blp/mktdata/buid/MCI/IX14133336-0|//blp/mktdata/bsid/1864041111218
 HUNGAR 1YR T-BILL Dec11|VWZ1|BSE|1103825901315|IX11636352-0|Financial commodity future.|Comdty|BBG001B23042||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWZ1|//blp/mktdata/buid/BSE/IX11636352-0|//blp/mktdata/bsid/1103825901315
 HUNGAR 1YR T-BILL Jun12|VWM2|BSE|1103828653321|IX12890332-0|Financial commodity future.|Comdty|BBG001QVLBH4||14116|14116|0||39547|//blp/mktdata/bsym/BSE/VWM2|//blp/mktdata/buid/BSE/IX12890332-0|//blp/mktdata/bsid/1103828653321

@@ -1,5 +1,5 @@
-#Data Generated At: Tue Dec 6 06:35:15 EST 2011
-#Data Records=13467
+#Data Generated At: Wed Dec 7 06:34:43 EST 2011
+#Data Records=13477
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=SWAP
 AED CCS              1YR||||IX9295984-0|SWAP|Curncy||||||||||
 AED CCS              2YR||||IX9295988-0|SWAP|Curncy||||||||||
@@ -2117,6 +2117,7 @@ COP SWAP UVR vs LIB 9 YR||||IX3183119-0|SWAP|Curncy||||||||||
 COP SWAP VS LIBOR   1 MO||||IX3120421-0|SWAP|Curncy||||||||||
 COP SWAP vs LIBOR   2 MO||||IX3120425-0|SWAP|Curncy||||||||||
 COP SWAP vs LIBOR  30 YR||||IX4109494-0|SWAP|Curncy||||||||||
+CSB USD F-0 N5Y% 30Y||||IX14176893-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC18M 10Y||||IX13205698-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC18M 15Y||||IX13205690-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC18M 20Y||||IX13205706-0|SWAP|Curncy||||||||||
@@ -2229,8 +2230,17 @@ CSB USD F-0 NC3Y% 5Y||||IX13213579-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC3Y% 7Y||||IX13213587-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC3Y% AC 20Y||||IX14118408-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC3Y% AC 30Y||||IX14118392-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y 10Y||||IX14176861-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y 15Y||||IX14176865-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y 20Y||||IX14176869-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y 30Y||||IX14176873-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y 7Y||||IX14176857-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC5Y AC 20Y||||IX14118428-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC5Y AC 30Y||||IX14117788-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y% 10Y||||IX14176881-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y% 15Y||||IX14176885-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y% 20Y||||IX14176889-0|SWAP|Curncy||||||||||
+CSB USD F-0 NC5Y% 7Y||||IX14176877-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC5Y% AC 20Y||||IX14118412-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC5Y% AC 30Y||||IX14118396-0|SWAP|Curncy||||||||||
 CSB USD F-0 NC6M 10Y||||IX13213711-0|SWAP|Curncy||||||||||
