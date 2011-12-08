@@ -1,5 +1,5 @@
-#Data Generated At: Wed Dec 7 06:47:01 EST 2011
-#Data Records=17660
+#Data Generated At: Thu Dec 8 06:48:13 EST 2011
+#Data Records=17670
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1464,6 +1464,7 @@ BI GL Lg BaseMetals Comp|BRBMLRG Index|||EI09BRBMLRG|Equity Index|Index|BBG00164
 BI GL Lg Food Competitiv|BILRFOCO Index|||EI09BILRFOCO|Equity Index|Index|BBG0017FY7Y6||46707|||||||
 BI GL LgCp ArPts MFG PB|BILCAIRP Index|||EI09BILCAIRP|Equity Index|Index|BBG001935GK8||46707|||||||
 BI GL Lge Cap Orth Comp|BIORTPLC Index|||EI09BIORTPLC|Equity Index|Index|BBG0018X78B9||46707|||||||
+BI GL Lgr App Sftware PB|BIASFLGP Index|||EI09BIASFLGP|Equity Index|Index|BBG002B07237||46707|||||||
 BI GL Lrg Cap Orth PB|BILORTPP Index|||EI09BILORTPP|Equity Index|Index|BBG0018X7883||46707|||||||
 BI GL Machinery Deal PB|BIMDEALV Index|||EI09BIMDEALV|Equity Index|Index|BBG00179TL11||46707|||||||
 BI GL Mature Biotech PB|BRMATBIO Index|||EI09BRMATBIO|Equity Index|Index|BBG0014XSY96||46707|||||||
@@ -1476,6 +1477,7 @@ BI GL Mega Miners Prin|BRMETLV Index|||EI09BRMETLV|Equity Index|Index|BBG000Z4J6
 BI GL Memory Comp Idx|BIMMRY Index|||EI09BIMMRY|Equity Index|Index|BBG0017DXM42||46707|||||||
 BI GL Memory Principal B|BIMMRYGP Index|||EI09BIMMRYGP|Equity Index|Index|BBG0022TBLJ0||46707|||||||
 BI GL Mid Analog Cmptv|BRMCANSV Index|||EI09BRMCANSV|Equity Index|Index|BBG00128R445||46707|||||||
+BI GL Mid App Sftware PB|BIASFMGP Index|||EI09BIASFMGP|Equity Index|Index|BBG002B06DT6||46707|||||||
 BI GL Mid Auto Pts - Com|BIAUTPMS Index|||EI09BIAUTPMS|Equity Index|Index|BBG0017G4RW5||46707|||||||
 BI GL Mid Fertilizer PB|BIACMSGP Index|||EI09BIACMSGP|Equity Index|Index|BBG0024WS5K6||46707|||||||
 BI GL Mid Food Cmptv|BIMDFOCO Index|||EI09BIMDFOCO|Equity Index|Index|BBG0017FY7Z5||46707|||||||
@@ -1530,6 +1532,10 @@ BI GL Small Cap Orth Cmp|BIORTPLS Index|||EI09BIORTPLS|Equity Index|Index|BBG001
 BI GL Small Cap Orth PB|BISORTPP Index|||EI09BISORTPP|Equity Index|Index|BBG0018X7892||46707|||||||
 BI GL Small Food Cmptv|BISMFOCO Index|||EI09BISMFOCO|Equity Index|Index|BBG0017FY801||46707|||||||
 BI GL Small Tech Ser PB|BISTCHSC Index|||EI09BISTCHSC|Equity Index|Index|BBG0018LL8T0||46707|||||||
+BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|BBG002B0WJB3||46707|||||||
+BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|BBG002B0WJB3||46707|||||||
+BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|||46707|||||||
+BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|||46707|||||||
 BI GL Snk,Cereal,Conf PB|BISNACON Index|||EI09BISNACON|Equity Index|Index|BBG0017FY7R4||46707|||||||
 BI GL Solar All Share PB|BRSOLAV Index|||EI09BRSOLAV|Equity Index|Index|BBG000ZDGBB8||46707|||||||
 BI GL Solar Cells P Bus|BRSOLCV Index|||EI09BRSOLCV|Equity Index|Index|BBG000ZDGCG1||46707|||||||
@@ -1574,7 +1580,6 @@ BI Global Lg Inv Mgt C|BIGLINVC Index|||EI09BIGLINVC|Equity Index|Index|BBG0024N
 BI Global Lg Inv Mgt P|BIGLINVP Index|||EI09BIGLINVP|Equity Index|Index|BBG0024NK7X6||46707|||||||
 BI Indian Airlines|BIAIRINV Index|||EI09BIAIRINV|Equity Index|Index|BBG001LM4PB3||46707|||||||
 BI Internet Comp|BIINETGC Index|||EI09BIINETGC|Equity Index|Index|BBG00196XM90||46707|||||||
-BI JP Large Pharma P Bus|BIJPLGPH Index|||EI09BIJPLGPH|Equity Index|Index|BBG0019JYH29||46707|||||||
 BI LA Airlines - Comp|BILAIRLC Index|||EI09BILAIRLC|Equity Index|Index|BBG001R5J5P7||46707|||||||
 BI LA Food Mfg PB Index|BILFDMFP Index|||EI09BILFDMFP|Equity Index|Index|BBG0021RFXB3||46707|||||||
 BI LA HHP Mfg Princ Bus|BIHPCCSV Index|||EI09BIHPCCSV|Equity Index|Index|BBG001D12B94||46707|||||||
@@ -11366,6 +11371,7 @@ NASDAQ OMX GreenEconEurp|GRNEUR Index|GIDS|10045952898550|EI09GRNEUR|Equity Inde
 NASDAQ OMX GreenEconExUS|GRNEXUS Index|GIDS|10045952898578|EI09GRNEXUS|Equity Index|Index|BBG00257YG92||37168|||44465||//blp/mktdata/bsym/GIDS/GRNEXUS Index|//blp/mktdata/buid/GIDS/EI09GRNEXUS|//blp/mktdata/bsid/10045952898578
 NASDAQ OMX GreenEconUS|GRNUS Index|GIDS|10045952898579|EI09GRNUS|Equity Index|Index|BBG00257YGR2||37168|||44465||//blp/mktdata/bsym/GIDS/GRNUS Index|//blp/mktdata/buid/GIDS/EI09GRNUS|//blp/mktdata/bsid/10045952898579
 NASDAQ OTHER FINANCIAL|CFIN Index|GIDS|10045928801188|EI09CFIN|Equity Index|Index|BBG000J9HJC6||37168|||44465||//blp/mktdata/bsym/GIDS/CFIN Index|//blp/mktdata/buid/GIDS/EI09CFIN|//blp/mktdata/bsid/10045928801188
+NASDAQ OTHR FIN Comp Vol|CFNVOLC Index|GIDS|10045953905375|EI09CFNVOLC|Equity Index|Index|BBG002B0WJW0||37168|||||//blp/mktdata/bsym/GIDS/CFNVOLC Index|//blp/mktdata/buid/GIDS/EI09CFNVOLC|//blp/mktdata/bsid/10045953905375
 NASDAQ TELECOMM INDEX|CUTL Index|GIDS|10045928801192|EI09CUTL|Equity Index|Index|BBG000J9HMC9||37168|||44465||//blp/mktdata/bsym/GIDS/CUTL Index|//blp/mktdata/buid/GIDS/EI09CUTL|//blp/mktdata/bsid/10045928801192
 NASDAQ TRANSPORTATION IX|CTRN Index|GIDS|10045928801191|EI09CTRN|Equity Index|Index|BBG000J9HLL1||37168|||44465||//blp/mktdata/bsym/GIDS/CTRN Index|//blp/mktdata/buid/GIDS/EI09CTRN|//blp/mktdata/bsid/10045928801191
 NASDAQ US 1500 Index TR|NQUS150X Index|GIDS|10045952898901|EI09NQUS150X|Equity Index|Index|BBG00257YVY1||37168|||44465||//blp/mktdata/bsym/GIDS/NQUS150X Index|//blp/mktdata/buid/GIDS/EI09NQUS150X|//blp/mktdata/bsid/10045952898901
@@ -17456,6 +17462,7 @@ WSE WIG MEDIA INDEX|WIGMED Index|PW|1095217045871|EI09WIGMED|Equity Index|Index|
 WSE WIG OIL & GAS|WIGOG Index|PW|1095217002098|EI09WIGOG|Equity Index|Index|BBG000Q1Q3Z5||14083|14083|||39529|//blp/mktdata/bsym/PW/WIGOG Index|//blp/mktdata/buid/PW/EI09WIGOG|//blp/mktdata/bsid/1095217002098
 WSE WIG TELECOM INDEX|WIGTEL Index|PW|1095217006345|EI09WIGTEL|Equity Index|Index|BBG000QRQFZ1||14083|14083|||39529|//blp/mktdata/bsym/PW/WIGTEL Index|//blp/mktdata/buid/PW/EI09WIGTEL|//blp/mktdata/bsid/1095217006345
 WSE WIG-Ukraine Index|WIGUKR Index|PW|1095238182309|EI09WIGUKR|Equity Index|Index|BBG001P2R005||14083|14083|||39529|//blp/mktdata/bsym/PW/WIGUKR Index|//blp/mktdata/buid/PW/EI09WIGUKR|//blp/mktdata/bsid/1095238182309
+WSE mWIG40 INDEX|MIDWIG Index|PW|1095217163434|EI09MIDWIG|Equity Index|Index|BBG000QJQ368||14083|14083|||39529|//blp/mktdata/bsym/PW/MIDWIG Index|//blp/mktdata/buid/PW/EI09MIDWIG|//blp/mktdata/bsid/1095217163434
 WSE sWIG80 INDEX|SWIG80 Index|PW|1095217164727|EI09SWIG80|Equity Index|Index|BBG000W7QQP5||14083|14083|||39529|//blp/mktdata/bsym/PW/SWIG80 Index|//blp/mktdata/buid/PW/EI09SWIG80|//blp/mktdata/bsid/1095217164727
 WSE sWIG80 INDEX|WIRR Index|PW|1095217164727|EI09WIRR|Equity Index|Index|BBG000QJQ475||14083|14083|||39529|//blp/mktdata/bsym/PW/WIRR Index|//blp/mktdata/buid/PW/EI09WIRR|//blp/mktdata/bsid/1095217164727
 WT Comdty Cntry Eqty IV|CCXEIV Index|NGIB|20310922626328|EI09CCXEIV|Equity Index|Index|BBG000VZGZH4||45404||||45412|//blp/mktdata/bsym/NGIB/CCXEIV Index|//blp/mktdata/buid/NGIB/EI09CCXEIV|//blp/mktdata/bsid/20310922626328
@@ -17526,6 +17533,7 @@ custom uk|UBCBUKTT Index|WDRL|2495396514612|EI09UBCBUKTT|Equity Index|Index|BBG0
 custom|UBSQMNA Index|WDRL|2495396715633|EI09UBSQMNA|Equity Index|Index|BBG001KQL744||46707|||||//blp/mktdata/bsym/WDRL/UBSQMNA Index|//blp/mktdata/buid/WDRL/EI09UBSQMNA|//blp/mktdata/bsid/2495396715633
 iBoxx  1/64 1-3yr|CGEXIBCX Index|CGDO||EI09CGEXIBCX|Equity Index|Index|BBG001B0VPX8|||||31088||//blp/mktdata/bsym/CGDO/CGEXIBCX Index|//blp/mktdata/buid/CGDO/EI09CGEXIBCX|
 iBoxx  1/64 Corporate Bond|CGEIBCXM Index|CGDO||EI09CGEIBCXM|Equity Index|Index|BBG001B0VPY7|||||31088||//blp/mktdata/bsym/CGDO/CGEIBCXM Index|//blp/mktdata/buid/CGDO/EI09CGEIBCXM|
+iNAV iShrs Barclays 0-5|STIPSO Index|SIAC|2061603562737|EI09STIPSO|Equity Index|Index|BBG0019T2DH5||14226|||||//blp/mktdata/bsym/SIAC/STIPSO Index|//blp/mktdata/buid/SIAC/EI09STIPSO|//blp/mktdata/bsid/2061603562737
 iPATH MSCI India ETN IIV|INPIV Index|NGIB|20310909544029|EI09INPIV|Equity Index|Index|BBG000SY06D6||45404||||45412|//blp/mktdata/bsym/NGIB/INPIV Index|//blp/mktdata/buid/NGIB/EI09INPIV|//blp/mktdata/bsid/20310909544029
 iPath DJ-UBS Agri TR IIV|JJAIV Index|NGIB|20310909544054|EI09JJAIV|Equity Index|Index|BBG000WD1XL8||45404||||45412|//blp/mktdata/bsym/NGIB/JJAIV Index|//blp/mktdata/buid/NGIB/EI09JJAIV|//blp/mktdata/bsid/20310909544054
 iPath DJ-UBS Enrg TR IIV|JJEIV Index|NGIB|20310909544059|EI09JJEIV|Equity Index|Index|BBG000WLKN04||45404||||45412|//blp/mktdata/bsym/NGIB/JJEIV Index|//blp/mktdata/buid/NGIB/EI09JJEIV|//blp/mktdata/bsid/20310909544059
@@ -17546,6 +17554,7 @@ iSHARE DJ TRANS IX IIV|IYTIV Index|NGIB|20310900674727|EI09IYTIV|Equity Index|In
 iSHARE DJ US FINANCE IDX|IYFIV Index|NGIB|20310910910731|EI09IYFIV|Equity Index|Index|BBG000VVYS07||45404||||45412|//blp/mktdata/bsym/NGIB/IYFIV Index|//blp/mktdata/buid/NGIB/EI09IYFIV|//blp/mktdata/bsid/20310910910731
 iSHARE DJ US TELECOM IDX|IYZIV Index|NGIB|20310910910677|EI09IYZIV|Equity Index|Index|BBG000PRKYQ7||45404||||45412|//blp/mktdata/bsym/NGIB/IYZIV Index|//blp/mktdata/buid/NGIB/EI09IYZIV|//blp/mktdata/bsid/20310910910677
 iSHARE DJ UTILITY SH OUT|IDUIV Index|NGIB|20310900677815|EI09IDUIV|Equity Index|Index|BBG000P63V79||45404||||45412|//blp/mktdata/bsym/NGIB/IDUIV Index|//blp/mktdata/buid/NGIB/EI09IDUIV|//blp/mktdata/bsid/20310900677815
+iSHARE LEHM AGG BD SO|AGGSO Index|SIAC|2061584731328|EI09AGGSO|Equity Index|Index|BBG000VY8CD1||14226|||||//blp/mktdata/bsym/SIAC/AGGSO Index|//blp/mktdata/buid/SIAC/EI09AGGSO|//blp/mktdata/bsid/2061584731328
 iSHARE NASDAQ BIOTEC UTV|IBBIV Index|GIDS|10045928829163|EI09IBBIV|Equity Index|Index|BBG000N2ZSN4||37168|||||//blp/mktdata/bsym/GIDS/IBBIV Index|//blp/mktdata/buid/GIDS/EI09IBBIV|//blp/mktdata/bsid/10045928829163
 iSHARE RUSS 1000 GTH IX|IWFIV Index|NGIB|20310900786915|EI09IWFIV|Equity Index|Index|BBG000VZ4FF3||45404||||45412|//blp/mktdata/bsym/NGIB/IWFIV Index|//blp/mktdata/buid/NGIB/EI09IWFIV|//blp/mktdata/bsid/20310900786915
 iSHARE RUSS 1000 VALU IX|IWDIV Index|NGIB|20310900786914|EI09IWDIV|Equity Index|Index|BBG000VZ4DK2||45404||||45412|//blp/mktdata/bsym/NGIB/IWDIV Index|//blp/mktdata/buid/NGIB/EI09IWDIV|//blp/mktdata/bsid/20310900786914
@@ -17614,6 +17623,7 @@ iSHRS AEROSP & DEF IOPV|ITAIV Index|NGIB|20310900786120|EI09ITAIV|Equity Index|I
 iSHRS DJ BRKRS DLRS IOPV|IAIIV Index|NGIB|20310900652909|EI09IAIIV|Equity Index|Index|BBG000M4BCD3||45404||||45412|//blp/mktdata/bsym/NGIB/IAIIV Index|//blp/mktdata/buid/NGIB/EI09IAIIV|//blp/mktdata/bsid/20310900652909
 iSHRS DJ HEALTHCRE IOPV|IHFIV Index|NGIB|20310910910735|EI09IHFIV|Equity Index|Index|BBG000VWBZ31||45404||||45412|//blp/mktdata/bsym/NGIB/IHFIV Index|//blp/mktdata/buid/NGIB/EI09IHFIV|//blp/mktdata/bsid/20310910910735
 iSHRS DJ MED DVCS IOPV|IHIIV Index|NGIB|20310910910736|EI09IHIIV|Equity Index|Index|BBG000VWBZ86||45404||||45412|//blp/mktdata/bsym/NGIB/IHIIV Index|//blp/mktdata/buid/NGIB/EI09IHIIV|//blp/mktdata/bsid/20310910910736
+iSHRS S&P GLBL MAT SO|MXISO Index|SIAC|2061584735630|EI09MXISO|Equity Index|Index|BBG000VYN8T6||14226|||||//blp/mktdata/bsym/SIAC/MXISO Index|//blp/mktdata/buid/SIAC/EI09MXISO|//blp/mktdata/bsid/2061584735630
 iSHRS SEL HOMEBLDRS IOPV|ITBIV Index|NGIB|20310900786121|EI09ITBIV|Equity Index|Index|BBG000VZ2LR9||45404||||45412|//blp/mktdata/bsym/NGIB/ITBIV Index|//blp/mktdata/buid/NGIB/EI09ITBIV|//blp/mktdata/bsid/20310900786121
 iShare Barc 7-10 BOND IX|IEFIV Index|NGIB|20310900768889|EI09IEFIV|Equity Index|Index|BBG000VW2JN5||45404||||45412|//blp/mktdata/bsym/NGIB/IEFIV Index|//blp/mktdata/buid/NGIB/EI09IEFIV|//blp/mktdata/bsid/20310900768889
 iShare Barclays AG BD IV|AGGIV Index|NGIB|20310900786909|EI09AGGIV|Equity Index|Index|BBG000VZ4BG1||45404||||45412|//blp/mktdata/bsym/NGIB/AGGIV Index|//blp/mktdata/buid/NGIB/EI09AGGIV|//blp/mktdata/bsid/20310900786909
