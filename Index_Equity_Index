@@ -1,5 +1,5 @@
-#Data Generated At: Thu Dec 8 06:48:13 EST 2011
-#Data Records=17670
+#Data Generated At: Fri Dec 9 06:47:23 EST 2011
+#Data Records=17675
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1533,9 +1533,6 @@ BI GL Small Cap Orth PB|BISORTPP Index|||EI09BISORTPP|Equity Index|Index|BBG0018
 BI GL Small Food Cmptv|BISMFOCO Index|||EI09BISMFOCO|Equity Index|Index|BBG0017FY801||46707|||||||
 BI GL Small Tech Ser PB|BISTCHSC Index|||EI09BISTCHSC|Equity Index|Index|BBG0018LL8T0||46707|||||||
 BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|BBG002B0WJB3||46707|||||||
-BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|BBG002B0WJB3||46707|||||||
-BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|||46707|||||||
-BI GL Sml App Sftware PB|BIASFSGP Index|||EI09BIASFSGP|Equity Index|Index|||46707|||||||
 BI GL Snk,Cereal,Conf PB|BISNACON Index|||EI09BISNACON|Equity Index|Index|BBG0017FY7R4||46707|||||||
 BI GL Solar All Share PB|BRSOLAV Index|||EI09BRSOLAV|Equity Index|Index|BBG000ZDGBB8||46707|||||||
 BI GL Solar Cells P Bus|BRSOLCV Index|||EI09BRSOLCV|Equity Index|Index|BBG000ZDGCG1||46707|||||||
@@ -1580,6 +1577,7 @@ BI Global Lg Inv Mgt C|BIGLINVC Index|||EI09BIGLINVC|Equity Index|Index|BBG0024N
 BI Global Lg Inv Mgt P|BIGLINVP Index|||EI09BIGLINVP|Equity Index|Index|BBG0024NK7X6||46707|||||||
 BI Indian Airlines|BIAIRINV Index|||EI09BIAIRINV|Equity Index|Index|BBG001LM4PB3||46707|||||||
 BI Internet Comp|BIINETGC Index|||EI09BIINETGC|Equity Index|Index|BBG00196XM90||46707|||||||
+BI JP Large Pharma P Bus|BIJPLGPH Index|||EI09BIJPLGPH|Equity Index|Index|BBG0019JYH29||46707|||||||
 BI LA Airlines - Comp|BILAIRLC Index|||EI09BILAIRLC|Equity Index|Index|BBG001R5J5P7||46707|||||||
 BI LA Food Mfg PB Index|BILFDMFP Index|||EI09BILFDMFP|Equity Index|Index|BBG0021RFXB3||46707|||||||
 BI LA HHP Mfg Princ Bus|BIHPCCSV Index|||EI09BIHPCCSV|Equity Index|Index|BBG001D12B94||46707|||||||
@@ -1589,6 +1587,7 @@ BI Lg Cap US Retail Val|BIRTLCNV Index|||EI09BIRTLCNV|Equity Index|Index|BBG0019
 BI Local Media NA Compet|BILOCLNC Index|||EI09BILOCLNC|Equity Index|Index|||46707|||||||
 BI MEA Steel Prod - PB|BRPBMEAS Index|||EI09BRPBMEAS|Equity Index|Index|BBG0013P50X6||46707|||||||
 BI MESA Telco Carri PB|BIMEATSV Index|||EI09BIMEATSV|Equity Index|Index|BBG001CDN1Q9||46707|||||||
+BI MW Lg Mid Bnk Val Cmp|BIMBNKLC Index|||EI09BIMBNKLC|Equity Index|Index|BBG002B2J4F3||46707|||||||
 BI Med Devices/Supplies|BIMDEVC Index|||EI09BIMDEVC|Equity Index|Index|BBG001BSVK04||46707|||||||
 BI Met Mining Steel|BIMMSAGV Index|||EI09BIMMSAGV|Equity Index|Index|BBG001892X59||46707|||||||
 BI Mid Cap US Retail Val|BIRTMCNV Index|||EI09BIRTMCNV|Equity Index|Index|BBG00196WZY4||46707|||||||
@@ -1636,6 +1635,7 @@ BI NA Comput & Consum Cp|BISMCCNC Index|||EI09BISMCCNC|Equity Index|Index|BBG002
 BI NA Construction Comp|BIUSCNTC Index|||EI09BIUSCNTC|Equity Index|Index|BBG00179TKN9||46707|||||||
 BI NA Construction Prin|BIUSCNTV Index|||EI09BIUSCNTV|Equity Index|Index|BBG00179TKW9||46707|||||||
 BI NA ConstructionMfg PB|BIUSCNTM Index|||EI09BIUSCNTM|Equity Index|Index|BBG0018BWT41||46707|||||||
+BI NA Couriers&Delivery|BIXPRSNT Index|||EI09BIXPRSNT|Equity Index|Index|BBG002B1V3J9||46707|||||||
 BI NA Crude Oil Prod|BINGASOL Index|||EI09BINGASOL|Equity Index|Index|BBG001LWKVK0||46707|||||||
 BI NA EMS/ODM Comp|BINEMSOC Index|||EI09BINEMSOC|Equity Index|Index|BBG001S3F897||46707|||||||
 BI NA Elect Equip Comp|BIELEQGT Index|||EI09BIELEQGT|Equity Index|Index|BBG0025X3DV1||46707|||||||
@@ -1659,6 +1659,8 @@ BI NA Hospitals Prin Bus|BRUSHOSV Index|||EI09BRUSHOSV|Equity Index|Index|BBG000
 BI NA Hybrid Gen Util PB|BIHGUTNV Index|||EI09BIHGUTNV|Equity Index|Index|BBG001CGHCR4||46707|||||||
 BI NA Indep Pwr Prod Prn|BIIPUTNV Index|||EI09BIIPUTNV|Equity Index|Index|BBG001CGHCP6||46707|||||||
 BI NA Indepen E&Ps Pr Bu|BRNG50 Index|||EI09BRNG50|Equity Index|Index|BBG000ZDPCW3||46707|||||||
+BI NA Indust REIT Comp|BIINDRNC Index|||EI09BIINDRNC|Equity Index|Index|BBG002B1VNW0||46707|||||||
+BI NA Industrial REIT PB|BIINDRNP Index|||EI09BIINDRNP|Equity Index|Index|BBG002B1VMT6||46707|||||||
 BI NA Inst Brkage - Comp|BININBKC Index|||EI09BININBKC|Equity Index|Index|BBG001R03D41||46707|||||||
 BI NA Integratd Telco PB|BRITSOV Index|||EI09BRITSOV|Equity Index|Index|BBG00117S651||46707|||||||
 BI NA Invstmnt Bnks PB|BIIBNKUS Index|||EI09BIIBNKUS|Equity Index|Index|BBG0019Q48P1||46707|||||||
@@ -1759,6 +1761,7 @@ BI Puerto Rican Bnk Val|BIPRBNK Index|||EI09BIPRBNK|Equity Index|Index|BBG0019Q3
 BI Russian Steel Produce|BIEPSTPR Index|||EI09BIEPSTPR|Equity Index|Index|BBG001QGBY33||46707|||||||
 BI Sm Cap US Retail Val|BIRTSCNV Index|||EI09BIRTSCNV|Equity Index|Index|BBG00196WZZ3||46707|||||||
 BI Southern Bank Val|BISBNK Index|||EI09BISBNK|Equity Index|Index|BBG0019Q3WW1||46707|||||||
+BI St Lg Mid Bank Val Cm|BISBNKLC Index|||EI09BISBNKLC|Equity Index|Index|BBG002B2J1F9||46707|||||||
 BI Sthrn Lg Mid Bank Val|BISBNKL Index|||EI09BISBNKL|Equity Index|Index|BBG0019Q3WX0||46707|||||||
 BI Sthrn Micro Bank Val|BISBNKM Index|||EI09BISBNKM|Equity Index|Index|BBG0019Q3WZ8||46707|||||||
 BI Sthrn Small Banks Val|BISBNKS Index|||EI09BISBNKS|Equity Index|Index|BBG0019Q3WY9||46707|||||||
@@ -1778,6 +1781,7 @@ BI US H End DepStor Comp|BRLDEPSC Index|||EI09BRLDEPSC|Equity Index|Index|BBG001
 BI US High DeptSrs Prin|BRLDEPSV Index|||EI09BRLDEPSV|Equity Index|Index|BBG0012Y7R67||46707|||||||
 BI US Home Furnishing PB|BIUSFNGV Index|||EI09BIUSFNGV|Equity Index|Index|BBG001711YH3||46707|||||||
 BI US Home Retail - PB|BIUSHMRV Index|||EI09BIUSHMRV|Equity Index|Index|BBG001711YG4||46707|||||||
+BI US LC Reg Banks E Cmp|BINBNKLC Index|||EI09BINBNKLC|Equity Index|Index|BBG002B2JBB1||46707|||||||
 BI US LC Reg Banks East|BINBNKL Index|||EI09BINBNKL|Equity Index|Index|BBG0019Q3WP9||46707|||||||
 BI US Large Pharma P Bus|BINOAMLP Index|||EI09BINOAMLP|Equity Index|Index|BBG0018X7838||46707|||||||
 BI US Large Pharma PB|BINAPHPP Index|||EI09BINAPHPP|Equity Index|Index|BBG00196TR85||46707|||||||
@@ -1788,6 +1792,7 @@ BI US Mid DepStor Prin|BRMTDPTV Index|||EI09BRMTDPTV|Equity Index|Index|BBG0012Y
 BI US Pharmacy Retail PB|BIRETPHA Index|||EI09BIRETPHA|Equity Index|Index|BBG00172XJL4||46707|||||||
 BI US Reg Banks East PB|BINBNK Index|||EI09BINBNK|Equity Index|Index|BBG0019Q3WN1||46707|||||||
 BI US Reg Invest Bank PB|BIIBUSRE Index|||EI09BIIBUSRE|Equity Index|Index|BBG0019Q48R9||46707|||||||
+BI W Lg Mid Bank Val Cmp|BIWBNKLC Index|||EI09BIWBNKLC|Equity Index|Index|BBG002B2J622||46707|||||||
 BI West Lg Mid Bank Val|BIWBNKL Index|||EI09BIWBNKL|Equity Index|Index|BBG0019Q3X13||46707|||||||
 BI West Micro Bank Val|BIWBNKM Index|||EI09BIWBNKM|Equity Index|Index|BBG0019Q3X31||46707|||||||
 BI West Small Bank Val|BIWBNKS Index|||EI09BIWBNKS|Equity Index|Index|BBG0019Q3X22||46707|||||||
@@ -11769,7 +11774,7 @@ NYSE ENERGY INDEX|NYE Index|NGIB|20310900720365|EI09NYE|Equity Index|Index|BBG00
 NYSE Euronext Iberian|NEIBI Index|EAIP|7842623750605|EI09NEIBI|Equity Index|Index|BBG000PK88Q3||31753||||39658|//blp/mktdata/bsym/EAIP/NEIBI Index|//blp/mktdata/buid/EAIP/EI09NEIBI|//blp/mktdata/bsid/7842623750605
 NYSE FINANCIAL INDEX|NYK Index|NGIB|20310900720366|EI09NYK|Equity Index|Index|BBG000TMP6Q0||45404||||45412|//blp/mktdata/bsym/NGIB/NYK Index|//blp/mktdata/buid/NGIB/EI09NYK|//blp/mktdata/bsid/20310900720366
 NYSE HEALTHCARE INDEX|NYP Index|NGIB|20310900720367|EI09NYP|Equity Index|Index|BBG000TMP733||45404||||45412|//blp/mktdata/bsym/NGIB/NYP Index|//blp/mktdata/buid/NGIB/EI09NYP|//blp/mktdata/bsid/20310900720367
-NYSE-BNEF Amer Cln Engy|NBAMCEUP Index|NGIB||EI09NBAMCEUP|Equity Index|Index|BBG0028DRZT0||45404||||45412|//blp/mktdata/bsym/NGIB/NBAMCEUP Index|//blp/mktdata/buid/NGIB/EI09NBAMCEUP|
+NYSE-BNEF Amer Cln GTR|NBAMCEUP Index|NGIB||EI09NBAMCEUP|Equity Index|Index|BBG0028DRZT0||45404||||45412|//blp/mktdata/bsym/NGIB/NBAMCEUP Index|//blp/mktdata/buid/NGIB/EI09NBAMCEUP|
 NYSE-BNEF Asa-Oc Cl Egy|NBASCEUP Index|NGIB||EI09NBASCEUP|Equity Index|Index|BBG0028DS0X1||45404||||45412|//blp/mktdata/bsym/NGIB/NBASCEUP Index|//blp/mktdata/buid/NGIB/EI09NBASCEUP|
 NYSE-BNEF Eu, Mid & Af|NBEACEUP Index|NGIB||EI09NBEACEUP|Equity Index|Index|BBG0028DS6G7||45404||||45412|//blp/mktdata/bsym/NGIB/NBEACEUP Index|//blp/mktdata/buid/NGIB/EI09NBEACEUP|
 NZAX ALL GROSS INDEX|NZSXAXG Index|NZ|768799456710|EI09NZSXAXG|Equity Index|Index|BBG000M6KBN9||27801|27801|||39609|//blp/mktdata/bsym/NZ/NZSXAXG Index|//blp/mktdata/buid/NZ/EI09NZSXAXG|//blp/mktdata/bsid/768799456710
