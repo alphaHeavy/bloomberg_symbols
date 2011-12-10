@@ -1,5 +1,5 @@
-#Data Generated At: Fri Dec 9 06:33:23 EST 2011
-#Data Records=4553
+#Data Generated At: Sat Dec 10 06:36:08 EST 2011
+#Data Records=4554
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Dec11|ADCZ1|YLX|8744578738411|IX14135580-0|Currency future.|Curncy|BBG0029KZ9D9||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCZ1|//blp/mktdata/buid/YLX/IX14135580-0|//blp/mktdata/bsid/8744578738411
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -366,7 +366,6 @@ AUSTL$/CAN$ X-RAT Sep12|ACU2|cCME|9981524730871|IX12295392-0|Currency future.|Cu
 AUSTL$/CAN$ X-RAT Sep12|ACU2|cCME|9981524730871|IX12295392-0|Currency future.|Curncy|BBG001KR2CV2||14002|14002|0||39490|//blp/mktdata/bsym/cCME/ACU2|//blp/mktdata/buid/cCME/IX12295392-0|//blp/mktdata/bsid/9981524730871
 AUSTL$/CAN$ X-RAT Sep12|ACU2|eCME|2078784906231|IX12295392-0|Currency future.|Curncy|BBG001KR2CV2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ACU2|//blp/mktdata/buid/eCME/IX12295392-0|//blp/mktdata/bsid/2078784906231
 AUSTL$/CAN$ X-RAT Sep12|ACU2|eCME|2078784906231|IX12295392-0|Currency future.|Curncy|BBG001KR2CV2||14002|14002|0||39490|//blp/mktdata/bsym/eCME/ACU2|//blp/mktdata/buid/eCME/IX12295392-0|//blp/mktdata/bsid/2078784906231
-AUSTRL$/NZ$ AON   Dec10|NAZ0|CME|614191154802|IX9070236-0|Currency future.|Curncy|BBG000VMSF75||14002|14002|0||39490|//blp/mktdata/bsym/CME/NAZ0|//blp/mktdata/buid/CME/IX9070236-0|//blp/mktdata/bsid/614191154802
 AUSTRL$/NZ$ AON   Dec11|NAZ1|CME|614197439937|IX10536140-0|Currency future.|Curncy|BBG0011SQ5N9||14002|14002|0||39490|//blp/mktdata/bsym/CME/NAZ1|//blp/mktdata/buid/CME/IX10536140-0|//blp/mktdata/bsid/614197439937
 AUSTRL$/NZ$ AON   Dec12|NAZ2|CME|614202463207|IX12943994-0|Currency future.|Curncy|BBG001R249B7||14002|14002|0||39490|//blp/mktdata/bsym/CME/NAZ2|//blp/mktdata/buid/CME/IX12943994-0|//blp/mktdata/bsid/614202463207
 AUSTRL$/NZ$ AON   Jun12|NAM2|CME|614189156204|IX8147976-0|Currency future.|Curncy|BBG000XFQ572||14002|14002|0||39490|//blp/mktdata/bsym/CME/NAM2|//blp/mktdata/buid/CME/IX8147976-0|//blp/mktdata/bsid/614189156204
@@ -1805,6 +1804,7 @@ EUR/TRY X-RATE    Sep13|TERU3|BSE|1103830720127|IX13630777-0|Currency future.|Cu
 EUR/USD 1M RL VOL Dec11|UCOZ1|eCME|2078788019017|IX13545053-0|Currency future.|Curncy|BBG002293HP5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOZ1|//blp/mktdata/buid/eCME/IX13545053-0|//blp/mktdata/bsid/2078788019017
 EUR/USD 1M RL VOL Feb12|UCOG2|eCME|2078789041317|IX13946379-0|Currency future.|Curncy|BBG0027RVJ20||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOG2|//blp/mktdata/buid/eCME/IX13946379-0|//blp/mktdata/bsid/2078789041317
 EUR/USD 1M RL VOL Jan12|UCOF2|eCME|2078788568431|IX13737312-0|Currency future.|Curncy|BBG0025847P5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOF2|//blp/mktdata/buid/eCME/IX13737312-0|//blp/mktdata/bsid/2078788568431
+EUR/USD 1M RL VOL Mar12|UCOH2|||IX14201926-0|Currency future.|Curncy|BBG002B4Q7V6||14002|14002|0||39490|||
 EUR/USD 3M RL VOL Jun12|UCTM2|eCME|2078788019016|IX13545009-0|Currency future.|Curncy|BBG002293HN7||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCTM2|//blp/mktdata/buid/eCME/IX13545009-0|//blp/mktdata/bsid/2078788019016
 EUR/USD 3M RL VOL Mar12|UCTH2|eCME|2078786203397|IX12870761-0|Currency future.|Curncy|BBG001QRNHB4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCTH2|//blp/mktdata/buid/eCME/IX12870761-0|//blp/mktdata/bsid/2078786203397
 EUR/USD CFD       Nov36|FRDX6|||IX4849850-0|Currency future.|Curncy|BBG000WJM8C7||14016|14016|0||40067|||
@@ -4132,6 +4132,7 @@ UDI FUTURE        Dec12|IUZ2|MDX|1743761000399|IX5732167-0|Currency future.|Curn
 UDI FUTURE        Dec13|IUZ3|MDX|1743765317870|IX8052226-0|Currency future.|Curncy|BBG000MVHNV3||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUZ3|//blp/mktdata/buid/MDX/IX8052226-0|//blp/mktdata/bsid/1743765317870
 UDI FUTURE        Dec14|IUZ4|MDX|1743770734960|IX9835123-0|Currency future.|Curncy|BBG000THM229||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUZ4|//blp/mktdata/buid/MDX/IX9835123-0|//blp/mktdata/bsid/1743770734960
 UDI FUTURE        Dec15|IUZ5|MDX|1743776080938|IX11659559-0|Currency future.|Curncy|BBG001B9WC58||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUZ5|//blp/mktdata/buid/MDX/IX11659559-0|//blp/mktdata/bsid/1743776080938
+UDI FUTURE        Dec16|IUZ6|||IX14201866-0|Currency future.|Curncy|BBG002B4Q7R1||14153|47510|0||39567|||
 UDI FUTURE        Feb12|IUG2|MDX|1743776938885|IX12052479-0|Currency future.|Curncy|BBG001J08JJ6||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUG2|//blp/mktdata/buid/MDX/IX12052479-0|//blp/mktdata/bsid/1743776938885
 UDI FUTURE        Jan12|IUF2|MDX|1743776459840|IX11855596-0|Currency future.|Curncy|BBG001D5HT81||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUF2|//blp/mktdata/buid/MDX/IX11855596-0|//blp/mktdata/bsid/1743776459840
 UDI FUTURE        Jul12|IUN2|MDX|1743779300639|IX13115721-0|Currency future.|Curncy|BBG001WDGTF6||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUN2|//blp/mktdata/buid/MDX/IX13115721-0|//blp/mktdata/bsid/1743779300639
