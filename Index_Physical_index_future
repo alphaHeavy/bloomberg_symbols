@@ -1,5 +1,5 @@
-#Data Generated At: Sat Dec 10 06:50:19 EST 2011
-#Data Records=6337
+#Data Generated At: Sun Dec 11 06:27:38 EST 2011
+#Data Records=6334
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -2022,7 +2022,6 @@ Gas Oil US MM     Jan12|QMIF2|ICE|1172550497655|IX13756575-0|Physical index futu
 GasOil Aft1Min    Dec11|OICZ1|ICE|1172549966315|IX13556659-0|Physical index future.|Index|BBG0022FNDV1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICZ1|//blp/mktdata/buid/ICE/IX13556659-0|//blp/mktdata/bsid/1172549966315
 GasOil Aft1Min    Feb12|OICG2|ICE|1172551026248|IX13993358-0|Physical index future.|Index|BBG0027YDPV9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICG2|//blp/mktdata/buid/ICE/IX13993358-0|//blp/mktdata/bsid/1172551026248
 GasOil Aft1Min    Jan12|OICF2|ICE|1172550529471|IX13765212-0|Physical index future.|Index|BBG0025F46G1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICF2|//blp/mktdata/buid/ICE/IX13765212-0|//blp/mktdata/bsid/1172550529471
-GasOil Singpore M Dec11|QSIZ1|ICE|1172549919563|IX13543793-0|Physical index future.|Index|BBG002290VZ6||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIZ1|//blp/mktdata/buid/ICE/IX13543793-0|//blp/mktdata/bsid/1172549919563
 GasOil Singpore M Feb12|QSIG2|ICE|1172550986174|IX13977429-0|Physical index future.|Index|BBG0027WPXF1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIG2|//blp/mktdata/buid/ICE/IX13977429-0|//blp/mktdata/bsid/1172550986174
 GasOil Singpore M Jan12|QSIF2|ICE|1172550503367|IX13756571-0|Physical index future.|Index|BBG0025CCHY5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIF2|//blp/mktdata/buid/ICE/IX13756571-0|//blp/mktdata/bsid/1172550503367
 GasOil Singpore M Mar12|QSIH2|||IX14200370-0|Physical index future.|Index|BBG002B4LV75||30022|30022|0||40087|||
@@ -3696,7 +3695,6 @@ MSCI JAPAN INDEX  Jun13|SJIM3|LIF|609907516696|IX12963682-0|Physical index futur
 MSCI JAPAN INDEX  Mar12|SJIH2|LIF|609903656416|IX11108420-0|Physical index future.|Index|BBG00164X9V2||27267|27268|0||40559|//blp/mktdata/bsym/LIF/SJIH2|//blp/mktdata/buid/LIF/IX11108420-0|//blp/mktdata/bsid/609903656416
 MSCI JAPAN INDEX  Mar13|SJIH3|LIF|609909301047|IX13582670-0|Physical index future.|Index|BBG0022QPLP4||27267|27268|0||40559|//blp/mktdata/bsym/LIF/SJIH3|//blp/mktdata/buid/LIF/IX13582670-0|//blp/mktdata/bsid/609909301047
 MSCI JAPAN INDEX  Sep12|SJIU2|LIF|609906151207|IX12332473-0|Physical index future.|Index|BBG001KWQ078||27267|27268|0||40559|//blp/mktdata/bsym/LIF/SJIU2|//blp/mktdata/buid/LIF/IX12332473-0|//blp/mktdata/bsid/609906151207
-MSCI Japan Index  Dec11|FMIZ1|EUX|279193571787|IX12276753-0|Physical index future.|Index|BBG001KPW0J3||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FMIZ1|//blp/mktdata/buid/EUX/IX12276753-0|//blp/mktdata/bsid/279193571787
 MSCI Japan Index  Jun12|FMIM2|EUX|279196721460|IX13543877-0|Physical index future.|Index|BBG002290WP5||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FMIM2|//blp/mktdata/buid/EUX/IX13543877-0|//blp/mktdata/bsid/279196721460
 MSCI Japan Index  Mar12|FMIH2|EUX|279194976647|IX12915383-0|Physical index future.|Index|BBG001QZ9FR9||14066|14111|0||39521|//blp/mktdata/bsym/EUX/FMIH2|//blp/mktdata/buid/EUX/IX12915383-0|//blp/mktdata/bsid/279194976647
 MSCI Japan Index  Sep12|FMIU2|||IX14200394-0|Physical index future.|Index|BBG002B4LVF6||14066|14111|0||39521|||
@@ -4864,7 +4862,6 @@ RDXUSD INDEX FUT  Jun12|XRM2|AV|133163434586|IX11716022-0|Physical index future.
 RDXUSD INDEX FUT  Mar12|XRH2|AV|133167954252|IX13595210-0|Physical index future.|Index|BBG0022V9FL8||14114|14114|0||39545|//blp/mktdata/bsym/AV/XRH2|//blp/mktdata/buid/AV/IX13595210-0|//blp/mktdata/bsid/133167954252
 RESOURCE INDEX    Dec11|REZ1|SAFE|1705124155588|IX12953581-0|Physical index future.|Index|BBG001R3JJ18||14117|14117|0||39548|//blp/mktdata/bsym/SAFE/REZ1|//blp/mktdata/buid/SAFE/IX12953581-0|//blp/mktdata/bsid/1705124155588
 RESOURCE INDEX    Mar12|REH2|SAFE|1705125958557|IX13582866-0|Physical index future.|Index|BBG0022QPMZ1||14117|14117|0||39548|//blp/mktdata/bsym/SAFE/REH2|//blp/mktdata/buid/SAFE/IX13582866-0|//blp/mktdata/bsid/1705125958557
-RJ/CRB INDEX FUT  Dec11|CRZ1|eNYB|2100258366507|IX11659643-0|Physical index future.|Index|BBG001B9WC67||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CRZ1|//blp/mktdata/buid/eNYB/IX11659643-0|//blp/mktdata/bsid/2100258366507
 RJ/CRB INDEX FUT  Dec12|CRZ2|eNYB|2100264438889|IX14202070-0|Physical index future.|Index|BBG002B4Q7Z2||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CRZ2|//blp/mktdata/buid/eNYB/IX14202070-0|//blp/mktdata/bsid/2100264438889
 RJ/CRB INDEX FUT  Jun12|CRM2|eNYB|2100261105820|IX12916495-0|Physical index future.|Index|BBG001QZD097||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CRM2|//blp/mktdata/buid/eNYB/IX12916495-0|//blp/mktdata/bsid/2100261105820
 RJ/CRB INDEX FUT  Mar12|CRH2|eNYB|2100259705339|IX12280429-0|Physical index future.|Index|BBG001KPXQ05||14008|14008|0||40065|//blp/mktdata/bsym/eNYB/CRH2|//blp/mktdata/buid/eNYB/IX12280429-0|//blp/mktdata/bsid/2100259705339

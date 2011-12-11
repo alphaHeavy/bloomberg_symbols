@@ -1,5 +1,5 @@
-#Data Generated At: Sat Dec 10 06:36:08 EST 2011
-#Data Records=4554
+#Data Generated At: Sun Dec 11 06:13:47 EST 2011
+#Data Records=4552
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Dec11|ADCZ1|YLX|8744578738411|IX14135580-0|Currency future.|Curncy|BBG0029KZ9D9||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCZ1|//blp/mktdata/buid/YLX/IX14135580-0|//blp/mktdata/bsid/8744578738411
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -1801,7 +1801,6 @@ EUR/TRY X-RATE    Mar12|TERH2|BSE|1103822339541|IX10179283-0|Currency future.|Cu
 EUR/TRY X-RATE    Mar13|TERH3|BSE|1103827362072|IX12322220-0|Currency future.|Curncy|BBG001KTLFT3||14116|14116|0||39547|//blp/mktdata/bsym/BSE/TERH3|//blp/mktdata/buid/BSE/IX12322220-0|//blp/mktdata/bsid/1103827362072
 EUR/TRY X-RATE    Sep12|TERU2|BSE|1103824885698|IX11100363-0|Currency future.|Curncy|BBG00163Z3H1||14116|14116|0||39547|//blp/mktdata/bsym/BSE/TERU2|//blp/mktdata/buid/BSE/IX11100363-0|//blp/mktdata/bsid/1103824885698
 EUR/TRY X-RATE    Sep13|TERU3|BSE|1103830720127|IX13630777-0|Currency future.|Curncy|BBG002455V50||14116|14116|0||39547|//blp/mktdata/bsym/BSE/TERU3|//blp/mktdata/buid/BSE/IX13630777-0|//blp/mktdata/bsid/1103830720127
-EUR/USD 1M RL VOL Dec11|UCOZ1|eCME|2078788019017|IX13545053-0|Currency future.|Curncy|BBG002293HP5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOZ1|//blp/mktdata/buid/eCME/IX13545053-0|//blp/mktdata/bsid/2078788019017
 EUR/USD 1M RL VOL Feb12|UCOG2|eCME|2078789041317|IX13946379-0|Currency future.|Curncy|BBG0027RVJ20||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOG2|//blp/mktdata/buid/eCME/IX13946379-0|//blp/mktdata/bsid/2078789041317
 EUR/USD 1M RL VOL Jan12|UCOF2|eCME|2078788568431|IX13737312-0|Currency future.|Curncy|BBG0025847P5||14002|14002|0||39490|//blp/mktdata/bsym/eCME/UCOF2|//blp/mktdata/buid/eCME/IX13737312-0|//blp/mktdata/bsid/2078788568431
 EUR/USD 1M RL VOL Mar12|UCOH2|||IX14201926-0|Currency future.|Curncy|BBG002B4Q7V6||14002|14002|0||39490|||
@@ -4127,7 +4126,6 @@ TURKISH LIRA FUT  Mar13|TURH3|eCME|2078788283147|IX13622842-0|Currency future.|C
 TURKISH LIRA FUT  Sep12|TURU2|eCME|2078784917108|IX12312891-0|Currency future.|Curncy|BBG001KSCF06||14002|14002|0||39490|//blp/mktdata/bsym/eCME/TURU2|//blp/mktdata/buid/eCME/IX12312891-0|//blp/mktdata/bsid/2078784917108
 UDI FUTURE        Apr12|IUJ2|MDX|1743777895842|IX12510510-0|Currency future.|Curncy|BBG001MB8223||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUJ2|//blp/mktdata/buid/MDX/IX12510510-0|//blp/mktdata/bsid/1743777895842
 UDI FUTURE        Aug12|IUQ2|MDX|1743779951701|IX13342094-0|Currency future.|Curncy|BBG001Z6HWQ8||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUQ2|//blp/mktdata/buid/MDX/IX13342094-0|//blp/mktdata/bsid/1743779951701
-UDI FUTURE        Dec11|IUZ1|MDX|1743757173894|IX3933842-0|Currency future.|Curncy|BBG000W0Q228||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUZ1|//blp/mktdata/buid/MDX/IX3933842-0|//blp/mktdata/bsid/1743757173894
 UDI FUTURE        Dec12|IUZ2|MDX|1743761000399|IX5732167-0|Currency future.|Curncy|BBG000WRZHH0||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUZ2|//blp/mktdata/buid/MDX/IX5732167-0|//blp/mktdata/bsid/1743761000399
 UDI FUTURE        Dec13|IUZ3|MDX|1743765317870|IX8052226-0|Currency future.|Curncy|BBG000MVHNV3||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUZ3|//blp/mktdata/buid/MDX/IX8052226-0|//blp/mktdata/bsid/1743765317870
 UDI FUTURE        Dec14|IUZ4|MDX|1743770734960|IX9835123-0|Currency future.|Curncy|BBG000THM229||14153|47510|0||39567|//blp/mktdata/bsym/MDX/IUZ4|//blp/mktdata/buid/MDX/IX9835123-0|//blp/mktdata/bsid/1743770734960
