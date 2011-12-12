@@ -1,5 +1,5 @@
-#Data Generated At: Sun Dec 11 05:55:45 EST 2011
-#Data Records=6195
+#Data Generated At: Mon Dec 12 06:15:49 EST 2011
+#Data Records=6203
 #Query: MARKET_SECTOR_DES=Comdty, SECURITY_TYP=Financial commodity future.
 10 Y INT RATE SWP Jun12|XJM2|||IX14189129-0|Financial commodity future.|Comdty|BBG002B1ZZY7||14016|14016|0||40067|||
 10 Y INT RATE SWP Jun12|XJM2|||IX14189129-0|Financial commodity future.|Comdty|BBG002B1ZZY7||14016|14016|0||40067|||
@@ -40,8 +40,12 @@
 10Y JAP GOV BOND  Mar12|BIH2|cSGX|10037357897965|IX11641065-0|Financial commodity future.|Comdty|BBG001B4M5L7||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BIH2|//blp/mktdata/buid/cSGX/IX11641065-0|//blp/mktdata/bsid/10037357897965
 10Y JAP GOV BOND  Mar12|BIH2|eSGX|2108848269549|IX11641065-0|Financial commodity future.|Comdty|BBG001B4M5L7||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BIH2|//blp/mktdata/buid/eSGX/IX11641065-0|//blp/mktdata/bsid/2108848269549
 10Y JAP GOV BOND  Mar12|BIH2|eSGX|2108848269549|IX11641065-0|Financial commodity future.|Comdty|BBG001B4M5L7||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BIH2|//blp/mktdata/buid/eSGX/IX11641065-0|//blp/mktdata/bsid/2108848269549
-10Y JAP GOV BOND  Mar13|BIH3|||IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|||
-10Y JAP GOV BOND  Mar13|BIH3|||IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|||
+10Y JAP GOV BOND  Mar13|BIH3|SGX|889064377298|IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BIH3|//blp/mktdata/buid/SGX/IX14189101-0|//blp/mktdata/bsid/889064377298
+10Y JAP GOV BOND  Mar13|BIH3|SGX|889064377298|IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BIH3|//blp/mktdata/buid/SGX/IX14189101-0|//blp/mktdata/bsid/889064377298
+10Y JAP GOV BOND  Mar13|BIH3|cSGX|10037363981981|IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BIH3|//blp/mktdata/buid/cSGX/IX14189101-0|//blp/mktdata/bsid/10037363981981
+10Y JAP GOV BOND  Mar13|BIH3|cSGX|10037363981981|IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BIH3|//blp/mktdata/buid/cSGX/IX14189101-0|//blp/mktdata/bsid/10037363981981
+10Y JAP GOV BOND  Mar13|BIH3|eSGX|2108854353565|IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BIH3|//blp/mktdata/buid/eSGX/IX14189101-0|//blp/mktdata/bsid/2108854353565
+10Y JAP GOV BOND  Mar13|BIH3|eSGX|2108854353565|IX14189101-0|Financial commodity future.|Comdty|BBG002B1ZZ31||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BIH3|//blp/mktdata/buid/eSGX/IX14189101-0|//blp/mktdata/bsid/2108854353565
 10Y JAP GOV BOND  Sep12|BIU2|SGX|889080308832|IX12897197-0|Financial commodity future.|Comdty|BBG001QWMV05||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BIU2|//blp/mktdata/buid/SGX/IX12897197-0|//blp/mktdata/bsid/889080308832
 10Y JAP GOV BOND  Sep12|BIU2|SGX|889080308832|IX12897197-0|Financial commodity future.|Comdty|BBG001QWMV05||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BIU2|//blp/mktdata/buid/SGX/IX12897197-0|//blp/mktdata/bsid/889080308832
 10Y JAP GOV BOND  Sep12|BIU2|cSGX|10037360649312|IX12897197-0|Financial commodity future.|Comdty|BBG001QWMV05||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BIU2|//blp/mktdata/buid/cSGX/IX12897197-0|//blp/mktdata/bsid/10037360649312
@@ -78,8 +82,12 @@
 10YR MINI JGB FUT Mar12|BJH2|cSGX|10037357897964|IX11641057-0|Financial commodity future.|Comdty|BBG001B4M5J0||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BJH2|//blp/mktdata/buid/cSGX/IX11641057-0|//blp/mktdata/bsid/10037357897964
 10YR MINI JGB FUT Mar12|BJH2|eSGX|2108848269548|IX11641057-0|Financial commodity future.|Comdty|BBG001B4M5J0||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJH2|//blp/mktdata/buid/eSGX/IX11641057-0|//blp/mktdata/bsid/2108848269548
 10YR MINI JGB FUT Mar12|BJH2|eSGX|2108848269548|IX11641057-0|Financial commodity future.|Comdty|BBG001B4M5J0||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJH2|//blp/mktdata/buid/eSGX/IX11641057-0|//blp/mktdata/bsid/2108848269548
-10YR MINI JGB FUT Mar13|BJH3|||IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|||
-10YR MINI JGB FUT Mar13|BJH3|||IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|||
+10YR MINI JGB FUT Mar13|BJH3|SGX|889083641484|IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BJH3|//blp/mktdata/buid/SGX/IX14189097-0|//blp/mktdata/bsid/889083641484
+10YR MINI JGB FUT Mar13|BJH3|SGX|889083641484|IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BJH3|//blp/mktdata/buid/SGX/IX14189097-0|//blp/mktdata/bsid/889083641484
+10YR MINI JGB FUT Mar13|BJH3|cSGX|10037363981964|IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BJH3|//blp/mktdata/buid/cSGX/IX14189097-0|//blp/mktdata/bsid/10037363981964
+10YR MINI JGB FUT Mar13|BJH3|cSGX|10037363981964|IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BJH3|//blp/mktdata/buid/cSGX/IX14189097-0|//blp/mktdata/bsid/10037363981964
+10YR MINI JGB FUT Mar13|BJH3|eSGX|2108854353548|IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJH3|//blp/mktdata/buid/eSGX/IX14189097-0|//blp/mktdata/bsid/2108854353548
+10YR MINI JGB FUT Mar13|BJH3|eSGX|2108854353548|IX14189097-0|Financial commodity future.|Comdty|BBG002B1ZZ04||14017|14006|0||39499|//blp/mktdata/bsym/eSGX/BJH3|//blp/mktdata/buid/eSGX/IX14189097-0|//blp/mktdata/bsid/2108854353548
 10YR MINI JGB FUT Sep12|BJU2|SGX|889080308831|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BJU2|//blp/mktdata/buid/SGX/IX12897193-0|//blp/mktdata/bsid/889080308831
 10YR MINI JGB FUT Sep12|BJU2|SGX|889080308831|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/SGX/BJU2|//blp/mktdata/buid/SGX/IX12897193-0|//blp/mktdata/bsid/889080308831
 10YR MINI JGB FUT Sep12|BJU2|cSGX|10037360649311|IX12897193-0|Financial commodity future.|Comdty|BBG001QWMTZ2||14017|14006|0||39499|//blp/mktdata/bsym/cSGX/BJU2|//blp/mktdata/buid/cSGX/IX12897193-0|//blp/mktdata/bsid/10037360649311
