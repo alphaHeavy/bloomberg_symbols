@@ -1,5 +1,5 @@
-#Data Generated At: Mon Dec 12 06:47:44 EST 2011
-#Data Records=6341
+#Data Generated At: Tue Dec 13 06:36:30 EST 2011
+#Data Records=6344
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Physical index future.
 AEX 12MO VAR      Dec11|XGZ1|LIF|609904804474|IX11716618-0|Physical index future.|Index|BBG001BW94C3||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGZ1|//blp/mktdata/buid/LIF/IX11716618-0|//blp/mktdata/bsid/609904804474
 AEX 12MO VAR      Jun12|XGM2|LIF|609907527982|IX12978071-0|Physical index future.|Index|BBG001R72376||27267|27268|0||40559|//blp/mktdata/bsym/LIF/XGM2|//blp/mktdata/buid/LIF/IX12978071-0|//blp/mktdata/bsid/609907527982
@@ -2004,6 +2004,7 @@ GRETAI SEC IND FT Mar12|QTH2|FTX|1739483142796|IX12589585-0|Physical index futur
 GRETAI SEC IND FT Sep12|QTU2|FTX|1739486284074|IX13808757-0|Physical index future.|Index|BBG0025Y9746||14149|14149|0||39565|//blp/mktdata/bsym/FTX/QTU2|//blp/mktdata/buid/FTX/IX13808757-0|//blp/mktdata/bsid/1739486284074
 GSCI EXCESS RETRN Mar14|BBH4|eCME|2078783028549|IX11375155-0|Physical index future.|Index|BBG0018BXV27||14002|14002|0||39490|//blp/mktdata/bsym/eCME/BBH4|//blp/mktdata/buid/eCME/IX11375155-0|//blp/mktdata/bsid/2078783028549
 Gas Oil GOWAVE FU Apr12|IGWJ2|ICE|1172549324928|IX13348961-0|Physical index future.|Index|BBG001ZB8LV5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWJ2|//blp/mktdata/buid/ICE/IX13348961-0|//blp/mktdata/bsid/1172549324928
+Gas Oil GOWAVE FU Aug12|IGWQ2|||IX14213117-0|Physical index future.|Index|BBG002B6KPN6||30022|30022|0||40087|||
 Gas Oil GOWAVE FU Dec11|IGWZ1|ICE|1172532917132|IX7062798-0|Physical index future.|Index|BBG000S6LVR4||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWZ1|//blp/mktdata/buid/ICE/IX7062798-0|//blp/mktdata/bsid/1172532917132
 Gas Oil GOWAVE FU Dec12|IGWZ2|ICE|1172532917135|IX7062810-0|Physical index future.|Index|BBG000S6LW83||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWZ2|//blp/mktdata/buid/ICE/IX7062810-0|//blp/mktdata/bsid/1172532917135
 Gas Oil GOWAVE FU Feb12|IGWG2|ICE|1172548170047|IX12915379-0|Physical index future.|Index|BBG001QZ9FQ0||30022|30022|0||40087|//blp/mktdata/bsym/ICE/IGWG2|//blp/mktdata/buid/ICE/IX12915379-0|//blp/mktdata/bsid/1172548170047
@@ -2022,12 +2023,14 @@ Gas Oil US MM     Jan12|QMIF2|ICE|1172550497655|IX13756575-0|Physical index futu
 GasOil Aft1Min    Dec11|OICZ1|ICE|1172549966315|IX13556659-0|Physical index future.|Index|BBG0022FNDV1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICZ1|//blp/mktdata/buid/ICE/IX13556659-0|//blp/mktdata/bsid/1172549966315
 GasOil Aft1Min    Feb12|OICG2|ICE|1172551026248|IX13993358-0|Physical index future.|Index|BBG0027YDPV9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICG2|//blp/mktdata/buid/ICE/IX13993358-0|//blp/mktdata/bsid/1172551026248
 GasOil Aft1Min    Jan12|OICF2|ICE|1172550529471|IX13765212-0|Physical index future.|Index|BBG0025F46G1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OICF2|//blp/mktdata/buid/ICE/IX13765212-0|//blp/mktdata/bsid/1172550529471
+GasOil Aft1Min    Mar12|OICH2|||IX14213129-0|Physical index future.|Index|BBG002B6KR34||30022|30022|0||40087|||
 GasOil Singpore M Feb12|QSIG2|ICE|1172550986174|IX13977429-0|Physical index future.|Index|BBG0027WPXF1||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIG2|//blp/mktdata/buid/ICE/IX13977429-0|//blp/mktdata/bsid/1172550986174
 GasOil Singpore M Jan12|QSIF2|ICE|1172550503367|IX13756571-0|Physical index future.|Index|BBG0025CCHY5||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIF2|//blp/mktdata/buid/ICE/IX13756571-0|//blp/mktdata/bsid/1172550503367
 GasOil Singpore M Mar12|QSIH2|ICE|1172551503275|IX14200370-0|Physical index future.|Index|BBG002B4LV75||30022|30022|0||40087|//blp/mktdata/bsym/ICE/QSIH2|//blp/mktdata/buid/ICE/IX14200370-0|//blp/mktdata/bsid/1172551503275
 GasOil US1Min     Dec11|OIEZ1|ICE|1172549954869|IX13556663-0|Physical index future.|Index|BBG0022FNDX9||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEZ1|//blp/mktdata/buid/ICE/IX13556663-0|//blp/mktdata/bsid/1172549954869
 GasOil US1Min     Feb12|OIEG2|ICE|1172551016532|IX13993366-0|Physical index future.|Index|BBG0027YDPW8||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEG2|//blp/mktdata/buid/ICE/IX13993366-0|//blp/mktdata/bsid/1172551016532
 GasOil US1Min     Jan12|OIEF2|ICE|1172550514307|IX13765208-0|Physical index future.|Index|BBG0025F46F2||30022|30022|0||40087|//blp/mktdata/bsym/ICE/OIEF2|//blp/mktdata/buid/ICE/IX13765208-0|//blp/mktdata/bsid/1172550514307
+GasOil US1Min     Mar12|OIEH2|||IX14213133-0|Physical index future.|Index|BBG002B6KR61||30022|30022|0||40087|||
 General Motor CEBOSep12|BGCU2|||IX4490405-0|Physical index future.|Index|BBG000WFPXD6||14009|0|0||39495|||
 GulfCoast 2nd $10 Dec13|WGLZ3|CCX|2559817895126|IX10596025-0|Physical index future.|Index|BBG0012F7TC7||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WGLZ3|//blp/mktdata/buid/CCX/IX10596025-0|//blp/mktdata/bsid/2559817895126
 GulfCoast 2nd $10BDec10|WGLZ0|CCX|2559809767737|IX8355450-0|Physical index future.|Index|BBG000JJFTJ7||30499|30499|0||40090|//blp/mktdata/bsym/CCX/WGLZ0|//blp/mktdata/buid/CCX/IX8355450-0|//blp/mktdata/bsid/2559809767737

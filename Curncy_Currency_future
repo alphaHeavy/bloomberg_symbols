@@ -1,5 +1,5 @@
-#Data Generated At: Mon Dec 12 06:33:37 EST 2011
-#Data Records=4552
+#Data Generated At: Tue Dec 13 06:22:32 EST 2011
+#Data Records=4554
 #Query: MARKET_SECTOR_DES=Curncy, SECURITY_TYP=Currency future.
 $ZAR Any-day Exp  Dec11|ADCZ1|YLX|8744578738411|IX14135580-0|Currency future.|Curncy|BBG0029KZ9D9||34183|34183|0||39685|//blp/mktdata/bsym/YLX/ADCZ1|//blp/mktdata/buid/YLX/IX14135580-0|//blp/mktdata/bsid/8744578738411
 A$ CURRENCY FUT   Dec11|ADZ1|CME|614197429625|IX10530507-0|Currency future.|Curncy|BBG0011RWT34||14002|14002|0||39490|//blp/mktdata/bsym/CME/ADZ1|//blp/mktdata/buid/CME/IX10530507-0|//blp/mktdata/bsid/614197429625
@@ -3893,6 +3893,8 @@ SA RAND CURR(CME) Jun12|RAM2|cCME|9981523369813|IX11675981-0|Currency future.|Cu
 SA RAND CURR(CME) Jun12|RAM2|cCME|9981523369813|IX11675981-0|Currency future.|Curncy|BBG001BDSXR4||14002|14002|0||39490|//blp/mktdata/bsym/cCME/RAM2|//blp/mktdata/buid/cCME/IX11675981-0|//blp/mktdata/bsid/9981523369813
 SA RAND CURR(CME) Jun12|RAM2|eCME|2078783545173|IX11675981-0|Currency future.|Curncy|BBG001BDSXR4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RAM2|//blp/mktdata/buid/eCME/IX11675981-0|//blp/mktdata/bsid/2078783545173
 SA RAND CURR(CME) Jun12|RAM2|eCME|2078783545173|IX11675981-0|Currency future.|Curncy|BBG001BDSXR4||14002|14002|0||39490|//blp/mktdata/bsym/eCME/RAM2|//blp/mktdata/buid/eCME/IX11675981-0|//blp/mktdata/bsid/2078783545173
+SA RAND CURR(CME) Jun13|RAM3|||IX14209985-0|Currency future.|Curncy|BBG002B5P2K7||14002|14002|0||39490|||
+SA RAND CURR(CME) Jun13|RAM3|||IX14209985-0|Currency future.|Curncy|BBG002B5P2K7||14002|14002|0||39490|||
 SA RAND CURR(CME) Mar12|RAH2|CME|614198593304|IX11078177-0|Currency future.|Curncy|BBG00161MBH1||14002|14002|0||39490|//blp/mktdata/bsym/CME/RAH2|//blp/mktdata/buid/CME/IX11078177-0|//blp/mktdata/bsid/614198593304
 SA RAND CURR(CME) Mar12|RAH2|CME|614198593304|IX11078177-0|Currency future.|Curncy|BBG00161MBH1||14002|14002|0||39490|//blp/mktdata/bsym/CME/RAH2|//blp/mktdata/buid/CME/IX11078177-0|//blp/mktdata/bsid/614198593304
 SA RAND CURR(CME) Mar12|RAH2|cCME|9981522265880|IX11078177-0|Currency future.|Curncy|BBG00161MBH1||14002|14002|0||39490|//blp/mktdata/bsym/cCME/RAH2|//blp/mktdata/buid/cCME/IX11078177-0|//blp/mktdata/bsid/9981522265880

@@ -1,5 +1,5 @@
-#Data Generated At: Mon Dec 12 06:47:32 EST 2011
-#Data Records=17675
+#Data Generated At: Tue Dec 13 06:36:17 EST 2011
+#Data Records=17677
 #Query: MARKET_SECTOR_DES=Index, SECURITY_TYP=Equity Index
 % of SX5E Above 50MA|CGDO50MA Index|CGDO||EI09CGDO50MA|Equity Index|Index|BBG001Y6ZCN6||46707|||||//blp/mktdata/bsym/CGDO/CGDO50MA Index|//blp/mktdata/buid/CGDO/EI09CGDO50MA|
 10-YR YIELD INDEX|TNX Index|CBOE|1567663362256|EI09TNX|Equity Index|Index|BBG000KF6WX0||30722||||39650|//blp/mktdata/bsym/CBOE/TNX Index|//blp/mktdata/buid/CBOE/EI09TNX|//blp/mktdata/bsid/1567663362256
@@ -1635,12 +1635,12 @@ BI NA Comput & Consum Cp|BISMCCNC Index|||EI09BISMCCNC|Equity Index|Index|BBG002
 BI NA Construction Comp|BIUSCNTC Index|||EI09BIUSCNTC|Equity Index|Index|BBG00179TKN9||46707|||||||
 BI NA Construction Prin|BIUSCNTV Index|||EI09BIUSCNTV|Equity Index|Index|BBG00179TKW9||46707|||||||
 BI NA ConstructionMfg PB|BIUSCNTM Index|||EI09BIUSCNTM|Equity Index|Index|BBG0018BWT41||46707|||||||
-BI NA Couriers&Delivery|BIXPRSNT Index|||EI09BIXPRSNT|Equity Index|Index|BBG002B1V3J9||46707|||||||
 BI NA Crude Oil Prod|BINGASOL Index|||EI09BINGASOL|Equity Index|Index|BBG001LWKVK0||46707|||||||
 BI NA EMS/ODM Comp|BINEMSOC Index|||EI09BINEMSOC|Equity Index|Index|BBG001S3F897||46707|||||||
 BI NA Elect Equip Comp|BIELEQGT Index|||EI09BIELEQGT|Equity Index|Index|BBG0025X3DV1||46707|||||||
 BI NA Electr & Gas T&D P|BINETSNP Index|||EI09BINETSNP|Equity Index|Index|BBG0024TXLZ6||46707|||||||
 BI NA Exhbit Entnmnt Prn|BREXHIBV Index|||EI09BREXHIBV|Equity Index|Index|BBG00128R329||46707|||||||
+BI NA Exp & Courier Serv|BIXPRSNT Index|||EI09BIXPRSNT|Equity Index|Index|BBG002B1V3J9||46707|||||||
 BI NA Express&Cour Sv Cp|BIXPRSNC Index|||EI09BIXPRSNC|Equity Index|Index|BBG0027KR6S0||46707|||||||
 BI NA Fam. Cloth Strs C|BINFMCSC Index|||EI09BINFMCSC|Equity Index|Index|BBG0022912V3||46707|||||||
 BI NA Food Retailers Cmp|BINFDRTC Index|||EI09BINFDRTC|Equity Index|Index|BBG002405HV3||46707|||||||
@@ -1939,6 +1939,7 @@ BNP Global Water TR$|BNPIWATR Index|GS|1675042771767|EI09BNPIWATR|Equity Index|I
 BNP N-11 CORE-8 PREUR|BNPINEPR Index|GS|1675041997110|EI09BNPINEPR|Equity Index|Index|BBG000TC6647||14194||||39584|//blp/mktdata/bsym/GS/BNPINEPR Index|//blp/mktdata/buid/GS/EI09BNPINEPR|//blp/mktdata/bsid/1675041997110
 BNP N-11 CORE-8 TR$|BNPINETR Index|GS|1675042771667|EI09BNPINETR|Equity Index|Index|BBG000TQXSB0||14194||||39584|//blp/mktdata/bsym/GS/BNPINETR Index|//blp/mktdata/buid/GS/EI09BNPINETR|//blp/mktdata/bsid/1675042771667
 BNP NUCLEAR TR$|BNPIGNTR Index|GS|1675043460505|EI09BNPIGNTR|Equity Index|Index|BBG000VGK836||14194||||39584|//blp/mktdata/bsym/GS/BNPIGNTR Index|//blp/mktdata/buid/GS/EI09BNPIGNTR|//blp/mktdata/bsid/1675043460505
+BNP New Tech Indx USD|BNPINTTR Index|GS|1675061666197|EI09BNPINTTR|Equity Index|Index|BBG0025BYFB2||14194||||39584|//blp/mktdata/bsym/GS/BNPINTTR Index|//blp/mktdata/buid/GS/EI09BNPINTTR|//blp/mktdata/bsid/1675061666197
 BNP RENEW ENERGY PREUR|BNPIREPR Index|GS|1675042155041|EI09BNPIREPR|Equity Index|Index|BBG000WTDJB2||14194||||39584|//blp/mktdata/bsym/GS/BNPIREPR Index|//blp/mktdata/buid/GS/EI09BNPIREPR|//blp/mktdata/bsid/1675042155041
 BNP RENEW ENERGY TR$|BNPIRETR Index|GS|1675042771791|EI09BNPIRETR|Equity Index|Index|BBG000TQXTB8||14194||||39584|//blp/mktdata/bsym/GS/BNPIRETR Index|//blp/mktdata/buid/GS/EI09BNPIRETR|//blp/mktdata/bsid/1675042771791
 BNP WASTE MGT TR$|BNPIGWTR Index|GS|1675042771548|EI09BNPIGWTR|Equity Index|Index|BBG000TQXPZ0||14194||||39584|//blp/mktdata/bsym/GS/BNPIGWTR Index|//blp/mktdata/buid/GS/EI09BNPIGWTR|//blp/mktdata/bsid/1675042771548
@@ -3283,7 +3284,6 @@ DB EURO AIRLINE|DBCGAIRL Index|DBAB|4681527964144|EI09DBCGAIRL|Equity Index|Inde
 DB EURUSD Negative Them|DBCGEUNP Index|DBAB|4681535878260|EI09DBCGEUNP|Equity Index|Index|BBG001P2GHR1|||||14835||//blp/mktdata/bsym/DBAB/DBCGEUNP Index|//blp/mktdata/buid/DBAB/EI09DBCGEUNP|//blp/mktdata/bsid/4681535878260
 DB EURUSD Positive Them|DBCGEUPP Index|DBAB|4681535885566|EI09DBCGEUPP|Equity Index|Index|BBG001P2S8Y0|||||14835||//blp/mktdata/bsym/DBAB/DBCGEUPP Index|//blp/mktdata/buid/DBAB/EI09DBCGEUPP|//blp/mktdata/bsid/4681535885566
 DB Emerg Mrkts Consumptn|DBCTCOEM Index|DBAB|4681531475623|EI09DBCTCOEM|Equity Index|Index|BBG0011T9P52|||||14835||//blp/mktdata/bsym/DBAB/DBCTCOEM Index|//blp/mktdata/buid/DBAB/EI09DBCTCOEM|//blp/mktdata/bsid/4681531475623
-DB Euro Deleveraging Imp|DBCTEDIP Index|DBAB|4681539656546|EI09DBCTEDIP|Equity Index|Index|BBG0029KYWY6|||||14835||//blp/mktdata/bsym/DBAB/DBCTEDIP Index|//blp/mktdata/buid/DBAB/EI09DBCTEDIP|//blp/mktdata/bsid/4681539656546
 DB Euro Weakness Them Id|DBCGEUWP Index|DBAB|4681539576880|EI09DBCGEUWP|Equity Index|Index|BBG002978DG6|||||14835||//blp/mktdata/bsym/DBAB/DBCGEUWP Index|//blp/mktdata/buid/DBAB/EI09DBCGEUWP|//blp/mktdata/bsid/4681539576880
 DB Europe Liquid Risk-On|DBCGELRO Index|DBAB|4681538577759|EI09DBCGELRO|Equity Index|Index|BBG0024KV4C0|||||14835||//blp/mktdata/bsym/DBAB/DBCGELRO Index|//blp/mktdata/buid/DBAB/EI09DBCGELRO|//blp/mktdata/bsid/4681538577759
 DB Europe Software Targe|DBCTESWT Index|DBAB|4681537779416|EI09DBCTESWT|Equity Index|Index|BBG0020809P0|||||14835||//blp/mktdata/bsym/DBAB/DBCTESWT Index|//blp/mktdata/buid/DBAB/EI09DBCTESWT|//blp/mktdata/bsid/4681537779416
@@ -6226,6 +6226,7 @@ Jasdaq Standard Index|JASDAQST Index|JSDQ|5965728175378|EI09JASDAQST|Equity Inde
 Jasdaq-Top20 Index|JASDAQ20 Index|JSDQ|5965727406839|EI09JASDAQ20|Equity Index|Index|BBG0014GG6W1||14021|14021|||39502|//blp/mktdata/bsym/JSDQ/JASDAQ20 Index|//blp/mktdata/buid/JSDQ/EI09JASDAQ20|//blp/mktdata/bsid/5965727406839
 KARACHI 100 INDEX|KSE100 Index|PK|1434519481456|EI09KSE100|Equity Index|Index|BBG000VJVVX4||27273||||39607|//blp/mktdata/bsym/PK/KSE100 Index|//blp/mktdata/buid/PK/EI09KSE100|//blp/mktdata/bsid/1434519481456
 KARACHI 30 INDEX|KSE30 Index|PK|1434523622739|EI09KSE30|Equity Index|Index|BBG000VYH0T0||27273||||39607|//blp/mktdata/bsym/PK/KSE30 Index|//blp/mktdata/buid/PK/EI09KSE30|//blp/mktdata/bsid/1434523622739
+KARACHI ALL SHARE INDEX|KSE Index|PK|1434519463099|EI09KSE|Equity Index|Index|BBG000V3W6P2||27273||||39607|//blp/mktdata/bsym/PK/KSE Index|//blp/mktdata/buid/PK/EI09KSE|//blp/mktdata/bsid/1434519463099
 KBW BANK INDEX|BKX Index|DJI|622770579436|EI09BKX|Equity Index|Index|BBG000MYR7P8||14224|||||//blp/mktdata/bsym/DJI/BKX Index|//blp/mktdata/buid/DJI/EI09BKX|//blp/mktdata/bsid/622770579436
 KBW BANKS QTR INDEX|BKXQ Index|DJI|622770579436|EI09BKXQ|Equity Index|Index|BBG000WCF206||14224|||||//blp/mktdata/bsym/DJI/BKXQ Index|//blp/mktdata/buid/DJI/EI09BKXQ|//blp/mktdata/bsid/622770579436
 KBW CAPITAL MARKETS INDX|KSX Index|DJI|622770642106|EI09KSX|Equity Index|Index|BBG000V13N35||14224|||||//blp/mktdata/bsym/DJI/KSX Index|//blp/mktdata/buid/DJI/EI09KSX|//blp/mktdata/bsid/622770642106
@@ -6316,6 +6317,7 @@ KRX SEMICON INDEX|KRXSEMI Index|KS|373662565096|EI09KRXSEMI|Equity Index|Index|B
 KRX SHIPBUILDING INDEX|KRXSHIP Index|KS|373668449381|EI09KRXSHIP|Equity Index|Index|BBG000VJNCW6||14108|14108|||39542|//blp/mktdata/bsym/KS/KRXSHIP Index|//blp/mktdata/buid/KS/EI09KRXSHIP|//blp/mktdata/bsid/373668449381
 KRX STEEL INDEX|KRXSTEEL Index|KS|373664857370|EI09KRXSTEEL|Equity Index|Index|BBG000WLVHM1||14108|14108|||39542|//blp/mktdata/bsym/KS/KRXSTEEL Index|//blp/mktdata/buid/KS/EI09KRXSTEEL|//blp/mktdata/bsid/373664857370
 KRX Transport Sec Idx|KRXTRN Index|KS|373676714657|EI09KRXTRN|Equity Index|Index|BBG000Z32323||14108|14108|||39542|//blp/mktdata/bsym/KS/KRXTRN Index|//blp/mktdata/buid/KS/EI09KRXTRN|//blp/mktdata/bsid/373676714657
+KSE Meezan Index|KMI30 Index|PK|1434529540089|EI09KMI30|Equity Index|Index|BBG000MXQQ60||27273||||39607|//blp/mktdata/bsym/PK/KMI30 Index|//blp/mktdata/buid/PK/EI09KMI30|//blp/mktdata/bsid/1434529540089
 KUWAIT BANK UNWEIGHTED|SECUBANK Index|KK|1069447285797|EI09SECUBANK|Equity Index|Index|BBG000VX3CV8||29319|29319|||39635|//blp/mktdata/bsym/KK/SECUBANK Index|//blp/mktdata/buid/KK/EI09SECUBANK|//blp/mktdata/bsid/1069447285797
 KUWAIT BANKING WEIGHTED|SECTBANK Index|KK|1069447285787|EI09SECTBANK|Equity Index|Index|BBG000VX38C8||29319|29319|||39635|//blp/mktdata/bsym/KK/SECTBANK Index|//blp/mktdata/buid/KK/EI09SECTBANK|//blp/mktdata/bsid/1069447285787
 KUWAIT FOOD UNWEIGHTED|SECUFOOD Index|KK|1069447285803|EI09SECUFOOD|Equity Index|Index|BBG000VX3HB9||29319|29319|||39635|//blp/mktdata/bsym/KK/SECUFOOD Index|//blp/mktdata/buid/KK/EI09SECUFOOD|//blp/mktdata/bsid/1069447285803
@@ -11989,6 +11991,7 @@ OMX STOCKHOLM MID CAP PR|OMXSMCPI Index|SS|450974568323|EI09OMXSMCPI|Equity Inde
 OMX STOCKHOLM SMLCAP PR|OMXSSCPI Index|SS|450974568325|EI09OMXSSCPI|Equity Index|Index|BBG000VZ8Z74||29835|29836||44463|39641|//blp/mktdata/bsym/SS/OMXSSCPI Index|//blp/mktdata/buid/SS/EI09OMXSSCPI|//blp/mktdata/bsid/450974568325
 OMX Stockholm 30 Next PI|OMXS30NX Index|SS|450982591885|EI09OMXS30NX|Equity Index|Index|BBG0016PMJ45||29835|29836|||39641|//blp/mktdata/bsym/SS/OMXS30NX Index|//blp/mktdata/buid/SS/EI09OMXS30NX|//blp/mktdata/bsid/450982591885
 OMX Stockholm All-Share|SAX Index|SS|450974567735|EI09SAX|Equity Index|Index|BBG000S21QH7||43329|||44463||//blp/mktdata/bsym/SS/SAX Index|//blp/mktdata/buid/SS/EI09SAX|//blp/mktdata/bsid/450974567735
+OMX Stockholm Bmrk CapGI|SBXCAP Index|SS|450974567776|EI09SBXCAP|Equity Index|Index|BBG000SC8370||29835|29836||44463|39641|//blp/mktdata/bsym/SS/SBXCAP Index|//blp/mktdata/buid/SS/EI09SBXCAP|//blp/mktdata/bsid/450974567776
 OMX TALLINN OMXT|TALSE Index|ET|120259380942|EI09TALSE|Equity Index|Index|BBG000JLXZM4||14156|||44463||//blp/mktdata/bsym/ET/TALSE Index|//blp/mktdata/buid/ET/EI09TALSE|//blp/mktdata/bsid/120259380942
 OMX VILNIUS OMXV|VILSE Index|ET|120259482083|EI09VILSE|Equity Index|Index|BBG000VD6FV2||14156|||44463||//blp/mktdata/bsym/ET/VILSE Index|//blp/mktdata/buid/ET/EI09VILSE|//blp/mktdata/bsid/120259482083
 OMXCAPPI CAPPED INDEX|KAXCAP Index|DC|455269535288|EI09KAXCAP|Equity Index|Index|BBG000T9J150||29835|29836||44463|39641|//blp/mktdata/bsym/DC/KAXCAP Index|//blp/mktdata/buid/DC/EI09KAXCAP|//blp/mktdata/bsid/455269535288
@@ -16695,7 +16698,6 @@ SSE COMPONENT STOCK IX|SICOM Index|CS|966367949274|EI09SICOM|Equity Index|Index|
 SSE Corp. Governance Ind|SSECORP Index|CG|584119988988|EI09SSECORP|Equity Index|Index|BBG000T0GZP5||39323||||39752|//blp/mktdata/bsym/CG/SSECORP Index|//blp/mktdata/buid/CG/EI09SSECORP|//blp/mktdata/bsid/584119988988
 SSE DIVIDEND INDEX|SSEDIV Index|CG|584115937637|EI09SSEDIV|Equity Index|Index|BBG000V39P49||39323|||41210|39752|//blp/mktdata/bsym/CG/SSEDIV Index|//blp/mktdata/buid/CG/EI09SSEDIV|//blp/mktdata/bsid/584115937637
 STOCK EXCH OF THAI INDEX|SET Index|TB|1653562706678|EI09SET|Equity Index|Index|BBG000K1BST9||14054|37703|||39512|//blp/mktdata/bsym/TB/SET Index|//blp/mktdata/buid/TB/EI09SET|//blp/mktdata/bsid/1653562706678
-STOCKHOLM BENCHMARK CAP|SBXCAP Index|SS|450974567776|EI09SBXCAP|Equity Index|Index|BBG000SC8370||29835|29836||44463|39641|//blp/mktdata/bsym/SS/SBXCAP Index|//blp/mktdata/buid/SS/EI09SBXCAP|//blp/mktdata/bsid/450974567776
 STOXX W OPTIONS W1|WSX5EA Index|DJSX|55834909710|EI09WSX5EA|Equity Index|Index|BBG000RLTBX1||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EA Index|//blp/mktdata/buid/DJSX/EI09WSX5EA|//blp/mktdata/bsid/55834909710
 STOXX W OPTIONS W2|WSX5EB Index|DJSX|55834909710|EI09WSX5EB|Equity Index|Index|BBG000HQ51L2||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5EB Index|//blp/mktdata/buid/DJSX/EI09WSX5EB|//blp/mktdata/bsid/55834909710
 STOXX W OPTIONS W4|WSX5ED Index|DJSX|55834909710|EI09WSX5ED|Equity Index|Index|BBG000SNQTT5||14141||||39562|//blp/mktdata/bsym/DJSX/WSX5ED Index|//blp/mktdata/buid/DJSX/EI09WSX5ED|//blp/mktdata/bsid/55834909710
